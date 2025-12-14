@@ -1,5 +1,7 @@
 from pathlib import Path
-from prompt_toolkit.completion import Completer, Completion
+
+from prompt_toolkit import prompt
+from prompt_toolkit.completion import Completer, Completion, FuzzyCompleter
 
 LYRICS_PATH = Path("data/lyrics")
 
@@ -36,3 +38,15 @@ class AlbumCompleter(Completer):
                     album.name,
                     start_position=-len(document.text)
                 )
+
+
+def prompt_artist_album():
+    artist = prompt(
+        "Artist: ",
+        completer=FuzzyCompleter(ArtistCompleter())
+    )
+    album = prompt(
+        "Album: ",
+        completer=FuzzyCompleter(AlbumCompleter(artist))
+    )
+    return artist, album
