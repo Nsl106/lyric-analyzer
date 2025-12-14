@@ -27,6 +27,8 @@ def plot_top_words(words, metadata, top_n=50):
     counts = Counter(words)
     most_common = counts.most_common(top_n)
 
+    print(counts.get("whiskey"))
+
     labels, values = zip(*most_common)
 
     plt.figure(figsize=(12, 6))
