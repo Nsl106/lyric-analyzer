@@ -19,8 +19,13 @@ def clean_text(text: str) -> list[str]:
 
     stops = set(stopwords.words("english"))
     tagged = nltk.pos_tag([w for w in words if w not in stops])
-    return [word for word, tag in tagged if tag.startswith('NN')]
-    # return [word for word, tag in tagged if tag not in ['PRP', 'PRP$']]
+    # tagged = nltk.pos_tag([w for w in words if w not in []])
+
+    boring_filter = ['im']
+
+    # return [word for word, tag in tagged if tag.startswith('NN') and word not in boring_filter]
+    # return [word for word, tag in tagged if tag not in ['PRP', 'PRP$'] and word not in boring_filter]
+    return [word for word, tag in tagged if word not in boring_filter]
 
 
 def plot_top_words(words, metadata, top_n=50):
