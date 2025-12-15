@@ -28,7 +28,7 @@ def clean_text(text: str) -> list[str]:
     return [word for word, tag in tagged if word not in boring_filter]
 
 
-def plot_top_words(words, metadata, top_n=50):
+def plot_top_words(words, metadata, top_n=30):
     counts = Counter(words)
     most_common = counts.most_common(top_n)
 

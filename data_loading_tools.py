@@ -20,8 +20,23 @@ def load_album(artist: str, album: str) -> tuple[list[str], dict]:
         file_path = base_path / track["filename"]
         text.append(file_path.read_text(encoding="utf-8"))
 
-
     return text, metadata
+
+def load_song(artist: str, song: str) -> list[str]:
+    artist = artist.replace(" ", "_")
+    song = song.replace(" ", "_")
+
+    base_path = Path("data/lyrics") / artist / "_singles"
+
+    if not base_path.exists():
+        raise FileNotFoundError(f"No singles found for artist {artist}")
+
+    text = []
+
+    file_path = base_path / song
+    text.append(file_path.read_text(encoding="utf-8"))
+
+    return text
 
 def load_metadata(artist: str, album: str) -> dict:
     artist = artist.replace(" ", "_")
@@ -36,3 +51,28 @@ def load_metadata(artist: str, album: str) -> dict:
 
     with open(metadata_path, "r", encoding="utf-8") as f:
         return json.load(f)
+
+def load_billboard_year_end(chart: str) -> dict[int, list[dict]]:
+    base_path = Path("data/billboard") / chart
+
+    if not base_path.exists():
+        raise FileNotFoundError("Chart not found")
+
+    data: dict[int, list[dict]] = {}
+
+    for file_path in sorted(base_path.glob("*.json")):
+        if not file_path.stem.isdigit():
+            continue
+
+        year = int(file_path.stem)
+
+        with open(file_path, "r", encoding="utf-8") as f:
+            entries = json.load(f)
+
+        data[year] = entries
+
+    if not data:
+        raise RuntimeError(f"No years found in {base_path}")
+
+    return data
+

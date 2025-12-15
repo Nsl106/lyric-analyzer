@@ -69,7 +69,34 @@ def fetch_album(search_artist_name: str, search_album_name: str):
     print(f"\nLyrics cached at: {base_path}")
 
 
-if __name__ == "__main__":
-    artist = input("Artist name: ")
-    album = input("Album name: ")
-    fetch_album(artist, album)
+def fetch_song(search_artist_name: str, search_song_title: str):
+    genius = lyricsgenius.Genius(
+        GENIUS_TOKEN,
+        skip_non_songs=True,
+        excluded_terms=["(Remix)", "(Live)"],
+        remove_section_headers=False,
+        timeout=15,
+        retries=2,
+    )
+
+    song = genius.search_song(search_song_title, search_artist_name, )
+    if song is None or not song.lyrics:
+        raise ValueError("Song not found or has no lyrics")
+
+    actual_artist_name = song.artist
+    actual_song_title = song.title
+
+    artist_dir = sanitize(actual_artist_name)
+    song_dir = sanitize(actual_song_title)
+
+    base_path = Path("data/lyrics") / artist_dir / "_singles"
+    base_path.mkdir(parents=True, exist_ok=True)
+
+    lyrics_filename = f"{song_dir}.txt"
+    lyrics_path = base_path / lyrics_filename
+
+    if lyrics_path.exists():
+        print(f"Skipping existing: {lyrics_filename}")
+    else:
+        lyrics_path.write_text(song.lyrics, encoding="utf-8")
+        # print(f"Saved: {lyrics_filename}")
