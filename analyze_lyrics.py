@@ -7,7 +7,7 @@ import numpy as np
 from nltk.corpus import stopwords
 
 from cli_utils import prompt_artist_album
-from data_loading_tools import load_album, load_billboard_year_end, load_song
+from data_loading_tools import load_album, load_billboard_year_end, load_song, load_billboard_song
 from genius_lyrics import sanitize_filename
 
 nltk.download("stopwords", quiet=True)
@@ -99,10 +99,8 @@ def count_word_frequency(billboard_songs: dict[int, list[dict]], keywords: list[
         song_count = 0
 
         for i, song in enumerate(songs):
-            title = sanitize_filename(song["title"])
-            artist = sanitize_filename(song["artist"])
             try:
-                lyrics = load_song(artist, title)
+                lyrics = load_billboard_song(song["lyrics_path"])
                 words = clean_text(lyrics)
 
                 for ki, keyword in enumerate(keywords):

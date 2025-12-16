@@ -89,7 +89,7 @@ def fetch_song(search_artist_name: str, search_song_title: str):
     artist_dir = sanitize_filename(actual_artist_name)
     song_dir = sanitize_filename(actual_song_title)
 
-    base_path = Path("data2/lyrics") / artist_dir / "_singles"
+    base_path = Path("data/lyrics") / artist_dir / "_singles"
     base_path.mkdir(parents=True, exist_ok=True)
 
     lyrics_filename = f"{song_dir}.txt"

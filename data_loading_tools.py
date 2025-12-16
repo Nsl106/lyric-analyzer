@@ -1,6 +1,5 @@
 import json
 from pathlib import Path
-from typing import Any
 
 
 def load_album(artist: str, album: str) -> tuple[list[str], dict]:
@@ -31,6 +30,14 @@ def load_song(artist: str, song: str) -> str:
     file_path = base_path / (song + ".txt")
     return file_path.read_text(encoding="utf-8")
 
+def load_billboard_song(path: str) -> str:
+    file_path = Path("data/lyrics") / path
+
+    if not file_path.exists():
+        raise FileNotFoundError(f"Song not found at {path}")
+
+    return file_path.read_text(encoding="utf-8")
+
 def load_metadata(artist: str, album: str) -> dict:
     artist = artist.replace(" ", "_")
     album = album.replace(" ", "_")
@@ -46,7 +53,7 @@ def load_metadata(artist: str, album: str) -> dict:
         return json.load(f)
 
 def load_billboard_year_end(chart: str) -> dict[int, list[dict]]:
-    base_path = Path("data/billboard") / chart
+    base_path = Path("data/billboard") / chart / "fetched"
 
     if not base_path.exists():
         raise FileNotFoundError("Chart not found")
@@ -59,10 +66,19 @@ def load_billboard_year_end(chart: str) -> dict[int, list[dict]]:
 
         year = int(file_path.stem)
 
-        with open(file_path, "r", encoding="utf-8") as f:
-            entries = json.load(f)
+        year_data = load_billboard_year_metadata(year, chart)
 
-        data[year] = entries
+        if year_data is None:
+            continue
+
+        songs = year_data.get("songs", [])
+        if not songs:
+            continue
+
+        valid_songs = [s for s in songs if not s.get("missing", True)]
+
+        if valid_songs:
+            data[year] = valid_songs
 
     if not data:
         raise RuntimeError(f"No years found in {base_path}")
