@@ -2,34 +2,11 @@ import re
 from collections import Counter
 
 import matplotlib.pyplot as plt
-import nltk
 import numpy as np
-from nltk.corpus import stopwords
 
+from analysis_tools import clean_text
 from cli_utils import prompt_artist_album
 from data_loading_tools import load_album, load_billboard_year_end, load_song, load_billboard_song
-from genius_lyrics import sanitize_filename
-
-nltk.download("stopwords", quiet=True)
-nltk.download("averaged_perceptron_tagger_eng", quiet=True)
-
-
-# Removes stopwords and [verse] things
-def clean_text(text: str) -> list[str]:
-    text = re.sub(r"\[.*?\]", "", text)
-    text = re.sub(r"[^a-zA-Z\s]", "", text)
-    words = text.lower().split()
-
-    stops = set(stopwords.words("english"))
-    tagged = nltk.pos_tag([w for w in words if w not in stops])
-    # tagged = nltk.pos_tag([w for w in words if w not in []])
-
-    boring_filter = ['im']
-
-    # return [word for word, tag in tagged if tag.startswith('NN') and word not in boring_filter]
-    # return [word for word, tag in tagged if tag not in ['PRP', 'PRP$'] and word not in boring_filter]
-    return [word for word, tag in tagged if word not in boring_filter]
-
 
 def plot_top_album_words(words, metadata, top_n=30):
     counts = Counter(words)
@@ -62,7 +39,8 @@ def main():
 def main2():
     billboard_songs = load_billboard_year_end("year-end-country")
 
-    keywords = ["love", "girl"]
+    # keywords = ["alabama", "tennessee", "texas", "oklahoma", "georgia", "kentucky", "mississippi", "carolina"]
+    keywords = ["whiskey"]
     data = count_word_frequency(billboard_songs, keywords)
 
     plt.figure(figsize=(12, 6))
