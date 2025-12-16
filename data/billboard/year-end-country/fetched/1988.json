@@ -1,0 +1,829 @@
+{
+  "year": 1988,
+  "chart": "year-end-country",
+  "total_songs": 95,
+  "fetched": 78,
+  "songs": [
+    {
+      "rank": 1,
+      "searched_artist": "Keith Whitley",
+      "searched_title": "Don't Close Your Eyes",
+      "missing": false,
+      "actual_artist": "Keith Whitley",
+      "actual_title": "Don\u2019t Close Your Eyes",
+      "lyrics_path": "keith-whitley\\_singles\\dont-close-your-eyes.txt"
+    },
+    {
+      "rank": 2,
+      "searched_artist": "Rosanne Cash",
+      "searched_title": "If You Change Your Mind",
+      "missing": false,
+      "actual_artist": "Rosanne Cash",
+      "actual_title": "If You Change Your Mind",
+      "lyrics_path": "rosanne-cash\\_singles\\if-you-change-your-mind.txt"
+    },
+    {
+      "rank": 3,
+      "searched_artist": "Vern Gosdin",
+      "searched_title": "Set 'Em Up Joe",
+      "missing": false,
+      "actual_artist": "Vern Gosdin",
+      "actual_title": "Set \u2019Em Up Joe",
+      "lyrics_path": "vern-gosdin\\_singles\\set-em-up-joe.txt"
+    },
+    {
+      "rank": 4,
+      "searched_artist": "Tanya Tucker",
+      "searched_title": "Strong Enough To Bend",
+      "missing": false,
+      "actual_artist": "Tanya Tucker",
+      "actual_title": "Strong Enough to Bend",
+      "lyrics_path": "tanya-tucker\\_singles\\strong-enough-to-bend.txt"
+    },
+    {
+      "rank": 5,
+      "searched_artist": "Restless Heart",
+      "searched_title": "Bluest Eyes In Texas",
+      "missing": false,
+      "actual_artist": "Restless Heart",
+      "actual_title": "The Bluest Eyes in Texas",
+      "lyrics_path": "restless-heart\\_singles\\the-bluest-eyes-in-texas.txt"
+    },
+    {
+      "rank": 7,
+      "searched_artist": "Rodney Crowell",
+      "searched_title": "I Couldn't Leave You If I Tried",
+      "missing": false,
+      "actual_artist": "Rodney Crowell",
+      "actual_title": "I Couldn\u2019t Leave You If I Tried",
+      "lyrics_path": "rodney-crowell\\_singles\\i-couldnt-leave-you-if-i-tried.txt"
+    },
+    {
+      "rank": 8,
+      "searched_artist": "Tanya Tucker",
+      "searched_title": "If It Don't Come Easy",
+      "missing": false,
+      "actual_artist": "Tanya Tucker",
+      "actual_title": "If It Don\u2019t Come Easy",
+      "lyrics_path": "tanya-tucker\\_singles\\if-it-dont-come-easy.txt"
+    },
+    {
+      "rank": 9,
+      "searched_artist": "Eddy Raven",
+      "searched_title": "I'm Gonna Get You",
+      "missing": false,
+      "actual_artist": "Eddy Raven",
+      "actual_title": "I\u2019m Gonna Get You",
+      "lyrics_path": "eddy-raven\\_singles\\im-gonna-get-you.txt"
+    },
+    {
+      "rank": 10,
+      "searched_artist": "Eddy Raven",
+      "searched_title": "Joe Knows How To Live",
+      "missing": false,
+      "actual_artist": "Eddy Raven",
+      "actual_title": "Joe Know\u2019s How To Live",
+      "lyrics_path": "eddy-raven\\_singles\\joe-knows-how-to-live.txt"
+    },
+    {
+      "rank": 11,
+      "searched_artist": "Dan Seals",
+      "searched_title": "Addicted",
+      "missing": false,
+      "actual_artist": "Dan Seals",
+      "actual_title": "Addicted",
+      "lyrics_path": "dan-seals\\_singles\\addicted.txt"
+    },
+    {
+      "rank": 12,
+      "searched_artist": "T. Graham Brown",
+      "searched_title": "Darlene",
+      "missing": false,
+      "actual_artist": "T. Graham Brown",
+      "actual_title": "Darlene",
+      "lyrics_path": "t-graham-brown\\_singles\\darlene.txt"
+    },
+    {
+      "rank": 13,
+      "searched_artist": "Earl Thomas Conley With Emmylou Harris",
+      "searched_title": "We Believe In Happy Endings",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 14,
+      "searched_artist": "Eddie Rabbitt",
+      "searched_title": "I Wanna Dance With You",
+      "missing": false,
+      "actual_artist": "Eddie Rabbitt",
+      "actual_title": "I Wanna Dance with You",
+      "lyrics_path": "eddie-rabbitt\\_singles\\i-wanna-dance-with-you.txt"
+    },
+    {
+      "rank": 15,
+      "searched_artist": "Randy Travis",
+      "searched_title": "Too Gone Too Long",
+      "missing": false,
+      "actual_artist": "Randy Travis",
+      "actual_title": "Too Gone Too Long",
+      "lyrics_path": "randy-travis\\_singles\\too-gone-too-long.txt"
+    },
+    {
+      "rank": 16,
+      "searched_artist": "Steve Wariner",
+      "searched_title": "I Should Be With You",
+      "missing": false,
+      "actual_artist": "Steve Wariner",
+      "actual_title": "I Should Be With You",
+      "lyrics_path": "steve-wariner\\_singles\\i-should-be-with-you.txt"
+    },
+    {
+      "rank": 17,
+      "searched_artist": "Patty Loveless",
+      "searched_title": "A Little Bit In Love",
+      "missing": false,
+      "actual_artist": "Patty Loveless",
+      "actual_title": "A Little Bit In Love",
+      "lyrics_path": "patty-loveless\\_singles\\a-little-bit-in-love.txt"
+    },
+    {
+      "rank": 18,
+      "searched_artist": "K.T. Oslin",
+      "searched_title": "I'll Always Come Back",
+      "missing": false,
+      "actual_artist": "K.T. Oslin",
+      "actual_title": "I\u2019ll Always Come Back",
+      "lyrics_path": "kt-oslin\\_singles\\ill-always-come-back.txt"
+    },
+    {
+      "rank": 19,
+      "searched_artist": "Kathy Mattea",
+      "searched_title": "Eighteen Wheels And A Dozen Roses",
+      "missing": false,
+      "actual_artist": "Kathy Mattea",
+      "actual_title": "Eighteen Wheels and a Dozen Roses",
+      "lyrics_path": "kathy-mattea\\_singles\\eighteen-wheels-and-a-dozen-roses.txt"
+    },
+    {
+      "rank": 20,
+      "searched_artist": "Dwight Yoakam & Buck Owens",
+      "searched_title": "Streets Of Bakersfield",
+      "missing": false,
+      "actual_artist": "Dwight Yoakam",
+      "actual_title": "Streets of Bakersfield",
+      "lyrics_path": "dwight-yoakam\\_singles\\streets-of-bakersfield.txt"
+    },
+    {
+      "rank": 21,
+      "searched_artist": "Alabama",
+      "searched_title": "Face To Face",
+      "missing": false,
+      "actual_artist": "Alabama",
+      "actual_title": "Face to Face",
+      "lyrics_path": "alabama\\_singles\\face-to-face.txt"
+    },
+    {
+      "rank": 22,
+      "searched_artist": "The Desert Rose Band",
+      "searched_title": "He's Back And I'm Blue",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 23,
+      "searched_artist": "The Oak Ridge Boys",
+      "searched_title": "Gonna Take A Lot Of River",
+      "missing": false,
+      "actual_artist": "The Oak Ridge Boys",
+      "actual_title": "Gonna Take a Lot of River (Mississippi, Monongahela, Ohio)",
+      "lyrics_path": "the-oak-ridge-boys\\_singles\\gonna-take-a-lot-of-river-mississippi-monongahela-ohio.txt"
+    },
+    {
+      "rank": 25,
+      "searched_artist": "Eddie Rabbitt",
+      "searched_title": "The Wanderer",
+      "missing": false,
+      "actual_artist": "Eddie Rabbitt",
+      "actual_title": "The Wanderer",
+      "lyrics_path": "eddie-rabbitt\\_singles\\the-wanderer.txt"
+    },
+    {
+      "rank": 26,
+      "searched_artist": "Highway 101",
+      "searched_title": "(Do You Love Me) Just Say Yes",
+      "missing": false,
+      "actual_artist": "Highway 101",
+      "actual_title": "(Do You Love Me) Just Say Yes",
+      "lyrics_path": "highway-101\\_singles\\do-you-love-me-just-say-yes.txt"
+    },
+    {
+      "rank": 27,
+      "searched_artist": "Earl Thomas Conley",
+      "searched_title": "What She Is (Is A Woman In Love)",
+      "missing": false,
+      "actual_artist": "Earl Thomas Conley",
+      "actual_title": "What She Is (Is A Woman In Love)",
+      "lyrics_path": "earl-thomas-conley\\_singles\\what-she-is-is-a-woman-in-love.txt"
+    },
+    {
+      "rank": 28,
+      "searched_artist": "Alabama",
+      "searched_title": "Fallin' Again",
+      "missing": false,
+      "actual_artist": "Alabama",
+      "actual_title": "Fallin\u2019 Again",
+      "lyrics_path": "alabama\\_singles\\fallin-again.txt"
+    },
+    {
+      "rank": 29,
+      "searched_artist": "Tanya Tucker With Paul Davis & Paul Overstreet",
+      "searched_title": "I Won't Take Less Than Your Love",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 30,
+      "searched_artist": "Charley Pride",
+      "searched_title": "Shouldn't It Be Easier Than This",
+      "missing": false,
+      "actual_artist": "Charley Pride",
+      "actual_title": "Shouldn\u2019t It Be Easier Than This",
+      "lyrics_path": "charley-pride\\_singles\\shouldnt-it-be-easier-than-this.txt"
+    },
+    {
+      "rank": 31,
+      "searched_artist": "Highway 101",
+      "searched_title": "Cry, Cry, Cry",
+      "missing": false,
+      "actual_artist": "Highway 101",
+      "actual_title": "Cry Cry Cry",
+      "lyrics_path": "highway-101\\_singles\\cry-cry-cry.txt"
+    },
+    {
+      "rank": 32,
+      "searched_artist": "George Strait",
+      "searched_title": "Baby Blue",
+      "missing": false,
+      "actual_artist": "George Strait",
+      "actual_title": "Baby Blue",
+      "lyrics_path": "george-strait\\_singles\\baby-blue.txt"
+    },
+    {
+      "rank": 33,
+      "searched_artist": "Hank Williams Jr.",
+      "searched_title": "Young Country",
+      "missing": false,
+      "actual_artist": "Hank Williams Jr.",
+      "actual_title": "Young Country",
+      "lyrics_path": "hank-williams-jr\\_singles\\young-country.txt"
+    },
+    {
+      "rank": 34,
+      "searched_artist": "Rosanne Cash",
+      "searched_title": "Runaway Train",
+      "missing": false,
+      "actual_artist": "Rosanne Cash",
+      "actual_title": "Runaway Train",
+      "lyrics_path": "rosanne-cash\\_singles\\runaway-train.txt"
+    },
+    {
+      "rank": 35,
+      "searched_artist": "Ricky Van Shelton",
+      "searched_title": "Life Turned Her That Way",
+      "missing": false,
+      "actual_artist": "Ricky Van Shelton",
+      "actual_title": "Life Turned Her That Way",
+      "lyrics_path": "ricky-van-shelton\\_singles\\life-turned-her-that-way.txt"
+    },
+    {
+      "rank": 36,
+      "searched_artist": "Sawyer Brown",
+      "searched_title": "This Missin' You Heart Of Mine",
+      "missing": false,
+      "actual_artist": "Sawyer Brown",
+      "actual_title": "This Missin\u2019 You Heart of Mine",
+      "lyrics_path": "sawyer-brown\\_singles\\this-missin-you-heart-of-mine.txt"
+    },
+    {
+      "rank": 37,
+      "searched_artist": "The Desert Rose Band",
+      "searched_title": "Summer Wind",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 38,
+      "searched_artist": "Randy Travis",
+      "searched_title": "I Told You So",
+      "missing": false,
+      "actual_artist": "Randy Travis",
+      "actual_title": "I Told You So",
+      "lyrics_path": "randy-travis\\_singles\\i-told-you-so.txt"
+    },
+    {
+      "rank": 40,
+      "searched_artist": "The Judds (Wynonna & Naomi)",
+      "searched_title": "Give A Little Love",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 41,
+      "searched_artist": "Michael Martin Murphey",
+      "searched_title": "I'm Gonna Miss You, Girl",
+      "missing": false,
+      "actual_artist": "Michael Martin Murphey",
+      "actual_title": "I\u2019m Gonna Miss You, Girl",
+      "lyrics_path": "michael-martin-murphey\\_singles\\im-gonna-miss-you-girl.txt"
+    },
+    {
+      "rank": 42,
+      "searched_artist": "Merle Haggard",
+      "searched_title": "Twinkle, Twinkle Lucky Star",
+      "missing": false,
+      "actual_artist": "Merle Haggard",
+      "actual_title": "Twinkle, Twinkle Lucky Star",
+      "lyrics_path": "merle-haggard\\_singles\\twinkle-twinkle-lucky-star.txt"
+    },
+    {
+      "rank": 43,
+      "searched_artist": "Ronnie Milsap & Mike Reid",
+      "searched_title": "Old Folks",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 44,
+      "searched_artist": "Steve Wariner",
+      "searched_title": "Baby I'm Yours",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 45,
+      "searched_artist": "Reba McEntire",
+      "searched_title": "Love Will Find Its Way To You",
+      "missing": false,
+      "actual_artist": "Reba McEntire",
+      "actual_title": "Love Will Find Its Way To You",
+      "lyrics_path": "reba-mcentire\\_singles\\love-will-find-its-way-to-you.txt"
+    },
+    {
+      "rank": 46,
+      "searched_artist": "George Strait",
+      "searched_title": "Famous Last Words Of A Fool",
+      "missing": false,
+      "actual_artist": "George Strait",
+      "actual_title": "Famous Last Words of a Fool",
+      "lyrics_path": "george-strait\\_singles\\famous-last-words-of-a-fool.txt"
+    },
+    {
+      "rank": 48,
+      "searched_artist": "Randy Travis",
+      "searched_title": "Honky Tonk Moon",
+      "missing": false,
+      "actual_artist": "Randy Travis",
+      "actual_title": "Honky Tonk Moon",
+      "lyrics_path": "randy-travis\\_singles\\honky-tonk-moon.txt"
+    },
+    {
+      "rank": 49,
+      "searched_artist": "The Oak Ridge Boys",
+      "searched_title": "True Heart",
+      "missing": false,
+      "actual_artist": "The Oak Ridge Boys",
+      "actual_title": "True Heart",
+      "lyrics_path": "the-oak-ridge-boys\\_singles\\true-heart.txt"
+    },
+    {
+      "rank": 50,
+      "searched_artist": "Rosanne Cash",
+      "searched_title": "Tennessee Flat Top Box",
+      "missing": false,
+      "actual_artist": "Rosanne Cash",
+      "actual_title": "Tennessee Flat-Top Box",
+      "lyrics_path": "rosanne-cash\\_singles\\tennessee-flat-top-box.txt"
+    },
+    {
+      "rank": 51,
+      "searched_artist": "Kathy Mattea",
+      "searched_title": "Untold Stories",
+      "missing": false,
+      "actual_artist": "Kathy Mattea",
+      "actual_title": "Untold Stories",
+      "lyrics_path": "kathy-mattea\\_singles\\untold-stories.txt"
+    },
+    {
+      "rank": 52,
+      "searched_artist": "Sweethearts Of The Rodeo",
+      "searched_title": "Blue To The Bone",
+      "missing": false,
+      "actual_artist": "Sweethearts of the Rodeo",
+      "actual_title": "Blue to the Bone",
+      "lyrics_path": "sweethearts-of-the-rodeo\\_singles\\blue-to-the-bone.txt"
+    },
+    {
+      "rank": 53,
+      "searched_artist": "The McCarters",
+      "searched_title": "The Gift",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 54,
+      "searched_artist": "Skip Ewing",
+      "searched_title": "I Don't Have Far To Fall",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 55,
+      "searched_artist": "Glen Campbell",
+      "searched_title": "I Have You",
+      "missing": false,
+      "actual_artist": "Glen Campbell",
+      "actual_title": "I Have You",
+      "lyrics_path": "glen-campbell\\_singles\\i-have-you.txt"
+    },
+    {
+      "rank": 56,
+      "searched_artist": "Ronnie Milsap",
+      "searched_title": "Button Off My Shirt",
+      "missing": false,
+      "actual_artist": "Ronnie Milsap",
+      "actual_title": "Button Off My Shirt",
+      "lyrics_path": "ronnie-milsap\\_singles\\button-off-my-shirt.txt"
+    },
+    {
+      "rank": 57,
+      "searched_artist": "Don Williams",
+      "searched_title": "Another Place, Another Time",
+      "missing": false,
+      "actual_artist": "Don Williams",
+      "actual_title": "Another Place, Another Time",
+      "lyrics_path": "don-williams\\_singles\\another-place-another-time.txt"
+    },
+    {
+      "rank": 58,
+      "searched_artist": "T. Graham Brown",
+      "searched_title": "The Last Resort",
+      "missing": false,
+      "actual_artist": "T. Graham Brown",
+      "actual_title": "The Last Resort",
+      "lyrics_path": "t-graham-brown\\_singles\\the-last-resort.txt"
+    },
+    {
+      "rank": 59,
+      "searched_artist": "The McCarters",
+      "searched_title": "Timeless And True Love",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 60,
+      "searched_artist": "Ricky Van Shelton",
+      "searched_title": "I'll Leave This World Loving You",
+      "missing": false,
+      "actual_artist": "Ricky Van Shelton",
+      "actual_title": "I\u2019ll Leave This World Loving You",
+      "lyrics_path": "ricky-van-shelton\\_singles\\ill-leave-this-world-loving-you.txt"
+    },
+    {
+      "rank": 61,
+      "searched_artist": "Holly Dunn",
+      "searched_title": "That's What Your Love Does To Me",
+      "missing": false,
+      "actual_artist": "Holly Dunn",
+      "actual_title": "That\u2019s What Your Love Does to Me",
+      "lyrics_path": "holly-dunn\\_singles\\thats-what-your-love-does-to-me.txt"
+    },
+    {
+      "rank": 62,
+      "searched_artist": "Ronnie McDowell",
+      "searched_title": "It's Only Make Believe",
+      "missing": false,
+      "actual_artist": "Ronnie McDowell",
+      "actual_title": "It\u2019s Only Make Believe",
+      "lyrics_path": "ronnie-mcdowell\\_singles\\its-only-make-believe.txt"
+    },
+    {
+      "rank": 63,
+      "searched_artist": "Restless Heart",
+      "searched_title": "Wheels",
+      "missing": false,
+      "actual_artist": "Restless Heart",
+      "actual_title": "Wheels",
+      "lyrics_path": "restless-heart\\_singles\\wheels.txt"
+    },
+    {
+      "rank": 64,
+      "searched_artist": "Shenandoah",
+      "searched_title": "She Doesn't Cry Anymore",
+      "missing": false,
+      "actual_artist": "Shenandoah",
+      "actual_title": "She Doesn\u2019t Cry Anymore",
+      "lyrics_path": "shenandoah\\_singles\\she-doesnt-cry-anymore.txt"
+    },
+    {
+      "rank": 65,
+      "searched_artist": "Larry, Steve, Rudy: The Gatlin Brothers",
+      "searched_title": "Love Of A Lifetime",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 66,
+      "searched_artist": "Nitty Gritty Dirt Band",
+      "searched_title": "Workin' Man (Nowhere To Go)",
+      "missing": false,
+      "actual_artist": "Nitty Gritty Dirt Band",
+      "actual_title": "Workin\u2019 Man (Nowhere To Go)",
+      "lyrics_path": "nitty-gritty-dirt-band\\_singles\\workin-man-nowhere-to-go.txt"
+    },
+    {
+      "rank": 67,
+      "searched_artist": "The Desert Rose Band",
+      "searched_title": "One Step Forward",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 68,
+      "searched_artist": "The Judds",
+      "searched_title": "Turn It Loose",
+      "missing": false,
+      "actual_artist": "The Judds",
+      "actual_title": "Turn It Loose",
+      "lyrics_path": "the-judds\\_singles\\turn-it-loose.txt"
+    },
+    {
+      "rank": 69,
+      "searched_artist": "Vern Gosdin",
+      "searched_title": "Do You Believe Me Now",
+      "missing": false,
+      "actual_artist": "Vern Gosdin",
+      "actual_title": "Do You Believe Me Now",
+      "lyrics_path": "vern-gosdin\\_singles\\do-you-believe-me-now.txt"
+    },
+    {
+      "rank": 70,
+      "searched_artist": "Sweethearts Of The Rodeo",
+      "searched_title": "Satisfy You",
+      "missing": false,
+      "actual_artist": "Sweethearts of the Rodeo",
+      "actual_title": "Satisfy You",
+      "lyrics_path": "sweethearts-of-the-rodeo\\_singles\\satisfy-you.txt"
+    },
+    {
+      "rank": 71,
+      "searched_artist": "The Bellamy Brothers",
+      "searched_title": "I'll Give You All My Love Tonight",
+      "missing": false,
+      "actual_artist": "The Bellamy Brothers",
+      "actual_title": "I\u2019ll Give You All My Love Tonight",
+      "lyrics_path": "the-bellamy-brothers\\_singles\\ill-give-you-all-my-love-tonight.txt"
+    },
+    {
+      "rank": 72,
+      "searched_artist": "Michael Johnson",
+      "searched_title": "I Will Whisper Your Name",
+      "missing": false,
+      "actual_artist": "Michael Johnson",
+      "actual_title": "I Will Whisper Your Name",
+      "lyrics_path": "michael-johnson\\_singles\\i-will-whisper-your-name.txt"
+    },
+    {
+      "rank": 73,
+      "searched_artist": "The O'Kanes",
+      "searched_title": "One True Love",
+      "missing": false,
+      "actual_artist": "The O\u2019Kanes",
+      "actual_title": "One True Love",
+      "lyrics_path": "the-okanes\\_singles\\one-true-love.txt"
+    },
+    {
+      "rank": 74,
+      "searched_artist": "Foster & Lloyd",
+      "searched_title": "What Do You Want From Me This Time",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 75,
+      "searched_artist": "Jo-El Sonnier",
+      "searched_title": "No More One More Time",
+      "missing": false,
+      "actual_artist": "Jo-El Sonnier",
+      "actual_title": "No More One More Time",
+      "lyrics_path": "jo-el-sonnier\\_singles\\no-more-one-more-time.txt"
+    },
+    {
+      "rank": 76,
+      "searched_artist": "Conway Twitty",
+      "searched_title": "Goodbye Time",
+      "missing": false,
+      "actual_artist": "Conway Twitty",
+      "actual_title": "Goodbye Time",
+      "lyrics_path": "conway-twitty\\_singles\\goodbye-time.txt"
+    },
+    {
+      "rank": 77,
+      "searched_artist": "The Bellamy Brothers",
+      "searched_title": "Santa Fe",
+      "missing": false,
+      "actual_artist": "The Bellamy Brothers",
+      "actual_title": "Santa Fe",
+      "lyrics_path": "the-bellamy-brothers\\_singles\\santa-fe.txt"
+    },
+    {
+      "rank": 78,
+      "searched_artist": "The Forester Sisters",
+      "searched_title": "Letter Home",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 79,
+      "searched_artist": "Lee Greenwood",
+      "searched_title": "Touch And Go Crazy",
+      "missing": false,
+      "actual_artist": "Lee Greenwood",
+      "actual_title": "Touch and Go Crazy",
+      "lyrics_path": "lee-greenwood\\_singles\\touch-and-go-crazy.txt"
+    },
+    {
+      "rank": 80,
+      "searched_artist": "Nitty Gritty Dirt Band",
+      "searched_title": "I've Been Lookin'",
+      "missing": false,
+      "actual_artist": "Nitty Gritty Dirt Band",
+      "actual_title": "I\u2019ve Been Lookin",
+      "lyrics_path": "nitty-gritty-dirt-band\\_singles\\ive-been-lookin.txt"
+    },
+    {
+      "rank": 81,
+      "searched_artist": "Johnny Rodriguez",
+      "searched_title": "I Didn't (Every Chance I Had)",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 82,
+      "searched_artist": "Holly Dunn",
+      "searched_title": "Strangers Again",
+      "missing": false,
+      "actual_artist": "Holly Dunn",
+      "actual_title": "Strangers Again",
+      "lyrics_path": "holly-dunn\\_singles\\strangers-again.txt"
+    },
+    {
+      "rank": 83,
+      "searched_artist": "Don Williams",
+      "searched_title": "Desperately",
+      "missing": false,
+      "actual_artist": "Don Williams",
+      "actual_title": "Desperately",
+      "lyrics_path": "don-williams\\_singles\\desperately.txt"
+    },
+    {
+      "rank": 84,
+      "searched_artist": "Kathy Mattea",
+      "searched_title": "Goin' Gone",
+      "missing": false,
+      "actual_artist": "Kathy Mattea",
+      "actual_title": "Goin\u2019 Gone",
+      "lyrics_path": "kathy-mattea\\_singles\\goin-gone.txt"
+    },
+    {
+      "rank": 86,
+      "searched_artist": "Reba McEntire",
+      "searched_title": "Sunday Kind Of Love",
+      "missing": false,
+      "actual_artist": "Reba McEntire",
+      "actual_title": "Sunday Kind of Love",
+      "lyrics_path": "reba-mcentire\\_singles\\sunday-kind-of-love.txt"
+    },
+    {
+      "rank": 87,
+      "searched_artist": "Mel McDaniel",
+      "searched_title": "Real Good Feel Good Song",
+      "missing": false,
+      "actual_artist": "Mel McDaniel",
+      "actual_title": "Real Good Feel Good Song",
+      "lyrics_path": "mel-mcdaniel\\_singles\\real-good-feel-good-song.txt"
+    },
+    {
+      "rank": 88,
+      "searched_artist": "Larry Boone",
+      "searched_title": "Don't Give Candy To A Stranger",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 89,
+      "searched_artist": "Jo-El Sonnier",
+      "searched_title": "Tear Stained Letter",
+      "missing": false,
+      "actual_artist": "Jo-El Sonnier",
+      "actual_title": "Tear-Stained Letter",
+      "lyrics_path": "jo-el-sonnier\\_singles\\tear-stained-letter.txt"
+    },
+    {
+      "rank": 90,
+      "searched_artist": "Reba McEntire",
+      "searched_title": "I Know How He Feels",
+      "missing": false,
+      "actual_artist": "Reba McEntire",
+      "actual_title": "I Know How He Feels",
+      "lyrics_path": "reba-mcentire\\_singles\\i-know-how-he-feels.txt"
+    },
+    {
+      "rank": 91,
+      "searched_artist": "Conway Twitty",
+      "searched_title": "That's My Job",
+      "missing": false,
+      "actual_artist": "Conway Twitty",
+      "actual_title": "That\u2019s My Job",
+      "lyrics_path": "conway-twitty\\_singles\\thats-my-job.txt"
+    },
+    {
+      "rank": 92,
+      "searched_artist": "Billy Joe Royal",
+      "searched_title": "Out Of Sight And On My Mind",
+      "missing": false,
+      "actual_artist": "Billy Joe Royal",
+      "actual_title": "Out Of Sight And On My Mind",
+      "lyrics_path": "billy-joe-royal\\_singles\\out-of-sight-and-on-my-mind.txt"
+    },
+    {
+      "rank": 93,
+      "searched_artist": "Nitty Gritty Dirt Band",
+      "searched_title": "Oh What A Love",
+      "missing": false,
+      "actual_artist": "Nitty Gritty Dirt Band",
+      "actual_title": "Oh What A Love",
+      "lyrics_path": "nitty-gritty-dirt-band\\_singles\\oh-what-a-love.txt"
+    },
+    {
+      "rank": 94,
+      "searched_artist": "Moe Bandy",
+      "searched_title": "Americana",
+      "missing": false,
+      "actual_artist": "Moe Bandy",
+      "actual_title": "Americana",
+      "lyrics_path": "moe-bandy\\_singles\\americana.txt"
+    },
+    {
+      "rank": 95,
+      "searched_artist": "Juice Newton",
+      "searched_title": "Tell Me True",
+      "missing": false,
+      "actual_artist": "Juice Newton",
+      "actual_title": "Tell Me True",
+      "lyrics_path": "juice-newton\\_singles\\tell-me-true.txt"
+    },
+    {
+      "rank": 96,
+      "searched_artist": "Barbara Mandrell",
+      "searched_title": "I Wish That I Could Fall In Love Today",
+      "missing": false,
+      "actual_artist": "Barbara Mandrell",
+      "actual_title": "I Wish That I Could Fall in Love Today",
+      "lyrics_path": "barbara-mandrell\\_singles\\i-wish-that-i-could-fall-in-love-today.txt"
+    },
+    {
+      "rank": 97,
+      "searched_artist": "Exile",
+      "searched_title": "Just One Kiss",
+      "missing": false,
+      "actual_artist": "Exile (Band)",
+      "actual_title": "Just One Kiss",
+      "lyrics_path": "exile-band\\_singles\\just-one-kiss.txt"
+    },
+    {
+      "rank": 98,
+      "searched_artist": "The Forester Sisters",
+      "searched_title": "Lyin' In His Arms Again",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 99,
+      "searched_artist": "Dan Seals",
+      "searched_title": "One Friend",
+      "missing": false,
+      "actual_artist": "Dan Seals",
+      "actual_title": "One Friend",
+      "lyrics_path": "dan-seals\\_singles\\one-friend.txt"
+    },
+    {
+      "rank": 100,
+      "searched_artist": "Kenny Rogers",
+      "searched_title": "The Factory",
+      "missing": false,
+      "actual_artist": "Kenny Rogers",
+      "actual_title": "The Factory",
+      "lyrics_path": "kenny-rogers\\_singles\\the-factory.txt"
+    }
+  ]
+}

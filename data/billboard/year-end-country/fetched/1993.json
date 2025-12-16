@@ -1,0 +1,566 @@
+{
+  "year": 1993,
+  "chart": "year-end-country",
+  "total_songs": 62,
+  "fetched": 62,
+  "songs": [
+    {
+      "rank": 1,
+      "searched_artist": "Alan Jackson",
+      "searched_title": "Chattahoochee",
+      "missing": false,
+      "actual_artist": "Alan Jackson",
+      "actual_title": "Chattahoochee",
+      "lyrics_path": "alan-jackson\\_singles\\chattahoochee.txt"
+    },
+    {
+      "rank": 2,
+      "searched_artist": "Clay Walker",
+      "searched_title": "What's It To You",
+      "missing": false,
+      "actual_artist": "Clay Walker",
+      "actual_title": "What\u2019s It to You",
+      "lyrics_path": "clay-walker\\_singles\\whats-it-to-you.txt"
+    },
+    {
+      "rank": 3,
+      "searched_artist": "Tracy Lawrence",
+      "searched_title": "Can't Break It To My Heart",
+      "missing": false,
+      "actual_artist": "Tracy Lawrence",
+      "actual_title": "Can\u2019t Break It to My Heart",
+      "lyrics_path": "tracy-lawrence\\_singles\\cant-break-it-to-my-heart.txt"
+    },
+    {
+      "rank": 4,
+      "searched_artist": "Sawyer Brown",
+      "searched_title": "Thank God For You",
+      "missing": false,
+      "actual_artist": "Sawyer Brown",
+      "actual_title": "Thank God for You",
+      "lyrics_path": "sawyer-brown\\_singles\\thank-god-for-you.txt"
+    },
+    {
+      "rank": 5,
+      "searched_artist": "Vince Gill",
+      "searched_title": "One More Last Chance",
+      "missing": false,
+      "actual_artist": "Vince Gill",
+      "actual_title": "One More Last Chance",
+      "lyrics_path": "vince-gill\\_singles\\one-more-last-chance.txt"
+    },
+    {
+      "rank": 6,
+      "searched_artist": "George Strait",
+      "searched_title": "Easy Come, Easy Go",
+      "missing": false,
+      "actual_artist": "George Strait",
+      "actual_title": "Easy Come, Easy Go",
+      "lyrics_path": "george-strait\\_singles\\easy-come-easy-go.txt"
+    },
+    {
+      "rank": 9,
+      "searched_artist": "John Michael Montgomery",
+      "searched_title": "I Love The Way You Love Me",
+      "missing": false,
+      "actual_artist": "John Michael Montgomery",
+      "actual_title": "I Love The Way You Love Me",
+      "lyrics_path": "john-michael-montgomery\\_singles\\i-love-the-way-you-love-me.txt"
+    },
+    {
+      "rank": 10,
+      "searched_artist": "Doug Stone",
+      "searched_title": "Why Didn't I Think Of That",
+      "missing": false,
+      "actual_artist": "Doug Stone",
+      "actual_title": "Why Didn\u2019t I Think Of That",
+      "lyrics_path": "doug-stone\\_singles\\why-didnt-i-think-of-that.txt"
+    },
+    {
+      "rank": 11,
+      "searched_artist": "Billy Ray Cyrus",
+      "searched_title": "In The Heart Of A Woman",
+      "missing": false,
+      "actual_artist": "Billy Ray Cyrus",
+      "actual_title": "In The Heart Of A Woman",
+      "lyrics_path": "billy-ray-cyrus\\_singles\\in-the-heart-of-a-woman.txt"
+    },
+    {
+      "rank": 12,
+      "searched_artist": "Patty Loveless",
+      "searched_title": "Blame It On Your Heart",
+      "missing": false,
+      "actual_artist": "Patty Loveless",
+      "actual_title": "Blame It on Your Heart",
+      "lyrics_path": "patty-loveless\\_singles\\blame-it-on-your-heart.txt"
+    },
+    {
+      "rank": 14,
+      "searched_artist": "Tracy Lawrence",
+      "searched_title": "Alibis",
+      "missing": false,
+      "actual_artist": "Tracy Lawrence",
+      "actual_title": "Alibis",
+      "lyrics_path": "tracy-lawrence\\_singles\\alibis.txt"
+    },
+    {
+      "rank": 15,
+      "searched_artist": "Dwight Yoakam",
+      "searched_title": "Ain't That Lonely Yet",
+      "missing": false,
+      "actual_artist": "Dwight Yoakam",
+      "actual_title": "Ain\u2019t That Lonely Yet",
+      "lyrics_path": "dwight-yoakam\\_singles\\aint-that-lonely-yet.txt"
+    },
+    {
+      "rank": 16,
+      "searched_artist": "Tracy Byrd",
+      "searched_title": "Holdin' Heaven",
+      "missing": false,
+      "actual_artist": "Tracy Byrd",
+      "actual_title": "Holdin\u2019 Heaven",
+      "lyrics_path": "tracy-byrd\\_singles\\holdin-heaven.txt"
+    },
+    {
+      "rank": 17,
+      "searched_artist": "Dwight Yoakam",
+      "searched_title": "A Thousand Miles From Nowhere",
+      "missing": false,
+      "actual_artist": "Dwight Yoakam",
+      "actual_title": "A Thousand Miles From Nowhere",
+      "lyrics_path": "dwight-yoakam\\_singles\\a-thousand-miles-from-nowhere.txt"
+    },
+    {
+      "rank": 18,
+      "searched_artist": "John Anderson",
+      "searched_title": "Money In The Bank",
+      "missing": false,
+      "actual_artist": "John Anderson",
+      "actual_title": "Money In The Bank",
+      "lyrics_path": "john-anderson\\_singles\\money-in-the-bank.txt"
+    },
+    {
+      "rank": 20,
+      "searched_artist": "Clint Black",
+      "searched_title": "No Time To Kill",
+      "missing": false,
+      "actual_artist": "Clint Black",
+      "actual_title": "No Time To Kill",
+      "lyrics_path": "clint-black\\_singles\\no-time-to-kill.txt"
+    },
+    {
+      "rank": 21,
+      "searched_artist": "Sammy Kershaw",
+      "searched_title": "She Don't Know She's Beautiful",
+      "missing": false,
+      "actual_artist": "Sammy Kershaw",
+      "actual_title": "She Don\u2019t Know She\u2019s Beautiful",
+      "lyrics_path": "sammy-kershaw\\_singles\\she-dont-know-shes-beautiful.txt"
+    },
+    {
+      "rank": 23,
+      "searched_artist": "Little Texas",
+      "searched_title": "What Might Have Been",
+      "missing": false,
+      "actual_artist": "Little Texas",
+      "actual_title": "What Might Have Been",
+      "lyrics_path": "little-texas\\_singles\\what-might-have-been.txt"
+    },
+    {
+      "rank": 25,
+      "searched_artist": "Hal Ketchum",
+      "searched_title": "Hearts Are Gonna Roll",
+      "missing": false,
+      "actual_artist": "Hal Ketchum",
+      "actual_title": "Hearts are Gonna Roll",
+      "lyrics_path": "hal-ketchum\\_singles\\hearts-are-gonna-roll.txt"
+    },
+    {
+      "rank": 26,
+      "searched_artist": "Carlene Carter",
+      "searched_title": "Every Little Thing",
+      "missing": false,
+      "actual_artist": "Carlene Carter",
+      "actual_title": "Every Little Thing",
+      "lyrics_path": "carlene-carter\\_singles\\every-little-thing.txt"
+    },
+    {
+      "rank": 27,
+      "searched_artist": "Wynonna",
+      "searched_title": "Tell Me Why",
+      "missing": false,
+      "actual_artist": "Wynonna",
+      "actual_title": "Tell Me Why",
+      "lyrics_path": "wynonna\\_singles\\tell-me-why.txt"
+    },
+    {
+      "rank": 28,
+      "searched_artist": "Lorrie Morgan",
+      "searched_title": "What Part Of No",
+      "missing": false,
+      "actual_artist": "Lorrie Morgan",
+      "actual_title": "What Part of No",
+      "lyrics_path": "lorrie-morgan\\_singles\\what-part-of-no.txt"
+    },
+    {
+      "rank": 29,
+      "searched_artist": "Radney Foster",
+      "searched_title": "Nobody Wins",
+      "missing": false,
+      "actual_artist": "Radney Foster",
+      "actual_title": "Nobody Wins",
+      "lyrics_path": "radney-foster\\_singles\\nobody-wins.txt"
+    },
+    {
+      "rank": 31,
+      "searched_artist": "Wynonna",
+      "searched_title": "Only Love",
+      "missing": false,
+      "actual_artist": "Wynonna",
+      "actual_title": "Only Love",
+      "lyrics_path": "wynonna\\_singles\\only-love.txt"
+    },
+    {
+      "rank": 32,
+      "searched_artist": "Randy Travis",
+      "searched_title": "Look Heart, No Hands",
+      "missing": false,
+      "actual_artist": "Randy Travis",
+      "actual_title": "Look Heart, No Hands",
+      "lyrics_path": "randy-travis\\_singles\\look-heart-no-hands.txt"
+    },
+    {
+      "rank": 33,
+      "searched_artist": "Travis Tritt",
+      "searched_title": "Can I Trust You With My Heart",
+      "missing": false,
+      "actual_artist": "Travis Tritt",
+      "actual_title": "Can I Trust You with My Heart",
+      "lyrics_path": "travis-tritt\\_singles\\can-i-trust-you-with-my-heart.txt"
+    },
+    {
+      "rank": 35,
+      "searched_artist": "Toby Keith",
+      "searched_title": "He Ain't Worth Missing",
+      "missing": false,
+      "actual_artist": "Toby Keith",
+      "actual_title": "He Ain\u2019t Worth Missing",
+      "lyrics_path": "toby-keith\\_singles\\he-aint-worth-missing.txt"
+    },
+    {
+      "rank": 36,
+      "searched_artist": "Alabama",
+      "searched_title": "Hometown Honeymoon",
+      "missing": false,
+      "actual_artist": "Alabama",
+      "actual_title": "Hometown Honeymoon",
+      "lyrics_path": "alabama\\_singles\\hometown-honeymoon.txt"
+    },
+    {
+      "rank": 37,
+      "searched_artist": "Doug Supernaw",
+      "searched_title": "Reno",
+      "missing": false,
+      "actual_artist": "Doug Supernaw",
+      "actual_title": "Reno",
+      "lyrics_path": "doug-supernaw\\_singles\\reno.txt"
+    },
+    {
+      "rank": 38,
+      "searched_artist": "Lee Roy Parnell",
+      "searched_title": "Tender Moment",
+      "missing": false,
+      "actual_artist": "Lee Roy Parnell",
+      "actual_title": "Tender Moment",
+      "lyrics_path": "lee-roy-parnell\\_singles\\tender-moment.txt"
+    },
+    {
+      "rank": 39,
+      "searched_artist": "Toby Keith",
+      "searched_title": "Should've Been A Cowboy",
+      "missing": false,
+      "actual_artist": "Toby Keith",
+      "actual_title": "Should\u2019ve Been a Cowboy",
+      "lyrics_path": "toby-keith\\_singles\\shouldve-been-a-cowboy.txt"
+    },
+    {
+      "rank": 41,
+      "searched_artist": "Clint Black",
+      "searched_title": "When My Ship Comes In",
+      "missing": false,
+      "actual_artist": "Clint Black",
+      "actual_title": "When My Ship Comes In",
+      "lyrics_path": "clint-black\\_singles\\when-my-ship-comes-in.txt"
+    },
+    {
+      "rank": 42,
+      "searched_artist": "Reba McEntire",
+      "searched_title": "It's Your Call",
+      "missing": false,
+      "actual_artist": "Reba McEntire",
+      "actual_title": "It\u2019s Your Call",
+      "lyrics_path": "reba-mcentire\\_singles\\its-your-call.txt"
+    },
+    {
+      "rank": 43,
+      "searched_artist": "Diamond Rio",
+      "searched_title": "In A Week Or Two",
+      "missing": false,
+      "actual_artist": "Diamond Rio",
+      "actual_title": "In a Week or Two",
+      "lyrics_path": "diamond-rio\\_singles\\in-a-week-or-two.txt"
+    },
+    {
+      "rank": 44,
+      "searched_artist": "Aaron Tippin",
+      "searched_title": "Working Man's Ph.d",
+      "missing": false,
+      "actual_artist": "Aaron Tippin",
+      "actual_title": "Working Man\u2019s Ph.D",
+      "lyrics_path": "aaron-tippin\\_singles\\working-mans-phd.txt"
+    },
+    {
+      "rank": 45,
+      "searched_artist": "Doug Stone",
+      "searched_title": "Made For Lovin' You",
+      "missing": false,
+      "actual_artist": "Doug Stone",
+      "actual_title": "Made For Lovin\u2019 You",
+      "lyrics_path": "doug-stone\\_singles\\made-for-lovin-you.txt"
+    },
+    {
+      "rank": 46,
+      "searched_artist": "Garth Brooks",
+      "searched_title": "Learning To Live Again",
+      "missing": false,
+      "actual_artist": "Garth Brooks",
+      "actual_title": "Learning to Live Again",
+      "lyrics_path": "garth-brooks\\_singles\\learning-to-live-again.txt"
+    },
+    {
+      "rank": 47,
+      "searched_artist": "Vince Gill",
+      "searched_title": "No Future In The Past",
+      "missing": false,
+      "actual_artist": "Vince Gill",
+      "actual_title": "No Future in the Past",
+      "lyrics_path": "vince-gill\\_singles\\no-future-in-the-past.txt"
+    },
+    {
+      "rank": 48,
+      "searched_artist": "Doug Stone",
+      "searched_title": "Too Busy Being In Love",
+      "missing": false,
+      "actual_artist": "Doug Stone",
+      "actual_title": "Too Busy Being In Love",
+      "lyrics_path": "doug-stone\\_singles\\too-busy-being-in-love.txt"
+    },
+    {
+      "rank": 49,
+      "searched_artist": "Suzy Bogguss",
+      "searched_title": "Drive South",
+      "missing": false,
+      "actual_artist": "Suzy Bogguss",
+      "actual_title": "Drive South",
+      "lyrics_path": "suzy-bogguss\\_singles\\drive-south.txt"
+    },
+    {
+      "rank": 50,
+      "searched_artist": "Joe Diffie",
+      "searched_title": "Honky Tonk Attitude",
+      "missing": false,
+      "actual_artist": "Joe Diffie",
+      "actual_title": "Honky Tonk Attitude",
+      "lyrics_path": "joe-diffie\\_singles\\honky-tonk-attitude.txt"
+    },
+    {
+      "rank": 51,
+      "searched_artist": "George Strait",
+      "searched_title": "Heartland",
+      "missing": false,
+      "actual_artist": "George Strait",
+      "actual_title": "Heartland",
+      "lyrics_path": "george-strait\\_singles\\heartland.txt"
+    },
+    {
+      "rank": 53,
+      "searched_artist": "Alan Jackson",
+      "searched_title": "Tonight I Climbed The Wall",
+      "missing": false,
+      "actual_artist": "Alan Jackson",
+      "actual_title": "Tonight I Climbed the Wall",
+      "lyrics_path": "alan-jackson\\_singles\\tonight-i-climbed-the-wall.txt"
+    },
+    {
+      "rank": 54,
+      "searched_artist": "Alabama",
+      "searched_title": "Once Upon A Lifetime",
+      "missing": false,
+      "actual_artist": "Alabama",
+      "actual_title": "Once Upon A Lifetime",
+      "lyrics_path": "alabama\\_singles\\once-upon-a-lifetime.txt"
+    },
+    {
+      "rank": 55,
+      "searched_artist": "Vince Gill",
+      "searched_title": "Don't Let Our Love Start Slippin' Away",
+      "missing": false,
+      "actual_artist": "Vince Gill",
+      "actual_title": "Don\u2019t Let Our Love Start Slippin\u2019 Away",
+      "lyrics_path": "vince-gill\\_singles\\dont-let-our-love-start-slippin-away.txt"
+    },
+    {
+      "rank": 56,
+      "searched_artist": "Trisha Yearwood",
+      "searched_title": "Walkaway Joe",
+      "missing": false,
+      "actual_artist": "Trisha Yearwood",
+      "actual_title": "Walkaway Joe",
+      "lyrics_path": "trisha-yearwood\\_singles\\walkaway-joe.txt"
+    },
+    {
+      "rank": 57,
+      "searched_artist": "Suzy Bogguss",
+      "searched_title": "Just Like The Weather",
+      "missing": false,
+      "actual_artist": "Suzy Bogguss",
+      "actual_title": "Just Like the Weather",
+      "lyrics_path": "suzy-bogguss\\_singles\\just-like-the-weather.txt"
+    },
+    {
+      "rank": 58,
+      "searched_artist": "Confederate Railroad",
+      "searched_title": "Queen Of Memphis",
+      "missing": false,
+      "actual_artist": "Confederate Railroad",
+      "actual_title": "Queen Of Memphis",
+      "lyrics_path": "confederate-railroad\\_singles\\queen-of-memphis.txt"
+    },
+    {
+      "rank": 59,
+      "searched_artist": "Larry Stewart",
+      "searched_title": "Alright Already",
+      "missing": false,
+      "actual_artist": "Larry Stewart",
+      "actual_title": "Alright Already",
+      "lyrics_path": "larry-stewart\\_singles\\alright-already.txt"
+    },
+    {
+      "rank": 60,
+      "searched_artist": "Billy Ray Cyrus",
+      "searched_title": "She's Not Cryin' Anymore",
+      "missing": false,
+      "actual_artist": "Billy Ray Cyrus",
+      "actual_title": "She\u2019s Not Cryin\u2019 Anymore",
+      "lyrics_path": "billy-ray-cyrus\\_singles\\shes-not-cryin-anymore.txt"
+    },
+    {
+      "rank": 61,
+      "searched_artist": "Tanya Tucker",
+      "searched_title": "It's A Little Too Late",
+      "missing": false,
+      "actual_artist": "Tanya Tucker",
+      "actual_title": "It\u2019s a Little Too Late",
+      "lyrics_path": "tanya-tucker\\_singles\\its-a-little-too-late.txt"
+    },
+    {
+      "rank": 62,
+      "searched_artist": "Steve Wariner",
+      "searched_title": "If I Didn't Love You",
+      "missing": false,
+      "actual_artist": "Steve Wariner",
+      "actual_title": "If I Didn\u2019t Love You",
+      "lyrics_path": "steve-wariner\\_singles\\if-i-didnt-love-you.txt"
+    },
+    {
+      "rank": 63,
+      "searched_artist": "Mark Chesnutt",
+      "searched_title": "Ol' Country",
+      "missing": false,
+      "actual_artist": "Mark Chesnutt",
+      "actual_title": "Ol\u2019 Country",
+      "lyrics_path": "mark-chesnutt\\_singles\\ol-country.txt"
+    },
+    {
+      "rank": 64,
+      "searched_artist": "Collin Raye",
+      "searched_title": "That Was A River",
+      "missing": false,
+      "actual_artist": "Collin Raye",
+      "actual_title": "That Was A River",
+      "lyrics_path": "collin-raye\\_singles\\that-was-a-river.txt"
+    },
+    {
+      "rank": 66,
+      "searched_artist": "Mark Collie",
+      "searched_title": "Born To Love You",
+      "missing": false,
+      "actual_artist": "Mark Collie",
+      "actual_title": "Born to Love You",
+      "lyrics_path": "mark-collie\\_singles\\born-to-love-you.txt"
+    },
+    {
+      "rank": 67,
+      "searched_artist": "Mary Chapin Carpenter",
+      "searched_title": "Passionate Kisses",
+      "missing": false,
+      "actual_artist": "Mary Chapin Carpenter",
+      "actual_title": "Passionate Kisses",
+      "lyrics_path": "mary-chapin-carpenter\\_singles\\passionate-kisses.txt"
+    },
+    {
+      "rank": 68,
+      "searched_artist": "Wynonna",
+      "searched_title": "My Strongest Weakness",
+      "missing": false,
+      "actual_artist": "Wynonna",
+      "actual_title": "My Strongest Weakness",
+      "lyrics_path": "wynonna\\_singles\\my-strongest-weakness.txt"
+    },
+    {
+      "rank": 71,
+      "searched_artist": "Brother Phelps",
+      "searched_title": "Let Go",
+      "missing": false,
+      "actual_artist": "Brother Phelps",
+      "actual_title": "Let Go",
+      "lyrics_path": "brother-phelps\\_singles\\let-go.txt"
+    },
+    {
+      "rank": 72,
+      "searched_artist": "George Strait",
+      "searched_title": "When Did You Stop Loving Me",
+      "missing": false,
+      "actual_artist": "George Strait",
+      "actual_title": "When Did You Stop Loving Me",
+      "lyrics_path": "george-strait\\_singles\\when-did-you-stop-loving-me.txt"
+    },
+    {
+      "rank": 73,
+      "searched_artist": "Sawyer Brown",
+      "searched_title": "All These Years",
+      "missing": false,
+      "actual_artist": "Sawyer Brown",
+      "actual_title": "All These Years",
+      "lyrics_path": "sawyer-brown\\_singles\\all-these-years.txt"
+    },
+    {
+      "rank": 74,
+      "searched_artist": "Reba McEntire",
+      "searched_title": "Take It Back",
+      "missing": false,
+      "actual_artist": "Reba McEntire",
+      "actual_title": "Take It Back",
+      "lyrics_path": "reba-mcentire\\_singles\\take-it-back.txt"
+    },
+    {
+      "rank": 75,
+      "searched_artist": "Garth Brooks",
+      "searched_title": "Somewhere Other Than The Night",
+      "missing": false,
+      "actual_artist": "Garth Brooks",
+      "actual_title": "Somewhere Other Than the Night",
+      "lyrics_path": "garth-brooks\\_singles\\somewhere-other-than-the-night.txt"
+    }
+  ]
+}

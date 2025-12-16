@@ -1,0 +1,367 @@
+{
+  "year": 1976,
+  "chart": "year-end-country",
+  "total_songs": 41,
+  "fetched": 36,
+  "songs": [
+    {
+      "rank": 1,
+      "searched_artist": "C.W. McCall",
+      "searched_title": "Convoy",
+      "missing": false,
+      "actual_artist": "C.W. McCall",
+      "actual_title": "Convoy",
+      "lyrics_path": "cw-mccall\\_singles\\convoy.txt"
+    },
+    {
+      "rank": 2,
+      "searched_artist": "Waylon & Willie",
+      "searched_title": "Good Hearted Woman",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 4,
+      "searched_artist": "Crystal Gayle",
+      "searched_title": "I'll Get Over You",
+      "missing": false,
+      "actual_artist": "Crystal Gayle",
+      "actual_title": "I\u2019ll Get Over You",
+      "lyrics_path": "crystal-gayle\\_singles\\ill-get-over-you.txt"
+    },
+    {
+      "rank": 5,
+      "searched_artist": "Red Sovine",
+      "searched_title": "Teddy Bear",
+      "missing": false,
+      "actual_artist": "Red Sovine",
+      "actual_title": "Teddy Bear",
+      "lyrics_path": "red-sovine\\_singles\\teddy-bear.txt"
+    },
+    {
+      "rank": 6,
+      "searched_artist": "Marty Robbins",
+      "searched_title": "El Paso City",
+      "missing": false,
+      "actual_artist": "Marty Robbins",
+      "actual_title": "El Paso City",
+      "lyrics_path": "marty-robbins\\_singles\\el-paso-city.txt"
+    },
+    {
+      "rank": 7,
+      "searched_artist": "Ronnie Milsap",
+      "searched_title": "(I'm A) Stand By My Woman Man",
+      "missing": false,
+      "actual_artist": "Ronnie Milsap",
+      "actual_title": "(I\u2019m A) Stand By My Woman Man",
+      "lyrics_path": "ronnie-milsap\\_singles\\im-a-stand-by-my-woman-man.txt"
+    },
+    {
+      "rank": 9,
+      "searched_artist": "Johnny Cash",
+      "searched_title": "One Piece At A Time",
+      "missing": false,
+      "actual_artist": "Johnny Cash",
+      "actual_title": "One Piece at a Time",
+      "lyrics_path": "johnny-cash\\_singles\\one-piece-at-a-time.txt"
+    },
+    {
+      "rank": 10,
+      "searched_artist": "Johnny Duncan",
+      "searched_title": "Stranger",
+      "missing": false,
+      "actual_artist": "Johnny Duncan",
+      "actual_title": "Stranger",
+      "lyrics_path": "johnny-duncan\\_singles\\stranger.txt"
+    },
+    {
+      "rank": 12,
+      "searched_artist": "Joe Stampley",
+      "searched_title": "All These Things",
+      "missing": false,
+      "actual_artist": "Joe Stampley",
+      "actual_title": "All These Things",
+      "lyrics_path": "joe-stampley\\_singles\\all-these-things.txt"
+    },
+    {
+      "rank": 13,
+      "searched_artist": "Tom T. Hall",
+      "searched_title": "Faster Horses (the Cowboy And The Poet)",
+      "missing": false,
+      "actual_artist": "Tom T. Hall",
+      "actual_title": "Faster Horses (The Cowboy And The Poet)",
+      "lyrics_path": "tom-t-hall\\_singles\\faster-horses-the-cowboy-and-the-poet.txt"
+    },
+    {
+      "rank": 14,
+      "searched_artist": "Don Williams",
+      "searched_title": "Till The Rivers All Run Dry",
+      "missing": false,
+      "actual_artist": "Don Williams",
+      "actual_title": "Till The Rivers All Run Dry",
+      "lyrics_path": "don-williams\\_singles\\till-the-rivers-all-run-dry.txt"
+    },
+    {
+      "rank": 15,
+      "searched_artist": "Mickey Gilley",
+      "searched_title": "Don't The Girls All Get Prettier At Closing Time",
+      "missing": false,
+      "actual_artist": "Mickey Gilley",
+      "actual_title": "Don\u2019t The Girls All Get Prettier At Closing Time",
+      "lyrics_path": "mickey-gilley\\_singles\\dont-the-girls-all-get-prettier-at-closing-time.txt"
+    },
+    {
+      "rank": 18,
+      "searched_artist": "Willie Nelson",
+      "searched_title": "If You've Got The Money I've Got The Time",
+      "missing": false,
+      "actual_artist": "Willie Nelson",
+      "actual_title": "If You\u2019ve Got the Money (I\u2019ve Got the Time)",
+      "lyrics_path": "willie-nelson\\_singles\\if-youve-got-the-money-ive-got-the-time.txt"
+    },
+    {
+      "rank": 19,
+      "searched_artist": "Don Williams",
+      "searched_title": "Say It Again",
+      "missing": false,
+      "actual_artist": "Don Williams",
+      "actual_title": "Say It Again",
+      "lyrics_path": "don-williams\\_singles\\say-it-again.txt"
+    },
+    {
+      "rank": 20,
+      "searched_artist": "Bill Anderson & Mary Lou Turner",
+      "searched_title": "Sometimes",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 21,
+      "searched_artist": "Emmylou Harris",
+      "searched_title": "One Of These Days",
+      "missing": false,
+      "actual_artist": "Emmylou Harris",
+      "actual_title": "One Of These Days",
+      "lyrics_path": "emmylou-harris\\_singles\\one-of-these-days.txt"
+    },
+    {
+      "rank": 22,
+      "searched_artist": "Freddy Fender",
+      "searched_title": "You'll Lose A Good Thing",
+      "missing": false,
+      "actual_artist": "Freddy Fender",
+      "actual_title": "You\u2019ll Lose A Good Thing",
+      "lyrics_path": "freddy-fender\\_singles\\youll-lose-a-good-thing.txt"
+    },
+    {
+      "rank": 23,
+      "searched_artist": "Tammy Wynette",
+      "searched_title": "Till I Can Make It On My Own",
+      "missing": false,
+      "actual_artist": "Tammy Wynette",
+      "actual_title": "\u2019Til I Can Make It On My Own",
+      "lyrics_path": "tammy-wynette\\_singles\\til-i-can-make-it-on-my-own.txt"
+    },
+    {
+      "rank": 24,
+      "searched_artist": "Tammy Wynette",
+      "searched_title": "You And Me",
+      "missing": false,
+      "actual_artist": "Tammy Wynette",
+      "actual_title": "You And Me",
+      "lyrics_path": "tammy-wynette\\_singles\\you-and-me.txt"
+    },
+    {
+      "rank": 25,
+      "searched_artist": "Tanya Tucker",
+      "searched_title": "Here's Some Love",
+      "missing": false,
+      "actual_artist": "Tanya Tucker",
+      "actual_title": "Here\u2019s Some Love",
+      "lyrics_path": "tanya-tucker\\_singles\\heres-some-love.txt"
+    },
+    {
+      "rank": 26,
+      "searched_artist": "Ronnie Milsap",
+      "searched_title": "What Goes On When The Sun Goes Down",
+      "missing": false,
+      "actual_artist": "Ronnie Milsap",
+      "actual_title": "What Goes on When the Sun Goes Down",
+      "lyrics_path": "ronnie-milsap\\_singles\\what-goes-on-when-the-sun-goes-down.txt"
+    },
+    {
+      "rank": 27,
+      "searched_artist": "Conway Twitty",
+      "searched_title": "This Time I've Hurt Her More Than She Loves Me",
+      "missing": false,
+      "actual_artist": "Conway Twitty",
+      "actual_title": "This Time I\u2019ve Hurt Her More Than She Loves Me",
+      "lyrics_path": "conway-twitty\\_singles\\this-time-ive-hurt-her-more-than-she-loves-me.txt"
+    },
+    {
+      "rank": 28,
+      "searched_artist": "Roy Clark",
+      "searched_title": "If I Had It To Do All Over Again",
+      "missing": false,
+      "actual_artist": "Roy Clark",
+      "actual_title": "If I Had to Do It All Over Again",
+      "lyrics_path": "roy-clark\\_singles\\if-i-had-to-do-it-all-over-again.txt"
+    },
+    {
+      "rank": 30,
+      "searched_artist": "Emmylou Harris",
+      "searched_title": "Together Again",
+      "missing": false,
+      "actual_artist": "Emmylou Harris",
+      "actual_title": "Together Again",
+      "lyrics_path": "emmylou-harris\\_singles\\together-again.txt"
+    },
+    {
+      "rank": 31,
+      "searched_artist": "Mickey Gilley",
+      "searched_title": "Bring It On Home To Me",
+      "missing": false,
+      "actual_artist": "Mickey Gilley",
+      "actual_title": "Bring It on Home to Me",
+      "lyrics_path": "mickey-gilley\\_singles\\bring-it-on-home-to-me.txt"
+    },
+    {
+      "rank": 32,
+      "searched_artist": "Billie Jo Spears",
+      "searched_title": "What I've Got In Mind",
+      "missing": false,
+      "actual_artist": "Billie Jo Spears",
+      "actual_title": "What I\u2019ve Got in Mind",
+      "lyrics_path": "billie-jo-spears\\_singles\\what-ive-got-in-mind.txt"
+    },
+    {
+      "rank": 33,
+      "searched_artist": "Eddie Rabbitt",
+      "searched_title": "Rocky Mountain Music/Do You Right Tonight",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 34,
+      "searched_artist": "Barbara Mandrell",
+      "searched_title": "Standing Room Only",
+      "missing": false,
+      "actual_artist": "Barbara Mandrell",
+      "actual_title": "Standing Room Only",
+      "lyrics_path": "barbara-mandrell\\_singles\\standing-room-only.txt"
+    },
+    {
+      "rank": 35,
+      "searched_artist": "Charley Pride",
+      "searched_title": "My Eyes Can Only See As Far As You",
+      "missing": false,
+      "actual_artist": "Charley Pride",
+      "actual_title": "My Eyes Can Only See As Far As You",
+      "lyrics_path": "charley-pride\\_singles\\my-eyes-can-only-see-as-far-as-you.txt"
+    },
+    {
+      "rank": 36,
+      "searched_artist": "Dolly Parton",
+      "searched_title": "All I Can Do",
+      "missing": false,
+      "actual_artist": "Dolly Parton",
+      "actual_title": "All I Can Do",
+      "lyrics_path": "dolly-parton\\_singles\\all-i-can-do.txt"
+    },
+    {
+      "rank": 37,
+      "searched_artist": "Moe Bandy",
+      "searched_title": "Hank Williams, You Wrote My Life",
+      "missing": false,
+      "actual_artist": "Moe Bandy",
+      "actual_title": "Hank Williams, You Wrote My Life",
+      "lyrics_path": "moe-bandy\\_singles\\hank-williams-you-wrote-my-life.txt"
+    },
+    {
+      "rank": 38,
+      "searched_artist": "Willie Nelson",
+      "searched_title": "Remember Me",
+      "missing": false,
+      "actual_artist": "Willie Nelson",
+      "actual_title": "Remember Me",
+      "lyrics_path": "willie-nelson\\_singles\\remember-me.txt"
+    },
+    {
+      "rank": 39,
+      "searched_artist": "Merle Haggard",
+      "searched_title": "The Roots Of My Raising",
+      "missing": false,
+      "actual_artist": "Merle Haggard",
+      "actual_title": "The Roots of My Raising",
+      "lyrics_path": "merle-haggard\\_singles\\the-roots-of-my-raising.txt"
+    },
+    {
+      "rank": 41,
+      "searched_artist": "Billie Jo Spears",
+      "searched_title": "Misty Blue",
+      "missing": false,
+      "actual_artist": "Billie Jo Spears",
+      "actual_title": "Misty Blue",
+      "lyrics_path": "billie-jo-spears\\_singles\\misty-blue.txt"
+    },
+    {
+      "rank": 42,
+      "searched_artist": "Kenny Starr",
+      "searched_title": "The Blind Man In The Bleachers",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 43,
+      "searched_artist": "Sonny James",
+      "searched_title": "When Something Is Wrong With My Baby",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 44,
+      "searched_artist": "Crystal Gayle",
+      "searched_title": "Somebody Loves You",
+      "missing": false,
+      "actual_artist": "Crystal Gayle",
+      "actual_title": "Somebody Loves You",
+      "lyrics_path": "crystal-gayle\\_singles\\somebody-loves-you.txt"
+    },
+    {
+      "rank": 45,
+      "searched_artist": "Narvel Felts",
+      "searched_title": "Somebody Hold Me (until She Passes By)",
+      "missing": false,
+      "actual_artist": "Narvel Felts",
+      "actual_title": "Somebody Hold Me (Until She Passes By)",
+      "lyrics_path": "narvel-felts\\_singles\\somebody-hold-me-until-she-passes-by.txt"
+    },
+    {
+      "rank": 46,
+      "searched_artist": "Johnny Rodriguez",
+      "searched_title": "I Couldn't Be Me Without You",
+      "missing": false,
+      "actual_artist": "Johnny Rodriguez",
+      "actual_title": "I Couldn\u2019t Be Me Without You",
+      "lyrics_path": "johnny-rodriguez\\_singles\\i-couldnt-be-me-without-you.txt"
+    },
+    {
+      "rank": 47,
+      "searched_artist": "Conway Twitty",
+      "searched_title": "After All The Good Is Gone",
+      "missing": false,
+      "actual_artist": "Conway Twitty",
+      "actual_title": "After All the Good Is Gone",
+      "lyrics_path": "conway-twitty\\_singles\\after-all-the-good-is-gone.txt"
+    },
+    {
+      "rank": 48,
+      "searched_artist": "Tanya Tucker",
+      "searched_title": "You've Got Me To Hold On To",
+      "missing": false,
+      "actual_artist": "Tanya Tucker",
+      "actual_title": "You\u2019ve Got Me To Hold Onto",
+      "lyrics_path": "tanya-tucker\\_singles\\youve-got-me-to-hold-onto.txt"
+    }
+  ]
+}

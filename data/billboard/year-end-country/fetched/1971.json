@@ -1,0 +1,310 @@
+  {
+  "year": 1971,
+  "chart": "year-end-country",
+  "total_songs": 34,
+  "fetched": 32,
+  "songs": [
+    {
+      "rank": 1,
+      "searched_artist": "Freddie Hart",
+      "searched_title": "Easy Loving",
+      "missing": false,
+      "actual_artist": "Freddie Hart",
+      "actual_title": "Easy Loving",
+      "lyrics_path": "freddie-hart\\_singles\\easy-loving.txt"
+    },
+    {
+      "rank": 2,
+      "searched_artist": "Ray Price",
+      "searched_title": "I Won't Mention It Again",
+      "missing": false,
+      "actual_artist": "Ray Price",
+      "actual_title": "I Won\u2019t Mention It Again",
+      "lyrics_path": "ray-price\\_singles\\i-wont-mention-it-again.txt"
+    },
+    {
+      "rank": 3,
+      "searched_artist": "Sammi Smith",
+      "searched_title": "Help Me Make It Through The Night",
+      "missing": false,
+      "actual_artist": "Sammi Smith",
+      "actual_title": "Help Me Make It Through the Night",
+      "lyrics_path": "sammi-smith\\_singles\\help-me-make-it-through-the-night.txt"
+    },
+    {
+      "rank": 5,
+      "searched_artist": "Jerry Reed",
+      "searched_title": "When You're Hot, You're Hot",
+      "missing": false,
+      "actual_artist": "Jerry Reed",
+      "actual_title": "When You\u2019re Hot, You\u2019re Hot",
+      "lyrics_path": "jerry-reed\\_singles\\when-youre-hot-youre-hot.txt"
+    },
+    {
+      "rank": 6,
+      "searched_artist": "Sonny James",
+      "searched_title": "Empty Arms",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 7,
+      "searched_artist": "Charley Pride",
+      "searched_title": "I'm Just Me",
+      "missing": false,
+      "actual_artist": "Charley Pride",
+      "actual_title": "I\u2019m Just Me",
+      "lyrics_path": "charley-pride\\_singles\\im-just-me.txt"
+    },
+    {
+      "rank": 8,
+      "searched_artist": "Lynn Anderson",
+      "searched_title": "How Can I Unlove You",
+      "missing": false,
+      "actual_artist": "Lynn Anderson",
+      "actual_title": "How Can I Unlove You",
+      "lyrics_path": "lynn-anderson\\_singles\\how-can-i-unlove-you.txt"
+    },
+    {
+      "rank": 9,
+      "searched_artist": "Tammy Wynette",
+      "searched_title": "Good Lovin' (Makes It Right)",
+      "missing": false,
+      "actual_artist": "Tammy Wynette",
+      "actual_title": "Good Lovin\u2019 (Makes It Right)",
+      "lyrics_path": "tammy-wynette\\_singles\\good-lovin-makes-it-right.txt"
+    },
+    {
+      "rank": 10,
+      "searched_artist": "Conway Twitty",
+      "searched_title": "How Much More Can She Stand",
+      "missing": false,
+      "actual_artist": "Conway Twitty",
+      "actual_title": "How Much More Can She Stand",
+      "lyrics_path": "conway-twitty\\_singles\\how-much-more-can-she-stand.txt"
+    },
+    {
+      "rank": 11,
+      "searched_artist": "Lynn Anderson",
+      "searched_title": "Rose Garden",
+      "missing": false,
+      "actual_artist": "Lynn Anderson",
+      "actual_title": "Rose Garden",
+      "lyrics_path": "lynn-anderson\\_singles\\rose-garden.txt"
+    },
+    {
+      "rank": 12,
+      "searched_artist": "Lynn Anderson",
+      "searched_title": "You're My Man",
+      "missing": false,
+      "actual_artist": "Lynn Anderson",
+      "actual_title": "You\u2019re My Man",
+      "lyrics_path": "lynn-anderson\\_singles\\youre-my-man.txt"
+    },
+    {
+      "rank": 13,
+      "searched_artist": "Charley Pride",
+      "searched_title": "I'd Rather Love You",
+      "missing": false,
+      "actual_artist": "Charley Pride",
+      "actual_title": "I\u2019d Rather Love You",
+      "lyrics_path": "charley-pride\\_singles\\id-rather-love-you.txt"
+    },
+    {
+      "rank": 14,
+      "searched_artist": "Conway Twitty & Loretta Lynn",
+      "searched_title": "After The Fire Is Gone",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 15,
+      "searched_artist": "Bill Anderson",
+      "searched_title": "Quits",
+      "missing": false,
+      "actual_artist": "Bill Anderson",
+      "actual_title": "Quits",
+      "lyrics_path": "bill-anderson\\_singles\\quits.txt"
+    },
+    {
+      "rank": 16,
+      "searched_artist": "Ray Price",
+      "searched_title": "I'd Rather Be Sorry",
+      "missing": false,
+      "actual_artist": "Ray Price",
+      "actual_title": "I\u2019d Rather Be Sorry",
+      "lyrics_path": "ray-price\\_singles\\id-rather-be-sorry.txt"
+    },
+    {
+      "rank": 17,
+      "searched_artist": "Connie Smith",
+      "searched_title": "Just One Time",
+      "missing": false,
+      "actual_artist": "Connie Smith",
+      "actual_title": "Just One TIme",
+      "lyrics_path": "connie-smith\\_singles\\just-one-time.txt"
+    },
+    {
+      "rank": 18,
+      "searched_artist": "Buck Owens",
+      "searched_title": "Ruby (Are You Mad)",
+      "missing": false,
+      "actual_artist": "Buck Owens",
+      "actual_title": "Ruby (Are You Mad)",
+      "lyrics_path": "buck-owens\\_singles\\ruby-are-you-mad.txt"
+    },
+    {
+      "rank": 19,
+      "searched_artist": "Tammy Wynette",
+      "searched_title": "We Sure Can Love Each Other",
+      "missing": false,
+      "actual_artist": "Tammy Wynette",
+      "actual_title": "We Sure Can Love Each Other",
+      "lyrics_path": "tammy-wynette\\_singles\\we-sure-can-love-each-other.txt"
+    },
+    {
+      "rank": 20,
+      "searched_artist": "Sonny James",
+      "searched_title": "Bright Lights, Big City",
+      "missing": false,
+      "actual_artist": "Sonny James",
+      "actual_title": "Bright Lights, Big City",
+      "lyrics_path": "sonny-james\\_singles\\bright-lights-big-city.txt"
+    },
+    {
+      "rank": 21,
+      "searched_artist": "Bobby Bare",
+      "searched_title": "Come Sundown",
+      "missing": false,
+      "actual_artist": "Bobby Bare",
+      "actual_title": "Come Sundown",
+      "lyrics_path": "bobby-bare\\_singles\\come-sundown.txt"
+    },
+    {
+      "rank": 22,
+      "searched_artist": "Loretta Lynn",
+      "searched_title": "I Wanna Be Free",
+      "missing": false,
+      "actual_artist": "Loretta Lynn",
+      "actual_title": "I Wanna Be Free",
+      "lyrics_path": "loretta-lynn\\_singles\\i-wanna-be-free.txt"
+    },
+    {
+      "rank": 25,
+      "searched_artist": "Dolly Parton",
+      "searched_title": "Joshua",
+      "missing": false,
+      "actual_artist": "Dolly Parton",
+      "actual_title": "Joshua",
+      "lyrics_path": "dolly-parton\\_singles\\joshua.txt"
+    },
+    {
+      "rank": 26,
+      "searched_artist": "David Houston",
+      "searched_title": "A Woman Always Knows",
+      "missing": false,
+      "actual_artist": "David Houston",
+      "actual_title": "A Woman Always Knows",
+      "lyrics_path": "david-houston\\_singles\\a-woman-always-knows.txt"
+    },
+    {
+      "rank": 27,
+      "searched_artist": "Merle Haggard",
+      "searched_title": "Someday We'll Look Back",
+      "missing": false,
+      "actual_artist": "Merle Haggard",
+      "actual_title": "Someday We\u2019ll Look Back",
+      "lyrics_path": "merle-haggard\\_singles\\someday-well-look-back.txt"
+    },
+    {
+      "rank": 29,
+      "searched_artist": "Faron Young",
+      "searched_title": "Step Aside",
+      "missing": false,
+      "actual_artist": "Faron Young",
+      "actual_title": "Step Aside",
+      "lyrics_path": "faron-young\\_singles\\step-aside.txt"
+    },
+    {
+      "rank": 31,
+      "searched_artist": "Jerry Lee Lewis",
+      "searched_title": "Touching Home",
+      "missing": false,
+      "actual_artist": "Jerry Lee Lewis",
+      "actual_title": "Touching Home",
+      "lyrics_path": "jerry-lee-lewis\\_singles\\touching-home.txt"
+    },
+    {
+      "rank": 32,
+      "searched_artist": "Bill Anderson",
+      "searched_title": "Always Remember",
+      "missing": false,
+      "actual_artist": "Bill Anderson",
+      "actual_title": "Always Remember",
+      "lyrics_path": "bill-anderson\\_singles\\always-remember.txt"
+    },
+    {
+      "rank": 34,
+      "searched_artist": "Tommy Overstreet",
+      "searched_title": "Gwen (Congratulations)",
+      "missing": false,
+      "actual_artist": "Tommy Overstreet",
+      "actual_title": "Gwen (Congratulations)",
+      "lyrics_path": "tommy-overstreet\\_singles\\gwen-congratulations.txt"
+    },
+    {
+      "rank": 35,
+      "searched_artist": "Jeannie C. Riley",
+      "searched_title": "Oh, Singer",
+      "missing": false,
+      "actual_artist": "Jeannie C. Riley",
+      "actual_title": "Oh Singer",
+      "lyrics_path": "jeannie-c-riley\\_singles\\oh-singer.txt"
+    },
+    {
+      "rank": 37,
+      "searched_artist": "Freddy Weller",
+      "searched_title": "Indian Lake",
+      "missing": false,
+      "actual_artist": "Freddy Weller",
+      "actual_title": "Indian Lake",
+      "lyrics_path": "freddy-weller\\_singles\\indian-lake.txt"
+    },
+    {
+      "rank": 39,
+      "searched_artist": "Jody Miller",
+      "searched_title": "He's So Fine",
+      "missing": false,
+      "actual_artist": "Jody Miller",
+      "actual_title": "He\u2019s So Fine",
+      "lyrics_path": "jody-miller\\_singles\\hes-so-fine.txt"
+    },
+    {
+      "rank": 40,
+      "searched_artist": "Johnny Cash",
+      "searched_title": "Flesh And Blood",
+      "missing": false,
+      "actual_artist": "Johnny Cash",
+      "actual_title": "Flesh and Blood",
+      "lyrics_path": "johnny-cash\\_singles\\flesh-and-blood.txt"
+    },
+    {
+      "rank": 44,
+      "searched_artist": "Glen Campbell",
+      "searched_title": "Dream Baby (How Long Must I Dream)",
+      "missing": false,
+      "actual_artist": "Glen Campbell",
+      "actual_title": "Dream Baby (How Long Must I Dream)",
+      "lyrics_path": "glen-campbell\\_singles\\dream-baby-how-long-must-i-dream.txt"
+    },
+    {
+      "rank": 48,
+      "searched_artist": "Susan Raye",
+      "searched_title": "L.A. International Airport",
+      "missing": false,
+      "actual_artist": "Susan Raye",
+      "actual_title": "LA International Airport",
+      "lyrics_path": "susan-raye\\_singles\\la-international-airport.txt"
+    }
+  ]
+}

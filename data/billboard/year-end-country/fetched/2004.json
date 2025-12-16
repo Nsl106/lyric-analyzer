@@ -1,0 +1,544 @@
+{
+  "year": 2004,
+  "chart": "year-end-country",
+  "total_songs": 60,
+  "fetched": 58,
+  "songs": [
+    {
+      "rank": 1,
+      "searched_artist": "Tim McGraw",
+      "searched_title": "Live Like You Were Dying",
+      "missing": false,
+      "actual_artist": "Tim McGraw",
+      "actual_title": "Live Like You Were Dying",
+      "lyrics_path": "tim-mcgraw\\_singles\\live-like-you-were-dying.txt"
+    },
+    {
+      "rank": 2,
+      "searched_artist": "Alan Jackson",
+      "searched_title": "Remember When",
+      "missing": false,
+      "actual_artist": "Alan Jackson",
+      "actual_title": "Remember When",
+      "lyrics_path": "alan-jackson\\_singles\\remember-when.txt"
+    },
+    {
+      "rank": 3,
+      "searched_artist": "Keith Urban",
+      "searched_title": "You'll Think Of Me",
+      "missing": false,
+      "actual_artist": "Keith Urban",
+      "actual_title": "You\u2019ll Think of Me",
+      "lyrics_path": "keith-urban\\_singles\\youll-think-of-me.txt"
+    },
+    {
+      "rank": 4,
+      "searched_artist": "Kenny Chesney & Uncle Kracker",
+      "searched_title": "When The Sun Goes Down",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 5,
+      "searched_artist": "John Michael Montgomery",
+      "searched_title": "Letters From Home",
+      "missing": false,
+      "actual_artist": "John Michael Montgomery",
+      "actual_title": "Letters From Home",
+      "lyrics_path": "john-michael-montgomery\\_singles\\letters-from-home.txt"
+    },
+    {
+      "rank": 6,
+      "searched_artist": "Toby Keith",
+      "searched_title": "American Soldier",
+      "missing": false,
+      "actual_artist": "Toby Keith",
+      "actual_title": "American Soldier",
+      "lyrics_path": "toby-keith\\_singles\\american-soldier.txt"
+    },
+    {
+      "rank": 7,
+      "searched_artist": "Rascal Flatts",
+      "searched_title": "Mayberry",
+      "missing": false,
+      "actual_artist": "Rascal Flatts",
+      "actual_title": "Mayberry",
+      "lyrics_path": "rascal-flatts\\_singles\\mayberry.txt"
+    },
+    {
+      "rank": 8,
+      "searched_artist": "Sara Evans",
+      "searched_title": "Suds In The Bucket",
+      "missing": false,
+      "actual_artist": "Sara Evans",
+      "actual_title": "Suds in the Bucket",
+      "lyrics_path": "sara-evans\\_singles\\suds-in-the-bucket.txt"
+    },
+    {
+      "rank": 9,
+      "searched_artist": "Tim McGraw",
+      "searched_title": "Watch The Wind Blow By",
+      "missing": false,
+      "actual_artist": "Tim McGraw",
+      "actual_title": "Watch The Wind Blow By",
+      "lyrics_path": "tim-mcgraw\\_singles\\watch-the-wind-blow-by.txt"
+    },
+    {
+      "rank": 10,
+      "searched_artist": "Keith Urban",
+      "searched_title": "Days Go By",
+      "missing": false,
+      "actual_artist": "Keith Urban",
+      "actual_title": "Days Go By",
+      "lyrics_path": "keith-urban\\_singles\\days-go-by.txt"
+    },
+    {
+      "rank": 11,
+      "searched_artist": "Gretchen Wilson",
+      "searched_title": "Redneck Woman",
+      "missing": false,
+      "actual_artist": "Gretchen Wilson",
+      "actual_title": "Redneck Woman",
+      "lyrics_path": "gretchen-wilson\\_singles\\redneck-woman.txt"
+    },
+    {
+      "rank": 12,
+      "searched_artist": "Buddy Jewell",
+      "searched_title": "Sweet Southern Comfort",
+      "missing": false,
+      "actual_artist": "Buddy Jewell",
+      "actual_title": "Sweet Southern Comfort",
+      "lyrics_path": "buddy-jewell\\_singles\\sweet-southern-comfort.txt"
+    },
+    {
+      "rank": 13,
+      "searched_artist": "Montgomery Gentry",
+      "searched_title": "If You Ever Stop Loving Me",
+      "missing": false,
+      "actual_artist": "Montgomery Gentry",
+      "actual_title": "If You Ever Stop Loving Me",
+      "lyrics_path": "montgomery-gentry\\_singles\\if-you-ever-stop-loving-me.txt"
+    },
+    {
+      "rank": 14,
+      "searched_artist": "Kenny Chesney",
+      "searched_title": "I Go Back",
+      "missing": false,
+      "actual_artist": "Kenny Chesney",
+      "actual_title": "I Go Back",
+      "lyrics_path": "kenny-chesney\\_singles\\i-go-back.txt"
+    },
+    {
+      "rank": 15,
+      "searched_artist": "Brad Paisley",
+      "searched_title": "Little Moments",
+      "missing": false,
+      "actual_artist": "Brad Paisley",
+      "actual_title": "Little Moments",
+      "lyrics_path": "brad-paisley\\_singles\\little-moments.txt"
+    },
+    {
+      "rank": 16,
+      "searched_artist": "Reba McEntire",
+      "searched_title": "Somebody",
+      "missing": false,
+      "actual_artist": "Reba McEntire",
+      "actual_title": "Somebody",
+      "lyrics_path": "reba-mcentire\\_singles\\somebody.txt"
+    },
+    {
+      "rank": 17,
+      "searched_artist": "Sara Evans",
+      "searched_title": "Perfect",
+      "missing": false,
+      "actual_artist": "Sara Evans",
+      "actual_title": "Perfect",
+      "lyrics_path": "sara-evans\\_singles\\perfect.txt"
+    },
+    {
+      "rank": 18,
+      "searched_artist": "Brad Paisley Featuring Alison Krauss",
+      "searched_title": "Whiskey Lullaby",
+      "missing": false,
+      "actual_artist": "Brad Paisley",
+      "actual_title": "Whiskey Lullaby",
+      "lyrics_path": "brad-paisley\\_singles\\whiskey-lullaby.txt"
+    },
+    {
+      "rank": 19,
+      "searched_artist": "George Strait",
+      "searched_title": "I Hate Everything",
+      "missing": false,
+      "actual_artist": "George Strait",
+      "actual_title": "I Hate Everything",
+      "lyrics_path": "george-strait\\_singles\\i-hate-everything.txt"
+    },
+    {
+      "rank": 20,
+      "searched_artist": "Andy Griggs",
+      "searched_title": "She Thinks She Needs Me",
+      "missing": false,
+      "actual_artist": "Andy Griggs",
+      "actual_title": "She Thinks She Needs Me",
+      "lyrics_path": "andy-griggs\\_singles\\she-thinks-she-needs-me.txt"
+    },
+    {
+      "rank": 21,
+      "searched_artist": "Phil Vassar",
+      "searched_title": "In A Real Love",
+      "missing": false,
+      "actual_artist": "Phil Vassar",
+      "actual_title": "In a Real Love",
+      "lyrics_path": "phil-vassar\\_singles\\in-a-real-love.txt"
+    },
+    {
+      "rank": 22,
+      "searched_artist": "Kenny Chesney",
+      "searched_title": "There Goes My Life",
+      "missing": false,
+      "actual_artist": "Kenny Chesney",
+      "actual_title": "There Goes My Life",
+      "lyrics_path": "kenny-chesney\\_singles\\there-goes-my-life.txt"
+    },
+    {
+      "rank": 23,
+      "searched_artist": "Lonestar",
+      "searched_title": "Let's Be Us Again",
+      "missing": false,
+      "actual_artist": "Lonestar",
+      "actual_title": "Let\u2019s Be Us Again",
+      "lyrics_path": "lonestar\\_singles\\lets-be-us-again.txt"
+    },
+    {
+      "rank": 24,
+      "searched_artist": "Terri Clark",
+      "searched_title": "Girls Lie Too",
+      "missing": false,
+      "actual_artist": "Terri Clark",
+      "actual_title": "Girls Lie Too",
+      "lyrics_path": "terri-clark\\_singles\\girls-lie-too.txt"
+    },
+    {
+      "rank": 25,
+      "searched_artist": "Billy Currington",
+      "searched_title": "I Got A Feelin'",
+      "missing": false,
+      "actual_artist": "Billy Currington",
+      "actual_title": "I Got A Feelin\u2019",
+      "lyrics_path": "billy-currington\\_singles\\i-got-a-feelin.txt"
+    },
+    {
+      "rank": 26,
+      "searched_artist": "Joe Nichols",
+      "searched_title": "If Nobody Believed In You",
+      "missing": false,
+      "actual_artist": "Joe Nichols",
+      "actual_title": "If Nobody Believed in You",
+      "lyrics_path": "joe-nichols\\_singles\\if-nobody-believed-in-you.txt"
+    },
+    {
+      "rank": 27,
+      "searched_artist": "Brooks & Dunn",
+      "searched_title": "That's What It's All About",
+      "missing": false,
+      "actual_artist": "Brooks & Dunn",
+      "actual_title": "That\u2019s What It\u2019s All About",
+      "lyrics_path": "brooks--dunn\\_singles\\thats-what-its-all-about.txt"
+    },
+    {
+      "rank": 28,
+      "searched_artist": "Tracy Lawrence",
+      "searched_title": "Paint Me A Birmingham",
+      "missing": false,
+      "actual_artist": "Tracy Lawrence",
+      "actual_title": "Paint Me a Birmingham",
+      "lyrics_path": "tracy-lawrence\\_singles\\paint-me-a-birmingham.txt"
+    },
+    {
+      "rank": 29,
+      "searched_artist": "Gretchen Wilson",
+      "searched_title": "Here For The Party",
+      "missing": false,
+      "actual_artist": "Gretchen Wilson",
+      "actual_title": "Here For the Party",
+      "lyrics_path": "gretchen-wilson\\_singles\\here-for-the-party.txt"
+    },
+    {
+      "rank": 30,
+      "searched_artist": "Toby Keith",
+      "searched_title": "Whiskey Girl",
+      "missing": false,
+      "actual_artist": "Toby Keith",
+      "actual_title": "Whiskey Girl",
+      "lyrics_path": "toby-keith\\_singles\\whiskey-girl.txt"
+    },
+    {
+      "rank": 31,
+      "searched_artist": "George Strait",
+      "searched_title": "Desperately",
+      "missing": false,
+      "actual_artist": "George Strait",
+      "actual_title": "Desperately",
+      "lyrics_path": "george-strait\\_singles\\desperately.txt"
+    },
+    {
+      "rank": 32,
+      "searched_artist": "David Lee Murphy",
+      "searched_title": "Loco",
+      "missing": false,
+      "actual_artist": "David Lee Murphy",
+      "actual_title": "Loco",
+      "lyrics_path": "david-lee-murphy\\_singles\\loco.txt"
+    },
+    {
+      "rank": 33,
+      "searched_artist": "Alan Jackson",
+      "searched_title": "Too Much Of A Good Thing",
+      "missing": false,
+      "actual_artist": "Alan Jackson",
+      "actual_title": "Too Much Of A Good Thing",
+      "lyrics_path": "alan-jackson\\_singles\\too-much-of-a-good-thing.txt"
+    },
+    {
+      "rank": 34,
+      "searched_artist": "Trace Adkins",
+      "searched_title": "Hot Mama",
+      "missing": false,
+      "actual_artist": "Trace Adkins",
+      "actual_title": "Hot Mama",
+      "lyrics_path": "trace-adkins\\_singles\\hot-mama.txt"
+    },
+    {
+      "rank": 35,
+      "searched_artist": "Martina McBride",
+      "searched_title": "In My Daughter's Eyes",
+      "missing": false,
+      "actual_artist": "Martina McBride",
+      "actual_title": "In My Daughter\u2019s Eyes",
+      "lyrics_path": "martina-mcbride\\_singles\\in-my-daughters-eyes.txt"
+    },
+    {
+      "rank": 36,
+      "searched_artist": "Terri Clark",
+      "searched_title": "I Wanna Do It All",
+      "missing": false,
+      "actual_artist": "Terri Clark",
+      "actual_title": "I Wanna Do It All",
+      "lyrics_path": "terri-clark\\_singles\\i-wanna-do-it-all.txt"
+    },
+    {
+      "rank": 37,
+      "searched_artist": "Brooks & Dunn",
+      "searched_title": "That's What She Gets For Loving Me",
+      "missing": false,
+      "actual_artist": "Brooks & Dunn",
+      "actual_title": "That\u2019s What She Gets for Loving Me",
+      "lyrics_path": "brooks--dunn\\_singles\\thats-what-she-gets-for-loving-me.txt"
+    },
+    {
+      "rank": 38,
+      "searched_artist": "Josh Gracin",
+      "searched_title": "I Want To Live",
+      "missing": false,
+      "actual_artist": "Josh Gracin",
+      "actual_title": "I Want To Live",
+      "lyrics_path": "josh-gracin\\_singles\\i-want-to-live.txt"
+    },
+    {
+      "rank": 39,
+      "searched_artist": "Toby Keith",
+      "searched_title": "Stays In Mexico",
+      "missing": false,
+      "actual_artist": "Toby Keith",
+      "actual_title": "Stays in Mexico",
+      "lyrics_path": "toby-keith\\_singles\\stays-in-mexico.txt"
+    },
+    {
+      "rank": 40,
+      "searched_artist": "Gary Allan",
+      "searched_title": "Nothing On But The Radio",
+      "missing": false,
+      "actual_artist": "Gary Allan",
+      "actual_title": "Nothing On But The Radio",
+      "lyrics_path": "gary-allan\\_singles\\nothing-on-but-the-radio.txt"
+    },
+    {
+      "rank": 41,
+      "searched_artist": "Trace Adkins",
+      "searched_title": "Rough & Ready",
+      "missing": false,
+      "actual_artist": "Trace Adkins",
+      "actual_title": "Rough & Ready",
+      "lyrics_path": "trace-adkins\\_singles\\rough--ready.txt"
+    },
+    {
+      "rank": 42,
+      "searched_artist": "Jimmy Wayne",
+      "searched_title": "I Love You This Much",
+      "missing": false,
+      "actual_artist": "Jimmy Wayne",
+      "actual_title": "I Love You This Much",
+      "lyrics_path": "jimmy-wayne\\_singles\\i-love-you-this-much.txt"
+    },
+    {
+      "rank": 43,
+      "searched_artist": "Brooks & Dunn",
+      "searched_title": "You Can't Take The Honky Tonk Out Of The Girl",
+      "missing": false,
+      "actual_artist": "Brooks & Dunn",
+      "actual_title": "You Can\u2019t Take The Honky Tonk Out Of The Girl",
+      "lyrics_path": "brooks--dunn\\_singles\\you-cant-take-the-honky-tonk-out-of-the-girl.txt"
+    },
+    {
+      "rank": 44,
+      "searched_artist": "Lonestar",
+      "searched_title": "Mr. Mom",
+      "missing": false,
+      "actual_artist": "Lonestar",
+      "actual_title": "Mr. Mom",
+      "lyrics_path": "lonestar\\_singles\\mr-mom.txt"
+    },
+    {
+      "rank": 45,
+      "searched_artist": "Rascal Flatts",
+      "searched_title": "Feels Like Today",
+      "missing": false,
+      "actual_artist": "Rascal Flatts",
+      "actual_title": "Feels Like Today",
+      "lyrics_path": "rascal-flatts\\_singles\\feels-like-today.txt"
+    },
+    {
+      "rank": 46,
+      "searched_artist": "Gary Allan",
+      "searched_title": "Songs About Rain",
+      "missing": false,
+      "actual_artist": "Gary Allan",
+      "actual_title": "Songs About Rain",
+      "lyrics_path": "gary-allan\\_singles\\songs-about-rain.txt"
+    },
+    {
+      "rank": 47,
+      "searched_artist": "Dierks Bentley",
+      "searched_title": "How Am I Doin'",
+      "missing": false,
+      "actual_artist": "Dierks Bentley",
+      "actual_title": "How Am I Doin\u2019",
+      "lyrics_path": "dierks-bentley\\_singles\\how-am-i-doin.txt"
+    },
+    {
+      "rank": 48,
+      "searched_artist": "Blue County",
+      "searched_title": "Good Little Girls",
+      "missing": false,
+      "actual_artist": "Blue County",
+      "actual_title": "Good Little Girls",
+      "lyrics_path": "blue-county\\_singles\\good-little-girls.txt"
+    },
+    {
+      "rank": 49,
+      "searched_artist": "Carolyn Dawn Johnson",
+      "searched_title": "Simple Life",
+      "missing": false,
+      "actual_artist": "Carolyn Dawn Johnson",
+      "actual_title": "Simple Life",
+      "lyrics_path": "carolyn-dawn-johnson\\_singles\\simple-life.txt"
+    },
+    {
+      "rank": 50,
+      "searched_artist": "Josh Turner",
+      "searched_title": "Long Black Train",
+      "missing": false,
+      "actual_artist": "Josh Turner",
+      "actual_title": "Long Black Train",
+      "lyrics_path": "josh-turner\\_singles\\long-black-train.txt"
+    },
+    {
+      "rank": 51,
+      "searched_artist": "Clay Walker",
+      "searched_title": "I Can't Sleep",
+      "missing": false,
+      "actual_artist": "Clay Walker",
+      "actual_title": "I Can\u2019t Sleep",
+      "lyrics_path": "clay-walker\\_singles\\i-cant-sleep.txt"
+    },
+    {
+      "rank": 52,
+      "searched_artist": "Toby Keith",
+      "searched_title": "I Love This Bar",
+      "missing": false,
+      "actual_artist": "Toby Keith",
+      "actual_title": "I Love This Bar",
+      "lyrics_path": "toby-keith\\_singles\\i-love-this-bar.txt"
+    },
+    {
+      "rank": 53,
+      "searched_artist": "Jimmy Buffett With Clint Black, Kenny Chesney, Alan Jackson, Toby Keith & George Strait",
+      "searched_title": "Hey Good Lookin'",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 54,
+      "searched_artist": "Big & Rich",
+      "searched_title": "Save A Horse (Ride A Cowboy)",
+      "missing": false,
+      "actual_artist": "Big & Rich",
+      "actual_title": "Save a Horse (Ride a Cowboy)",
+      "lyrics_path": "big--rich\\_singles\\save-a-horse-ride-a-cowboy.txt"
+    },
+    {
+      "rank": 55,
+      "searched_artist": "Martina McBride",
+      "searched_title": "How Far",
+      "missing": false,
+      "actual_artist": "Martina McBride",
+      "actual_title": "How Far",
+      "lyrics_path": "martina-mcbride\\_singles\\how-far.txt"
+    },
+    {
+      "rank": 56,
+      "searched_artist": "Dierks Bentley",
+      "searched_title": "My Last Name",
+      "missing": false,
+      "actual_artist": "Dierks Bentley",
+      "actual_title": "My Last Name",
+      "lyrics_path": "dierks-bentley\\_singles\\my-last-name.txt"
+    },
+    {
+      "rank": 57,
+      "searched_artist": "SHeDAISY",
+      "searched_title": "Passenger Seat",
+      "missing": false,
+      "actual_artist": "SHeDAISY",
+      "actual_title": "Passenger Seat",
+      "lyrics_path": "shedaisy\\_singles\\passenger-seat.txt"
+    },
+    {
+      "rank": 58,
+      "searched_artist": "Shania Twain",
+      "searched_title": "She's Not Just A Pretty Face",
+      "missing": false,
+      "actual_artist": "Shania Twain",
+      "actual_title": "She\u2019s Not Just a Pretty Face",
+      "lyrics_path": "shania-twain\\_singles\\shes-not-just-a-pretty-face.txt"
+    },
+    {
+      "rank": 59,
+      "searched_artist": "Tracy Byrd",
+      "searched_title": "Drinkin' Bone",
+      "missing": false,
+      "actual_artist": "Tracy Byrd",
+      "actual_title": "Drinkin\u2019 Bone",
+      "lyrics_path": "tracy-byrd\\_singles\\drinkin-bone.txt"
+    },
+    {
+      "rank": 60,
+      "searched_artist": "Clint Black",
+      "searched_title": "Spend My Time",
+      "missing": false,
+      "actual_artist": "Clint Black",
+      "actual_title": "Spend My Time",
+      "lyrics_path": "clint-black\\_singles\\spend-my-time.txt"
+    }
+  ]
+}

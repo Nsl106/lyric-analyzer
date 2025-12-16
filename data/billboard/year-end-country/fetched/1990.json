@@ -1,0 +1,646 @@
+{
+  "year": 1990,
+  "chart": "year-end-country",
+  "total_songs": 72,
+  "fetched": 67,
+  "songs": [
+    {
+      "rank": 1,
+      "searched_artist": "Clint Black",
+      "searched_title": "Nobody's Home",
+      "missing": false,
+      "actual_artist": "Clint Black",
+      "actual_title": "Nobody\u2019s Home",
+      "lyrics_path": "clint-black\\_singles\\nobodys-home.txt"
+    },
+    {
+      "rank": 2,
+      "searched_artist": "Randy Travis",
+      "searched_title": "Hard Rock Bottom Of Your Heart",
+      "missing": false,
+      "actual_artist": "Randy Travis",
+      "actual_title": "Hard Rock Bottom of Your Heart",
+      "lyrics_path": "randy-travis\\_singles\\hard-rock-bottom-of-your-heart.txt"
+    },
+    {
+      "rank": 3,
+      "searched_artist": "Eddie Rabbitt",
+      "searched_title": "On Second Thought",
+      "missing": false,
+      "actual_artist": "Eddie Rabbitt",
+      "actual_title": "On Second Thought",
+      "lyrics_path": "eddie-rabbitt\\_singles\\on-second-thought.txt"
+    },
+    {
+      "rank": 4,
+      "searched_artist": "George Strait",
+      "searched_title": "Love Without End, Amen",
+      "missing": false,
+      "actual_artist": "George Strait",
+      "actual_title": "Love Without End, Amen",
+      "lyrics_path": "george-strait\\_singles\\love-without-end-amen.txt"
+    },
+    {
+      "rank": 5,
+      "searched_artist": "Clint Black",
+      "searched_title": "Walkin' Away",
+      "missing": false,
+      "actual_artist": "Clint Black",
+      "actual_title": "Walkin\u2019 Away",
+      "lyrics_path": "clint-black\\_singles\\walkin-away.txt"
+    },
+    {
+      "rank": 6,
+      "searched_artist": "Ricky Van Shelton",
+      "searched_title": "I've Cried My Last Tear For You",
+      "missing": false,
+      "actual_artist": "Ricky Van Shelton",
+      "actual_title": "I\u2019ve Cried My Last Tear For You",
+      "lyrics_path": "ricky-van-shelton\\_singles\\ive-cried-my-last-tear-for-you.txt"
+    },
+    {
+      "rank": 7,
+      "searched_artist": "The Oak Ridge Boys",
+      "searched_title": "No Matter How High",
+      "missing": false,
+      "actual_artist": "The Oak Ridge Boys",
+      "actual_title": "No Matter How High",
+      "lyrics_path": "the-oak-ridge-boys\\_singles\\no-matter-how-high.txt"
+    },
+    {
+      "rank": 8,
+      "searched_artist": "Travis Tritt",
+      "searched_title": "Help Me Hold On",
+      "missing": false,
+      "actual_artist": "Travis Tritt",
+      "actual_title": "Help Me Hold On",
+      "lyrics_path": "travis-tritt\\_singles\\help-me-hold-on.txt"
+    },
+    {
+      "rank": 9,
+      "searched_artist": "Patty Loveless",
+      "searched_title": "Chains",
+      "missing": false,
+      "actual_artist": "Patty Loveless",
+      "actual_title": "Chains",
+      "lyrics_path": "patty-loveless\\_singles\\chains.txt"
+    },
+    {
+      "rank": 10,
+      "searched_artist": "Alan Jackson",
+      "searched_title": "Here In The Real World",
+      "missing": false,
+      "actual_artist": "Alan Jackson",
+      "actual_title": "Here in the Real World",
+      "lyrics_path": "alan-jackson\\_singles\\here-in-the-real-world.txt"
+    },
+    {
+      "rank": 11,
+      "searched_artist": "Alabama",
+      "searched_title": "Southern Star",
+      "missing": false,
+      "actual_artist": "Alabama",
+      "actual_title": "Southern Star",
+      "lyrics_path": "alabama\\_singles\\southern-star.txt"
+    },
+    {
+      "rank": 12,
+      "searched_artist": "Dan Seals",
+      "searched_title": "Love On Arrival",
+      "missing": false,
+      "actual_artist": "Dan Seals",
+      "actual_title": "Love On Arrival",
+      "lyrics_path": "dan-seals\\_singles\\love-on-arrival.txt"
+    },
+    {
+      "rank": 13,
+      "searched_artist": "Garth Brooks",
+      "searched_title": "The Dance",
+      "missing": false,
+      "actual_artist": "Garth Brooks",
+      "actual_title": "The Dance",
+      "lyrics_path": "garth-brooks\\_singles\\the-dance.txt"
+    },
+    {
+      "rank": 14,
+      "searched_artist": "Lorrie Morgan",
+      "searched_title": "Five Minutes",
+      "missing": false,
+      "actual_artist": "Lorrie Morgan",
+      "actual_title": "Five Minutes",
+      "lyrics_path": "lorrie-morgan\\_singles\\five-minutes.txt"
+    },
+    {
+      "rank": 15,
+      "searched_artist": "Keith Whitley",
+      "searched_title": "I'm Over You",
+      "missing": false,
+      "actual_artist": "Keith Whitley",
+      "actual_title": "I\u2019m Over You",
+      "lyrics_path": "keith-whitley\\_singles\\im-over-you.txt"
+    },
+    {
+      "rank": 16,
+      "searched_artist": "Paul Overstreet",
+      "searched_title": "Seein' My Father In Me",
+      "missing": false,
+      "actual_artist": "Paul Overstreet",
+      "actual_title": "Seein\u2019 My Father In Me",
+      "lyrics_path": "paul-overstreet\\_singles\\seein-my-father-in-me.txt"
+    },
+    {
+      "rank": 17,
+      "searched_artist": "Tanya Tucker",
+      "searched_title": "My Arms Stay Open All Night",
+      "missing": false,
+      "actual_artist": "Tanya Tucker",
+      "actual_title": "My Arms Stay Open All Night",
+      "lyrics_path": "tanya-tucker\\_singles\\my-arms-stay-open-all-night.txt"
+    },
+    {
+      "rank": 18,
+      "searched_artist": "Alabama",
+      "searched_title": "Jukebox In My Mind",
+      "missing": false,
+      "actual_artist": "Alabama",
+      "actual_title": "Jukebox In My Mind",
+      "lyrics_path": "alabama\\_singles\\jukebox-in-my-mind.txt"
+    },
+    {
+      "rank": 19,
+      "searched_artist": "Ricky Van Shelton",
+      "searched_title": "Statue Of A Fool",
+      "missing": false,
+      "actual_artist": "Ricky Van Shelton",
+      "actual_title": "Statue Of A Fool",
+      "lyrics_path": "ricky-van-shelton\\_singles\\statue-of-a-fool.txt"
+    },
+    {
+      "rank": 20,
+      "searched_artist": "Garth Brooks",
+      "searched_title": "Not Counting You",
+      "missing": false,
+      "actual_artist": "Garth Brooks",
+      "actual_title": "Not Counting You",
+      "lyrics_path": "garth-brooks\\_singles\\not-counting-you.txt"
+    },
+    {
+      "rank": 21,
+      "searched_artist": "Ronnie Milsap",
+      "searched_title": "Stranger Things Have Happened",
+      "missing": false,
+      "actual_artist": "Ronnie Milsap",
+      "actual_title": "Stranger Things Have Happened",
+      "lyrics_path": "ronnie-milsap\\_singles\\stranger-things-have-happened.txt"
+    },
+    {
+      "rank": 22,
+      "searched_artist": "Shenandoah",
+      "searched_title": "Next To You, Next To Me",
+      "missing": false,
+      "actual_artist": "Shenandoah",
+      "actual_title": "Next to You,  Next to Me",
+      "lyrics_path": "shenandoah\\_singles\\next-to-you--next-to-me.txt"
+    },
+    {
+      "rank": 23,
+      "searched_artist": "Randy Travis",
+      "searched_title": "He Walked On Water",
+      "missing": false,
+      "actual_artist": "Randy Travis",
+      "actual_title": "He Walked on Water",
+      "lyrics_path": "randy-travis\\_singles\\he-walked-on-water.txt"
+    },
+    {
+      "rank": 24,
+      "searched_artist": "Clint Black",
+      "searched_title": "Nothing's News",
+      "missing": false,
+      "actual_artist": "Clint Black",
+      "actual_title": "Nothing\u2019s News",
+      "lyrics_path": "clint-black\\_singles\\nothings-news.txt"
+    },
+    {
+      "rank": 25,
+      "searched_artist": "Dan Seals",
+      "searched_title": "Good Times",
+      "missing": false,
+      "actual_artist": "Dan Seals",
+      "actual_title": "Good Times",
+      "lyrics_path": "dan-seals\\_singles\\good-times.txt"
+    },
+    {
+      "rank": 26,
+      "searched_artist": "Ricky Van Shelton",
+      "searched_title": "I Meant Every Word He Said",
+      "missing": false,
+      "actual_artist": "Ricky Van Shelton",
+      "actual_title": "I Meant Every Word He Said",
+      "lyrics_path": "ricky-van-shelton\\_singles\\i-meant-every-word-he-said.txt"
+    },
+    {
+      "rank": 27,
+      "searched_artist": "The Desert Rose Band",
+      "searched_title": "Start All Over Again",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 28,
+      "searched_artist": "Garth Brooks",
+      "searched_title": "Friends In Low Places",
+      "missing": false,
+      "actual_artist": "Garth Brooks",
+      "actual_title": "Friends in Low Places",
+      "lyrics_path": "garth-brooks\\_singles\\friends-in-low-places.txt"
+    },
+    {
+      "rank": 29,
+      "searched_artist": "Steve Wariner",
+      "searched_title": "When I Could Come Home To You",
+      "missing": false,
+      "actual_artist": "Steve Wariner",
+      "actual_title": "When I Could Come Home to You",
+      "lyrics_path": "steve-wariner\\_singles\\when-i-could-come-home-to-you.txt"
+    },
+    {
+      "rank": 30,
+      "searched_artist": "Alan Jackson",
+      "searched_title": "Wanted",
+      "missing": false,
+      "actual_artist": "Alan Jackson",
+      "actual_title": "Wanted",
+      "lyrics_path": "alan-jackson\\_singles\\wanted.txt"
+    },
+    {
+      "rank": 31,
+      "searched_artist": "Reba McEntire",
+      "searched_title": "Walk On",
+      "missing": false,
+      "actual_artist": "Reba McEntire",
+      "actual_title": "Walk On",
+      "lyrics_path": "reba-mcentire\\_singles\\walk-on.txt"
+    },
+    {
+      "rank": 32,
+      "searched_artist": "Lee Greenwood",
+      "searched_title": "Holdin' A Good Hand",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 33,
+      "searched_artist": "Travis Tritt",
+      "searched_title": "I'm Gonna Be Somebody",
+      "missing": false,
+      "actual_artist": "Travis Tritt",
+      "actual_title": "I\u2019m Gonna Be Somebody",
+      "lyrics_path": "travis-tritt\\_singles\\im-gonna-be-somebody.txt"
+    },
+    {
+      "rank": 35,
+      "searched_artist": "Alabama",
+      "searched_title": "Pass It On Down",
+      "missing": false,
+      "actual_artist": "Alabama",
+      "actual_title": "Pass It On Down",
+      "lyrics_path": "alabama\\_singles\\pass-it-on-down.txt"
+    },
+    {
+      "rank": 36,
+      "searched_artist": "Lorrie Morgan",
+      "searched_title": "Out Of Your Shoes",
+      "missing": false,
+      "actual_artist": "Lorrie Morgan",
+      "actual_title": "Out of Your Shoes",
+      "lyrics_path": "lorrie-morgan\\_singles\\out-of-your-shoes.txt"
+    },
+    {
+      "rank": 37,
+      "searched_artist": "Restless Heart",
+      "searched_title": "Fast Movin' Train",
+      "missing": false,
+      "actual_artist": "Restless Heart",
+      "actual_title": "Fast Movin\u2019 Train",
+      "lyrics_path": "restless-heart\\_singles\\fast-movin-train.txt"
+    },
+    {
+      "rank": 38,
+      "searched_artist": "Ronnie Milsap",
+      "searched_title": "A Woman In Love",
+      "missing": false,
+      "actual_artist": "Ronnie Milsap",
+      "actual_title": "A Woman in Love",
+      "lyrics_path": "ronnie-milsap\\_singles\\a-woman-in-love.txt"
+    },
+    {
+      "rank": 39,
+      "searched_artist": "Vince Gill",
+      "searched_title": "When I Call Your Name",
+      "missing": false,
+      "actual_artist": "Vince Gill",
+      "actual_title": "When I Call Your Name",
+      "lyrics_path": "vince-gill\\_singles\\when-i-call-your-name.txt"
+    },
+    {
+      "rank": 40,
+      "searched_artist": "Keith Whitley",
+      "searched_title": "It Ain't Nothin'",
+      "missing": false,
+      "actual_artist": "Keith Whitley",
+      "actual_title": "It Ain\u2019t Nothin\u2019",
+      "lyrics_path": "keith-whitley\\_singles\\it-aint-nothin.txt"
+    },
+    {
+      "rank": 41,
+      "searched_artist": "Tanya Tucker",
+      "searched_title": "Walking Shoes",
+      "missing": false,
+      "actual_artist": "Tanya Tucker",
+      "actual_title": "Walking Shoes",
+      "lyrics_path": "tanya-tucker\\_singles\\walking-shoes.txt"
+    },
+    {
+      "rank": 42,
+      "searched_artist": "Kathy Mattea",
+      "searched_title": "She Came From Fort Worth",
+      "missing": false,
+      "actual_artist": "Kathy Mattea",
+      "actual_title": "She Came From Fort Worth",
+      "lyrics_path": "kathy-mattea\\_singles\\she-came-from-fort-worth.txt"
+    },
+    {
+      "rank": 43,
+      "searched_artist": "Billy Joe Royal",
+      "searched_title": "Till I Can't Take It Anymore",
+      "missing": false,
+      "actual_artist": "Billy Joe Royal",
+      "actual_title": "Till I Can\u2019t Take It Anymore",
+      "lyrics_path": "billy-joe-royal\\_singles\\till-i-cant-take-it-anymore.txt"
+    },
+    {
+      "rank": 44,
+      "searched_artist": "Don Williams",
+      "searched_title": "Just As Long As I Have You",
+      "missing": false,
+      "actual_artist": "Don Williams",
+      "actual_title": "Just As Long As I Have You",
+      "lyrics_path": "don-williams\\_singles\\just-as-long-as-i-have-you.txt"
+    },
+    {
+      "rank": 46,
+      "searched_artist": "Highway 101",
+      "searched_title": "Walkin', Talkin', Cryin', Barely Beatin' Broken Heart",
+      "missing": false,
+      "actual_artist": "Highway 101",
+      "actual_title": "Walkin\u2019, Talkin\u2019, Cryin\u2019, Barely Beatin\u2019 Broken Heart",
+      "lyrics_path": "highway-101\\_singles\\walkin-talkin-cryin-barely-beatin-broken-heart.txt"
+    },
+    {
+      "rank": 47,
+      "searched_artist": "Rodney Crowell",
+      "searched_title": "Many A Long & Lonesome Highway",
+      "missing": false,
+      "actual_artist": "Rodney Crowell",
+      "actual_title": "Many A Long And Lonesome Highway",
+      "lyrics_path": "rodney-crowell\\_singles\\many-a-long-and-lonesome-highway.txt"
+    },
+    {
+      "rank": 48,
+      "searched_artist": "Baillie and the Boys",
+      "searched_title": "I Can't Turn The Tide",
+      "missing": false,
+      "actual_artist": "Baillie & The Boys",
+      "actual_title": "I Can\u2019t Turn The Tide",
+      "lyrics_path": "baillie--the-boys\\_singles\\i-cant-turn-the-tide.txt"
+    },
+    {
+      "rank": 49,
+      "searched_artist": "Highway 101",
+      "searched_title": "Who's Lonely Now",
+      "missing": false,
+      "actual_artist": "Highway 101",
+      "actual_title": "Who\u2019s Lonely Now",
+      "lyrics_path": "highway-101\\_singles\\whos-lonely-now.txt"
+    },
+    {
+      "rank": 50,
+      "searched_artist": "Shenandoah",
+      "searched_title": "Two Dozen Roses",
+      "missing": false,
+      "actual_artist": "Shenandoah",
+      "actual_title": "Two Dozen Roses",
+      "lyrics_path": "shenandoah\\_singles\\two-dozen-roses.txt"
+    },
+    {
+      "rank": 51,
+      "searched_artist": "George Strait",
+      "searched_title": "Overnight Success",
+      "missing": false,
+      "actual_artist": "George Strait",
+      "actual_title": "Overnight Success",
+      "lyrics_path": "george-strait\\_singles\\overnight-success.txt"
+    },
+    {
+      "rank": 52,
+      "searched_artist": "Vern Gosdin",
+      "searched_title": "That Just About Does It",
+      "missing": false,
+      "actual_artist": "Vern Gosdin",
+      "actual_title": "That Just About Does It",
+      "lyrics_path": "vern-gosdin\\_singles\\that-just-about-does-it.txt"
+    },
+    {
+      "rank": 53,
+      "searched_artist": "Skip Ewing",
+      "searched_title": "It's You Again",
+      "missing": false,
+      "actual_artist": "Skip Ewing",
+      "actual_title": "It\u2019s You Again",
+      "lyrics_path": "skip-ewing\\_singles\\its-you-again.txt"
+    },
+    {
+      "rank": 54,
+      "searched_artist": "Patty Loveless",
+      "searched_title": "On Down The Line",
+      "missing": false,
+      "actual_artist": "Patty Loveless",
+      "actual_title": "On Down The Line",
+      "lyrics_path": "patty-loveless\\_singles\\on-down-the-line.txt"
+    },
+    {
+      "rank": 55,
+      "searched_artist": "Kathy Mattea",
+      "searched_title": "Where've You Been",
+      "missing": false,
+      "actual_artist": "Kathy Mattea",
+      "actual_title": "Where\u2019ve You Been",
+      "lyrics_path": "kathy-mattea\\_singles\\whereve-you-been.txt"
+    },
+    {
+      "rank": 56,
+      "searched_artist": "The Forester Sisters",
+      "searched_title": "Leave It Alone",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 57,
+      "searched_artist": "Reba McEntire",
+      "searched_title": "You Lie",
+      "missing": false,
+      "actual_artist": "Reba McEntire",
+      "actual_title": "You Lie",
+      "lyrics_path": "reba-mcentire\\_singles\\you-lie.txt"
+    },
+    {
+      "rank": 58,
+      "searched_artist": "Reba McEntire",
+      "searched_title": "Little Girl",
+      "missing": false,
+      "actual_artist": "Reba McEntire",
+      "actual_title": "Little Girl",
+      "lyrics_path": "reba-mcentire\\_singles\\little-girl.txt"
+    },
+    {
+      "rank": 59,
+      "searched_artist": "Exile",
+      "searched_title": "Nobody's Talking",
+      "missing": false,
+      "actual_artist": "Exile (Band)",
+      "actual_title": "Nobody\u2019s Talking",
+      "lyrics_path": "exile-band\\_singles\\nobodys-talking.txt"
+    },
+    {
+      "rank": 60,
+      "searched_artist": "Carlene Carter",
+      "searched_title": "I Fell In Love",
+      "missing": false,
+      "actual_artist": "Carlene Carter",
+      "actual_title": "I Fell In Love",
+      "lyrics_path": "carlene-carter\\_singles\\i-fell-in-love.txt"
+    },
+    {
+      "rank": 61,
+      "searched_artist": "Eddy Raven",
+      "searched_title": "Sooner Or Later",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 62,
+      "searched_artist": "T. Graham Brown",
+      "searched_title": "If You Could Only See Me Now",
+      "missing": false,
+      "actual_artist": "T. Graham Brown",
+      "actual_title": "If You Could Only See Me Now",
+      "lyrics_path": "t-graham-brown\\_singles\\if-you-could-only-see-me-now.txt"
+    },
+    {
+      "rank": 63,
+      "searched_artist": "Doug Stone",
+      "searched_title": "Fourteen Minutes Old",
+      "missing": false,
+      "actual_artist": "Doug Stone",
+      "actual_title": "Fourteen Minutes Old",
+      "lyrics_path": "doug-stone\\_singles\\fourteen-minutes-old.txt"
+    },
+    {
+      "rank": 64,
+      "searched_artist": "Lorrie Morgan",
+      "searched_title": "He Talks To Me",
+      "missing": false,
+      "actual_artist": "Lorrie Morgan",
+      "actual_title": "He Talks to Me",
+      "lyrics_path": "lorrie-morgan\\_singles\\he-talks-to-me.txt"
+    },
+    {
+      "rank": 65,
+      "searched_artist": "Waylon Jennings",
+      "searched_title": "Wrong",
+      "missing": false,
+      "actual_artist": "Waylon Jennings",
+      "actual_title": "Wrong",
+      "lyrics_path": "waylon-jennings\\_singles\\wrong.txt"
+    },
+    {
+      "rank": 66,
+      "searched_artist": "The Judds",
+      "searched_title": "One Man Woman",
+      "missing": false,
+      "actual_artist": "The Judds",
+      "actual_title": "One Man Woman",
+      "lyrics_path": "the-judds\\_singles\\one-man-woman.txt"
+    },
+    {
+      "rank": 67,
+      "searched_artist": "Restless Heart",
+      "searched_title": "Dancy's Dream",
+      "missing": false,
+      "actual_artist": "Restless Heart",
+      "actual_title": "Dancy\u2019s Dream",
+      "lyrics_path": "restless-heart\\_singles\\dancys-dream.txt"
+    },
+    {
+      "rank": 68,
+      "searched_artist": "Lionel Cartwright",
+      "searched_title": "I Watched It All (On My Radio)",
+      "missing": false,
+      "actual_artist": "Lionel Cartwright",
+      "actual_title": "I Watched It All (On My Radio)",
+      "lyrics_path": "lionel-cartwright\\_singles\\i-watched-it-all-on-my-radio.txt"
+    },
+    {
+      "rank": 69,
+      "searched_artist": "Tanya Tucker With T. Graham Brown",
+      "searched_title": "Don't Go Out",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 71,
+      "searched_artist": "Paul Overstreet",
+      "searched_title": "Richest Man On Earth",
+      "missing": false,
+      "actual_artist": "Paul Overstreet",
+      "actual_title": "Richest Man on Earth",
+      "lyrics_path": "paul-overstreet\\_singles\\richest-man-on-earth.txt"
+    },
+    {
+      "rank": 72,
+      "searched_artist": "George Strait",
+      "searched_title": "Drinking Champagne",
+      "missing": false,
+      "actual_artist": "George Strait",
+      "actual_title": "Drinking Champagne",
+      "lyrics_path": "george-strait\\_singles\\drinking-champagne.txt"
+    },
+    {
+      "rank": 73,
+      "searched_artist": "The Kentucky Headhunters",
+      "searched_title": "Oh Lonesome Me",
+      "missing": false,
+      "actual_artist": "The Kentucky Headhunters",
+      "actual_title": "Oh Lonesome Me",
+      "lyrics_path": "the-kentucky-headhunters\\_singles\\oh-lonesome-me.txt"
+    },
+    {
+      "rank": 74,
+      "searched_artist": "The Bellamy Brothers",
+      "searched_title": "I Could Be Persuaded",
+      "missing": false,
+      "actual_artist": "The Bellamy Brothers",
+      "actual_title": "I Could Be Persuaded",
+      "lyrics_path": "the-bellamy-brothers\\_singles\\i-could-be-persuaded.txt"
+    },
+    {
+      "rank": 75,
+      "searched_artist": "Garth Brooks",
+      "searched_title": "If Tomorrow Never Comes",
+      "missing": false,
+      "actual_artist": "Garth Brooks",
+      "actual_title": "If Tomorrow Never Comes",
+      "lyrics_path": "garth-brooks\\_singles\\if-tomorrow-never-comes.txt"
+    }
+  ]
+}

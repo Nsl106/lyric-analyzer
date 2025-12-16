@@ -1,0 +1,302 @@
+{
+  "year": 1970,
+  "chart": "year-end-country",
+  "total_songs": 34,
+  "fetched": 28,
+  "songs": [
+    {
+      "rank": 1,
+      "searched_artist": "Conway Twitty",
+      "searched_title": "Hello Darlin'",
+      "missing": false,
+      "actual_artist": "Conway Twitty",
+      "actual_title": "Hello Darlin\u2019",
+      "lyrics_path": "conway-twitty\\_singles\\hello-darlin.txt"
+    },
+    {
+      "rank": 2,
+      "searched_artist": "Ray Price",
+      "searched_title": "For The Good Times/Grazin' In Greener Pastures",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 4,
+      "searched_artist": "Sonny James",
+      "searched_title": "Don't Keep Me Hangin' On",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 6,
+      "searched_artist": "Charley Pride",
+      "searched_title": "Wonder Could I Live There Anymore",
+      "missing": false,
+      "actual_artist": "Charley Pride",
+      "actual_title": "Wonder Could I Live There Anymore",
+      "lyrics_path": "charley-pride\\_singles\\wonder-could-i-live-there-anymore.txt"
+    },
+    {
+      "rank": 7,
+      "searched_artist": "Sonny James",
+      "searched_title": "It's Just A Matter Of Time",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 8,
+      "searched_artist": "Sonny James",
+      "searched_title": "My Love",
+      "missing": false,
+      "actual_artist": "Sonny James",
+      "actual_title": "My Love",
+      "lyrics_path": "sonny-james\\_singles\\my-love.txt"
+    },
+    {
+      "rank": 10,
+      "searched_artist": "Tammy Wynette",
+      "searched_title": "He Loves Me All The Way",
+      "missing": false,
+      "actual_artist": "Tammy Wynette",
+      "actual_title": "He Loves Me All The Way",
+      "lyrics_path": "tammy-wynette\\_singles\\he-loves-me-all-the-way.txt"
+    },
+    {
+      "rank": 11,
+      "searched_artist": "Marty Robbins",
+      "searched_title": "My Woman, My Woman, My Wife",
+      "missing": false,
+      "actual_artist": "Marty Robbins",
+      "actual_title": "My Woman, My Woman, My Wife",
+      "lyrics_path": "marty-robbins\\_singles\\my-woman-my-woman-my-wife.txt"
+    },
+    {
+      "rank": 12,
+      "searched_artist": "Jerry Lee Lewis",
+      "searched_title": "There Must Be More To Love Than This",
+      "missing": false,
+      "actual_artist": "Jerry Lee Lewis",
+      "actual_title": "There Must Be More to Love Than This",
+      "lyrics_path": "jerry-lee-lewis\\_singles\\there-must-be-more-to-love-than-this.txt"
+    },
+    {
+      "rank": 14,
+      "searched_artist": "Johnny Cash",
+      "searched_title": "Sunday Morning Coming Down",
+      "missing": false,
+      "actual_artist": "Johnny Cash",
+      "actual_title": "Sunday Morning Coming Down (1988 Version)",
+      "lyrics_path": "johnny-cash\\_singles\\sunday-morning-coming-down-1988-version.txt"
+    },
+    {
+      "rank": 18,
+      "searched_artist": "David Houston",
+      "searched_title": "I Do My Swinging At Home",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 19,
+      "searched_artist": "George Hamilton IV",
+      "searched_title": "She's A Little Bit Country",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 20,
+      "searched_artist": "Mel Tillis",
+      "searched_title": "Heart Over Mind",
+      "missing": false,
+      "actual_artist": "Mel Tillis",
+      "actual_title": "Heart Over Mind",
+      "lyrics_path": "mel-tillis\\_singles\\heart-over-mind.txt"
+    },
+    {
+      "rank": 22,
+      "searched_artist": "Roy Drusky",
+      "searched_title": "Long Long Texas Road",
+      "missing": false,
+      "actual_artist": "Roy Drusky",
+      "actual_title": "Long Long Texas Road",
+      "lyrics_path": "roy-drusky\\_singles\\long-long-texas-road.txt"
+    },
+    {
+      "rank": 24,
+      "searched_artist": "Jerry Lee Lewis",
+      "searched_title": "Once More With Feeling",
+      "missing": false,
+      "actual_artist": "Jerry Lee Lewis",
+      "actual_title": "Once More with Feeling",
+      "lyrics_path": "jerry-lee-lewis\\_singles\\once-more-with-feeling.txt"
+    },
+    {
+      "rank": 26,
+      "searched_artist": "Loretta Lynn",
+      "searched_title": "You Wanna Give Me A Lift",
+      "missing": false,
+      "actual_artist": "Loretta Lynn",
+      "actual_title": "You Wanna Give Me a Lift",
+      "lyrics_path": "loretta-lynn\\_singles\\you-wanna-give-me-a-lift.txt"
+    },
+    {
+      "rank": 28,
+      "searched_artist": "Johnny Cash & June Carter",
+      "searched_title": "If I Were A Carpenter",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 30,
+      "searched_artist": "Tammy Wynette",
+      "searched_title": "I'll See Him Through",
+      "missing": false,
+      "actual_artist": "Tammy Wynette",
+      "actual_title": "I\u2019ll See Him Through",
+      "lyrics_path": "tammy-wynette\\_singles\\ill-see-him-through.txt"
+    },
+    {
+      "rank": 31,
+      "searched_artist": "Anne Murray",
+      "searched_title": "SNOWBIRD",
+      "missing": false,
+      "actual_artist": "Anne Murray",
+      "actual_title": "Snowbird",
+      "lyrics_path": "anne-murray\\_singles\\snowbird.txt"
+    },
+    {
+      "rank": 32,
+      "searched_artist": "Bill Anderson",
+      "searched_title": "Love Is A Sometimes Thing",
+      "missing": false,
+      "actual_artist": "Bill Anderson",
+      "actual_title": "Love Is A Sometimes Thing",
+      "lyrics_path": "bill-anderson\\_singles\\love-is-a-sometimes-thing.txt"
+    },
+    {
+      "rank": 34,
+      "searched_artist": "Waylon Jennings",
+      "searched_title": "The Taker",
+      "missing": false,
+      "actual_artist": "Waylon Jennings",
+      "actual_title": "The Taker",
+      "lyrics_path": "waylon-jennings\\_singles\\the-taker.txt"
+    },
+    {
+      "rank": 35,
+      "searched_artist": "Johnny Cash",
+      "searched_title": "What Is Truth",
+      "missing": false,
+      "actual_artist": "Johnny Cash",
+      "actual_title": "What Is Truth",
+      "lyrics_path": "johnny-cash\\_singles\\what-is-truth.txt"
+    },
+    {
+      "rank": 36,
+      "searched_artist": "Jim Reeves",
+      "searched_title": "Angels Don't Lie",
+      "missing": false,
+      "actual_artist": "Jim Reeves",
+      "actual_title": "Angels Don\u2019t Lie",
+      "lyrics_path": "jim-reeves\\_singles\\angels-dont-lie.txt"
+    },
+    {
+      "rank": 37,
+      "searched_artist": "Bobby Bare",
+      "searched_title": "How I Got To Memphis",
+      "missing": false,
+      "actual_artist": "Bobby Bare",
+      "actual_title": "How I Got To Memphis",
+      "lyrics_path": "bobby-bare\\_singles\\how-i-got-to-memphis.txt"
+    },
+    {
+      "rank": 38,
+      "searched_artist": "Lynn Anderson",
+      "searched_title": "Stay There 'til I Get There",
+      "missing": false,
+      "actual_artist": "Lynn Anderson",
+      "actual_title": "Stay There \u2019Til I Get There",
+      "lyrics_path": "lynn-anderson\\_singles\\stay-there-til-i-get-there.txt"
+    },
+    {
+      "rank": 40,
+      "searched_artist": "Ray Price",
+      "searched_title": "You Wouldn't Know Love",
+      "missing": false,
+      "actual_artist": "Jamey Johnson",
+      "actual_title": "You Wouldn\u2019t Know Love",
+      "lyrics_path": "jamey-johnson\\_singles\\you-wouldnt-know-love.txt"
+    },
+    {
+      "rank": 41,
+      "searched_artist": "Jerry Lee Lewis",
+      "searched_title": "I Can't Seem To Say Goodbye",
+      "missing": false,
+      "actual_artist": "Jerry Lee Lewis",
+      "actual_title": "I Can\u2019t Seem to Say Goodbye",
+      "lyrics_path": "jerry-lee-lewis\\_singles\\i-cant-seem-to-say-goodbye.txt"
+    },
+    {
+      "rank": 43,
+      "searched_artist": "Loretta Lynn",
+      "searched_title": "I Know How",
+      "missing": false,
+      "actual_artist": "Loretta Lynn",
+      "actual_title": "I Know How",
+      "lyrics_path": "loretta-lynn\\_singles\\i-know-how.txt"
+    },
+    {
+      "rank": 44,
+      "searched_artist": "Conway Twitty",
+      "searched_title": "That's When She Started To Stop Loving You",
+      "missing": false,
+      "actual_artist": "Conway Twitty",
+      "actual_title": "That\u2019s When She Started to Stop Loving You",
+      "lyrics_path": "conway-twitty\\_singles\\thats-when-she-started-to-stop-loving-you.txt"
+    },
+    {
+      "rank": 46,
+      "searched_artist": "Connie Smith",
+      "searched_title": "I Never Once Stopped Loving You",
+      "missing": false,
+      "actual_artist": "Connie Smith",
+      "actual_title": "I Never Once Stopped Loving You",
+      "lyrics_path": "connie-smith\\_singles\\i-never-once-stopped-loving-you.txt"
+    },
+    {
+      "rank": 47,
+      "searched_artist": "Glen Campbell",
+      "searched_title": "Honey Come Back",
+      "missing": false,
+      "actual_artist": "Glen Campbell",
+      "actual_title": "Honey Come Back",
+      "lyrics_path": "glen-campbell\\_singles\\honey-come-back.txt"
+    },
+    {
+      "rank": 48,
+      "searched_artist": "Tommy Cash",
+      "searched_title": "Rise And Shine",
+      "missing": false,
+      "actual_artist": "Tommy Cash (USA)",
+      "actual_title": "Rise And Shine",
+      "lyrics_path": "tommy-cash-usa\\_singles\\rise-and-shine.txt"
+    },
+    {
+      "rank": 49,
+      "searched_artist": "Charley Pride",
+      "searched_title": "I Can't Believe That You've Stopped Loving Me",
+      "missing": false,
+      "actual_artist": "Charley Pride",
+      "actual_title": "I Can\u2019t Believe That You\u2019ve Stopped Loving Me",
+      "lyrics_path": "charley-pride\\_singles\\i-cant-believe-that-youve-stopped-loving-me.txt"
+    },
+    {
+      "rank": 50,
+      "searched_artist": "Roy Clark",
+      "searched_title": "I Never Picked Cotton",
+      "missing": false,
+      "actual_artist": "Roy Clark",
+      "actual_title": "I Never Picked Cotton",
+      "lyrics_path": "roy-clark\\_singles\\i-never-picked-cotton.txt"
+    }
+  ]
+}

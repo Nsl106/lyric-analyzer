@@ -1,0 +1,477 @@
+[
+  {
+    "rank": 1,
+    "title": "Better Man",
+    "artist": "Clint Black"
+  },
+  {
+    "rank": 2,
+    "title": "Killin' Time",
+    "artist": "Clint Black"
+  },
+  {
+    "rank": 3,
+    "title": "She's Got A Single Thing In Mind",
+    "artist": "Conway Twitty"
+  },
+  {
+    "rank": 4,
+    "title": "Lovin' Only Me",
+    "artist": "Ricky Skaggs"
+  },
+  {
+    "rank": 5,
+    "title": "I Got Dreams",
+    "artist": "Steve Wariner"
+  },
+  {
+    "rank": 6,
+    "title": "Above And Beyond",
+    "artist": "Rodney Crowell"
+  },
+  {
+    "rank": 7,
+    "title": "I'm No Stranger To The Rain",
+    "artist": "Keith Whitley"
+  },
+  {
+    "rank": 8,
+    "title": "Let Me Tell You About Love",
+    "artist": "The Judds"
+  },
+  {
+    "rank": 9,
+    "title": "What's Going On In Your World",
+    "artist": "George Strait"
+  },
+  {
+    "rank": 10,
+    "title": "Nothing I Can Do About It Now",
+    "artist": "Willie Nelson"
+  },
+  {
+    "rank": 11,
+    "title": "Love Out Loud",
+    "artist": "Earl Thomas Conley"
+  },
+  {
+    "rank": 12,
+    "title": "Living Proof",
+    "artist": "Ricky Van Shelton"
+  },
+  {
+    "rank": 13,
+    "title": "High Cotton",
+    "artist": "Alabama"
+  },
+  {
+    "rank": 14,
+    "title": "I Wonder Do You Think Of Me",
+    "artist": "Keith Whitley"
+  },
+  {
+    "rank": 15,
+    "title": "Cathy's Clown",
+    "artist": "Reba McEntire"
+  },
+  {
+    "rank": 16,
+    "title": "I Don't Want To Spoil The Party",
+    "artist": "Rosanne Cash"
+  },
+  {
+    "rank": 17,
+    "title": "Where Did I Go Wrong",
+    "artist": "Steve Wariner"
+  },
+  {
+    "rank": 18,
+    "title": "In A Letter To You",
+    "artist": "Eddy Raven"
+  },
+  {
+    "rank": 19,
+    "title": "Sunday In The South",
+    "artist": "Shenandoah"
+  },
+  {
+    "rank": 20,
+    "title": "Are You Ever Gonna Love Me",
+    "artist": "Holly Dunn"
+  },
+  {
+    "rank": 21,
+    "title": "Highway Robbery",
+    "artist": "Tanya Tucker"
+  },
+  {
+    "rank": 22,
+    "title": "After All This Time",
+    "artist": "Rodney Crowell"
+  },
+  {
+    "rank": 23,
+    "title": "I Sang Dixie",
+    "artist": "Dwight Yoakam"
+  },
+  {
+    "rank": 24,
+    "title": "Big Wheels In The Moonlight",
+    "artist": "Dan Seals"
+  },
+  {
+    "rank": 25,
+    "title": "Bayou Boys",
+    "artist": "Eddy Raven"
+  },
+  {
+    "rank": 26,
+    "title": "Baby's Gotten Good At Goodbye",
+    "artist": "George Strait"
+  },
+  {
+    "rank": 27,
+    "title": "I Still Believe In You",
+    "artist": "The Desert Rose Band"
+  },
+  {
+    "rank": 28,
+    "title": "Give Me His Last Chance",
+    "artist": "Lionel Cartwright"
+  },
+  {
+    "rank": 29,
+    "title": "The Church On Cumberland Road",
+    "artist": "Shenandoah"
+  },
+  {
+    "rank": 30,
+    "title": "One Good Well",
+    "artist": "Don Williams"
+  },
+  {
+    "rank": 31,
+    "title": "I'm Still Crazy",
+    "artist": "Vern Gosdin"
+  },
+  {
+    "rank": 32,
+    "title": "Come From The Heart",
+    "artist": "Kathy Mattea"
+  },
+  {
+    "rank": 33,
+    "title": "Burnin' Old Memories",
+    "artist": "Kathy Mattea"
+  },
+  {
+    "rank": 34,
+    "title": "Yellow Roses",
+    "artist": "Dolly Parton"
+  },
+  {
+    "rank": 35,
+    "title": "Timber I'm Falling In Love",
+    "artist": "Patty Loveless"
+  },
+  {
+    "rank": 36,
+    "title": "New Fool At An Old Game",
+    "artist": "Reba McEntire"
+  },
+  {
+    "rank": 37,
+    "title": "Ace In The Hole",
+    "artist": "George Strait"
+  },
+  {
+    "rank": 38,
+    "title": "Who You Gonna Blame It On This Time",
+    "artist": "Vern Gosdin"
+  },
+  {
+    "rank": 40,
+    "title": "Don't You Ever Get Tired (Of Hurting Me)",
+    "artist": "Ronnie Milsap"
+  },
+  {
+    "rank": 41,
+    "title": "Song Of The South",
+    "artist": "Alabama"
+  },
+  {
+    "rank": 42,
+    "title": "If I Had You",
+    "artist": "Alabama"
+  },
+  {
+    "rank": 43,
+    "title": "Why'd You Come In Here Lookin' Like That",
+    "artist": "Dolly Parton"
+  },
+  {
+    "rank": 44,
+    "title": "From The Word Go",
+    "artist": "Michael Martin Murphey"
+  },
+  {
+    "rank": 45,
+    "title": "She Don't Love Nobody",
+    "artist": "The Desert Rose Band"
+  },
+  {
+    "rank": 46,
+    "title": "Hey Bobby",
+    "artist": "K.T. Oslin"
+  },
+  {
+    "rank": 47,
+    "title": "A Better Love Next Time",
+    "artist": "Merle Haggard"
+  },
+  {
+    "rank": 48,
+    "title": "Young Love (Strong Love)",
+    "artist": "The Judds"
+  },
+  {
+    "rank": 49,
+    "title": "Love Has No Right",
+    "artist": "Billy Joe Royal"
+  },
+  {
+    "rank": 50,
+    "title": "Houston Solution",
+    "artist": "Ronnie Milsap"
+  },
+  {
+    "rank": 51,
+    "title": "Tell It Like It Is",
+    "artist": "Billy Joe Royal"
+  },
+  {
+    "rank": 52,
+    "title": "What I'd Say",
+    "artist": "Earl Thomas Conley"
+  },
+  {
+    "rank": 53,
+    "title": "Is It Still Over",
+    "artist": "Randy Travis"
+  },
+  {
+    "rank": 56,
+    "title": "They Rage On",
+    "artist": "Dan Seals"
+  },
+  {
+    "rank": 57,
+    "title": "Life As We Knew It",
+    "artist": "Kathy Mattea"
+  },
+  {
+    "rank": 58,
+    "title": "From A Jack To A King",
+    "artist": "Ricky Van Shelton"
+  },
+  {
+    "rank": 59,
+    "title": "Say What's In Your Heart",
+    "artist": "Restless Heart"
+  },
+  {
+    "rank": 61,
+    "title": "Til Love Comes Again",
+    "artist": "Reba McEntire"
+  },
+  {
+    "rank": 62,
+    "title": "Call On Me",
+    "artist": "Tanya Tucker"
+  },
+  {
+    "rank": 63,
+    "title": "Big Dreams In A Small Town",
+    "artist": "Restless Heart"
+  },
+  {
+    "rank": 64,
+    "title": "Much Too Young (To Feel This Damn Old)",
+    "artist": "Garth Brooks"
+  },
+  {
+    "rank": 65,
+    "title": "Any Way The Wind Blows",
+    "artist": "Southern Pacific"
+  },
+  {
+    "rank": 66,
+    "title": "Burnin' A Hole In My Heart",
+    "artist": "Skip Ewing"
+  },
+  {
+    "rank": 67,
+    "title": "Honky Tonk Heart",
+    "artist": "Highway 101"
+  },
+  {
+    "rank": 68,
+    "title": "Don't Toss Us Away",
+    "artist": "Patty Loveless"
+  },
+  {
+    "rank": 69,
+    "title": "More Than A Name On A Wall",
+    "artist": "The Statler Brothers"
+  },
+  {
+    "rank": 70,
+    "title": "I'm A One Woman Man",
+    "artist": "George Jones"
+  },
+  {
+    "rank": 71,
+    "title": "Finders Are Keepers",
+    "artist": "Hank Williams Jr."
+  },
+  {
+    "rank": 72,
+    "title": "Honey I Dare You",
+    "artist": "Southern Pacific"
+  },
+  {
+    "rank": 73,
+    "title": "An American Family",
+    "artist": "The Oak Ridge Boys"
+  },
+  {
+    "rank": 74,
+    "title": "This Woman",
+    "artist": "K.T. Oslin"
+  },
+  {
+    "rank": 75,
+    "title": "I Got You",
+    "artist": "Dwight Yoakam"
+  },
+  {
+    "rank": 76,
+    "title": "Hole In My Pocket",
+    "artist": "Ricky Van Shelton"
+  },
+  {
+    "rank": 77,
+    "title": "Old Coyote Town",
+    "artist": "Don Williams"
+  },
+  {
+    "rank": 78,
+    "title": "It's Just A Matter Of Time",
+    "artist": "Randy Travis"
+  },
+  {
+    "rank": 79,
+    "title": "You Ain't Going Nowhere",
+    "artist": "Chris Hillman & Roger McGuinn"
+  },
+  {
+    "rank": 80,
+    "title": "She's Crazy For Leaving",
+    "artist": "Rodney Crowell"
+  },
+  {
+    "rank": 81,
+    "title": "All The Fun",
+    "artist": "Paul Overstreet"
+  },
+  {
+    "rank": 82,
+    "title": "Dear Me",
+    "artist": "Lorrie Morgan"
+  },
+  {
+    "rank": 83,
+    "title": "Let It Be You",
+    "artist": "Ricky Skaggs"
+  },
+  {
+    "rank": 84,
+    "title": "If Tomorrow Never Comes",
+    "artist": "Garth Brooks"
+  },
+  {
+    "rank": 85,
+    "title": "Beyond Those Years",
+    "artist": "The Oak Ridge Boys"
+  },
+  {
+    "rank": 86,
+    "title": "You'll Never Be Sorry",
+    "artist": "The Bellamy Brothers"
+  },
+  {
+    "rank": 87,
+    "title": "The Race Is On",
+    "artist": "Sawyer Brown"
+  },
+  {
+    "rank": 88,
+    "title": "Come As You Were",
+    "artist": "T. Graham Brown"
+  },
+  {
+    "rank": 89,
+    "title": "Don't Waste It On The Blues",
+    "artist": "Gene Watson"
+  },
+  {
+    "rank": 91,
+    "title": "Change Of Heart",
+    "artist": "The Judds"
+  },
+  {
+    "rank": 92,
+    "title": "Down That Road Tonight",
+    "artist": "Nitty Gritty Dirt Band"
+  },
+  {
+    "rank": 93,
+    "title": "Fair Shake",
+    "artist": "Foster & Lloyd"
+  },
+  {
+    "rank": 94,
+    "title": "Love Will",
+    "artist": "The Forester Sisters"
+  },
+  {
+    "rank": 95,
+    "title": "You Got It",
+    "artist": "Roy Orbison"
+  },
+  {
+    "rank": 96,
+    "title": "Never Givin' Up On Love",
+    "artist": "Michael Martin Murphey"
+  },
+  {
+    "rank": 97,
+    "title": "Setting Me Up",
+    "artist": "Highway 101"
+  },
+  {
+    "rank": 98,
+    "title": "Up And Gone",
+    "artist": "The McCarters"
+  },
+  {
+    "rank": 99,
+    "title": "I Feel Fine",
+    "artist": "Sweethearts Of The Rodeo"
+  },
+  {
+    "rank": 100,
+    "title": "Don't You",
+    "artist": "The Forester Sisters"
+  }
+]

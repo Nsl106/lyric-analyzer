@@ -1,0 +1,533 @@
+{
+  "year": 2008,
+  "chart": "year-end-country",
+  "total_songs": 59,
+  "fetched": 56,
+  "songs": [
+    {
+      "rank": 1,
+      "searched_artist": "James Otto",
+      "searched_title": "Just Got Started Lovin' You",
+      "missing": false,
+      "actual_artist": "James Otto",
+      "actual_title": "Just Got Started Lovin\u2019 You",
+      "lyrics_path": "james-otto\\_singles\\just-got-started-lovin-you.txt"
+    },
+    {
+      "rank": 2,
+      "searched_artist": "George Strait",
+      "searched_title": "I Saw God Today",
+      "missing": false,
+      "actual_artist": "George Strait",
+      "actual_title": "I Saw God Today",
+      "lyrics_path": "george-strait\\_singles\\i-saw-god-today.txt"
+    },
+    {
+      "rank": 3,
+      "searched_artist": "Alan Jackson",
+      "searched_title": "Small Town Southern Man",
+      "missing": false,
+      "actual_artist": "Alan Jackson",
+      "actual_title": "Small Town Southern Man",
+      "lyrics_path": "alan-jackson\\_singles\\small-town-southern-man.txt"
+    },
+    {
+      "rank": 4,
+      "searched_artist": "Darius Rucker",
+      "searched_title": "Don't Think I Don't Think About It",
+      "missing": false,
+      "actual_artist": "Darius Rucker",
+      "actual_title": "Don\u2019t Think I Don\u2019t Think About It",
+      "lyrics_path": "darius-rucker\\_singles\\dont-think-i-dont-think-about-it.txt"
+    },
+    {
+      "rank": 5,
+      "searched_artist": "Blake Shelton",
+      "searched_title": "Home",
+      "missing": false,
+      "actual_artist": "Blake Shelton",
+      "actual_title": "Home",
+      "lyrics_path": "blake-shelton\\_singles\\home.txt"
+    },
+    {
+      "rank": 6,
+      "searched_artist": "Phil Vassar",
+      "searched_title": "Love Is A Beautiful Thing",
+      "missing": false,
+      "actual_artist": "Phil Vassar",
+      "actual_title": "Love is a Beautiful Thing",
+      "lyrics_path": "phil-vassar\\_singles\\love-is-a-beautiful-thing.txt"
+    },
+    {
+      "rank": 7,
+      "searched_artist": "Trace Adkins",
+      "searched_title": "You're Gonna Miss This",
+      "missing": false,
+      "actual_artist": "Trace Adkins",
+      "actual_title": "You\u2019re Gonna Miss This",
+      "lyrics_path": "trace-adkins\\_singles\\youre-gonna-miss-this.txt"
+    },
+    {
+      "rank": 8,
+      "searched_artist": "Keith Anderson",
+      "searched_title": "I Still Miss You",
+      "missing": false,
+      "actual_artist": "Keith Anderson",
+      "actual_title": "I Still Miss You",
+      "lyrics_path": "keith-anderson\\_singles\\i-still-miss-you.txt"
+    },
+    {
+      "rank": 9,
+      "searched_artist": "Rodney Atkins",
+      "searched_title": "Cleaning This Gun (Come On In Boy)",
+      "missing": false,
+      "actual_artist": "Rodney Atkins",
+      "actual_title": "Cleaning This Gun (Come On In Boy)",
+      "lyrics_path": "rodney-atkins\\_singles\\cleaning-this-gun-come-on-in-boy.txt"
+    },
+    {
+      "rank": 10,
+      "searched_artist": "Brad Paisley",
+      "searched_title": "I'm Still A Guy",
+      "missing": false,
+      "actual_artist": "Brad Paisley",
+      "actual_title": "I\u2019m Still a Guy",
+      "lyrics_path": "brad-paisley\\_singles\\im-still-a-guy.txt"
+    },
+    {
+      "rank": 11,
+      "searched_artist": "Toby Keith",
+      "searched_title": "She Never Cried In Front Of Me",
+      "missing": false,
+      "actual_artist": "Toby Keith",
+      "actual_title": "She Never Cried In Front Of Me",
+      "lyrics_path": "toby-keith\\_singles\\she-never-cried-in-front-of-me.txt"
+    },
+    {
+      "rank": 12,
+      "searched_artist": "Alan Jackson",
+      "searched_title": "Good Time",
+      "missing": false,
+      "actual_artist": "Alan Jackson",
+      "actual_title": "Good Time",
+      "lyrics_path": "alan-jackson\\_singles\\good-time.txt"
+    },
+    {
+      "rank": 13,
+      "searched_artist": "Jimmy Wayne",
+      "searched_title": "Do You Believe Me Now",
+      "missing": false,
+      "actual_artist": "Jimmy Wayne",
+      "actual_title": "Do You Believe Me Now",
+      "lyrics_path": "jimmy-wayne\\_singles\\do-you-believe-me-now.txt"
+    },
+    {
+      "rank": 14,
+      "searched_artist": "Chris Cagle",
+      "searched_title": "What Kinda Gone",
+      "missing": false,
+      "actual_artist": "Chris Cagle",
+      "actual_title": "What Kinda Gone",
+      "lyrics_path": "chris-cagle\\_singles\\what-kinda-gone.txt"
+    },
+    {
+      "rank": 15,
+      "searched_artist": "Kenny Chesney With The Wailers",
+      "searched_title": "Everybody Wants To Go To Heaven",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 16,
+      "searched_artist": "Carrie Underwood",
+      "searched_title": "Just A Dream",
+      "missing": false,
+      "actual_artist": "Carrie Underwood",
+      "actual_title": "Just a Dream",
+      "lyrics_path": "carrie-underwood\\_singles\\just-a-dream.txt"
+    },
+    {
+      "rank": 17,
+      "searched_artist": "Keith Urban",
+      "searched_title": "You Look Good In My Shirt",
+      "missing": false,
+      "actual_artist": "Keith Urban",
+      "actual_title": "You Look Good In My Shirt",
+      "lyrics_path": "keith-urban\\_singles\\you-look-good-in-my-shirt.txt"
+    },
+    {
+      "rank": 18,
+      "searched_artist": "Lady Antebellum",
+      "searched_title": "Love Don't Live Here",
+      "missing": false,
+      "actual_artist": "Lady A",
+      "actual_title": "Love Don\u2019t Live Here",
+      "lyrics_path": "lady-a\\_singles\\love-dont-live-here.txt"
+    },
+    {
+      "rank": 19,
+      "searched_artist": "Brad Paisley",
+      "searched_title": "Waitin' On A Woman",
+      "missing": false,
+      "actual_artist": "Brad Paisley",
+      "actual_title": "Waitin\u2019 On a Woman",
+      "lyrics_path": "brad-paisley\\_singles\\waitin-on-a-woman.txt"
+    },
+    {
+      "rank": 20,
+      "searched_artist": "Rascal Flatts",
+      "searched_title": "Every Day",
+      "missing": false,
+      "actual_artist": "Rascal Flatts",
+      "actual_title": "Every Day",
+      "lyrics_path": "rascal-flatts\\_singles\\every-day.txt"
+    },
+    {
+      "rank": 21,
+      "searched_artist": "Montgomery Gentry",
+      "searched_title": "Back When I Knew It All",
+      "missing": false,
+      "actual_artist": "Montgomery Gentry",
+      "actual_title": "Back When I Knew It All",
+      "lyrics_path": "montgomery-gentry\\_singles\\back-when-i-knew-it-all.txt"
+    },
+    {
+      "rank": 22,
+      "searched_artist": "Rascal Flatts",
+      "searched_title": "Winner At A Losing Game",
+      "missing": false,
+      "actual_artist": "Rascal Flatts",
+      "actual_title": "Winner At A Losing Game",
+      "lyrics_path": "rascal-flatts\\_singles\\winner-at-a-losing-game.txt"
+    },
+    {
+      "rank": 23,
+      "searched_artist": "Kenny Chesney",
+      "searched_title": "Better As A Memory",
+      "missing": false,
+      "actual_artist": "Kenny Chesney",
+      "actual_title": "Better As A Memory",
+      "lyrics_path": "kenny-chesney\\_singles\\better-as-a-memory.txt"
+    },
+    {
+      "rank": 24,
+      "searched_artist": "Carrie Underwood",
+      "searched_title": "All-American Girl",
+      "missing": false,
+      "actual_artist": "Carrie Underwood",
+      "actual_title": "All-American Girl",
+      "lyrics_path": "carrie-underwood\\_singles\\all-american-girl.txt"
+    },
+    {
+      "rank": 25,
+      "searched_artist": "Brad Paisley",
+      "searched_title": "Letter To Me",
+      "missing": false,
+      "actual_artist": "Brad Paisley",
+      "actual_title": "Letter to Me",
+      "lyrics_path": "brad-paisley\\_singles\\letter-to-me.txt"
+    },
+    {
+      "rank": 26,
+      "searched_artist": "Gary Allan",
+      "searched_title": "Watching Airplanes",
+      "missing": false,
+      "actual_artist": "Gary Allan",
+      "actual_title": "Watching Airplanes",
+      "lyrics_path": "gary-allan\\_singles\\watching-airplanes.txt"
+    },
+    {
+      "rank": 27,
+      "searched_artist": "Carrie Underwood",
+      "searched_title": "Last Name",
+      "missing": false,
+      "actual_artist": "Carrie Underwood",
+      "actual_title": "Last Name",
+      "lyrics_path": "carrie-underwood\\_singles\\last-name.txt"
+    },
+    {
+      "rank": 28,
+      "searched_artist": "Sugarland",
+      "searched_title": "All I Want To Do",
+      "missing": false,
+      "actual_artist": "Sugarland",
+      "actual_title": "All I Want to Do",
+      "lyrics_path": "sugarland\\_singles\\all-i-want-to-do.txt"
+    },
+    {
+      "rank": 29,
+      "searched_artist": "Taylor Swift",
+      "searched_title": "Should've Said No",
+      "missing": false,
+      "actual_artist": "Taylor Swift",
+      "actual_title": "Should\u2019ve Said No",
+      "lyrics_path": "taylor-swift\\_singles\\shouldve-said-no.txt"
+    },
+    {
+      "rank": 30,
+      "searched_artist": "Brooks & Dunn",
+      "searched_title": "Put A Girl In It",
+      "missing": false,
+      "actual_artist": "Brooks & Dunn",
+      "actual_title": "Put a Girl in It",
+      "lyrics_path": "brooks--dunn\\_singles\\put-a-girl-in-it.txt"
+    },
+    {
+      "rank": 31,
+      "searched_artist": "Taylor Swift",
+      "searched_title": "Picture To Burn",
+      "missing": false,
+      "actual_artist": "Taylor Swift",
+      "actual_title": "Picture to Burn",
+      "lyrics_path": "taylor-swift\\_singles\\picture-to-burn.txt"
+    },
+    {
+      "rank": 32,
+      "searched_artist": "Chuck Wicks",
+      "searched_title": "Stealing Cinderella",
+      "missing": false,
+      "actual_artist": "Chuck Wicks",
+      "actual_title": "Stealing Cinderella",
+      "lyrics_path": "chuck-wicks\\_singles\\stealing-cinderella.txt"
+    },
+    {
+      "rank": 33,
+      "searched_artist": "The Lost Trailers",
+      "searched_title": "Holler Back",
+      "missing": false,
+      "actual_artist": "The Lost Trailers",
+      "actual_title": "Holler Back",
+      "lyrics_path": "the-lost-trailers\\_singles\\holler-back.txt"
+    },
+    {
+      "rank": 34,
+      "searched_artist": "George Strait",
+      "searched_title": "Troubadour",
+      "missing": false,
+      "actual_artist": "George Strait",
+      "actual_title": "Troubadour",
+      "lyrics_path": "george-strait\\_singles\\troubadour.txt"
+    },
+    {
+      "rank": 35,
+      "searched_artist": "Jason Aldean",
+      "searched_title": "Laughed Until We Cried",
+      "missing": false,
+      "actual_artist": "Jason Aldean",
+      "actual_title": "Laughed Until We Cried",
+      "lyrics_path": "jason-aldean\\_singles\\laughed-until-we-cried.txt"
+    },
+    {
+      "rank": 36,
+      "searched_artist": "Dierks Bentley",
+      "searched_title": "Trying To Stop Your Leaving",
+      "missing": false,
+      "actual_artist": "Dierks Bentley",
+      "actual_title": "Trying To Stop Your Leaving",
+      "lyrics_path": "dierks-bentley\\_singles\\trying-to-stop-your-leaving.txt"
+    },
+    {
+      "rank": 37,
+      "searched_artist": "Billy Ray Cyrus With Miley Cyrus",
+      "searched_title": "Ready, Set, Don't Go",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 38,
+      "searched_artist": "Kenny Chesney Duet With George Strait",
+      "searched_title": "Shiftwork",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 39,
+      "searched_artist": "Taylor Swift",
+      "searched_title": "Our Song",
+      "missing": false,
+      "actual_artist": "Taylor Swift",
+      "actual_title": "Our Song",
+      "lyrics_path": "taylor-swift\\_singles\\our-song.txt"
+    },
+    {
+      "rank": 40,
+      "searched_artist": "Luke Bryan",
+      "searched_title": "Country Man",
+      "missing": false,
+      "actual_artist": "Luke Bryan",
+      "actual_title": "Country Man",
+      "lyrics_path": "luke-bryan\\_singles\\country-man.txt"
+    },
+    {
+      "rank": 42,
+      "searched_artist": "Kid Rock",
+      "searched_title": "All Summer Long",
+      "missing": false,
+      "actual_artist": "Kid Rock",
+      "actual_title": "All Summer Long",
+      "lyrics_path": "kid-rock\\_singles\\all-summer-long.txt"
+    },
+    {
+      "rank": 43,
+      "searched_artist": "Montgomery Gentry",
+      "searched_title": "What Do Ya Think About That",
+      "missing": false,
+      "actual_artist": "Montgomery Gentry",
+      "actual_title": "What Do Ya Think About That",
+      "lyrics_path": "montgomery-gentry\\_singles\\what-do-ya-think-about-that.txt"
+    },
+    {
+      "rank": 44,
+      "searched_artist": "Sugarland",
+      "searched_title": "Stay",
+      "missing": false,
+      "actual_artist": "Sugarland",
+      "actual_title": "Stay",
+      "lyrics_path": "sugarland\\_singles\\stay.txt"
+    },
+    {
+      "rank": 45,
+      "searched_artist": "Tim McGraw",
+      "searched_title": "Let It Go",
+      "missing": false,
+      "actual_artist": "Tim McGraw",
+      "actual_title": "Let It Go",
+      "lyrics_path": "tim-mcgraw\\_singles\\let-it-go.txt"
+    },
+    {
+      "rank": 46,
+      "searched_artist": "Josh Gracin",
+      "searched_title": "We Weren't Crazy",
+      "missing": false,
+      "actual_artist": "Josh Gracin",
+      "actual_title": "We Weren\u2019t Crazy",
+      "lyrics_path": "josh-gracin\\_singles\\we-werent-crazy.txt"
+    },
+    {
+      "rank": 47,
+      "searched_artist": "Keith Urban",
+      "searched_title": "Everybody",
+      "missing": false,
+      "actual_artist": "Keith Urban",
+      "actual_title": "Everybody",
+      "lyrics_path": "keith-urban\\_singles\\everybody.txt"
+    },
+    {
+      "rank": 48,
+      "searched_artist": "Bucky Covington",
+      "searched_title": "It's Good To Be Us",
+      "missing": false,
+      "actual_artist": "Bucky Covington",
+      "actual_title": "It\u2019s Good to Be Us",
+      "lyrics_path": "bucky-covington\\_singles\\its-good-to-be-us.txt"
+    },
+    {
+      "rank": 49,
+      "searched_artist": "Zac Brown Band",
+      "searched_title": "Chicken Fried",
+      "missing": false,
+      "actual_artist": "Zac Brown Band",
+      "actual_title": "Chicken Fried",
+      "lyrics_path": "zac-brown-band\\_singles\\chicken-fried.txt"
+    },
+    {
+      "rank": 50,
+      "searched_artist": "Craig Morgan",
+      "searched_title": "Love Remembers",
+      "missing": false,
+      "actual_artist": "Craig Morgan",
+      "actual_title": "Love Remembers",
+      "lyrics_path": "craig-morgan\\_singles\\love-remembers.txt"
+    },
+    {
+      "rank": 51,
+      "searched_artist": "Bucky Covington",
+      "searched_title": "I'll Walk",
+      "missing": false,
+      "actual_artist": "Bucky Covington",
+      "actual_title": "I\u2019ll Walk",
+      "lyrics_path": "bucky-covington\\_singles\\ill-walk.txt"
+    },
+    {
+      "rank": 52,
+      "searched_artist": "Brooks & Dunn",
+      "searched_title": "God Must Be Busy",
+      "missing": false,
+      "actual_artist": "Brooks & Dunn",
+      "actual_title": "God Must Be Busy",
+      "lyrics_path": "brooks--dunn\\_singles\\god-must-be-busy.txt"
+    },
+    {
+      "rank": 53,
+      "searched_artist": "Montgomery Gentry",
+      "searched_title": "Roll With Me",
+      "missing": false,
+      "actual_artist": "Montgomery Gentry",
+      "actual_title": "Roll With Me",
+      "lyrics_path": "montgomery-gentry\\_singles\\roll-with-me.txt"
+    },
+    {
+      "rank": 54,
+      "searched_artist": "Heidi Newfield",
+      "searched_title": "Johnny & June",
+      "missing": false,
+      "actual_artist": "Heidi Newfield",
+      "actual_title": "Johnny and June",
+      "lyrics_path": "heidi-newfield\\_singles\\johnny-and-june.txt"
+    },
+    {
+      "rank": 55,
+      "searched_artist": "Taylor Swift",
+      "searched_title": "Love Story",
+      "missing": false,
+      "actual_artist": "Taylor Swift",
+      "actual_title": "Love Story",
+      "lyrics_path": "taylor-swift\\_singles\\love-story.txt"
+    },
+    {
+      "rank": 56,
+      "searched_artist": "Josh Turner Featuring Trisha Yearwood",
+      "searched_title": "Another Try",
+      "missing": false,
+      "actual_artist": "Josh Turner",
+      "actual_title": "Another Try",
+      "lyrics_path": "josh-turner\\_singles\\another-try.txt"
+    },
+    {
+      "rank": 57,
+      "searched_artist": "Jamey Johnson",
+      "searched_title": "In Color",
+      "missing": false,
+      "actual_artist": "Jamey Johnson",
+      "actual_title": "In  Color",
+      "lyrics_path": "jamey-johnson\\_singles\\in--color.txt"
+    },
+    {
+      "rank": 58,
+      "searched_artist": "Craig Morgan",
+      "searched_title": "International Harvester",
+      "missing": false,
+      "actual_artist": "Craig Morgan",
+      "actual_title": "International Harvester",
+      "lyrics_path": "craig-morgan\\_singles\\international-harvester.txt"
+    },
+    {
+      "rank": 59,
+      "searched_artist": "Jewel",
+      "searched_title": "Stronger Woman",
+      "missing": false,
+      "actual_artist": "Jewel",
+      "actual_title": "Stronger Woman",
+      "lyrics_path": "jewel\\_singles\\stronger-woman.txt"
+    },
+    {
+      "rank": 60,
+      "searched_artist": "Toby Keith",
+      "searched_title": "Get My Drink On",
+      "missing": false,
+      "actual_artist": "Toby Keith",
+      "actual_title": "Get My Drink On",
+      "lyrics_path": "toby-keith\\_singles\\get-my-drink-on.txt"
+    }
+  ]
+}

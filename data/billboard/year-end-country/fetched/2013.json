@@ -1,0 +1,902 @@
+{
+  "year": 2013,
+  "chart": "year-end-country",
+  "total_songs": 100,
+  "fetched": 97,
+  "songs": [
+    {
+      "rank": 1,
+      "searched_artist": "Florida Georgia Line",
+      "searched_title": "Cruise",
+      "missing": false,
+      "actual_artist": "Florida Georgia Line",
+      "actual_title": "Cruise",
+      "lyrics_path": "florida-georgia-line\\_singles\\cruise.txt"
+    },
+    {
+      "rank": 2,
+      "searched_artist": "Darius Rucker",
+      "searched_title": "Wagon Wheel",
+      "missing": false,
+      "actual_artist": "Darius Rucker",
+      "actual_title": "Wagon Wheel",
+      "lyrics_path": "darius-rucker\\_singles\\wagon-wheel.txt"
+    },
+    {
+      "rank": 3,
+      "searched_artist": "Blake Shelton Featuring Pistol Annies & Friends",
+      "searched_title": "Boys 'Round Here",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 4,
+      "searched_artist": "Luke Bryan",
+      "searched_title": "Crash My Party",
+      "missing": false,
+      "actual_artist": "Luke Bryan",
+      "actual_title": "Crash My Party",
+      "lyrics_path": "luke-bryan\\_singles\\crash-my-party.txt"
+    },
+    {
+      "rank": 5,
+      "searched_artist": "Hunter Hayes",
+      "searched_title": "I Want Crazy",
+      "missing": false,
+      "actual_artist": "Hunter Hayes",
+      "actual_title": "I Want Crazy (Encore)",
+      "lyrics_path": "hunter-hayes\\_singles\\i-want-crazy-encore.txt"
+    },
+    {
+      "rank": 6,
+      "searched_artist": "Tim McGraw With Taylor Swift",
+      "searched_title": "Highway Don't Care",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 7,
+      "searched_artist": "Florida Georgia Line",
+      "searched_title": "Get Your Shine On",
+      "missing": false,
+      "actual_artist": "Florida Georgia Line",
+      "actual_title": "Get Your Shine On",
+      "lyrics_path": "florida-georgia-line\\_singles\\get-your-shine-on.txt"
+    },
+    {
+      "rank": 8,
+      "searched_artist": "Miranda Lambert",
+      "searched_title": "Mama's Broken Heart",
+      "missing": false,
+      "actual_artist": "Miranda Lambert",
+      "actual_title": "Mama\u2019s Broken Heart",
+      "lyrics_path": "miranda-lambert\\_singles\\mamas-broken-heart.txt"
+    },
+    {
+      "rank": 9,
+      "searched_artist": "Blake Shelton",
+      "searched_title": "Sure Be Cool If You Did",
+      "missing": false,
+      "actual_artist": "Blake Shelton",
+      "actual_title": "Sure Be Cool If You Did",
+      "lyrics_path": "blake-shelton\\_singles\\sure-be-cool-if-you-did.txt"
+    },
+    {
+      "rank": 10,
+      "searched_artist": "Randy Houser",
+      "searched_title": "Runnin' Outta Moonlight",
+      "missing": false,
+      "actual_artist": "Randy Houser",
+      "actual_title": "Runnin\u2019 Outta Moonlight",
+      "lyrics_path": "randy-houser\\_singles\\runnin-outta-moonlight.txt"
+    },
+    {
+      "rank": 11,
+      "searched_artist": "Luke Bryan",
+      "searched_title": "That's My Kind Of Night",
+      "missing": false,
+      "actual_artist": "Luke Bryan",
+      "actual_title": "That\u2019s My Kind of Night",
+      "lyrics_path": "luke-bryan\\_singles\\thats-my-kind-of-night.txt"
+    },
+    {
+      "rank": 12,
+      "searched_artist": "The Band Perry",
+      "searched_title": "Better Dig Two",
+      "missing": false,
+      "actual_artist": "The Band Perry",
+      "actual_title": "Better Dig Two",
+      "lyrics_path": "the-band-perry\\_singles\\better-dig-two.txt"
+    },
+    {
+      "rank": 13,
+      "searched_artist": "Thomas Rhett",
+      "searched_title": "It Goes Like This",
+      "missing": false,
+      "actual_artist": "Thomas Rhett",
+      "actual_title": "It Goes Like This",
+      "lyrics_path": "thomas-rhett\\_singles\\it-goes-like-this.txt"
+    },
+    {
+      "rank": 14,
+      "searched_artist": "Taylor Swift",
+      "searched_title": "We Are Never Ever Getting Back Together",
+      "missing": false,
+      "actual_artist": "Taylor Swift",
+      "actual_title": "We Are Never Ever Getting Back Together",
+      "lyrics_path": "taylor-swift\\_singles\\we-are-never-ever-getting-back-together.txt"
+    },
+    {
+      "rank": 15,
+      "searched_artist": "Tyler Farr",
+      "searched_title": "Redneck Crazy",
+      "missing": false,
+      "actual_artist": "Tyler Farr",
+      "actual_title": "Redneck Crazy",
+      "lyrics_path": "tyler-farr\\_singles\\redneck-crazy.txt"
+    },
+    {
+      "rank": 16,
+      "searched_artist": "Florida Georgia Line",
+      "searched_title": "Round Here",
+      "missing": false,
+      "actual_artist": "Florida Georgia Line",
+      "actual_title": "Round Here",
+      "lyrics_path": "florida-georgia-line\\_singles\\round-here.txt"
+    },
+    {
+      "rank": 17,
+      "searched_artist": "Hunter Hayes",
+      "searched_title": "Wanted",
+      "missing": false,
+      "actual_artist": "Hunter Hayes",
+      "actual_title": "Wanted",
+      "lyrics_path": "hunter-hayes\\_singles\\wanted.txt"
+    },
+    {
+      "rank": 18,
+      "searched_artist": "Lady Antebellum",
+      "searched_title": "Downtown",
+      "missing": false,
+      "actual_artist": "Lady A",
+      "actual_title": "Downtown",
+      "lyrics_path": "lady-a\\_singles\\downtown.txt"
+    },
+    {
+      "rank": 19,
+      "searched_artist": "Billy Currington",
+      "searched_title": "Hey Girl",
+      "missing": false,
+      "actual_artist": "Billy Currington",
+      "actual_title": "Hey Girl",
+      "lyrics_path": "billy-currington\\_singles\\hey-girl.txt"
+    },
+    {
+      "rank": 20,
+      "searched_artist": "Brett Eldredge",
+      "searched_title": "Don't Ya",
+      "missing": false,
+      "actual_artist": "Brett Eldredge",
+      "actual_title": "Don\u2019t Ya",
+      "lyrics_path": "brett-eldredge\\_singles\\dont-ya.txt"
+    },
+    {
+      "rank": 21,
+      "searched_artist": "The Band Perry",
+      "searched_title": "DONE.",
+      "missing": false,
+      "actual_artist": "The Band Perry",
+      "actual_title": "DONE.",
+      "lyrics_path": "the-band-perry\\_singles\\done.txt"
+    },
+    {
+      "rank": 22,
+      "searched_artist": "Jason Aldean",
+      "searched_title": "Night Train",
+      "missing": false,
+      "actual_artist": "Jason Aldean",
+      "actual_title": "Night Train",
+      "lyrics_path": "jason-aldean\\_singles\\night-train.txt"
+    },
+    {
+      "rank": 23,
+      "searched_artist": "Kip Moore",
+      "searched_title": "Hey Pretty Girl",
+      "missing": false,
+      "actual_artist": "Kip Moore",
+      "actual_title": "Hey Pretty Girl",
+      "lyrics_path": "kip-moore\\_singles\\hey-pretty-girl.txt"
+    },
+    {
+      "rank": 24,
+      "searched_artist": "Gary Allan",
+      "searched_title": "Every Storm (Runs Out Of Rain)",
+      "missing": false,
+      "actual_artist": "Gary Allan",
+      "actual_title": "Every Storm (Runs Out of Rain)",
+      "lyrics_path": "gary-allan\\_singles\\every-storm-runs-out-of-rain.txt"
+    },
+    {
+      "rank": 25,
+      "searched_artist": "Easton Corbin",
+      "searched_title": "All Over The Road",
+      "missing": false,
+      "actual_artist": "Easton Corbin",
+      "actual_title": "All Over The Road",
+      "lyrics_path": "easton-corbin\\_singles\\all-over-the-road.txt"
+    },
+    {
+      "rank": 26,
+      "searched_artist": "Carrie Underwood",
+      "searched_title": "See You Again",
+      "missing": false,
+      "actual_artist": "Carrie Underwood",
+      "actual_title": "See You Again",
+      "lyrics_path": "carrie-underwood\\_singles\\see-you-again.txt"
+    },
+    {
+      "rank": 27,
+      "searched_artist": "George Strait",
+      "searched_title": "Give It All We Got Tonight",
+      "missing": false,
+      "actual_artist": "George Strait",
+      "actual_title": "Give It All We Got Tonight",
+      "lyrics_path": "george-strait\\_singles\\give-it-all-we-got-tonight.txt"
+    },
+    {
+      "rank": 28,
+      "searched_artist": "Hunter Hayes",
+      "searched_title": "Somebody's Heartbreak",
+      "missing": false,
+      "actual_artist": "Hunter Hayes",
+      "actual_title": "Somebody\u2019s Heartbreak",
+      "lyrics_path": "hunter-hayes\\_singles\\somebodys-heartbreak.txt"
+    },
+    {
+      "rank": 29,
+      "searched_artist": "Carrie Underwood",
+      "searched_title": "Two Black Cadillacs",
+      "missing": false,
+      "actual_artist": "Carrie Underwood",
+      "actual_title": "Two Black Cadillacs",
+      "lyrics_path": "carrie-underwood\\_singles\\two-black-cadillacs.txt"
+    },
+    {
+      "rank": 30,
+      "searched_artist": "Jake Owen",
+      "searched_title": "Anywhere With You",
+      "missing": false,
+      "actual_artist": "Jake Owen",
+      "actual_title": "Anywhere With You",
+      "lyrics_path": "jake-owen\\_singles\\anywhere-with-you.txt"
+    },
+    {
+      "rank": 31,
+      "searched_artist": "Keith Urban",
+      "searched_title": "Little Bit Of Everything",
+      "missing": false,
+      "actual_artist": "Keith Urban",
+      "actual_title": "Little Bit of Everything",
+      "lyrics_path": "keith-urban\\_singles\\little-bit-of-everything.txt"
+    },
+    {
+      "rank": 32,
+      "searched_artist": "Chris Young",
+      "searched_title": "Aw Naw",
+      "missing": false,
+      "actual_artist": "Chris Young",
+      "actual_title": "Aw Naw",
+      "lyrics_path": "chris-young\\_singles\\aw-naw.txt"
+    },
+    {
+      "rank": 33,
+      "searched_artist": "Thompson Square",
+      "searched_title": "If I Didn't Have You",
+      "missing": false,
+      "actual_artist": "Thompson Square",
+      "actual_title": "If I Didn\u2019t Have You",
+      "lyrics_path": "thompson-square\\_singles\\if-i-didnt-have-you.txt"
+    },
+    {
+      "rank": 34,
+      "searched_artist": "Kenny Chesney",
+      "searched_title": "Pirate Flag",
+      "missing": false,
+      "actual_artist": "Kenny Chesney",
+      "actual_title": "Pirate Flag",
+      "lyrics_path": "kenny-chesney\\_singles\\pirate-flag.txt"
+    },
+    {
+      "rank": 35,
+      "searched_artist": "Blake Shelton",
+      "searched_title": "Mine Would Be You",
+      "missing": false,
+      "actual_artist": "Blake Shelton",
+      "actual_title": "Mine Would Be You",
+      "lyrics_path": "blake-shelton\\_singles\\mine-would-be-you.txt"
+    },
+    {
+      "rank": 36,
+      "searched_artist": "Brad Paisley",
+      "searched_title": "Beat This Summer",
+      "missing": false,
+      "actual_artist": "Brad Paisley",
+      "actual_title": "Beat This Summer",
+      "lyrics_path": "brad-paisley\\_singles\\beat-this-summer.txt"
+    },
+    {
+      "rank": 37,
+      "searched_artist": "Tim McGraw",
+      "searched_title": "One Of Those Nights",
+      "missing": false,
+      "actual_artist": "Tim McGraw",
+      "actual_title": "One Of Those Nights",
+      "lyrics_path": "tim-mcgraw\\_singles\\one-of-those-nights.txt"
+    },
+    {
+      "rank": 38,
+      "searched_artist": "Lee Brice",
+      "searched_title": "I Drive Your Truck",
+      "missing": false,
+      "actual_artist": "Lee Brice",
+      "actual_title": "I Drive Your Truck",
+      "lyrics_path": "lee-brice\\_singles\\i-drive-your-truck.txt"
+    },
+    {
+      "rank": 39,
+      "searched_artist": "Justin Moore",
+      "searched_title": "Point At You",
+      "missing": false,
+      "actual_artist": "Justin Moore",
+      "actual_title": "Point At You",
+      "lyrics_path": "justin-moore\\_singles\\point-at-you.txt"
+    },
+    {
+      "rank": 40,
+      "searched_artist": "Lee Brice",
+      "searched_title": "Parking Lot Party",
+      "missing": false,
+      "actual_artist": "Lee Brice",
+      "actual_title": "Parking Lot Party",
+      "lyrics_path": "lee-brice\\_singles\\parking-lot-party.txt"
+    },
+    {
+      "rank": 41,
+      "searched_artist": "Tim McGraw",
+      "searched_title": "Southern Girl",
+      "missing": false,
+      "actual_artist": "Tim McGraw",
+      "actual_title": "Southern Girl",
+      "lyrics_path": "tim-mcgraw\\_singles\\southern-girl.txt"
+    },
+    {
+      "rank": 42,
+      "searched_artist": "Little Big Town",
+      "searched_title": "Tornado",
+      "missing": false,
+      "actual_artist": "Little Big Town",
+      "actual_title": "Tornado",
+      "lyrics_path": "little-big-town\\_singles\\tornado.txt"
+    },
+    {
+      "rank": 43,
+      "searched_artist": "Jason Aldean With Luke Bryan & Eric Church",
+      "searched_title": "The Only Way I Know",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 44,
+      "searched_artist": "Taylor Swift",
+      "searched_title": "Red",
+      "missing": false,
+      "actual_artist": "Taylor Swift",
+      "actual_title": "Red",
+      "lyrics_path": "taylor-swift\\_singles\\red.txt"
+    },
+    {
+      "rank": 45,
+      "searched_artist": "Carrie Underwood",
+      "searched_title": "Blown Away",
+      "missing": false,
+      "actual_artist": "Carrie Underwood",
+      "actual_title": "Blown Away",
+      "lyrics_path": "carrie-underwood\\_singles\\blown-away.txt"
+    },
+    {
+      "rank": 46,
+      "searched_artist": "Randy Houser",
+      "searched_title": "How Country Feels",
+      "missing": false,
+      "actual_artist": "Randy Houser",
+      "actual_title": "How Country Feels",
+      "lyrics_path": "randy-houser\\_singles\\how-country-feels.txt"
+    },
+    {
+      "rank": 47,
+      "searched_artist": "Eric Church",
+      "searched_title": "Like Jesus Does",
+      "missing": false,
+      "actual_artist": "Eric Church",
+      "actual_title": "Like Jesus Does",
+      "lyrics_path": "eric-church\\_singles\\like-jesus-does.txt"
+    },
+    {
+      "rank": 48,
+      "searched_artist": "Brantley Gilbert",
+      "searched_title": "More Than Miles",
+      "missing": false,
+      "actual_artist": "Brantley Gilbert",
+      "actual_title": "More Than Miles",
+      "lyrics_path": "brantley-gilbert\\_singles\\more-than-miles.txt"
+    },
+    {
+      "rank": 49,
+      "searched_artist": "Cassadee Pope",
+      "searched_title": "Wasting All These Tears",
+      "missing": false,
+      "actual_artist": "Cassadee Pope",
+      "actual_title": "Wasting All These Tears",
+      "lyrics_path": "cassadee-pope\\_singles\\wasting-all-these-tears.txt"
+    },
+    {
+      "rank": 50,
+      "searched_artist": "Zac Brown Band",
+      "searched_title": "Jump Right In",
+      "missing": false,
+      "actual_artist": "Zac Brown Band",
+      "actual_title": "Jump Right In",
+      "lyrics_path": "zac-brown-band\\_singles\\jump-right-in.txt"
+    },
+    {
+      "rank": 51,
+      "searched_artist": "Joe Nichols",
+      "searched_title": "Sunny And 75",
+      "missing": false,
+      "actual_artist": "Joe Nichols",
+      "actual_title": "Sunny and 75",
+      "lyrics_path": "joe-nichols\\_singles\\sunny-and-75.txt"
+    },
+    {
+      "rank": 52,
+      "searched_artist": "Kacey Musgraves",
+      "searched_title": "Merry Go 'round",
+      "missing": false,
+      "actual_artist": "Kacey Musgraves",
+      "actual_title": "Merry Go \u2019Round",
+      "lyrics_path": "kacey-musgraves\\_singles\\merry-go-round.txt"
+    },
+    {
+      "rank": 53,
+      "searched_artist": "Jason Aldean",
+      "searched_title": "1994",
+      "missing": false,
+      "actual_artist": "Jason Aldean",
+      "actual_title": "1994",
+      "lyrics_path": "jason-aldean\\_singles\\1994.txt"
+    },
+    {
+      "rank": 54,
+      "searched_artist": "Parmalee",
+      "searched_title": "Carolina",
+      "missing": false,
+      "actual_artist": "Parmalee",
+      "actual_title": "Carolina",
+      "lyrics_path": "parmalee\\_singles\\carolina.txt"
+    },
+    {
+      "rank": 55,
+      "searched_artist": "Eli Young Band",
+      "searched_title": "Drunk Last Night",
+      "missing": false,
+      "actual_artist": "Eli Young Band",
+      "actual_title": "Drunk Last Night",
+      "lyrics_path": "eli-young-band\\_singles\\drunk-last-night.txt"
+    },
+    {
+      "rank": 56,
+      "searched_artist": "Zac Brown Band",
+      "searched_title": "Goodbye In Her Eyes",
+      "missing": false,
+      "actual_artist": "Zac Brown Band",
+      "actual_title": "Goodbye In Her Eyes",
+      "lyrics_path": "zac-brown-band\\_singles\\goodbye-in-her-eyes.txt"
+    },
+    {
+      "rank": 57,
+      "searched_artist": "Taylor Swift",
+      "searched_title": "Begin Again",
+      "missing": false,
+      "actual_artist": "Taylor Swift",
+      "actual_title": "Begin Again",
+      "lyrics_path": "taylor-swift\\_singles\\begin-again.txt"
+    },
+    {
+      "rank": 58,
+      "searched_artist": "Brad Paisley",
+      "searched_title": "Southern Comfort Zone",
+      "missing": false,
+      "actual_artist": "Brad Paisley",
+      "actual_title": "Southern Comfort Zone",
+      "lyrics_path": "brad-paisley\\_singles\\southern-comfort-zone.txt"
+    },
+    {
+      "rank": 59,
+      "searched_artist": "Chris Young",
+      "searched_title": "I Can Take It From There",
+      "missing": false,
+      "actual_artist": "Chris Young",
+      "actual_title": "I Can Take It From There",
+      "lyrics_path": "chris-young\\_singles\\i-can-take-it-from-there.txt"
+    },
+    {
+      "rank": 60,
+      "searched_artist": "Luke Bryan",
+      "searched_title": "Kiss Tomorrow Goodbye",
+      "missing": false,
+      "actual_artist": "Luke Bryan",
+      "actual_title": "Kiss Tomorrow Goodbye",
+      "lyrics_path": "luke-bryan\\_singles\\kiss-tomorrow-goodbye.txt"
+    },
+    {
+      "rank": 61,
+      "searched_artist": "Dierks Bentley",
+      "searched_title": "Tip It On Back",
+      "missing": false,
+      "actual_artist": "Dierks Bentley",
+      "actual_title": "Tip It on Back",
+      "lyrics_path": "dierks-bentley\\_singles\\tip-it-on-back.txt"
+    },
+    {
+      "rank": 62,
+      "searched_artist": "Keith Urban And Miranda Lambert",
+      "searched_title": "We Were Us",
+      "missing": false,
+      "actual_artist": "Keith Urban",
+      "actual_title": "We Were Us",
+      "lyrics_path": "keith-urban\\_singles\\we-were-us.txt"
+    },
+    {
+      "rank": 63,
+      "searched_artist": "Kip Moore",
+      "searched_title": "Beer Money",
+      "missing": false,
+      "actual_artist": "Kip Moore",
+      "actual_title": "Beer Money",
+      "lyrics_path": "kip-moore\\_singles\\beer-money.txt"
+    },
+    {
+      "rank": 64,
+      "searched_artist": "Lady Antebellum",
+      "searched_title": "Goodbye Town",
+      "missing": false,
+      "actual_artist": "Lady A",
+      "actual_title": "Goodbye Town",
+      "lyrics_path": "lady-a\\_singles\\goodbye-town.txt"
+    },
+    {
+      "rank": 65,
+      "searched_artist": "Justin Moore",
+      "searched_title": "Til My Last Day",
+      "missing": false,
+      "actual_artist": "Justin Moore",
+      "actual_title": "Til My Last Day",
+      "lyrics_path": "justin-moore\\_singles\\til-my-last-day.txt"
+    },
+    {
+      "rank": 66,
+      "searched_artist": "David Nail",
+      "searched_title": "Whatever She's Got",
+      "missing": false,
+      "actual_artist": "David Nail",
+      "actual_title": "Whatever She\u2019s Got",
+      "lyrics_path": "david-nail\\_singles\\whatever-shes-got.txt"
+    },
+    {
+      "rank": 67,
+      "searched_artist": "Sheryl Crow",
+      "searched_title": "Easy",
+      "missing": false,
+      "actual_artist": "Sheryl Crow",
+      "actual_title": "Easy",
+      "lyrics_path": "sheryl-crow\\_singles\\easy.txt"
+    },
+    {
+      "rank": 68,
+      "searched_artist": "Lee Brice",
+      "searched_title": "Hard To Love",
+      "missing": false,
+      "actual_artist": "Lee Brice",
+      "actual_title": "Hard To Love",
+      "lyrics_path": "lee-brice\\_singles\\hard-to-love.txt"
+    },
+    {
+      "rank": 69,
+      "searched_artist": "Craig Campbell",
+      "searched_title": "Outta My Head",
+      "missing": false,
+      "actual_artist": "Craig Campbell",
+      "actual_title": "Outta My Head",
+      "lyrics_path": "craig-campbell\\_singles\\outta-my-head.txt"
+    },
+    {
+      "rank": 70,
+      "searched_artist": "Cole Swindell",
+      "searched_title": "Chillin' It",
+      "missing": false,
+      "actual_artist": "Cole Swindell",
+      "actual_title": "Chillin\u2019 It",
+      "lyrics_path": "cole-swindell\\_singles\\chillin-it.txt"
+    },
+    {
+      "rank": 71,
+      "searched_artist": "Toby Keith",
+      "searched_title": "Drinks After Work",
+      "missing": false,
+      "actual_artist": "Toby Keith",
+      "actual_title": "Drinks After Work",
+      "lyrics_path": "toby-keith\\_singles\\drinks-after-work.txt"
+    },
+    {
+      "rank": 72,
+      "searched_artist": "Train Featuring Ashley Monroe",
+      "searched_title": "Bruises",
+      "missing": false,
+      "actual_artist": "Train",
+      "actual_title": "Bruises",
+      "lyrics_path": "train\\_singles\\bruises.txt"
+    },
+    {
+      "rank": 73,
+      "searched_artist": "Miranda Lambert",
+      "searched_title": "All Kinds Of Kinds",
+      "missing": false,
+      "actual_artist": "Miranda Lambert",
+      "actual_title": "All Kinds of Kinds",
+      "lyrics_path": "miranda-lambert\\_singles\\all-kinds-of-kinds.txt"
+    },
+    {
+      "rank": 74,
+      "searched_artist": "Gloriana",
+      "searched_title": "Can't Shake You",
+      "missing": false,
+      "actual_artist": "Gloriana",
+      "actual_title": "Can\u2019t Shake You",
+      "lyrics_path": "gloriana\\_singles\\cant-shake-you.txt"
+    },
+    {
+      "rank": 75,
+      "searched_artist": "Rascal Flatts",
+      "searched_title": "Changed",
+      "missing": false,
+      "actual_artist": "Rascal Flatts",
+      "actual_title": "Changed",
+      "lyrics_path": "rascal-flatts\\_singles\\changed.txt"
+    },
+    {
+      "rank": 76,
+      "searched_artist": "Kenny Chesney",
+      "searched_title": "When I See This Bar",
+      "missing": false,
+      "actual_artist": "Kenny Chesney",
+      "actual_title": "When I See This Bar",
+      "lyrics_path": "kenny-chesney\\_singles\\when-i-see-this-bar.txt"
+    },
+    {
+      "rank": 77,
+      "searched_artist": "Eric Paslay",
+      "searched_title": "Friday Night",
+      "missing": false,
+      "actual_artist": "Eric Paslay",
+      "actual_title": "Friday Night",
+      "lyrics_path": "eric-paslay\\_singles\\friday-night.txt"
+    },
+    {
+      "rank": 78,
+      "searched_artist": "Charlie Worsham",
+      "searched_title": "Could It Be",
+      "missing": false,
+      "actual_artist": "Charlie Worsham",
+      "actual_title": "Could It Be",
+      "lyrics_path": "charlie-worsham\\_singles\\could-it-be.txt"
+    },
+    {
+      "rank": 79,
+      "searched_artist": "Eric Church",
+      "searched_title": "Creepin'",
+      "missing": false,
+      "actual_artist": "Eric Church",
+      "actual_title": "Creepin\u2019",
+      "lyrics_path": "eric-church\\_singles\\creepin.txt"
+    },
+    {
+      "rank": 80,
+      "searched_artist": "Scotty McCreery",
+      "searched_title": "See You Tonight",
+      "missing": false,
+      "actual_artist": "Scotty McCreery",
+      "actual_title": "See You Tonight",
+      "lyrics_path": "scotty-mccreery\\_singles\\see-you-tonight.txt"
+    },
+    {
+      "rank": 81,
+      "searched_artist": "Jake Owen",
+      "searched_title": "Days Of Gold",
+      "missing": false,
+      "actual_artist": "Jake Owen",
+      "actual_title": "Days of Gold",
+      "lyrics_path": "jake-owen\\_singles\\days-of-gold.txt"
+    },
+    {
+      "rank": 82,
+      "searched_artist": "Gary Allan",
+      "searched_title": "Pieces",
+      "missing": false,
+      "actual_artist": "Gary Allan",
+      "actual_title": "Pieces",
+      "lyrics_path": "gary-allan\\_singles\\pieces.txt"
+    },
+    {
+      "rank": 83,
+      "searched_artist": "Jake Owen",
+      "searched_title": "The One That Got Away",
+      "missing": false,
+      "actual_artist": "Jake Owen",
+      "actual_title": "The One That Got Away",
+      "lyrics_path": "jake-owen\\_singles\\the-one-that-got-away.txt"
+    },
+    {
+      "rank": 84,
+      "searched_artist": "Dustin Lynch",
+      "searched_title": "She Cranks My Tractor",
+      "missing": false,
+      "actual_artist": "Dustin Lynch",
+      "actual_title": "She Cranks My Tractor",
+      "lyrics_path": "dustin-lynch\\_singles\\she-cranks-my-tractor.txt"
+    },
+    {
+      "rank": 85,
+      "searched_artist": "Florida Georgia Line",
+      "searched_title": "Stay",
+      "missing": false,
+      "actual_artist": "Florida Georgia Line",
+      "actual_title": "Stay",
+      "lyrics_path": "florida-georgia-line\\_singles\\stay.txt"
+    },
+    {
+      "rank": 86,
+      "searched_artist": "Kenny Chesney",
+      "searched_title": "El Cerrito Place",
+      "missing": false,
+      "actual_artist": "Kenny Chesney",
+      "actual_title": "El Cerrito Place",
+      "lyrics_path": "kenny-chesney\\_singles\\el-cerrito-place.txt"
+    },
+    {
+      "rank": 87,
+      "searched_artist": "The Henningsens",
+      "searched_title": "American Beautiful",
+      "missing": false,
+      "actual_artist": "The Henningsens",
+      "actual_title": "American Beautiful",
+      "lyrics_path": "the-henningsens\\_singles\\american-beautiful.txt"
+    },
+    {
+      "rank": 88,
+      "searched_artist": "The Band Perry",
+      "searched_title": "Don't Let Me Be Lonely",
+      "missing": false,
+      "actual_artist": "The Band Perry",
+      "actual_title": "Don\u2019t Let Me Be Lonely",
+      "lyrics_path": "the-band-perry\\_singles\\dont-let-me-be-lonely.txt"
+    },
+    {
+      "rank": 89,
+      "searched_artist": "Jana Kramer",
+      "searched_title": "Whiskey",
+      "missing": false,
+      "actual_artist": "Jana Kramer",
+      "actual_title": "Whiskey",
+      "lyrics_path": "jana-kramer\\_singles\\whiskey.txt"
+    },
+    {
+      "rank": 90,
+      "searched_artist": "Little Big Town",
+      "searched_title": "Your Side Of The Bed",
+      "missing": false,
+      "actual_artist": "Little Big Town",
+      "actual_title": "Your Side of the Bed",
+      "lyrics_path": "little-big-town\\_singles\\your-side-of-the-bed.txt"
+    },
+    {
+      "rank": 91,
+      "searched_artist": "Kacey Musgraves",
+      "searched_title": "Blowin' Smoke",
+      "missing": false,
+      "actual_artist": "Kacey Musgraves",
+      "actual_title": "Blowin\u2019 Smoke",
+      "lyrics_path": "kacey-musgraves\\_singles\\blowin-smoke.txt"
+    },
+    {
+      "rank": 92,
+      "searched_artist": "Zac Brown Band",
+      "searched_title": "Sweet Annie",
+      "missing": false,
+      "actual_artist": "Zac Brown Band",
+      "actual_title": "Sweet Annie",
+      "lyrics_path": "zac-brown-band\\_singles\\sweet-annie.txt"
+    },
+    {
+      "rank": 93,
+      "searched_artist": "Jon Pardi",
+      "searched_title": "Up All Night",
+      "missing": false,
+      "actual_artist": "Jon Pardi",
+      "actual_title": "Up All Night",
+      "lyrics_path": "jon-pardi\\_singles\\up-all-night.txt"
+    },
+    {
+      "rank": 94,
+      "searched_artist": "Darius Rucker",
+      "searched_title": "Radio",
+      "missing": false,
+      "actual_artist": "Darius Rucker",
+      "actual_title": "Radio",
+      "lyrics_path": "darius-rucker\\_singles\\radio.txt"
+    },
+    {
+      "rank": 95,
+      "searched_artist": "Kelly Clarkson Featuring Vince Gill",
+      "searched_title": "Don't Rush",
+      "missing": false,
+      "actual_artist": "Kelly Clarkson",
+      "actual_title": "Don\u2019t Rush",
+      "lyrics_path": "kelly-clarkson\\_singles\\dont-rush.txt"
+    },
+    {
+      "rank": 96,
+      "searched_artist": "Chris Cagle",
+      "searched_title": "Let There Be Cowgirls",
+      "missing": false,
+      "actual_artist": "Chris Cagle",
+      "actual_title": "Let There Be Cowgirls",
+      "lyrics_path": "chris-cagle\\_singles\\let-there-be-cowgirls.txt"
+    },
+    {
+      "rank": 97,
+      "searched_artist": "Greg Bates",
+      "searched_title": "Did It For The Girl",
+      "missing": false,
+      "actual_artist": "Greg Bates",
+      "actual_title": "Did It for the Girl",
+      "lyrics_path": "greg-bates\\_singles\\did-it-for-the-girl.txt"
+    },
+    {
+      "rank": 98,
+      "searched_artist": "Thomas Rhett",
+      "searched_title": "Beer With Jesus",
+      "missing": false,
+      "actual_artist": "Thomas Rhett",
+      "actual_title": "Beer with Jesus",
+      "lyrics_path": "thomas-rhett\\_singles\\beer-with-jesus.txt"
+    },
+    {
+      "rank": 99,
+      "searched_artist": "Toby Keith",
+      "searched_title": "Hope On The Rocks",
+      "missing": false,
+      "actual_artist": "Toby Keith",
+      "actual_title": "Hope On The Rocks",
+      "lyrics_path": "toby-keith\\_singles\\hope-on-the-rocks.txt"
+    },
+    {
+      "rank": 100,
+      "searched_artist": "Eric Church",
+      "searched_title": "The Outsiders",
+      "missing": false,
+      "actual_artist": "Eric Church",
+      "actual_title": "The Outsiders",
+      "lyrics_path": "eric-church\\_singles\\the-outsiders.txt"
+    }
+  ]
+}

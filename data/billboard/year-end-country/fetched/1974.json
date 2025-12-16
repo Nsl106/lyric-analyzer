@@ -1,0 +1,331 @@
+{
+  "year": 1974,
+  "chart": "year-end-country",
+  "total_songs": 37,
+  "fetched": 32,
+  "songs": [
+    {
+      "rank": 1,
+      "searched_artist": "Charlie Rich",
+      "searched_title": "There Won't Be Anymore",
+      "missing": false,
+      "actual_artist": "Charlie Rich",
+      "actual_title": "There Won\u2019t Be Anymore",
+      "lyrics_path": "charlie-rich\\_singles\\there-wont-be-anymore.txt"
+    },
+    {
+      "rank": 2,
+      "searched_artist": "Merle Haggard",
+      "searched_title": "If We Make It Through December",
+      "missing": false,
+      "actual_artist": "Merle Haggard",
+      "actual_title": "If We Make It Through December",
+      "lyrics_path": "merle-haggard\\_singles\\if-we-make-it-through-december.txt"
+    },
+    {
+      "rank": 3,
+      "searched_artist": "Tom T. Hall",
+      "searched_title": "I Love",
+      "missing": false,
+      "actual_artist": "Tom T. Hall",
+      "actual_title": "I Love",
+      "lyrics_path": "tom-t-hall\\_singles\\i-love.txt"
+    },
+    {
+      "rank": 4,
+      "searched_artist": "George Jones",
+      "searched_title": "The Grand Tour",
+      "missing": false,
+      "actual_artist": "George Jones",
+      "actual_title": "The Grand Tour",
+      "lyrics_path": "george-jones\\_singles\\the-grand-tour.txt"
+    },
+    {
+      "rank": 6,
+      "searched_artist": "Dolly Parton",
+      "searched_title": "Jolene",
+      "missing": false,
+      "actual_artist": "Dolly Parton",
+      "actual_title": "Jolene",
+      "lyrics_path": "dolly-parton\\_singles\\jolene.txt"
+    },
+    {
+      "rank": 7,
+      "searched_artist": "Bobby Bare",
+      "searched_title": "Marie Laveau",
+      "missing": false,
+      "actual_artist": "Bobby Bare",
+      "actual_title": "Marie Laveau",
+      "lyrics_path": "bobby-bare\\_singles\\marie-laveau.txt"
+    },
+    {
+      "rank": 8,
+      "searched_artist": "Charlie Rich",
+      "searched_title": "A Very Special Love Song",
+      "missing": false,
+      "actual_artist": "Charlie Rich",
+      "actual_title": "A Very Special Love Song",
+      "lyrics_path": "charlie-rich\\_singles\\a-very-special-love-song.txt"
+    },
+    {
+      "rank": 9,
+      "searched_artist": "Olivia Newton-John",
+      "searched_title": "If You Love Me (Let Me Know)",
+      "missing": false,
+      "actual_artist": "Olivia Newton-John",
+      "actual_title": "If You Love Me (Let Me Know)",
+      "lyrics_path": "olivia-newton-john\\_singles\\if-you-love-me-let-me-know.txt"
+    },
+    {
+      "rank": 12,
+      "searched_artist": "Bill Anderson",
+      "searched_title": "World Of Make Believe",
+      "missing": false,
+      "actual_artist": "Bill Anderson",
+      "actual_title": "World Of Make Believe",
+      "lyrics_path": "bill-anderson\\_singles\\world-of-make-believe.txt"
+    },
+    {
+      "rank": 14,
+      "searched_artist": "Don Williams",
+      "searched_title": "I Wouldn't Want To Live If You Didn't Love Me",
+      "missing": false,
+      "actual_artist": "Don Williams",
+      "actual_title": "I Wouldn\u2019t Want to Live If You Didn\u2019t Love Me",
+      "lyrics_path": "don-williams\\_singles\\i-wouldnt-want-to-live-if-you-didnt-love-me.txt"
+    },
+    {
+      "rank": 16,
+      "searched_artist": "Melba Montgomery",
+      "searched_title": "No Charge",
+      "missing": false,
+      "actual_artist": "Melba Montgomery",
+      "actual_title": "No Charge",
+      "lyrics_path": "melba-montgomery\\_singles\\no-charge.txt"
+    },
+    {
+      "rank": 17,
+      "searched_artist": "Joe Stampley",
+      "searched_title": "I'm Still Loving You",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 18,
+      "searched_artist": "Sonny James",
+      "searched_title": "Is It Wrong (For Loving You)",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 19,
+      "searched_artist": "Donna Fargo",
+      "searched_title": "You Can't Be A Beacon (if Your Light Don't Shine)",
+      "missing": false,
+      "actual_artist": "Donna Fargo",
+      "actual_title": "You Can\u2019t Be a Beacon If Your Light Don\u2019t Shine",
+      "lyrics_path": "donna-fargo\\_singles\\you-cant-be-a-beacon-if-your-light-dont-shine.txt"
+    },
+    {
+      "rank": 20,
+      "searched_artist": "Tommy Overstreet",
+      "searched_title": "(Jeannie Marie) You Were A Lady",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 21,
+      "searched_artist": "Ronnie Milsap",
+      "searched_title": "Pure Love",
+      "missing": false,
+      "actual_artist": "Ronnie Milsap",
+      "actual_title": "Pure Love",
+      "lyrics_path": "ronnie-milsap\\_singles\\pure-love.txt"
+    },
+    {
+      "rank": 22,
+      "searched_artist": "Dolly Parton",
+      "searched_title": "I Will Always Love You",
+      "missing": false,
+      "actual_artist": "Dolly Parton",
+      "actual_title": "I Will Always Love You",
+      "lyrics_path": "dolly-parton\\_singles\\i-will-always-love-you.txt"
+    },
+    {
+      "rank": 25,
+      "searched_artist": "Johnny Rodriguez",
+      "searched_title": "That's The Way Love Goes",
+      "missing": false,
+      "actual_artist": "Johnny Rodriguez",
+      "actual_title": "That\u2019s the Way Love Goes",
+      "lyrics_path": "johnny-rodriguez\\_singles\\thats-the-way-love-goes.txt"
+    },
+    {
+      "rank": 26,
+      "searched_artist": "Anne Murray",
+      "searched_title": "Love Song",
+      "missing": false,
+      "actual_artist": "Anne Murray",
+      "actual_title": "A Love Song",
+      "lyrics_path": "anne-murray\\_singles\\a-love-song.txt"
+    },
+    {
+      "rank": 27,
+      "searched_artist": "Loretta Lynn",
+      "searched_title": "Hey Loretta",
+      "missing": false,
+      "actual_artist": "Loretta Lynn",
+      "actual_title": "Hey Loretta",
+      "lyrics_path": "loretta-lynn\\_singles\\hey-loretta.txt"
+    },
+    {
+      "rank": 28,
+      "searched_artist": "Mickey Gilley",
+      "searched_title": "Room Full Of Roses",
+      "missing": false,
+      "actual_artist": "Mickey Gilley",
+      "actual_title": "Room Full of Roses",
+      "lyrics_path": "mickey-gilley\\_singles\\room-full-of-roses.txt"
+    },
+    {
+      "rank": 29,
+      "searched_artist": "Conway Twitty",
+      "searched_title": "I'm Not Through Loving You Yet",
+      "missing": false,
+      "actual_artist": "Conway Twitty",
+      "actual_title": "I\u2019m Not Through Loving You Yet",
+      "lyrics_path": "conway-twitty\\_singles\\im-not-through-loving-you-yet.txt"
+    },
+    {
+      "rank": 30,
+      "searched_artist": "Merle Haggard",
+      "searched_title": "Old Man From The Mountain",
+      "missing": false,
+      "actual_artist": "Merle Haggard",
+      "actual_title": "Old Man from the Mountain",
+      "lyrics_path": "merle-haggard\\_singles\\old-man-from-the-mountain.txt"
+    },
+    {
+      "rank": 31,
+      "searched_artist": "Merle Haggard",
+      "searched_title": "Things Aren't Funny Anymore",
+      "missing": false,
+      "actual_artist": "Merle Haggard",
+      "actual_title": "Things Aren\u2019t Funny Anymore",
+      "lyrics_path": "merle-haggard\\_singles\\things-arent-funny-anymore.txt"
+    },
+    {
+      "rank": 32,
+      "searched_artist": "Roy Clark",
+      "searched_title": "Honeymoon Feelin'",
+      "missing": false,
+      "actual_artist": "Roy Clark",
+      "actual_title": "Honeymoon Feeling",
+      "lyrics_path": "roy-clark\\_singles\\honeymoon-feeling.txt"
+    },
+    {
+      "rank": 34,
+      "searched_artist": "Bobby Bare",
+      "searched_title": "Daddy, What If",
+      "missing": false,
+      "actual_artist": "Bobby Bare",
+      "actual_title": "Daddy What If",
+      "lyrics_path": "bobby-bare\\_singles\\daddy-what-if.txt"
+    },
+    {
+      "rank": 36,
+      "searched_artist": "Mel Tillis",
+      "searched_title": "Stomp Them Grapes",
+      "missing": false,
+      "actual_artist": "Mel Tillis",
+      "actual_title": "Stomp Them Grapes",
+      "lyrics_path": "mel-tillis\\_singles\\stomp-them-grapes.txt"
+    },
+    {
+      "rank": 37,
+      "searched_artist": "Tom T. Hall",
+      "searched_title": "This Song Is Driving Me Crazy",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 38,
+      "searched_artist": "Hank Snow",
+      "searched_title": "Hello Love",
+      "missing": false,
+      "actual_artist": "Hank Snow",
+      "actual_title": "Hello Love",
+      "lyrics_path": "hank-snow\\_singles\\hello-love.txt"
+    },
+    {
+      "rank": 39,
+      "searched_artist": "Loretta Lynn & Conway Twitty",
+      "searched_title": "As Soon As I Hang Up The Phone",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 41,
+      "searched_artist": "Jim Ed Brown",
+      "searched_title": "It's That Time Of Night",
+      "missing": false,
+      "actual_artist": "Jim Ed Brown",
+      "actual_title": "It\u2019s That Time Of Night",
+      "lyrics_path": "jim-ed-brown\\_singles\\its-that-time-of-night.txt"
+    },
+    {
+      "rank": 42,
+      "searched_artist": "Gary Stewart",
+      "searched_title": "Drinkin' Thing",
+      "missing": false,
+      "actual_artist": "Gary Stewart",
+      "actual_title": "Drinkin\u2019 Thing",
+      "lyrics_path": "gary-stewart\\_singles\\drinkin-thing.txt"
+    },
+    {
+      "rank": 43,
+      "searched_artist": "Freddie Hart",
+      "searched_title": "The Want-To's",
+      "missing": false,
+      "actual_artist": "Freddy Vorobev and The King",
+      "actual_title": "All of Us Want To Sing (Duplicate to...)",
+      "lyrics_path": "freddy-vorobev-and-the-king\\_singles\\all-of-us-want-to-sing-duplicate-to.txt"
+    },
+    {
+      "rank": 44,
+      "searched_artist": "Cal Smith",
+      "searched_title": "Country Bumpkin",
+      "missing": false,
+      "actual_artist": "Cal Smith",
+      "actual_title": "Country Bumpkin",
+      "lyrics_path": "cal-smith\\_singles\\country-bumpkin.txt"
+    },
+    {
+      "rank": 45,
+      "searched_artist": "Charlie Rich",
+      "searched_title": "The Most Beautiful Girl",
+      "missing": false,
+      "actual_artist": "Charlie Rich",
+      "actual_title": "The Most Beautiful Girl",
+      "lyrics_path": "charlie-rich\\_singles\\the-most-beautiful-girl.txt"
+    },
+    {
+      "rank": 47,
+      "searched_artist": "Waylon Jennings",
+      "searched_title": "This Time",
+      "missing": false,
+      "actual_artist": "Waylon Jennings",
+      "actual_title": "This Time",
+      "lyrics_path": "waylon-jennings\\_singles\\this-time.txt"
+    },
+    {
+      "rank": 49,
+      "searched_artist": "Jim Stafford",
+      "searched_title": "Spiders & Snakes",
+      "missing": false,
+      "actual_artist": "Jim Stafford",
+      "actual_title": "Spiders & Snakes",
+      "lyrics_path": "jim-stafford\\_singles\\spiders--snakes.txt"
+    }
+  ]
+}

@@ -1,0 +1,430 @@
+{
+  "year": 1986,
+  "chart": "year-end-country",
+  "total_songs": 48,
+  "fetched": 43,
+  "songs": [
+    {
+      "rank": 1,
+      "searched_artist": "Rosanne Cash",
+      "searched_title": "Never Be You",
+      "missing": false,
+      "actual_artist": "Rosanne Cash",
+      "actual_title": "Never Be You",
+      "lyrics_path": "rosanne-cash\\_singles\\never-be-you.txt"
+    },
+    {
+      "rank": 2,
+      "searched_artist": "The Statler Brothers",
+      "searched_title": "Too Much On My Heart",
+      "missing": false,
+      "actual_artist": "The Statler Brothers",
+      "actual_title": "Too Much on My Heart",
+      "lyrics_path": "the-statler-brothers\\_singles\\too-much-on-my-heart.txt"
+    },
+    {
+      "rank": 4,
+      "searched_artist": "The Judds",
+      "searched_title": "Have Mercy",
+      "missing": false,
+      "actual_artist": "The Judds",
+      "actual_title": "Have Mercy",
+      "lyrics_path": "the-judds\\_singles\\have-mercy.txt"
+    },
+    {
+      "rank": 5,
+      "searched_artist": "Gary Morris",
+      "searched_title": "I'll Never Stop Loving You",
+      "missing": false,
+      "actual_artist": "Gary Morris",
+      "actual_title": "I\u2019ll Never Stop Loving You",
+      "lyrics_path": "gary-morris\\_singles\\ill-never-stop-loving-you.txt"
+    },
+    {
+      "rank": 6,
+      "searched_artist": "Kenny Rogers",
+      "searched_title": "Morning Desire",
+      "missing": false,
+      "actual_artist": "Kenny Rogers",
+      "actual_title": "Morning Desire",
+      "lyrics_path": "kenny-rogers\\_singles\\morning-desire.txt"
+    },
+    {
+      "rank": 7,
+      "searched_artist": "Steve Wariner",
+      "searched_title": "You Can Dream Of Me",
+      "missing": false,
+      "actual_artist": "Steve Wariner",
+      "actual_title": "You Can Dream of Me",
+      "lyrics_path": "steve-wariner\\_singles\\you-can-dream-of-me.txt"
+    },
+    {
+      "rank": 8,
+      "searched_artist": "Reba McEntire",
+      "searched_title": "Whoever's In New England",
+      "missing": false,
+      "actual_artist": "Reba McEntire",
+      "actual_title": "Whoever\u2019s In New England",
+      "lyrics_path": "reba-mcentire\\_singles\\whoevers-in-new-england.txt"
+    },
+    {
+      "rank": 9,
+      "searched_artist": "Judy Rodman",
+      "searched_title": "Until I Met You",
+      "missing": false,
+      "actual_artist": "Judy Rodman",
+      "actual_title": "Until I Met You",
+      "lyrics_path": "judy-rodman\\_singles\\until-i-met-you.txt"
+    },
+    {
+      "rank": 10,
+      "searched_artist": "Randy Travis",
+      "searched_title": "On The Other Hand",
+      "missing": false,
+      "actual_artist": "Randy Travis",
+      "actual_title": "On the Other Hand",
+      "lyrics_path": "randy-travis\\_singles\\on-the-other-hand.txt"
+    },
+    {
+      "rank": 11,
+      "searched_artist": "Dan Seals",
+      "searched_title": "Bop",
+      "missing": false,
+      "actual_artist": "Dan Seals",
+      "actual_title": "Bop",
+      "lyrics_path": "dan-seals\\_singles\\bop.txt"
+    },
+    {
+      "rank": 12,
+      "searched_artist": "Tanya Tucker",
+      "searched_title": "Just Another Love",
+      "missing": false,
+      "actual_artist": "Tanya Tucker",
+      "actual_title": "Just Another Love",
+      "lyrics_path": "tanya-tucker\\_singles\\just-another-love.txt"
+    },
+    {
+      "rank": 13,
+      "searched_artist": "Dan Seals",
+      "searched_title": "Everything That Glitters (Is Not Gold)",
+      "missing": false,
+      "actual_artist": "Dan Seals",
+      "actual_title": "Everything That Glitters (Is Not Gold)",
+      "lyrics_path": "dan-seals\\_singles\\everything-that-glitters-is-not-gold.txt"
+    },
+    {
+      "rank": 14,
+      "searched_artist": "T.G. Sheppard",
+      "searched_title": "Strong Heart",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 15,
+      "searched_artist": "Tanya Tucker",
+      "searched_title": "One Love At A Time",
+      "missing": false,
+      "actual_artist": "Tanya Tucker",
+      "actual_title": "One Love At a Time",
+      "lyrics_path": "tanya-tucker\\_singles\\one-love-at-a-time.txt"
+    },
+    {
+      "rank": 16,
+      "searched_artist": "Marie Osmond",
+      "searched_title": "There's No Stopping Your Heart",
+      "missing": false,
+      "actual_artist": "Marie Osmond",
+      "actual_title": "There\u2019s No Stoppin\u2019 Your Heart",
+      "lyrics_path": "marie-osmond\\_singles\\theres-no-stoppin-your-heart.txt"
+    },
+    {
+      "rank": 17,
+      "searched_artist": "The Forester Sisters",
+      "searched_title": "Lonely Alone",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 18,
+      "searched_artist": "Exile",
+      "searched_title": "I Could Get Used To You",
+      "missing": false,
+      "actual_artist": "Exile (Band)",
+      "actual_title": "I Could Get Used to You",
+      "lyrics_path": "exile-band\\_singles\\i-could-get-used-to-you.txt"
+    },
+    {
+      "rank": 19,
+      "searched_artist": "John Schneider",
+      "searched_title": "What's A Memory Like You (Doing In A Love Like This)",
+      "missing": false,
+      "actual_artist": "John Schneider",
+      "actual_title": "What\u2019s A Memory Like You (Doing In A Love Like This)",
+      "lyrics_path": "john-schneider\\_singles\\whats-a-memory-like-you-doing-in-a-love-like-this.txt"
+    },
+    {
+      "rank": 20,
+      "searched_artist": "Earl Thomas Conley",
+      "searched_title": "Nobody Falls Like A Fool",
+      "missing": false,
+      "actual_artist": "Earl Thomas Conley",
+      "actual_title": "Nobody Falls Like A Fool",
+      "lyrics_path": "earl-thomas-conley\\_singles\\nobody-falls-like-a-fool.txt"
+    },
+    {
+      "rank": 21,
+      "searched_artist": "Ricky Skaggs",
+      "searched_title": "Cajun Moon",
+      "missing": false,
+      "actual_artist": "Ricky Skaggs",
+      "actual_title": "Cajun Moon",
+      "lyrics_path": "ricky-skaggs\\_singles\\cajun-moon.txt"
+    },
+    {
+      "rank": 22,
+      "searched_artist": "Exile",
+      "searched_title": "It'll Be Me",
+      "missing": false,
+      "actual_artist": "Exile (Band)",
+      "actual_title": "It\u2019ll Be Me",
+      "lyrics_path": "exile-band\\_singles\\itll-be-me.txt"
+    },
+    {
+      "rank": 23,
+      "searched_artist": "John Schneider",
+      "searched_title": "You're The Last Thing I Needed Tonight",
+      "missing": false,
+      "actual_artist": "John Schneider",
+      "actual_title": "You\u2019re The Last Thing I Needed Tonight",
+      "lyrics_path": "john-schneider\\_singles\\youre-the-last-thing-i-needed-tonight.txt"
+    },
+    {
+      "rank": 24,
+      "searched_artist": "The Forester Sisters",
+      "searched_title": "Mama's Never Seen Those Eyes",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 25,
+      "searched_artist": "Steve Wariner",
+      "searched_title": "Life's Highway",
+      "missing": false,
+      "actual_artist": "Steve Wariner",
+      "actual_title": "Life\u2019s Highway",
+      "lyrics_path": "steve-wariner\\_singles\\lifes-highway.txt"
+    },
+    {
+      "rank": 26,
+      "searched_artist": "John Conlee",
+      "searched_title": "Got My Heart Set On You",
+      "missing": false,
+      "actual_artist": "John Conlee",
+      "actual_title": "Got My Heart Set On You",
+      "lyrics_path": "john-conlee\\_singles\\got-my-heart-set-on-you.txt"
+    },
+    {
+      "rank": 27,
+      "searched_artist": "T. Graham Brown",
+      "searched_title": "I Tell It Like It Used To Be",
+      "missing": false,
+      "actual_artist": "T. Graham Brown",
+      "actual_title": "I Tell It Like It Used To Be",
+      "lyrics_path": "t-graham-brown\\_singles\\i-tell-it-like-it-used-to-be.txt"
+    },
+    {
+      "rank": 28,
+      "searched_artist": "Lee Greenwood",
+      "searched_title": "Hearts Aren't Made To Break (They're Made To Love)",
+      "missing": false,
+      "actual_artist": "Lee Greenwood",
+      "actual_title": "Hearts Aren\u2019t Made to Break (They\u2019re Made to Love)",
+      "lyrics_path": "lee-greenwood\\_singles\\hearts-arent-made-to-break-theyre-made-to-love.txt"
+    },
+    {
+      "rank": 29,
+      "searched_artist": "The Bellamy Brothers",
+      "searched_title": "Lie To You For Your Love",
+      "missing": false,
+      "actual_artist": "The Bellamy Brothers",
+      "actual_title": "I\u2019d Lie To You For Your Love",
+      "lyrics_path": "the-bellamy-brothers\\_singles\\id-lie-to-you-for-your-love.txt"
+    },
+    {
+      "rank": 30,
+      "searched_artist": "Earl Thomas Conley",
+      "searched_title": "Once In A Blue Moon",
+      "missing": false,
+      "actual_artist": "Earl Thomas Conley",
+      "actual_title": "Once In a Blue Moon",
+      "lyrics_path": "earl-thomas-conley\\_singles\\once-in-a-blue-moon.txt"
+    },
+    {
+      "rank": 31,
+      "searched_artist": "Crystal Gayle",
+      "searched_title": "Cry",
+      "missing": false,
+      "actual_artist": "Crystal Gayle",
+      "actual_title": "Cry",
+      "lyrics_path": "crystal-gayle\\_singles\\cry.txt"
+    },
+    {
+      "rank": 32,
+      "searched_artist": "The Forester Sisters",
+      "searched_title": "Just In Case",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 33,
+      "searched_artist": "The Judds (Wynonna & Naomi)",
+      "searched_title": "Grandpa (Tell Me 'bout The Good Old Days)",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 34,
+      "searched_artist": "Reba McEntire",
+      "searched_title": "Only In My Mind",
+      "missing": false,
+      "actual_artist": "Reba McEntire",
+      "actual_title": "Only in My Mind",
+      "lyrics_path": "reba-mcentire\\_singles\\only-in-my-mind.txt"
+    },
+    {
+      "rank": 35,
+      "searched_artist": "Dolly Parton",
+      "searched_title": "Think About Love",
+      "missing": false,
+      "actual_artist": "Dolly Parton",
+      "actual_title": "Think About Love",
+      "lyrics_path": "dolly-parton\\_singles\\think-about-love.txt"
+    },
+    {
+      "rank": 36,
+      "searched_artist": "Restless Heart",
+      "searched_title": "That Rock Won't Roll",
+      "missing": false,
+      "actual_artist": "Restless Heart",
+      "actual_title": "That Rock Won\u2019t Roll",
+      "lyrics_path": "restless-heart\\_singles\\that-rock-wont-roll.txt"
+    },
+    {
+      "rank": 37,
+      "searched_artist": "Conway Twitty",
+      "searched_title": "Desperado Love",
+      "missing": false,
+      "actual_artist": "Conway Twitty",
+      "actual_title": "Desperado Love",
+      "lyrics_path": "conway-twitty\\_singles\\desperado-love.txt"
+    },
+    {
+      "rank": 38,
+      "searched_artist": "George Strait",
+      "searched_title": "The Chair",
+      "missing": false,
+      "actual_artist": "George Strait",
+      "actual_title": "The Chair",
+      "lyrics_path": "george-strait\\_singles\\the-chair.txt"
+    },
+    {
+      "rank": 39,
+      "searched_artist": "Janie Fricke",
+      "searched_title": "Always Have Always Will",
+      "missing": false,
+      "actual_artist": "Janie Fricke",
+      "actual_title": "Always Have, Always Will",
+      "lyrics_path": "janie-fricke\\_singles\\always-have-always-will.txt"
+    },
+    {
+      "rank": 40,
+      "searched_artist": "Eddie Rabbitt & Juice Newton",
+      "searched_title": "Both To Each Other (Friends & Lovers)",
+      "missing": false,
+      "actual_artist": "Eddie Rabbitt",
+      "actual_title": "Both to Each Other (Friends and Lovers)",
+      "lyrics_path": "eddie-rabbitt\\_singles\\both-to-each-other-friends-and-lovers.txt"
+    },
+    {
+      "rank": 41,
+      "searched_artist": "Don Williams",
+      "searched_title": "Heartbeat In The Darkness",
+      "missing": false,
+      "actual_artist": "Don Williams",
+      "actual_title": "Heartbeat In The Darkness",
+      "lyrics_path": "don-williams\\_singles\\heartbeat-in-the-darkness.txt"
+    },
+    {
+      "rank": 42,
+      "searched_artist": "Ronnie Milsap",
+      "searched_title": "Happy, Happy Birthday Baby",
+      "missing": false,
+      "actual_artist": "Ronnie Milsap",
+      "actual_title": "Happy, Happy Birthday Baby",
+      "lyrics_path": "ronnie-milsap\\_singles\\happy-happy-birthday-baby.txt"
+    },
+    {
+      "rank": 43,
+      "searched_artist": "Alabama",
+      "searched_title": "She And I",
+      "missing": false,
+      "actual_artist": "Alabama",
+      "actual_title": "She And I",
+      "lyrics_path": "alabama\\_singles\\she-and-i.txt"
+    },
+    {
+      "rank": 44,
+      "searched_artist": "Juice Newton",
+      "searched_title": "Hurt",
+      "missing": false,
+      "actual_artist": "Juice Newton",
+      "actual_title": "Hurt",
+      "lyrics_path": "juice-newton\\_singles\\hurt.txt"
+    },
+    {
+      "rank": 45,
+      "searched_artist": "Dwight Yoakam",
+      "searched_title": "Honky Tonk Man",
+      "missing": false,
+      "actual_artist": "Dwight Yoakam",
+      "actual_title": "Honky Tonk Man",
+      "lyrics_path": "dwight-yoakam\\_singles\\honky-tonk-man.txt"
+    },
+    {
+      "rank": 47,
+      "searched_artist": "Mel McDaniel",
+      "searched_title": "Stand Up",
+      "missing": false,
+      "actual_artist": "Mel McDaniel",
+      "actual_title": "Stand Up",
+      "lyrics_path": "mel-mcdaniel\\_singles\\stand-up.txt"
+    },
+    {
+      "rank": 48,
+      "searched_artist": "George Jones",
+      "searched_title": "The One I Loved Back Then (The Corvette Song)",
+      "missing": false,
+      "actual_artist": "George Jones",
+      "actual_title": "The One I Loved Back Then (The Corvette Song)",
+      "lyrics_path": "george-jones\\_singles\\the-one-i-loved-back-then-the-corvette-song.txt"
+    },
+    {
+      "rank": 49,
+      "searched_artist": "Hank Williams Jr.",
+      "searched_title": "Country State Of Mind",
+      "missing": false,
+      "actual_artist": "Hank Williams Jr.",
+      "actual_title": "Country State of Mind",
+      "lyrics_path": "hank-williams-jr\\_singles\\country-state-of-mind.txt"
+    },
+    {
+      "rank": 50,
+      "searched_artist": "Willie Nelson",
+      "searched_title": "Living In The Promiseland",
+      "missing": false,
+      "actual_artist": "Willie Nelson",
+      "actual_title": "Living in the Promiseland",
+      "lyrics_path": "willie-nelson\\_singles\\living-in-the-promiseland.txt"
+    }
+  ]
+}

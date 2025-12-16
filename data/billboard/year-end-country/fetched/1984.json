@@ -1,0 +1,333 @@
+{
+  "year": 1984,
+  "chart": "year-end-country",
+  "total_songs": 37,
+  "fetched": 33,
+  "songs": [
+    {
+      "rank": 1,
+      "searched_artist": "Julio Iglesias & Willie Nelson",
+      "searched_title": "To All The Girls I've Loved Before",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 3,
+      "searched_artist": "The Judds (Wynonna & Naomi)",
+      "searched_title": "Mama He's Crazy",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 6,
+      "searched_artist": "Jim Glaser",
+      "searched_title": "You're Gettin' to Me Again",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 7,
+      "searched_artist": "Eddy Raven",
+      "searched_title": "I Got Mexico",
+      "missing": false,
+      "actual_artist": "Eddy Raven",
+      "actual_title": "I Got Mexico",
+      "lyrics_path": "eddy-raven\\_singles\\i-got-mexico.txt"
+    },
+    {
+      "rank": 9,
+      "searched_artist": "Anne Murray",
+      "searched_title": "Just Another Woman In Love",
+      "missing": false,
+      "actual_artist": "Anne Murray",
+      "actual_title": "Just Another Woman In Love",
+      "lyrics_path": "anne-murray\\_singles\\just-another-woman-in-love.txt"
+    },
+    {
+      "rank": 10,
+      "searched_artist": "Earl Thomas Conley",
+      "searched_title": "Angel In Disguise",
+      "missing": false,
+      "actual_artist": "Earl Thomas Conley",
+      "actual_title": "Angel In Disguise",
+      "lyrics_path": "earl-thomas-conley\\_singles\\angel-in-disguise.txt"
+    },
+    {
+      "rank": 12,
+      "searched_artist": "Nitty Gritty Dirt Band",
+      "searched_title": "Long Hard Road (The Sharecropper's Dream)",
+      "missing": false,
+      "actual_artist": "Nitty Gritty Dirt Band",
+      "actual_title": "Long Hard Road (The Sharecropper\u2019s Dream)",
+      "lyrics_path": "nitty-gritty-dirt-band\\_singles\\long-hard-road-the-sharecroppers-dream.txt"
+    },
+    {
+      "rank": 13,
+      "searched_artist": "David Allan Coe",
+      "searched_title": "Mona Lisa Lost Her Smile",
+      "missing": false,
+      "actual_artist": "David Allan Coe",
+      "actual_title": "Mona Lisa Lost Her Smile",
+      "lyrics_path": "david-allan-coe\\_singles\\mona-lisa-lost-her-smile.txt"
+    },
+    {
+      "rank": 14,
+      "searched_artist": "Don Williams",
+      "searched_title": "That's The Thing About Love",
+      "missing": false,
+      "actual_artist": "Don Williams",
+      "actual_title": "That\u2019s the Thing About Love",
+      "lyrics_path": "don-williams\\_singles\\thats-the-thing-about-love.txt"
+    },
+    {
+      "rank": 15,
+      "searched_artist": "Alabama",
+      "searched_title": "If You're Gonna Play In Texas",
+      "missing": false,
+      "actual_artist": "Alabama",
+      "actual_title": "If You\u2019re Gonna Play In Texas (You Gotta Have A Fiddle In The Band)",
+      "lyrics_path": "alabama\\_singles\\if-youre-gonna-play-in-texas-you-gotta-have-a-fiddle-in-the-band.txt"
+    },
+    {
+      "rank": 16,
+      "searched_artist": "Ronnie Milsap",
+      "searched_title": "Still Losing You",
+      "missing": false,
+      "actual_artist": "Ronnie Milsap",
+      "actual_title": "Still Losing You",
+      "lyrics_path": "ronnie-milsap\\_singles\\still-losing-you.txt"
+    },
+    {
+      "rank": 17,
+      "searched_artist": "Exile",
+      "searched_title": "Woke Up In Love",
+      "missing": false,
+      "actual_artist": "Exile (Band)",
+      "actual_title": "Woke Up in Love",
+      "lyrics_path": "exile-band\\_singles\\woke-up-in-love.txt"
+    },
+    {
+      "rank": 18,
+      "searched_artist": "Conway Twitty",
+      "searched_title": "Somebody's Needin' Somebody",
+      "missing": false,
+      "actual_artist": "Conway Twitty",
+      "actual_title": "Somebody\u2019s Needin\u2019 Somebody",
+      "lyrics_path": "conway-twitty\\_singles\\somebodys-needin-somebody.txt"
+    },
+    {
+      "rank": 20,
+      "searched_artist": "Ricky Skaggs",
+      "searched_title": "Uncle Pen",
+      "missing": false,
+      "actual_artist": "Ricky Skaggs",
+      "actual_title": "Uncle Pen",
+      "lyrics_path": "ricky-skaggs\\_singles\\uncle-pen.txt"
+    },
+    {
+      "rank": 22,
+      "searched_artist": "Merle Haggard",
+      "searched_title": "Someday When Things Are Good",
+      "missing": false,
+      "actual_artist": "Merle Haggard",
+      "actual_title": "Someday When Things Are Good",
+      "lyrics_path": "merle-haggard\\_singles\\someday-when-things-are-good.txt"
+    },
+    {
+      "rank": 23,
+      "searched_artist": "John Conlee",
+      "searched_title": "In My Eyes",
+      "missing": false,
+      "actual_artist": "John Conlee",
+      "actual_title": "In My Eyes",
+      "lyrics_path": "john-conlee\\_singles\\in-my-eyes.txt"
+    },
+    {
+      "rank": 24,
+      "searched_artist": "The Oak Ridge Boys",
+      "searched_title": "I Guess It Never Hurts To Hurt Sometimes",
+      "missing": false,
+      "actual_artist": "The Oak Ridge Boys",
+      "actual_title": "I Guess It Never Hurts To Hurt Sometimes",
+      "lyrics_path": "the-oak-ridge-boys\\_singles\\i-guess-it-never-hurts-to-hurt-sometimes.txt"
+    },
+    {
+      "rank": 25,
+      "searched_artist": "John Schneider",
+      "searched_title": "I've Been Around Enough To Know",
+      "missing": false,
+      "actual_artist": "John Schneider",
+      "actual_title": "I\u2019ve Been Around Enough To Know",
+      "lyrics_path": "john-schneider\\_singles\\ive-been-around-enough-to-know.txt"
+    },
+    {
+      "rank": 26,
+      "searched_artist": "Barbara Mandrell",
+      "searched_title": "Only A Lonely Heart Knows",
+      "missing": false,
+      "actual_artist": "Barbara Mandrell",
+      "actual_title": "Only a Lonely Heart Knows",
+      "lyrics_path": "barbara-mandrell\\_singles\\only-a-lonely-heart-knows.txt"
+    },
+    {
+      "rank": 29,
+      "searched_artist": "Crystal Gayle",
+      "searched_title": "Turning Away",
+      "missing": false,
+      "actual_artist": "Crystal Gayle",
+      "actual_title": "Turning Away",
+      "lyrics_path": "crystal-gayle\\_singles\\turning-away.txt"
+    },
+    {
+      "rank": 30,
+      "searched_artist": "George Strait",
+      "searched_title": "Right Or Wrong",
+      "missing": false,
+      "actual_artist": "George Strait",
+      "actual_title": "Right or Wrong",
+      "lyrics_path": "george-strait\\_singles\\right-or-wrong.txt"
+    },
+    {
+      "rank": 31,
+      "searched_artist": "Crystal Gayle",
+      "searched_title": "The Sound Of Goodbye",
+      "missing": false,
+      "actual_artist": "Crystal Gayle",
+      "actual_title": "The Sound of Goodbye",
+      "lyrics_path": "crystal-gayle\\_singles\\the-sound-of-goodbye.txt"
+    },
+    {
+      "rank": 32,
+      "searched_artist": "Barbara Mandrell & Lee Greenwood",
+      "searched_title": "To Me",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 33,
+      "searched_artist": "Lee Greenwood",
+      "searched_title": "Going, Going, Gone",
+      "missing": false,
+      "actual_artist": "Lee Greenwood",
+      "actual_title": "Going, Going, Gone",
+      "lyrics_path": "lee-greenwood\\_singles\\going-going-gone.txt"
+    },
+    {
+      "rank": 34,
+      "searched_artist": "John Conlee",
+      "searched_title": "As Long As I'm Rockin' With You",
+      "missing": false,
+      "actual_artist": "John Conlee",
+      "actual_title": "As Long As I\u2019m Rockin\u2019 With You",
+      "lyrics_path": "john-conlee\\_singles\\as-long-as-im-rockin-with-you.txt"
+    },
+    {
+      "rank": 35,
+      "searched_artist": "The Oak Ridge Boys",
+      "searched_title": "Everyday",
+      "missing": false,
+      "actual_artist": "The Oak Ridge Boys",
+      "actual_title": "Everyday",
+      "lyrics_path": "the-oak-ridge-boys\\_singles\\everyday.txt"
+    },
+    {
+      "rank": 37,
+      "searched_artist": "Merle Haggard",
+      "searched_title": "That's The Way Love Goes",
+      "missing": false,
+      "actual_artist": "Merle Haggard",
+      "actual_title": "That\u2019s the Way Love Goes",
+      "lyrics_path": "merle-haggard\\_singles\\thats-the-way-love-goes.txt"
+    },
+    {
+      "rank": 38,
+      "searched_artist": "Alabama",
+      "searched_title": "When We Make Love",
+      "missing": false,
+      "actual_artist": "Alabama",
+      "actual_title": "When We Make Love",
+      "lyrics_path": "alabama\\_singles\\when-we-make-love.txt"
+    },
+    {
+      "rank": 39,
+      "searched_artist": "T.G. Sheppard",
+      "searched_title": "Slow Burn",
+      "missing": false,
+      "actual_artist": "T.G. Sheppard",
+      "actual_title": "Slow Burn",
+      "lyrics_path": "tg-sheppard\\_singles\\slow-burn.txt"
+    },
+    {
+      "rank": 40,
+      "searched_artist": "George Strait",
+      "searched_title": "You Look So Good In Love",
+      "missing": false,
+      "actual_artist": "George Strait",
+      "actual_title": "You Look So Good in Love",
+      "lyrics_path": "george-strait\\_singles\\you-look-so-good-in-love.txt"
+    },
+    {
+      "rank": 41,
+      "searched_artist": "Ronnie Milsap",
+      "searched_title": "Show Her",
+      "missing": false,
+      "actual_artist": "Ronnie Milsap",
+      "actual_title": "Show Her",
+      "lyrics_path": "ronnie-milsap\\_singles\\show-her.txt"
+    },
+    {
+      "rank": 44,
+      "searched_artist": "The Statler Brothers",
+      "searched_title": "Atlanta Blue",
+      "missing": false,
+      "actual_artist": "The Statler Brothers",
+      "actual_title": "Atlanta Blue",
+      "lyrics_path": "the-statler-brothers\\_singles\\atlanta-blue.txt"
+    },
+    {
+      "rank": 45,
+      "searched_artist": "Don Williams",
+      "searched_title": "Stay Young",
+      "missing": false,
+      "actual_artist": "Don Williams",
+      "actual_title": "Stay Young",
+      "lyrics_path": "don-williams\\_singles\\stay-young.txt"
+    },
+    {
+      "rank": 46,
+      "searched_artist": "Exile",
+      "searched_title": "Give Me One More Chance",
+      "missing": false,
+      "actual_artist": "Exile (Band)",
+      "actual_title": "Give Me One More Chance",
+      "lyrics_path": "exile-band\\_singles\\give-me-one-more-chance.txt"
+    },
+    {
+      "rank": 48,
+      "searched_artist": "Barbara Mandrell",
+      "searched_title": "Happy Birthday Dear Heartache",
+      "missing": false,
+      "actual_artist": "Barbara Mandrell",
+      "actual_title": "Happy Birthday Dear Heartache",
+      "lyrics_path": "barbara-mandrell\\_singles\\happy-birthday-dear-heartache.txt"
+    },
+    {
+      "rank": 49,
+      "searched_artist": "Ricky Skaggs",
+      "searched_title": "Honey (Open That Door)",
+      "missing": false,
+      "actual_artist": "Ricky Skaggs",
+      "actual_title": "Honey (Open That Door)",
+      "lyrics_path": "ricky-skaggs\\_singles\\honey-open-that-door.txt"
+    },
+    {
+      "rank": 50,
+      "searched_artist": "T.G. Sheppard",
+      "searched_title": "Somewhere Down The Line",
+      "missing": false,
+      "actual_artist": "T.G. Sheppard",
+      "actual_title": "Somewhere Down The Line",
+      "lyrics_path": "tg-sheppard\\_singles\\somewhere-down-the-line.txt"
+    }
+  ]
+}

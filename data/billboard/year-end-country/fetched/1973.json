@@ -1,0 +1,321 @@
+{
+  "year": 1973,
+  "chart": "year-end-country",
+  "total_songs": 35,
+  "fetched": 34,
+  "songs": [
+    {
+      "rank": 1,
+      "searched_artist": "Conway Twitty",
+      "searched_title": "You've Never Been This Far Before",
+      "missing": false,
+      "actual_artist": "Conway Twitty",
+      "actual_title": "You\u2019ve Never Been This Far Before",
+      "lyrics_path": "conway-twitty\\_singles\\youve-never-been-this-far-before.txt"
+    },
+    {
+      "rank": 2,
+      "searched_artist": "Charlie Rich",
+      "searched_title": "Behind Closed Doors",
+      "missing": false,
+      "actual_artist": "Charlie Rich",
+      "actual_title": "Behind Closed Doors",
+      "lyrics_path": "charlie-rich\\_singles\\behind-closed-doors.txt"
+    },
+    {
+      "rank": 3,
+      "searched_artist": "Jeanne Pruett",
+      "searched_title": "Satin Sheets",
+      "missing": false,
+      "actual_artist": "Jeanne Pruett",
+      "actual_title": "Satin Sheets",
+      "lyrics_path": "jeanne-pruett\\_singles\\satin-sheets.txt"
+    },
+    {
+      "rank": 4,
+      "searched_artist": "Barbara Fairchild",
+      "searched_title": "Teddy Bear Song",
+      "missing": false,
+      "actual_artist": "Barbara Fairchild",
+      "actual_title": "Teddy Bear Song",
+      "lyrics_path": "barbara-fairchild\\_singles\\teddy-bear-song.txt"
+    },
+    {
+      "rank": 5,
+      "searched_artist": "Don Williams",
+      "searched_title": "Amanda",
+      "missing": false,
+      "actual_artist": "Don Williams",
+      "actual_title": "Amanda",
+      "lyrics_path": "don-williams\\_singles\\amanda.txt"
+    },
+    {
+      "rank": 7,
+      "searched_artist": "Kris Kristofferson",
+      "searched_title": "Why Me",
+      "missing": false,
+      "actual_artist": "Kris Kristofferson",
+      "actual_title": "Why Me",
+      "lyrics_path": "kris-kristofferson\\_singles\\why-me.txt"
+    },
+    {
+      "rank": 8,
+      "searched_artist": "Merle Haggard",
+      "searched_title": "Everybody's Had The Blues",
+      "missing": false,
+      "actual_artist": "Merle Haggard",
+      "actual_title": "Everybody\u2019s Had the Blues",
+      "lyrics_path": "merle-haggard\\_singles\\everybodys-had-the-blues.txt"
+    },
+    {
+      "rank": 10,
+      "searched_artist": "Cal Smith",
+      "searched_title": "The Lord Knows I'm Drinking",
+      "missing": false,
+      "actual_artist": "Cal Smith",
+      "actual_title": "The Lord Knows I\u2019m Drinking",
+      "lyrics_path": "cal-smith\\_singles\\the-lord-knows-im-drinking.txt"
+    },
+    {
+      "rank": 11,
+      "searched_artist": "Tanya Tucker",
+      "searched_title": "What's Your Mama's Name",
+      "missing": false,
+      "actual_artist": "Tanya Tucker",
+      "actual_title": "What\u2019s Your Mama\u2019s Name, Child",
+      "lyrics_path": "tanya-tucker\\_singles\\whats-your-mamas-name-child.txt"
+    },
+    {
+      "rank": 12,
+      "searched_artist": "Ray Price",
+      "searched_title": "She's Got To Be A Saint",
+      "missing": false,
+      "actual_artist": "Ray Price",
+      "actual_title": "She\u2019s Got to Be a Saint",
+      "lyrics_path": "ray-price\\_singles\\shes-got-to-be-a-saint.txt"
+    },
+    {
+      "rank": 13,
+      "searched_artist": "Loretta Lynn",
+      "searched_title": "Love Is The Foundation",
+      "missing": false,
+      "actual_artist": "Loretta Lynn",
+      "actual_title": "Love Is the Foundation",
+      "lyrics_path": "loretta-lynn\\_singles\\love-is-the-foundation.txt"
+    },
+    {
+      "rank": 14,
+      "searched_artist": "Tammy Wynette",
+      "searched_title": "Kids Say The Darndest Things",
+      "missing": false,
+      "actual_artist": "Tammy Wynette",
+      "actual_title": "Kids Say The Darndest Things",
+      "lyrics_path": "tammy-wynette\\_singles\\kids-say-the-darndest-things.txt"
+    },
+    {
+      "rank": 16,
+      "searched_artist": "Freddie Hart",
+      "searched_title": "Trip To Heaven",
+      "missing": false,
+      "actual_artist": "Freddie Hart",
+      "actual_title": "Trip to Heaven",
+      "lyrics_path": "freddie-hart\\_singles\\trip-to-heaven.txt"
+    },
+    {
+      "rank": 17,
+      "searched_artist": "Charley Pride",
+      "searched_title": "Don't Fight The Feelings Of Love",
+      "missing": false,
+      "actual_artist": "Charley Pride",
+      "actual_title": "Don\u2019t Fight The Feelings Of Love",
+      "lyrics_path": "charley-pride\\_singles\\dont-fight-the-feelings-of-love.txt"
+    },
+    {
+      "rank": 19,
+      "searched_artist": "Roy Clark",
+      "searched_title": "Come Live With Me",
+      "missing": false,
+      "actual_artist": "Roy Clark",
+      "actual_title": "Come Live With Me",
+      "lyrics_path": "roy-clark\\_singles\\come-live-with-me.txt"
+    },
+    {
+      "rank": 20,
+      "searched_artist": "Johnny Rodriguez",
+      "searched_title": "You Always Come Back (To Hurting Me)",
+      "missing": false,
+      "actual_artist": "Johnny Rodriguez",
+      "actual_title": "You Always Come Back (To Hurting Me)",
+      "lyrics_path": "johnny-rodriguez\\_singles\\you-always-come-back-to-hurting-me.txt"
+    },
+    {
+      "rank": 22,
+      "searched_artist": "Jean Shepard",
+      "searched_title": "Slippin' Away",
+      "missing": false,
+      "actual_artist": "Jean Shepard",
+      "actual_title": "Slippin\u2019 Away",
+      "lyrics_path": "jean-shepard\\_singles\\slippin-away.txt"
+    },
+    {
+      "rank": 23,
+      "searched_artist": "Johnny Rodriguez",
+      "searched_title": "Ridin' My Thumb To Mexico",
+      "missing": false,
+      "actual_artist": "Johnny Rodriguez",
+      "actual_title": "Ridin\u2019 My Thumb to Mexico",
+      "lyrics_path": "johnny-rodriguez\\_singles\\ridin-my-thumb-to-mexico.txt"
+    },
+    {
+      "rank": 24,
+      "searched_artist": "Lynn Anderson",
+      "searched_title": "Keep Me In Mind",
+      "missing": false,
+      "actual_artist": "Lynn Anderson",
+      "actual_title": "Keep Me in Mind",
+      "lyrics_path": "lynn-anderson\\_singles\\keep-me-in-mind.txt"
+    },
+    {
+      "rank": 26,
+      "searched_artist": "Tanya Tucker",
+      "searched_title": "Blood Red & Goin' Down",
+      "missing": false,
+      "actual_artist": "Tanya Tucker",
+      "actual_title": "Blood Red and Going Down",
+      "lyrics_path": "tanya-tucker\\_singles\\blood-red-and-going-down.txt"
+    },
+    {
+      "rank": 29,
+      "searched_artist": "Donna Fargo",
+      "searched_title": "Superman",
+      "missing": false,
+      "actual_artist": "Donna Fargo",
+      "actual_title": "Superman",
+      "lyrics_path": "donna-fargo\\_singles\\superman.txt"
+    },
+    {
+      "rank": 31,
+      "searched_artist": "Jerry Reed",
+      "searched_title": "Lord, Mr. Ford",
+      "missing": false,
+      "actual_artist": "Jerry Reed",
+      "actual_title": "Lord, Mr. Ford",
+      "lyrics_path": "jerry-reed\\_singles\\lord-mr-ford.txt"
+    },
+    {
+      "rank": 33,
+      "searched_artist": "Charley Pride",
+      "searched_title": "A Shoulder To Cry On",
+      "missing": false,
+      "actual_artist": "Charley Pride",
+      "actual_title": "A Shoulder To Cry On",
+      "lyrics_path": "charley-pride\\_singles\\a-shoulder-to-cry-on.txt"
+    },
+    {
+      "rank": 34,
+      "searched_artist": "Jeannie Seely",
+      "searched_title": "Can I Sleep In Your Arms",
+      "missing": false,
+      "actual_artist": "Jeannie Seely",
+      "actual_title": "Can I Sleep in Your Arms",
+      "lyrics_path": "jeannie-seely\\_singles\\can-i-sleep-in-your-arms.txt"
+    },
+    {
+      "rank": 36,
+      "searched_artist": "Bill Anderson",
+      "searched_title": "The Corner Of My Life",
+      "missing": false,
+      "actual_artist": "Bill Anderson",
+      "actual_title": "The Corner Of My Life",
+      "lyrics_path": "bill-anderson\\_singles\\the-corner-of-my-life.txt"
+    },
+    {
+      "rank": 37,
+      "searched_artist": "Jerry Wallace",
+      "searched_title": "Do You Know What It's Like To Be Lonesome?",
+      "missing": false,
+      "actual_artist": "Jerry Wallace",
+      "actual_title": "Do You Know What It\u2019s Like to Be Lonesome",
+      "lyrics_path": "jerry-wallace\\_singles\\do-you-know-what-its-like-to-be-lonesome.txt"
+    },
+    {
+      "rank": 38,
+      "searched_artist": "Johnny Cash",
+      "searched_title": "Any Old Wind That Blows",
+      "missing": false,
+      "actual_artist": "Johnny Cash",
+      "actual_title": "Any Old Wind That Blows",
+      "lyrics_path": "johnny-cash\\_singles\\any-old-wind-that-blows.txt"
+    },
+    {
+      "rank": 39,
+      "searched_artist": "Joe Stampley",
+      "searched_title": "Soul Song",
+      "missing": false,
+      "actual_artist": "Joe Stampley",
+      "actual_title": "Soul Song",
+      "lyrics_path": "joe-stampley\\_singles\\soul-song.txt"
+    },
+    {
+      "rank": 40,
+      "searched_artist": "Freddie Hart",
+      "searched_title": "Super Kind Of Woman",
+      "missing": false,
+      "actual_artist": "Freddie Hart",
+      "actual_title": "Super Kind of Woman",
+      "lyrics_path": "freddie-hart\\_singles\\super-kind-of-woman.txt"
+    },
+    {
+      "rank": 41,
+      "searched_artist": "Donna Fargo",
+      "searched_title": "You Were Always There",
+      "missing": false,
+      "actual_artist": "Donna Fargo",
+      "actual_title": "You Were Always There",
+      "lyrics_path": "donna-fargo\\_singles\\you-were-always-there.txt"
+    },
+    {
+      "rank": 42,
+      "searched_artist": "Johnny Carver",
+      "searched_title": "Yellow Ribbon",
+      "missing": false,
+      "actual_artist": "Johnny Carver",
+      "actual_title": "Yellow Ribbon",
+      "lyrics_path": "johnny-carver\\_singles\\yellow-ribbon.txt"
+    },
+    {
+      "rank": 43,
+      "searched_artist": "Lynn Anderson",
+      "searched_title": "Top Of The World",
+      "missing": false,
+      "actual_artist": "Lynn Anderson",
+      "actual_title": "Top of the World",
+      "lyrics_path": "lynn-anderson\\_singles\\top-of-the-world.txt"
+    },
+    {
+      "rank": 45,
+      "searched_artist": "Anne Murray",
+      "searched_title": "Danny's Song",
+      "missing": false,
+      "actual_artist": "Anne Murray",
+      "actual_title": "Danny\u2019s Song",
+      "lyrics_path": "anne-murray\\_singles\\dannys-song.txt"
+    },
+    {
+      "rank": 46,
+      "searched_artist": "David Houston",
+      "searched_title": "Good Things",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 47,
+      "searched_artist": "Johnny Paycheck",
+      "searched_title": "Mr. Lovemaker",
+      "missing": false,
+      "actual_artist": "Johnny Paycheck",
+      "actual_title": "Mr. Lovemaker",
+      "lyrics_path": "johnny-paycheck\\_singles\\mr-lovemaker.txt"
+    }
+  ]
+}

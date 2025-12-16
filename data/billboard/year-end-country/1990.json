@@ -1,0 +1,362 @@
+[
+  {
+    "rank": 1,
+    "title": "Nobody's Home",
+    "artist": "Clint Black"
+  },
+  {
+    "rank": 2,
+    "title": "Hard Rock Bottom Of Your Heart",
+    "artist": "Randy Travis"
+  },
+  {
+    "rank": 3,
+    "title": "On Second Thought",
+    "artist": "Eddie Rabbitt"
+  },
+  {
+    "rank": 4,
+    "title": "Love Without End, Amen",
+    "artist": "George Strait"
+  },
+  {
+    "rank": 5,
+    "title": "Walkin' Away",
+    "artist": "Clint Black"
+  },
+  {
+    "rank": 6,
+    "title": "I've Cried My Last Tear For You",
+    "artist": "Ricky Van Shelton"
+  },
+  {
+    "rank": 7,
+    "title": "No Matter How High",
+    "artist": "The Oak Ridge Boys"
+  },
+  {
+    "rank": 8,
+    "title": "Help Me Hold On",
+    "artist": "Travis Tritt"
+  },
+  {
+    "rank": 9,
+    "title": "Chains",
+    "artist": "Patty Loveless"
+  },
+  {
+    "rank": 10,
+    "title": "Here In The Real World",
+    "artist": "Alan Jackson"
+  },
+  {
+    "rank": 11,
+    "title": "Southern Star",
+    "artist": "Alabama"
+  },
+  {
+    "rank": 12,
+    "title": "Love On Arrival",
+    "artist": "Dan Seals"
+  },
+  {
+    "rank": 13,
+    "title": "The Dance",
+    "artist": "Garth Brooks"
+  },
+  {
+    "rank": 14,
+    "title": "Five Minutes",
+    "artist": "Lorrie Morgan"
+  },
+  {
+    "rank": 15,
+    "title": "I'm Over You",
+    "artist": "Keith Whitley"
+  },
+  {
+    "rank": 16,
+    "title": "Seein' My Father In Me",
+    "artist": "Paul Overstreet"
+  },
+  {
+    "rank": 17,
+    "title": "My Arms Stay Open All Night",
+    "artist": "Tanya Tucker"
+  },
+  {
+    "rank": 18,
+    "title": "Jukebox In My Mind",
+    "artist": "Alabama"
+  },
+  {
+    "rank": 19,
+    "title": "Statue Of A Fool",
+    "artist": "Ricky Van Shelton"
+  },
+  {
+    "rank": 20,
+    "title": "Not Counting You",
+    "artist": "Garth Brooks"
+  },
+  {
+    "rank": 21,
+    "title": "Stranger Things Have Happened",
+    "artist": "Ronnie Milsap"
+  },
+  {
+    "rank": 22,
+    "title": "Next To You, Next To Me",
+    "artist": "Shenandoah"
+  },
+  {
+    "rank": 23,
+    "title": "He Walked On Water",
+    "artist": "Randy Travis"
+  },
+  {
+    "rank": 24,
+    "title": "Nothing's News",
+    "artist": "Clint Black"
+  },
+  {
+    "rank": 25,
+    "title": "Good Times",
+    "artist": "Dan Seals"
+  },
+  {
+    "rank": 26,
+    "title": "I Meant Every Word He Said",
+    "artist": "Ricky Van Shelton"
+  },
+  {
+    "rank": 27,
+    "title": "Start All Over Again",
+    "artist": "The Desert Rose Band"
+  },
+  {
+    "rank": 28,
+    "title": "Friends In Low Places",
+    "artist": "Garth Brooks"
+  },
+  {
+    "rank": 29,
+    "title": "When I Could Come Home To You",
+    "artist": "Steve Wariner"
+  },
+  {
+    "rank": 30,
+    "title": "Wanted",
+    "artist": "Alan Jackson"
+  },
+  {
+    "rank": 31,
+    "title": "Walk On",
+    "artist": "Reba McEntire"
+  },
+  {
+    "rank": 32,
+    "title": "Holdin' A Good Hand",
+    "artist": "Lee Greenwood"
+  },
+  {
+    "rank": 33,
+    "title": "I'm Gonna Be Somebody",
+    "artist": "Travis Tritt"
+  },
+  {
+    "rank": 35,
+    "title": "Pass It On Down",
+    "artist": "Alabama"
+  },
+  {
+    "rank": 36,
+    "title": "Out Of Your Shoes",
+    "artist": "Lorrie Morgan"
+  },
+  {
+    "rank": 37,
+    "title": "Fast Movin' Train",
+    "artist": "Restless Heart"
+  },
+  {
+    "rank": 38,
+    "title": "A Woman In Love",
+    "artist": "Ronnie Milsap"
+  },
+  {
+    "rank": 39,
+    "title": "When I Call Your Name",
+    "artist": "Vince Gill"
+  },
+  {
+    "rank": 40,
+    "title": "It Ain't Nothin'",
+    "artist": "Keith Whitley"
+  },
+  {
+    "rank": 41,
+    "title": "Walking Shoes",
+    "artist": "Tanya Tucker"
+  },
+  {
+    "rank": 42,
+    "title": "She Came From Fort Worth",
+    "artist": "Kathy Mattea"
+  },
+  {
+    "rank": 43,
+    "title": "Till I Can't Take It Anymore",
+    "artist": "Billy Joe Royal"
+  },
+  {
+    "rank": 44,
+    "title": "Just As Long As I Have You",
+    "artist": "Don Williams"
+  },
+  {
+    "rank": 46,
+    "title": "Walkin', Talkin', Cryin', Barely Beatin' Broken Heart",
+    "artist": "Highway 101"
+  },
+  {
+    "rank": 47,
+    "title": "Many A Long & Lonesome Highway",
+    "artist": "Rodney Crowell"
+  },
+  {
+    "rank": 48,
+    "title": "I Can't Turn The Tide",
+    "artist": "Baillie and the Boys"
+  },
+  {
+    "rank": 49,
+    "title": "Who's Lonely Now",
+    "artist": "Highway 101"
+  },
+  {
+    "rank": 50,
+    "title": "Two Dozen Roses",
+    "artist": "Shenandoah"
+  },
+  {
+    "rank": 51,
+    "title": "Overnight Success",
+    "artist": "George Strait"
+  },
+  {
+    "rank": 52,
+    "title": "That Just About Does It",
+    "artist": "Vern Gosdin"
+  },
+  {
+    "rank": 53,
+    "title": "It's You Again",
+    "artist": "Skip Ewing"
+  },
+  {
+    "rank": 54,
+    "title": "On Down The Line",
+    "artist": "Patty Loveless"
+  },
+  {
+    "rank": 55,
+    "title": "Where've You Been",
+    "artist": "Kathy Mattea"
+  },
+  {
+    "rank": 56,
+    "title": "Leave It Alone",
+    "artist": "The Forester Sisters"
+  },
+  {
+    "rank": 57,
+    "title": "You Lie",
+    "artist": "Reba McEntire"
+  },
+  {
+    "rank": 58,
+    "title": "Little Girl",
+    "artist": "Reba McEntire"
+  },
+  {
+    "rank": 59,
+    "title": "Nobody's Talking",
+    "artist": "Exile"
+  },
+  {
+    "rank": 60,
+    "title": "I Fell In Love",
+    "artist": "Carlene Carter"
+  },
+  {
+    "rank": 61,
+    "title": "Sooner Or Later",
+    "artist": "Eddy Raven"
+  },
+  {
+    "rank": 62,
+    "title": "If You Could Only See Me Now",
+    "artist": "T. Graham Brown"
+  },
+  {
+    "rank": 63,
+    "title": "Fourteen Minutes Old",
+    "artist": "Doug Stone"
+  },
+  {
+    "rank": 64,
+    "title": "He Talks To Me",
+    "artist": "Lorrie Morgan"
+  },
+  {
+    "rank": 65,
+    "title": "Wrong",
+    "artist": "Waylon Jennings"
+  },
+  {
+    "rank": 66,
+    "title": "One Man Woman",
+    "artist": "The Judds"
+  },
+  {
+    "rank": 67,
+    "title": "Dancy's Dream",
+    "artist": "Restless Heart"
+  },
+  {
+    "rank": 68,
+    "title": "I Watched It All (On My Radio)",
+    "artist": "Lionel Cartwright"
+  },
+  {
+    "rank": 69,
+    "title": "Don't Go Out",
+    "artist": "Tanya Tucker With T. Graham Brown"
+  },
+  {
+    "rank": 71,
+    "title": "Richest Man On Earth",
+    "artist": "Paul Overstreet"
+  },
+  {
+    "rank": 72,
+    "title": "Drinking Champagne",
+    "artist": "George Strait"
+  },
+  {
+    "rank": 73,
+    "title": "Oh Lonesome Me",
+    "artist": "The Kentucky Headhunters"
+  },
+  {
+    "rank": 74,
+    "title": "I Could Be Persuaded",
+    "artist": "The Bellamy Brothers"
+  },
+  {
+    "rank": 75,
+    "title": "If Tomorrow Never Comes",
+    "artist": "Garth Brooks"
+  }
+]

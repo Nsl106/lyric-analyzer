@@ -1,0 +1,364 @@
+{
+  "year": 1985,
+  "chart": "year-end-country",
+  "total_songs": 40,
+  "fetched": 38,
+  "songs": [
+    {
+      "rank": 2,
+      "searched_artist": "Lee Greenwood",
+      "searched_title": "Dixie Road",
+      "missing": false,
+      "actual_artist": "Lee Greenwood",
+      "actual_title": "Dixie Road",
+      "lyrics_path": "lee-greenwood\\_singles\\dixie-road.txt"
+    },
+    {
+      "rank": 4,
+      "searched_artist": "Charly McClain",
+      "searched_title": "Radio Heart",
+      "missing": false,
+      "actual_artist": "Charly McClain",
+      "actual_title": "Radio Heart",
+      "lyrics_path": "charly-mcclain\\_singles\\radio-heart.txt"
+    },
+    {
+      "rank": 7,
+      "searched_artist": "Hank Williams Jr.",
+      "searched_title": "I'm For Love",
+      "missing": false,
+      "actual_artist": "Hank Williams Jr.",
+      "actual_title": "I\u2019m for Love",
+      "lyrics_path": "hank-williams-jr\\_singles\\im-for-love.txt"
+    },
+    {
+      "rank": 8,
+      "searched_artist": "Nitty Gritty Dirt Band",
+      "searched_title": "Modern Day Romance",
+      "missing": false,
+      "actual_artist": "Nitty Gritty Dirt Band",
+      "actual_title": "Modern Day Romance",
+      "lyrics_path": "nitty-gritty-dirt-band\\_singles\\modern-day-romance.txt"
+    },
+    {
+      "rank": 10,
+      "searched_artist": "Willie Nelson",
+      "searched_title": "Forgiving You Was Easy",
+      "missing": false,
+      "actual_artist": "Willie Nelson",
+      "actual_title": "Forgiving You Was Easy",
+      "lyrics_path": "willie-nelson\\_singles\\forgiving-you-was-easy.txt"
+    },
+    {
+      "rank": 11,
+      "searched_artist": "Rosanne Cash",
+      "searched_title": "I Don't Know Why You Don't Want Me",
+      "missing": false,
+      "actual_artist": "Rosanne Cash",
+      "actual_title": "I Don\u2019t Know Why You Don\u2019t Want Me",
+      "lyrics_path": "rosanne-cash\\_singles\\i-dont-know-why-you-dont-want-me.txt"
+    },
+    {
+      "rank": 12,
+      "searched_artist": "Mel McDaniel",
+      "searched_title": "Baby's Got Her Blue Jeans On",
+      "missing": false,
+      "actual_artist": "Mel McDaniel",
+      "actual_title": "Baby\u2019s Got Her Blue Jeans On",
+      "lyrics_path": "mel-mcdaniel\\_singles\\babys-got-her-blue-jeans-on.txt"
+    },
+    {
+      "rank": 13,
+      "searched_artist": "Exile",
+      "searched_title": "She's A Miracle",
+      "missing": false,
+      "actual_artist": "Exile (Band)",
+      "actual_title": "She\u2019s a Miracle",
+      "lyrics_path": "exile-band\\_singles\\shes-a-miracle.txt"
+    },
+    {
+      "rank": 15,
+      "searched_artist": "The Judds",
+      "searched_title": "Love Is Alive",
+      "missing": false,
+      "actual_artist": "The Judds",
+      "actual_title": "Love is Alive",
+      "lyrics_path": "the-judds\\_singles\\love-is-alive.txt"
+    },
+    {
+      "rank": 16,
+      "searched_artist": "Waylon Jennings",
+      "searched_title": "Drinkin' And Dreamin'",
+      "missing": false,
+      "actual_artist": "Waylon Jennings",
+      "actual_title": "Drinkin\u2019 And Dreamin\u2019",
+      "lyrics_path": "waylon-jennings\\_singles\\drinkin-and-dreamin.txt"
+    },
+    {
+      "rank": 17,
+      "searched_artist": "The Oak Ridge Boys",
+      "searched_title": "Little Things",
+      "missing": false,
+      "actual_artist": "The Oak Ridge Boys",
+      "actual_title": "Little Things",
+      "lyrics_path": "the-oak-ridge-boys\\_singles\\little-things.txt"
+    },
+    {
+      "rank": 18,
+      "searched_artist": "Ray Charles With Willie Nelson",
+      "searched_title": "Seven Spanish Angels",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 19,
+      "searched_artist": "Earl Thomas Conley",
+      "searched_title": "Honor Bound",
+      "missing": false,
+      "actual_artist": "Earl Thomas Conley",
+      "actual_title": "Honor Bound",
+      "lyrics_path": "earl-thomas-conley\\_singles\\honor-bound.txt"
+    },
+    {
+      "rank": 20,
+      "searched_artist": "Ronnie Milsap",
+      "searched_title": "She Keeps The Home Fires Burning",
+      "missing": false,
+      "actual_artist": "Ronnie Milsap",
+      "actual_title": "She Keeps the Home Fires Burning",
+      "lyrics_path": "ronnie-milsap\\_singles\\she-keeps-the-home-fires-burning.txt"
+    },
+    {
+      "rank": 21,
+      "searched_artist": "Steve Wariner",
+      "searched_title": "Some Fools Never Learn",
+      "missing": false,
+      "actual_artist": "Steve Wariner",
+      "actual_title": "Some Fools Never Learn",
+      "lyrics_path": "steve-wariner\\_singles\\some-fools-never-learn.txt"
+    },
+    {
+      "rank": 22,
+      "searched_artist": "Anne Murray",
+      "searched_title": "Time Don't Run Out On Me",
+      "missing": false,
+      "actual_artist": "Anne Murray",
+      "actual_title": "Time Don\u2019t Run Out On Me",
+      "lyrics_path": "anne-murray\\_singles\\time-dont-run-out-on-me.txt"
+    },
+    {
+      "rank": 23,
+      "searched_artist": "The Judds",
+      "searched_title": "Girls Night Out",
+      "missing": false,
+      "actual_artist": "The Judds",
+      "actual_title": "Girls\u2019 Night Out",
+      "lyrics_path": "the-judds\\_singles\\girls-night-out.txt"
+    },
+    {
+      "rank": 24,
+      "searched_artist": "The Forester Sisters",
+      "searched_title": "I Fell In Love Again Last Night",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 25,
+      "searched_artist": "The Bellamy Brothers",
+      "searched_title": "I Need More Of You",
+      "missing": false,
+      "actual_artist": "The Bellamy Brothers",
+      "actual_title": "I Need More Of You",
+      "lyrics_path": "the-bellamy-brothers\\_singles\\i-need-more-of-you.txt"
+    },
+    {
+      "rank": 26,
+      "searched_artist": "Alabama",
+      "searched_title": "There's No Way",
+      "missing": false,
+      "actual_artist": "Alabama",
+      "actual_title": "There\u2019s No Way",
+      "lyrics_path": "alabama\\_singles\\theres-no-way.txt"
+    },
+    {
+      "rank": 27,
+      "searched_artist": "John Schneider",
+      "searched_title": "Country Girls",
+      "missing": false,
+      "actual_artist": "John Schneider",
+      "actual_title": "Country Girls",
+      "lyrics_path": "john-schneider\\_singles\\country-girls.txt"
+    },
+    {
+      "rank": 28,
+      "searched_artist": "Earl Thomas Conley",
+      "searched_title": "Love Don't Care",
+      "missing": false,
+      "actual_artist": "Earl Thomas Conley",
+      "actual_title": "Love Don\u2019t Care (Whose Heart It Breaks)",
+      "lyrics_path": "earl-thomas-conley\\_singles\\love-dont-care-whose-heart-it-breaks.txt"
+    },
+    {
+      "rank": 29,
+      "searched_artist": "Exile",
+      "searched_title": "Crazy For Your Love",
+      "missing": false,
+      "actual_artist": "Exile (Band)",
+      "actual_title": "Crazy for Your Love",
+      "lyrics_path": "exile-band\\_singles\\crazy-for-your-love.txt"
+    },
+    {
+      "rank": 30,
+      "searched_artist": "Sawyer Brown",
+      "searched_title": "Step That Step",
+      "missing": false,
+      "actual_artist": "Sawyer Brown",
+      "actual_title": "Step That Step",
+      "lyrics_path": "sawyer-brown\\_singles\\step-that-step.txt"
+    },
+    {
+      "rank": 31,
+      "searched_artist": "The Oak Ridge Boys",
+      "searched_title": "Make My Life With You",
+      "missing": false,
+      "actual_artist": "The Oak Ridge Boys",
+      "actual_title": "Make My Life With You",
+      "lyrics_path": "the-oak-ridge-boys\\_singles\\make-my-life-with-you.txt"
+    },
+    {
+      "rank": 32,
+      "searched_artist": "Nitty Gritty Dirt Band",
+      "searched_title": "High Horse",
+      "missing": false,
+      "actual_artist": "Nitty Gritty Dirt Band",
+      "actual_title": "High Horse",
+      "lyrics_path": "nitty-gritty-dirt-band\\_singles\\high-horse.txt"
+    },
+    {
+      "rank": 33,
+      "searched_artist": "Sawyer Brown",
+      "searched_title": "Used To Blue",
+      "missing": false,
+      "actual_artist": "Sawyer Brown",
+      "actual_title": "Used to Blue",
+      "lyrics_path": "sawyer-brown\\_singles\\used-to-blue.txt"
+    },
+    {
+      "rank": 34,
+      "searched_artist": "Dolly Parton",
+      "searched_title": "Don't Call It Love",
+      "missing": false,
+      "actual_artist": "Dolly Parton",
+      "actual_title": "Don\u2019t Call It Love",
+      "lyrics_path": "dolly-parton\\_singles\\dont-call-it-love.txt"
+    },
+    {
+      "rank": 35,
+      "searched_artist": "The Bellamy Brothers",
+      "searched_title": "Old Hippie",
+      "missing": false,
+      "actual_artist": "The Bellamy Brothers",
+      "actual_title": "Old Hippie",
+      "lyrics_path": "the-bellamy-brothers\\_singles\\old-hippie.txt"
+    },
+    {
+      "rank": 36,
+      "searched_artist": "Dan Seals",
+      "searched_title": "My Baby's Got Good Timing",
+      "missing": false,
+      "actual_artist": "Dan Seals",
+      "actual_title": "My Baby\u2019s Got Good Timing",
+      "lyrics_path": "dan-seals\\_singles\\my-babys-got-good-timing.txt"
+    },
+    {
+      "rank": 38,
+      "searched_artist": "The Oak Ridge Boys",
+      "searched_title": "Touch A Hand, Make A Friend",
+      "missing": false,
+      "actual_artist": "The Oak Ridge Boys",
+      "actual_title": "Touch A Hand, Make A Friend",
+      "lyrics_path": "the-oak-ridge-boys\\_singles\\touch-a-hand-make-a-friend.txt"
+    },
+    {
+      "rank": 39,
+      "searched_artist": "Alabama",
+      "searched_title": "40 Hour Week (For A Livin')",
+      "missing": false,
+      "actual_artist": "Alabama",
+      "actual_title": "40 Hour Week (For A Livin\u2019)",
+      "lyrics_path": "alabama\\_singles\\40-hour-week-for-a-livin.txt"
+    },
+    {
+      "rank": 40,
+      "searched_artist": "Juice Newton",
+      "searched_title": "You Make Me Want To Make You Mine",
+      "missing": false,
+      "actual_artist": "Juice Newton",
+      "actual_title": "You Make Me Want To Make You Mine",
+      "lyrics_path": "juice-newton\\_singles\\you-make-me-want-to-make-you-mine.txt"
+    },
+    {
+      "rank": 41,
+      "searched_artist": "Kenny Rogers",
+      "searched_title": "Crazy",
+      "missing": false,
+      "actual_artist": "Kenny Rogers",
+      "actual_title": "Crazy",
+      "lyrics_path": "kenny-rogers\\_singles\\crazy.txt"
+    },
+    {
+      "rank": 43,
+      "searched_artist": "Ricky Skaggs",
+      "searched_title": "Country Boy",
+      "missing": false,
+      "actual_artist": "Ricky Skaggs",
+      "actual_title": "Country Boy",
+      "lyrics_path": "ricky-skaggs\\_singles\\country-boy.txt"
+    },
+    {
+      "rank": 44,
+      "searched_artist": "Reba McEntire",
+      "searched_title": "Somebody Should Leave",
+      "missing": false,
+      "actual_artist": "Reba McEntire",
+      "actual_title": "Somebody Should Leave",
+      "lyrics_path": "reba-mcentire\\_singles\\somebody-should-leave.txt"
+    },
+    {
+      "rank": 45,
+      "searched_artist": "Conway Twitty",
+      "searched_title": "Don't Call Him A Cowboy",
+      "missing": false,
+      "actual_artist": "Conway Twitty",
+      "actual_title": "Don\u2019t Call Him a Cowboy",
+      "lyrics_path": "conway-twitty\\_singles\\dont-call-him-a-cowboy.txt"
+    },
+    {
+      "rank": 47,
+      "searched_artist": "Merle Haggard",
+      "searched_title": "Natural High",
+      "missing": false,
+      "actual_artist": "Merle Haggard",
+      "actual_title": "Natural High",
+      "lyrics_path": "merle-haggard\\_singles\\natural-high.txt"
+    },
+    {
+      "rank": 49,
+      "searched_artist": "Ricky Skaggs",
+      "searched_title": "Something In My Heart",
+      "missing": false,
+      "actual_artist": "Ricky Skaggs",
+      "actual_title": "Something in My Heart",
+      "lyrics_path": "ricky-skaggs\\_singles\\something-in-my-heart.txt"
+    },
+    {
+      "rank": 50,
+      "searched_artist": "Conway Twitty",
+      "searched_title": "Between Blue Eyes And Jeans",
+      "missing": false,
+      "actual_artist": "Conway Twitty",
+      "actual_title": "Between Blue Eyes and Jeans",
+      "lyrics_path": "conway-twitty\\_singles\\between-blue-eyes-and-jeans.txt"
+    }
+  ]
+}

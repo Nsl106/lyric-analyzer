@@ -1,0 +1,387 @@
+{
+  "year": 1981,
+  "chart": "year-end-country",
+  "total_songs": 43,
+  "fetched": 39,
+  "songs": [
+    {
+      "rank": 1,
+      "searched_artist": "Earl Thomas Conley",
+      "searched_title": "Fire And Smoke",
+      "missing": false,
+      "actual_artist": "Earl Thomas Conley",
+      "actual_title": "Fire and Smoke",
+      "lyrics_path": "earl-thomas-conley\\_singles\\fire-and-smoke.txt"
+    },
+    {
+      "rank": 3,
+      "searched_artist": "Rosanne Cash",
+      "searched_title": "Seven Year Ache",
+      "missing": false,
+      "actual_artist": "Rosanne Cash",
+      "actual_title": "Seven Year Ache",
+      "lyrics_path": "rosanne-cash\\_singles\\seven-year-ache.txt"
+    },
+    {
+      "rank": 4,
+      "searched_artist": "Kenny Rogers",
+      "searched_title": "I Don't Need You",
+      "missing": false,
+      "actual_artist": "Kenny Rogers",
+      "actual_title": "I Don\u2019t Need You",
+      "lyrics_path": "kenny-rogers\\_singles\\i-dont-need-you.txt"
+    },
+    {
+      "rank": 5,
+      "searched_artist": "T.G. Sheppard",
+      "searched_title": "Party Time",
+      "missing": false,
+      "actual_artist": "T.G. Sheppard",
+      "actual_title": "Party Time",
+      "lyrics_path": "tg-sheppard\\_singles\\party-time.txt"
+    },
+    {
+      "rank": 6,
+      "searched_artist": "Dolly Parton",
+      "searched_title": "But You Know I Love You",
+      "missing": false,
+      "actual_artist": "Dolly Parton",
+      "actual_title": "But You Know I Love You",
+      "lyrics_path": "dolly-parton\\_singles\\but-you-know-i-love-you.txt"
+    },
+    {
+      "rank": 8,
+      "searched_artist": "Razzy Bailey",
+      "searched_title": "Friends",
+      "missing": false,
+      "actual_artist": "Razzy Bailey",
+      "actual_title": "Friends",
+      "lyrics_path": "razzy-bailey\\_singles\\friends.txt"
+    },
+    {
+      "rank": 9,
+      "searched_artist": "Alabama",
+      "searched_title": "Feels So Right",
+      "missing": false,
+      "actual_artist": "Alabama",
+      "actual_title": "Feels So Right",
+      "lyrics_path": "alabama\\_singles\\feels-so-right.txt"
+    },
+    {
+      "rank": 10,
+      "searched_artist": "Crystal Gayle",
+      "searched_title": "Too Many Lovers",
+      "missing": false,
+      "actual_artist": "Crystal Gayle",
+      "actual_title": "Too Many Lovers",
+      "lyrics_path": "crystal-gayle\\_singles\\too-many-lovers.txt"
+    },
+    {
+      "rank": 11,
+      "searched_artist": "Willie Nelson",
+      "searched_title": "Angel Flying Too Close To The Ground",
+      "missing": false,
+      "actual_artist": "Willie Nelson",
+      "actual_title": "Angel Flying Too Close to the Ground",
+      "lyrics_path": "willie-nelson\\_singles\\angel-flying-too-close-to-the-ground.txt"
+    },
+    {
+      "rank": 12,
+      "searched_artist": "Eddie Rabbitt",
+      "searched_title": "I Love A Rainy Night",
+      "missing": false,
+      "actual_artist": "Eddie Rabbitt",
+      "actual_title": "I Love a Rainy Night",
+      "lyrics_path": "eddie-rabbitt\\_singles\\i-love-a-rainy-night.txt"
+    },
+    {
+      "rank": 13,
+      "searched_artist": "Gail Davies",
+      "searched_title": "It's A Lovely, Lovely World",
+      "missing": false,
+      "actual_artist": "Gail Davies",
+      "actual_title": "It\u2019s a Lovely, Lovely World",
+      "lyrics_path": "gail-davies\\_singles\\its-a-lovely-lovely-world.txt"
+    },
+    {
+      "rank": 14,
+      "searched_artist": "Ronnie McDowell",
+      "searched_title": "Older Women",
+      "missing": false,
+      "actual_artist": "Ronnie McDowell",
+      "actual_title": "Older Women",
+      "lyrics_path": "ronnie-mcdowell\\_singles\\older-women.txt"
+    },
+    {
+      "rank": 15,
+      "searched_artist": "Razzy Bailey",
+      "searched_title": "I Keep Coming Back",
+      "missing": false,
+      "actual_artist": "Razzy Bailey",
+      "actual_title": "I Keep Coming Back",
+      "lyrics_path": "razzy-bailey\\_singles\\i-keep-coming-back.txt"
+    },
+    {
+      "rank": 17,
+      "searched_artist": "Anne Murray",
+      "searched_title": "Blessed Are The Believers",
+      "missing": false,
+      "actual_artist": "Anne Murray",
+      "actual_title": "Blessed Are The Believers",
+      "lyrics_path": "anne-murray\\_singles\\blessed-are-the-believers.txt"
+    },
+    {
+      "rank": 18,
+      "searched_artist": "David Frizzell & Shelly West",
+      "searched_title": "You're The Reason God Made Oklahoma",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 19,
+      "searched_artist": "The Statler Brothers",
+      "searched_title": "Don't Wait On Me",
+      "missing": false,
+      "actual_artist": "The Statler Brothers",
+      "actual_title": "Don\u2019t Wait On Me",
+      "lyrics_path": "the-statler-brothers\\_singles\\dont-wait-on-me.txt"
+    },
+    {
+      "rank": 20,
+      "searched_artist": "Eddie Rabbitt",
+      "searched_title": "Step By Step",
+      "missing": false,
+      "actual_artist": "Eddie Rabbitt",
+      "actual_title": "Step by Step",
+      "lyrics_path": "eddie-rabbitt\\_singles\\step-by-step.txt"
+    },
+    {
+      "rank": 21,
+      "searched_artist": "Reba McEntire",
+      "searched_title": "Today All Over Again",
+      "missing": false,
+      "actual_artist": "Reba McEntire",
+      "actual_title": "Today All Over Again",
+      "lyrics_path": "reba-mcentire\\_singles\\today-all-over-again.txt"
+    },
+    {
+      "rank": 22,
+      "searched_artist": "Mickey Gilley",
+      "searched_title": "A Headache Tomorrow (or A Heartache Tonight)",
+      "missing": false,
+      "actual_artist": "Mickey Gilley",
+      "actual_title": "A Headache Tomorrow (Or A Heartache Tonight)",
+      "lyrics_path": "mickey-gilley\\_singles\\a-headache-tomorrow-or-a-heartache-tonight.txt"
+    },
+    {
+      "rank": 23,
+      "searched_artist": "Lacy J. Dalton",
+      "searched_title": "Takin' It Easy",
+      "missing": false,
+      "actual_artist": "Lacy J. Dalton",
+      "actual_title": "Takin\u2019 It Easy",
+      "lyrics_path": "lacy-j-dalton\\_singles\\takin-it-easy.txt"
+    },
+    {
+      "rank": 25,
+      "searched_artist": "Merle Haggard",
+      "searched_title": "I Think I'll Stay Here And Drink",
+      "missing": false,
+      "actual_artist": "Merle Haggard",
+      "actual_title": "I Think I\u2019ll Just Stay Here and Drink",
+      "lyrics_path": "merle-haggard\\_singles\\i-think-ill-just-stay-here-and-drink.txt"
+    },
+    {
+      "rank": 26,
+      "searched_artist": "Steve Wariner",
+      "searched_title": "By Now",
+      "missing": false,
+      "actual_artist": "Steve Wariner",
+      "actual_title": "By Now",
+      "lyrics_path": "steve-wariner\\_singles\\by-now.txt"
+    },
+    {
+      "rank": 27,
+      "searched_artist": "Conway Twitty",
+      "searched_title": "Tight Fittin' Jeans",
+      "missing": false,
+      "actual_artist": "Conway Twitty",
+      "actual_title": "Tight Fittin\u2019 Jeans",
+      "lyrics_path": "conway-twitty\\_singles\\tight-fittin-jeans.txt"
+    },
+    {
+      "rank": 28,
+      "searched_artist": "Conway Twitty & Loretta Lynn",
+      "searched_title": "I Still Believe In Waltzes",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 29,
+      "searched_artist": "Charly McClain",
+      "searched_title": "Surround Me With Love",
+      "missing": false,
+      "actual_artist": "Charly McClain",
+      "actual_title": "Surround Me With Love",
+      "lyrics_path": "charly-mcclain\\_singles\\surround-me-with-love.txt"
+    },
+    {
+      "rank": 31,
+      "searched_artist": "Dottie West",
+      "searched_title": "Are You Happy Baby",
+      "missing": false,
+      "actual_artist": "Dottie West",
+      "actual_title": "Are You Happy Baby",
+      "lyrics_path": "dottie-west\\_singles\\are-you-happy-baby.txt"
+    },
+    {
+      "rank": 32,
+      "searched_artist": "Mel Tillis",
+      "searched_title": "Southern Rains",
+      "missing": false,
+      "actual_artist": "Mel Tillis",
+      "actual_title": "Southern Rains",
+      "lyrics_path": "mel-tillis\\_singles\\southern-rains.txt"
+    },
+    {
+      "rank": 33,
+      "searched_artist": "Earl Thomas Conley",
+      "searched_title": "Silent Treatment",
+      "missing": false,
+      "actual_artist": "Earl Thomas Conley",
+      "actual_title": "Silent Treatment",
+      "lyrics_path": "earl-thomas-conley\\_singles\\silent-treatment.txt"
+    },
+    {
+      "rank": 34,
+      "searched_artist": "Alabama",
+      "searched_title": "Old Flame",
+      "missing": false,
+      "actual_artist": "Alabama",
+      "actual_title": "Old Flame",
+      "lyrics_path": "alabama\\_singles\\old-flame.txt"
+    },
+    {
+      "rank": 35,
+      "searched_artist": "Mac Davis",
+      "searched_title": "Hooked On Music",
+      "missing": false,
+      "actual_artist": "Mac Davis",
+      "actual_title": "Hooked On Music",
+      "lyrics_path": "mac-davis\\_singles\\hooked-on-music.txt"
+    },
+    {
+      "rank": 36,
+      "searched_artist": "T.G. Sheppard",
+      "searched_title": "I Love 'em Every One",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 38,
+      "searched_artist": "John Anderson",
+      "searched_title": "I'm Just An Old Chunk Of Coal",
+      "missing": false,
+      "actual_artist": "John Anderson",
+      "actual_title": "I\u2019m Just an Old Chunk of Coal (But I\u2019m Gonna Be a Diamond Someday)",
+      "lyrics_path": "john-anderson\\_singles\\im-just-an-old-chunk-of-coal-but-im-gonna-be-a-diamond-someday.txt"
+    },
+    {
+      "rank": 39,
+      "searched_artist": "Johnny Lee",
+      "searched_title": "Prisoner Of Hope",
+      "missing": false,
+      "actual_artist": "Johnny Lee",
+      "actual_title": "Prisoner Of Hope",
+      "lyrics_path": "johnny-lee\\_singles\\prisoner-of-hope.txt"
+    },
+    {
+      "rank": 40,
+      "searched_artist": "The Oak Ridge Boys",
+      "searched_title": "Beautiful You",
+      "missing": false,
+      "actual_artist": "The Oak Ridge Boys",
+      "actual_title": "Beautiful You",
+      "lyrics_path": "the-oak-ridge-boys\\_singles\\beautiful-you.txt"
+    },
+    {
+      "rank": 41,
+      "searched_artist": "Johnny Lee",
+      "searched_title": "One In A Million",
+      "missing": false,
+      "actual_artist": "Johnny Lee",
+      "actual_title": "One in a Million",
+      "lyrics_path": "johnny-lee\\_singles\\one-in-a-million.txt"
+    },
+    {
+      "rank": 42,
+      "searched_artist": "Johnny Lee",
+      "searched_title": "Pickin' Up Strangers",
+      "missing": false,
+      "actual_artist": "Johnny Lee",
+      "actual_title": "Pickin\u2019 Up Strangers",
+      "lyrics_path": "johnny-lee\\_singles\\pickin-up-strangers.txt"
+    },
+    {
+      "rank": 44,
+      "searched_artist": "Conway Twitty",
+      "searched_title": "Rest Your Love On Me",
+      "missing": false,
+      "actual_artist": "Conway Twitty",
+      "actual_title": "Rest Your Love On Me",
+      "lyrics_path": "conway-twitty\\_singles\\rest-your-love-on-me.txt"
+    },
+    {
+      "rank": 45,
+      "searched_artist": "Dottie West",
+      "searched_title": "What Are We Doin' In Love",
+      "missing": false,
+      "actual_artist": "Dottie West",
+      "actual_title": "What Are We Doin\u2019 in Love",
+      "lyrics_path": "dottie-west\\_singles\\what-are-we-doin-in-love.txt"
+    },
+    {
+      "rank": 46,
+      "searched_artist": "Leon Everette",
+      "searched_title": "Giving Up Easy",
+      "missing": false,
+      "actual_artist": "Leon Everette",
+      "actual_title": "Giving Up Easy",
+      "lyrics_path": "leon-everette\\_singles\\giving-up-easy.txt"
+    },
+    {
+      "rank": 47,
+      "searched_artist": "Leon Everette",
+      "searched_title": "Hurricane",
+      "missing": false,
+      "actual_artist": "Leon Everette",
+      "actual_title": "Hurricane",
+      "lyrics_path": "leon-everette\\_singles\\hurricane.txt"
+    },
+    {
+      "rank": 48,
+      "searched_artist": "Terri Gibbs",
+      "searched_title": "Somebody's Knockin'",
+      "missing": false,
+      "actual_artist": "Terri Gibbs",
+      "actual_title": "Somebody\u2019s Knockin\u2019",
+      "lyrics_path": "terri-gibbs\\_singles\\somebodys-knockin.txt"
+    },
+    {
+      "rank": 49,
+      "searched_artist": "Ray Price",
+      "searched_title": "It Don't Hurt Me Half As Bad",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 50,
+      "searched_artist": "Don Williams",
+      "searched_title": "Falling Again",
+      "missing": false,
+      "actual_artist": "Don Williams",
+      "actual_title": "Falling Again",
+      "lyrics_path": "don-williams\\_singles\\falling-again.txt"
+    }
+  ]
+}

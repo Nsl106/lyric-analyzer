@@ -1,0 +1,354 @@
+{
+  "year": 1977,
+  "chart": "year-end-country",
+  "total_songs": 40,
+  "fetched": 33,
+  "songs": [
+    {
+      "rank": 1,
+      "searched_artist": "Waylon Jennings",
+      "searched_title": "Luckenbach, Texas (Back To The Basics Of Love)",
+      "missing": false,
+      "actual_artist": "Waylon Jennings",
+      "actual_title": "Luckenbach, Texas (Back To The Basics Of Love)",
+      "lyrics_path": "waylon-jennings\\_singles\\luckenbach-texas-back-to-the-basics-of-love.txt"
+    },
+    {
+      "rank": 2,
+      "searched_artist": "Crystal Gayle",
+      "searched_title": "Don't It Make My Brown Eyes Blue",
+      "missing": false,
+      "actual_artist": "Crystal Gayle",
+      "actual_title": "Don\u2019t It Make My Brown Eyes Blue",
+      "lyrics_path": "crystal-gayle\\_singles\\dont-it-make-my-brown-eyes-blue.txt"
+    },
+    {
+      "rank": 3,
+      "searched_artist": "Kenny Rogers",
+      "searched_title": "Lucille",
+      "missing": false,
+      "actual_artist": "Kenny Rogers",
+      "actual_title": "Lucille",
+      "lyrics_path": "kenny-rogers\\_singles\\lucille.txt"
+    },
+    {
+      "rank": 5,
+      "searched_artist": "Ronnie Milsap",
+      "searched_title": "It Was Almost Like A Song",
+      "missing": false,
+      "actual_artist": "Ronnie Milsap",
+      "actual_title": "It Was Almost Like a Song",
+      "lyrics_path": "ronnie-milsap\\_singles\\it-was-almost-like-a-song.txt"
+    },
+    {
+      "rank": 6,
+      "searched_artist": "Charlie Rich",
+      "searched_title": "Rolling With The Flow",
+      "missing": false,
+      "actual_artist": "Charlie Rich",
+      "actual_title": "Rollin\u2019 With The Flow",
+      "lyrics_path": "charlie-rich\\_singles\\rollin-with-the-flow.txt"
+    },
+    {
+      "rank": 7,
+      "searched_artist": "Mickey Gilley",
+      "searched_title": "She's Pulling Me Back Again",
+      "missing": false,
+      "actual_artist": "Mickey Gilley",
+      "actual_title": "She\u2019s Pulling Me Back Again",
+      "lyrics_path": "mickey-gilley\\_singles\\shes-pulling-me-back-again.txt"
+    },
+    {
+      "rank": 8,
+      "searched_artist": "Glen Campbell",
+      "searched_title": "Southern Nights",
+      "missing": false,
+      "actual_artist": "Glen Campbell",
+      "actual_title": "Southern Nights",
+      "lyrics_path": "glen-campbell\\_singles\\southern-nights.txt"
+    },
+    {
+      "rank": 9,
+      "searched_artist": "Elvis Presley",
+      "searched_title": "Way Down/pledging My Love",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 10,
+      "searched_artist": "Loretta Lynn",
+      "searched_title": "She's Got You",
+      "missing": false,
+      "actual_artist": "Loretta Lynn",
+      "actual_title": "She\u2019s Got You",
+      "lyrics_path": "loretta-lynn\\_singles\\shes-got-you.txt"
+    },
+    {
+      "rank": 12,
+      "searched_artist": "Don Williams",
+      "searched_title": "Some Broken Hearts Never Mend",
+      "missing": false,
+      "actual_artist": "Don Williams",
+      "actual_title": "Some Broken Hearts Never Mend",
+      "lyrics_path": "don-williams\\_singles\\some-broken-hearts-never-mend.txt"
+    },
+    {
+      "rank": 13,
+      "searched_artist": "Conway Twitty",
+      "searched_title": "Play Guitar Play",
+      "missing": false,
+      "actual_artist": "Conway Twitty",
+      "actual_title": "Play Guitar Play",
+      "lyrics_path": "conway-twitty\\_singles\\play-guitar-play.txt"
+    },
+    {
+      "rank": 14,
+      "searched_artist": "Johnny Duncan",
+      "searched_title": "It Couldn't Have Been Any Better",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 15,
+      "searched_artist": "Donna Fargo",
+      "searched_title": "That Was Yesterday",
+      "missing": false,
+      "actual_artist": "Donna Fargo",
+      "actual_title": "That Was Yesterday",
+      "lyrics_path": "donna-fargo\\_singles\\that-was-yesterday.txt"
+    },
+    {
+      "rank": 16,
+      "searched_artist": "Charley Pride",
+      "searched_title": "I'll Be Leavin' Alone",
+      "missing": false,
+      "actual_artist": "Charley Pride",
+      "actual_title": "I\u2019ll Be Leaving Alone",
+      "lyrics_path": "charley-pride\\_singles\\ill-be-leaving-alone.txt"
+    },
+    {
+      "rank": 17,
+      "searched_artist": "Kenny Rogers",
+      "searched_title": "Daytime Friends",
+      "missing": false,
+      "actual_artist": "Kenny Rogers",
+      "actual_title": "Daytime Friends",
+      "lyrics_path": "kenny-rogers\\_singles\\daytime-friends.txt"
+    },
+    {
+      "rank": 18,
+      "searched_artist": "Gene Watson",
+      "searched_title": "Paper Rosie",
+      "missing": false,
+      "actual_artist": "Gene Watson",
+      "actual_title": "Paper Rosie",
+      "lyrics_path": "gene-watson\\_singles\\paper-rosie.txt"
+    },
+    {
+      "rank": 19,
+      "searched_artist": "Johnny Duncan",
+      "searched_title": "Thinkin' Of A Rendezvous",
+      "missing": false,
+      "actual_artist": "Johnny Duncan",
+      "actual_title": "Thinkin\u2019 Of A Rendezvous",
+      "lyrics_path": "johnny-duncan\\_singles\\thinkin-of-a-rendezvous.txt"
+    },
+    {
+      "rank": 20,
+      "searched_artist": "Conway Twitty",
+      "searched_title": "I've Already Loved You In My Mind",
+      "missing": false,
+      "actual_artist": "Conway Twitty",
+      "actual_title": "I\u2019ve Already Loved You In My Mind",
+      "lyrics_path": "conway-twitty\\_singles\\ive-already-loved-you-in-my-mind.txt"
+    },
+    {
+      "rank": 22,
+      "searched_artist": "Crystal Gayle",
+      "searched_title": "I'll Do It All Over Again",
+      "missing": false,
+      "actual_artist": "Crystal Gayle",
+      "actual_title": "I\u2019ll Do It All Over Again",
+      "lyrics_path": "crystal-gayle\\_singles\\ill-do-it-all-over-again.txt"
+    },
+    {
+      "rank": 26,
+      "searched_artist": "Barbara Mandrell",
+      "searched_title": "Married But Not To Each Other",
+      "missing": false,
+      "actual_artist": "Barbara Mandrell",
+      "actual_title": "Married But Not To Each Other",
+      "lyrics_path": "barbara-mandrell\\_singles\\married-but-not-to-each-other.txt"
+    },
+    {
+      "rank": 27,
+      "searched_artist": "Ronnie Milsap",
+      "searched_title": "Let My Love Be Your Pillow",
+      "missing": false,
+      "actual_artist": "Ronnie Milsap",
+      "actual_title": "Let My Love Be Your Pillow",
+      "lyrics_path": "ronnie-milsap\\_singles\\let-my-love-be-your-pillow.txt"
+    },
+    {
+      "rank": 28,
+      "searched_artist": "Conway Twitty",
+      "searched_title": "I Can't Believe She Gives It All To Me",
+      "missing": false,
+      "actual_artist": "Conway Twitty",
+      "actual_title": "(I Can\u2019t Believe) She Gives It All to Me",
+      "lyrics_path": "conway-twitty\\_singles\\i-cant-believe-she-gives-it-all-to-me.txt"
+    },
+    {
+      "rank": 29,
+      "searched_artist": "Donna Fargo",
+      "searched_title": "Don't Be Angry",
+      "missing": false,
+      "actual_artist": "Donna Fargo",
+      "actual_title": "Don\u2019t Be Angry",
+      "lyrics_path": "donna-fargo\\_singles\\dont-be-angry.txt"
+    },
+    {
+      "rank": 30,
+      "searched_artist": "Johnny Duncan",
+      "searched_title": "A Song In The Night",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 31,
+      "searched_artist": "Merle Haggard",
+      "searched_title": "If We're Not Back In Love By Monday",
+      "missing": false,
+      "actual_artist": "Merle Haggard",
+      "actual_title": "If We\u2019re Not Back In Love By Monday",
+      "lyrics_path": "merle-haggard\\_singles\\if-were-not-back-in-love-by-monday.txt"
+    },
+    {
+      "rank": 32,
+      "searched_artist": "The Oak Ridge Boys",
+      "searched_title": "Y'all Come Back Saloon",
+      "missing": false,
+      "actual_artist": "The Oak Ridge Boys",
+      "actual_title": "Y\u2019all Come Back Saloon",
+      "lyrics_path": "the-oak-ridge-boys\\_singles\\yall-come-back-saloon.txt"
+    },
+    {
+      "rank": 33,
+      "searched_artist": "Elvis Presley",
+      "searched_title": "Moody Blue/she Thinks I Still Care",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 35,
+      "searched_artist": "Tom Jones",
+      "searched_title": "Say You'll Stay Until Tomorrow",
+      "missing": false,
+      "actual_artist": "Tom Jones",
+      "actual_title": "Say You\u2019ll Stay Until Tomorrow",
+      "lyrics_path": "tom-jones\\_singles\\say-youll-stay-until-tomorrow.txt"
+    },
+    {
+      "rank": 36,
+      "searched_artist": "Johnny Paycheck",
+      "searched_title": "Slide Off Of Your Satin Sheets",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 37,
+      "searched_artist": "Merle Haggard",
+      "searched_title": "Ramblin' Fever",
+      "missing": false,
+      "actual_artist": "Merle Haggard",
+      "actual_title": "Ramblin\u2019 Fever",
+      "lyrics_path": "merle-haggard\\_singles\\ramblin-fever.txt"
+    },
+    {
+      "rank": 38,
+      "searched_artist": "Eddie Rabbitt",
+      "searched_title": "Two Dollars In The Jukebox",
+      "missing": false,
+      "actual_artist": "Eddie Rabbitt",
+      "actual_title": "Two Dollars in the Jukebox",
+      "lyrics_path": "eddie-rabbitt\\_singles\\two-dollars-in-the-jukebox.txt"
+    },
+    {
+      "rank": 39,
+      "searched_artist": "Freddy Fender",
+      "searched_title": "The Rains Came/sugar Coated Love",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 41,
+      "searched_artist": "Charley Pride",
+      "searched_title": "She's Just An Old Love Turned Memory",
+      "missing": false,
+      "actual_artist": "Charley Pride",
+      "actual_title": "She\u2019s Just An Old Love Turned Memory",
+      "lyrics_path": "charley-pride\\_singles\\shes-just-an-old-love-turned-memory.txt"
+    },
+    {
+      "rank": 43,
+      "searched_artist": "Johnny Paycheck",
+      "searched_title": "I'm The Only Hell (mama Ever Raised)",
+      "missing": false,
+      "actual_artist": "Johnny Paycheck",
+      "actual_title": "I\u2019m the Only Hell (Mama Ever Raised)",
+      "lyrics_path": "johnny-paycheck\\_singles\\im-the-only-hell-mama-ever-raised.txt"
+    },
+    {
+      "rank": 44,
+      "searched_artist": "Mel Tillis",
+      "searched_title": "Heart Healer",
+      "missing": false,
+      "actual_artist": "Duke Ellington",
+      "actual_title": "Do Nothing Till You Hear from Me",
+      "lyrics_path": "duke-ellington\\_singles\\do-nothing-till-you-hear-from-me.txt"
+    },
+    {
+      "rank": 45,
+      "searched_artist": "Kenny Dale",
+      "searched_title": "Bluest Heartache Of The Year",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 46,
+      "searched_artist": "Glen Campbell",
+      "searched_title": "Sunflower",
+      "missing": false,
+      "actual_artist": "Glen Campbell",
+      "actual_title": "Sunflower",
+      "lyrics_path": "glen-campbell\\_singles\\sunflower.txt"
+    },
+    {
+      "rank": 47,
+      "searched_artist": "Vern Gosdin",
+      "searched_title": "Till The End",
+      "missing": false,
+      "actual_artist": "Vern Gosdin",
+      "actual_title": "Till The End",
+      "lyrics_path": "vern-gosdin\\_singles\\till-the-end.txt"
+    },
+    {
+      "rank": 48,
+      "searched_artist": "Dottsy",
+      "searched_title": "(after Sweet Memories) Play Born To Lose Again",
+      "missing": false,
+      "actual_artist": "Dottsy",
+      "actual_title": "(After Sweet Memories) Play Born To Lose Again",
+      "lyrics_path": "dottsy\\_singles\\after-sweet-memories-play-born-to-lose-again.txt"
+    },
+    {
+      "rank": 50,
+      "searched_artist": "Vern Gosdin",
+      "searched_title": "Yesterday's Gone",
+      "missing": false,
+      "actual_artist": "Vern Gosdin",
+      "actual_title": "Yesterday\u2019s Gone",
+      "lyrics_path": "vern-gosdin\\_singles\\yesterdays-gone.txt"
+    }
+  ]
+}

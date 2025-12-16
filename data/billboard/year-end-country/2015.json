@@ -1,0 +1,502 @@
+[
+  {
+    "rank": 1,
+    "title": "Take Your Time",
+    "artist": "Sam Hunt"
+  },
+  {
+    "rank": 2,
+    "title": "Girl Crush",
+    "artist": "Little Big Town"
+  },
+  {
+    "rank": 3,
+    "title": "House Party",
+    "artist": "Sam Hunt"
+  },
+  {
+    "rank": 4,
+    "title": "Kick The Dust Up",
+    "artist": "Luke Bryan"
+  },
+  {
+    "rank": 5,
+    "title": "Crash And Burn",
+    "artist": "Thomas Rhett"
+  },
+  {
+    "rank": 6,
+    "title": "Sangria",
+    "artist": "Blake Shelton"
+  },
+  {
+    "rank": 7,
+    "title": "Homegrown",
+    "artist": "Zac Brown Band"
+  },
+  {
+    "rank": 8,
+    "title": "Buy Me A Boat",
+    "artist": "Chris Janson"
+  },
+  {
+    "rank": 9,
+    "title": "John Cougar, John Deere, John 3:16",
+    "artist": "Keith Urban"
+  },
+  {
+    "rank": 10,
+    "title": "Like A Wrecking Ball",
+    "artist": "Eric Church"
+  },
+  {
+    "rank": 11,
+    "title": "Break Up With Him",
+    "artist": "Old Dominion"
+  },
+  {
+    "rank": 12,
+    "title": "Strip It Down",
+    "artist": "Luke Bryan"
+  },
+  {
+    "rank": 13,
+    "title": "I'm Comin' Over",
+    "artist": "Chris Young"
+  },
+  {
+    "rank": 14,
+    "title": "Lose My Mind",
+    "artist": "Brett Eldredge"
+  },
+  {
+    "rank": 15,
+    "title": "Drinking Class",
+    "artist": "Lee Brice"
+  },
+  {
+    "rank": 16,
+    "title": "Loving You Easy",
+    "artist": "Zac Brown Band"
+  },
+  {
+    "rank": 17,
+    "title": "Love You Like That",
+    "artist": "Canaan Smith"
+  },
+  {
+    "rank": 18,
+    "title": "I See You",
+    "artist": "Luke Bryan"
+  },
+  {
+    "rank": 19,
+    "title": "Burning House",
+    "artist": "Cam"
+  },
+  {
+    "rank": 20,
+    "title": "Smoke",
+    "artist": "A Thousand Horses"
+  },
+  {
+    "rank": 21,
+    "title": "Sippin' On Fire",
+    "artist": "Florida Georgia Line"
+  },
+  {
+    "rank": 22,
+    "title": "Little Toy Guns",
+    "artist": "Carrie Underwood"
+  },
+  {
+    "rank": 23,
+    "title": "Let Me See Ya Girl",
+    "artist": "Cole Swindell"
+  },
+  {
+    "rank": 24,
+    "title": "Tonight Looks Good On You",
+    "artist": "Jason Aldean"
+  },
+  {
+    "rank": 25,
+    "title": "Lonely Tonight",
+    "artist": "Blake Shelton Featuring Ashley Monroe"
+  },
+  {
+    "rank": 26,
+    "title": "Save It For A Rainy Day",
+    "artist": "Kenny Chesney"
+  },
+  {
+    "rank": 27,
+    "title": "Love Me Like You Mean It",
+    "artist": "Kelsea Ballerini"
+  },
+  {
+    "rank": 28,
+    "title": "Kiss You In The Morning",
+    "artist": "Michael Ray"
+  },
+  {
+    "rank": 29,
+    "title": "One Hell Of An Amen",
+    "artist": "Brantley Gilbert"
+  },
+  {
+    "rank": 30,
+    "title": "A Guy Walks Into A Bar",
+    "artist": "Tyler Farr"
+  },
+  {
+    "rank": 31,
+    "title": "Nothin' Like You",
+    "artist": "Dan + Shay"
+  },
+  {
+    "rank": 32,
+    "title": "Hell Of A Night",
+    "artist": "Dustin Lynch"
+  },
+  {
+    "rank": 33,
+    "title": "Don't It",
+    "artist": "Billy Currington"
+  },
+  {
+    "rank": 34,
+    "title": "Ain't Worth The Whiskey",
+    "artist": "Cole Swindell"
+  },
+  {
+    "rank": 35,
+    "title": "Sun Daze",
+    "artist": "Florida Georgia Line"
+  },
+  {
+    "rank": 36,
+    "title": "Something In The Water",
+    "artist": "Carrie Underwood"
+  },
+  {
+    "rank": 37,
+    "title": "Say You Do",
+    "artist": "Dierks Bentley"
+  },
+  {
+    "rank": 38,
+    "title": "Anything Goes",
+    "artist": "Florida Georgia Line"
+  },
+  {
+    "rank": 39,
+    "title": "Lonely Eyes",
+    "artist": "Chris Young"
+  },
+  {
+    "rank": 40,
+    "title": "Shotgun Rider",
+    "artist": "Tim McGraw"
+  },
+  {
+    "rank": 41,
+    "title": "Talladega",
+    "artist": "Eric Church"
+  },
+  {
+    "rank": 42,
+    "title": "Fly",
+    "artist": "Maddie & Tae"
+  },
+  {
+    "rank": 43,
+    "title": "Just Gettin' Started",
+    "artist": "Jason Aldean"
+  },
+  {
+    "rank": 44,
+    "title": "Young & Crazy",
+    "artist": "Frankie Ballard"
+  },
+  {
+    "rank": 45,
+    "title": "Baby Be My Love Song",
+    "artist": "Easton Corbin"
+  },
+  {
+    "rank": 46,
+    "title": "Diamond Rings And Old Barstools",
+    "artist": "Tim McGraw With Catherine Dunn"
+  },
+  {
+    "rank": 47,
+    "title": "I Got The Boy",
+    "artist": "Jana Kramer"
+  },
+  {
+    "rank": 48,
+    "title": "Gonna Wanna Tonight",
+    "artist": "Chase Rice"
+  },
+  {
+    "rank": 49,
+    "title": "Crushin' It",
+    "artist": "Brad Paisley"
+  },
+  {
+    "rank": 50,
+    "title": "Mean To Me",
+    "artist": "Brett Eldredge"
+  },
+  {
+    "rank": 51,
+    "title": "Homegrown Honey",
+    "artist": "Darius Rucker"
+  },
+  {
+    "rank": 52,
+    "title": "Make Me Wanna",
+    "artist": "Thomas Rhett"
+  },
+  {
+    "rank": 53,
+    "title": "Smoke Break",
+    "artist": "Carrie Underwood"
+  },
+  {
+    "rank": 54,
+    "title": "Stay A Little Longer",
+    "artist": "Brothers Osborne"
+  },
+  {
+    "rank": 55,
+    "title": "Raise 'Em Up",
+    "artist": "Keith Urban Featuring Eric Church"
+  },
+  {
+    "rank": 56,
+    "title": "Wild Child",
+    "artist": "Kenny Chesney With Grace Potter"
+  },
+  {
+    "rank": 57,
+    "title": "Real Life",
+    "artist": "Jake Owen"
+  },
+  {
+    "rank": 58,
+    "title": "She Don't Love You",
+    "artist": "Eric Paslay"
+  },
+  {
+    "rank": 59,
+    "title": "Die A Happy Man",
+    "artist": "Thomas Rhett"
+  },
+  {
+    "rank": 60,
+    "title": "Little Red Wagon",
+    "artist": "Miranda Lambert"
+  },
+  {
+    "rank": 61,
+    "title": "Like A Cowboy",
+    "artist": "Randy Houser"
+  },
+  {
+    "rank": 62,
+    "title": "Perfect Storm",
+    "artist": "Brad Paisley"
+  },
+  {
+    "rank": 63,
+    "title": "Gonna",
+    "artist": "Blake Shelton"
+  },
+  {
+    "rank": 64,
+    "title": "Break Up In A Small Town",
+    "artist": "Sam Hunt"
+  },
+  {
+    "rank": 65,
+    "title": "I'm To Blame",
+    "artist": "Kip Moore"
+  },
+  {
+    "rank": 66,
+    "title": "21",
+    "artist": "Hunter Hayes"
+  },
+  {
+    "rank": 67,
+    "title": "Already Callin' You Mine",
+    "artist": "Parmalee"
+  },
+  {
+    "rank": 68,
+    "title": "Games",
+    "artist": "Luke Bryan"
+  },
+  {
+    "rank": 69,
+    "title": "Til It's Gone",
+    "artist": "Kenny Chesney"
+  },
+  {
+    "rank": 70,
+    "title": "Top Of The World",
+    "artist": "Tim McGraw"
+  },
+  {
+    "rank": 71,
+    "title": "What We Ain't Got",
+    "artist": "Jake Owen"
+  },
+  {
+    "rank": 72,
+    "title": "I Love This Life",
+    "artist": "LoCash"
+  },
+  {
+    "rank": 73,
+    "title": "Take It On Back",
+    "artist": "Chase Bryant"
+  },
+  {
+    "rank": 74,
+    "title": "Dibs",
+    "artist": "Kelsea Ballerini"
+  },
+  {
+    "rank": 75,
+    "title": "God Made Girls",
+    "artist": "RaeLynn"
+  },
+  {
+    "rank": 76,
+    "title": "Riot",
+    "artist": "Rascal Flatts"
+  },
+  {
+    "rank": 77,
+    "title": "Girl In A Country Song",
+    "artist": "Maddie & Tae"
+  },
+  {
+    "rank": 78,
+    "title": "Gonna Know We Were Here",
+    "artist": "Jason Aldean"
+  },
+  {
+    "rank": 79,
+    "title": "Long Stretch Of Love",
+    "artist": "Lady Antebellum"
+  },
+  {
+    "rank": 80,
+    "title": "Going Out Like That",
+    "artist": "Reba"
+  },
+  {
+    "rank": 81,
+    "title": "Run Away With You",
+    "artist": "Big & Rich"
+  },
+  {
+    "rank": 82,
+    "title": "Somewhere In My Car",
+    "artist": "Keith Urban"
+  },
+  {
+    "rank": 83,
+    "title": "We Went",
+    "artist": "Randy Houser"
+  },
+  {
+    "rank": 84,
+    "title": "Burnin' It Down",
+    "artist": "Jason Aldean"
+  },
+  {
+    "rank": 85,
+    "title": "Leave The Night On",
+    "artist": "Sam Hunt"
+  },
+  {
+    "rank": 86,
+    "title": "Close Your Eyes",
+    "artist": "Parmalee"
+  },
+  {
+    "rank": 87,
+    "title": "Lay Low",
+    "artist": "Josh Turner"
+  },
+  {
+    "rank": 88,
+    "title": "Neon Light",
+    "artist": "Blake Shelton"
+  },
+  {
+    "rank": 89,
+    "title": "Tennessee Whiskey",
+    "artist": "Chris Stapleton"
+  },
+  {
+    "rank": 90,
+    "title": "Biscuits",
+    "artist": "Kacey Musgraves"
+  },
+  {
+    "rank": 91,
+    "title": "Riser",
+    "artist": "Dierks Bentley"
+  },
+  {
+    "rank": 92,
+    "title": "That Don't Sound Like You",
+    "artist": "Lee Brice"
+  },
+  {
+    "rank": 93,
+    "title": "Freestyle",
+    "artist": "Lady Antebellum"
+  },
+  {
+    "rank": 94,
+    "title": "Trailer Hitch",
+    "artist": "Kristian Bush"
+  },
+  {
+    "rank": 95,
+    "title": "Dirt",
+    "artist": "Florida Georgia Line"
+  },
+  {
+    "rank": 96,
+    "title": "Hard To Be Cool",
+    "artist": "Joe Nichols"
+  },
+  {
+    "rank": 97,
+    "title": "Trouble",
+    "artist": "Gloriana"
+  },
+  {
+    "rank": 98,
+    "title": "Ride",
+    "artist": "Chase Rice"
+  },
+  {
+    "rank": 99,
+    "title": "Country Nation",
+    "artist": "Brad Paisley"
+  },
+  {
+    "rank": 100,
+    "title": "Kiss You Tonight",
+    "artist": "David Nail"
+  }
+]

@@ -1,0 +1,548 @@
+{
+  "year": 2010,
+  "chart": "year-end-country",
+  "total_songs": 60,
+  "fetched": 60,
+  "songs": [
+    {
+      "rank": 1,
+      "searched_artist": "Lee Brice",
+      "searched_title": "Love Like Crazy",
+      "missing": false,
+      "actual_artist": "Lee Brice",
+      "actual_title": "Love Like Crazy",
+      "lyrics_path": "lee-brice\\_singles\\love-like-crazy.txt"
+    },
+    {
+      "rank": 2,
+      "searched_artist": "Luke Bryan",
+      "searched_title": "Rain Is A Good Thing",
+      "missing": false,
+      "actual_artist": "Luke Bryan",
+      "actual_title": "Rain is a Good Thing",
+      "lyrics_path": "luke-bryan\\_singles\\rain-is-a-good-thing.txt"
+    },
+    {
+      "rank": 3,
+      "searched_artist": "Josh Turner",
+      "searched_title": "Why Don't We Just Dance",
+      "missing": false,
+      "actual_artist": "Josh Turner",
+      "actual_title": "Why Don\u2019t We Just Dance",
+      "lyrics_path": "josh-turner\\_singles\\why-dont-we-just-dance.txt"
+    },
+    {
+      "rank": 4,
+      "searched_artist": "Josh Turner",
+      "searched_title": "All Over Me",
+      "missing": false,
+      "actual_artist": "Josh Turner",
+      "actual_title": "All Over Me",
+      "lyrics_path": "josh-turner\\_singles\\all-over-me.txt"
+    },
+    {
+      "rank": 5,
+      "searched_artist": "Chris Young",
+      "searched_title": "The Man I Want To Be",
+      "missing": false,
+      "actual_artist": "Chris Young",
+      "actual_title": "The Man I Want to Be",
+      "lyrics_path": "chris-young\\_singles\\the-man-i-want-to-be.txt"
+    },
+    {
+      "rank": 6,
+      "searched_artist": "Easton Corbin",
+      "searched_title": "Roll With It",
+      "missing": false,
+      "actual_artist": "Easton Corbin",
+      "actual_title": "Roll With It",
+      "lyrics_path": "easton-corbin\\_singles\\roll-with-it.txt"
+    },
+    {
+      "rank": 7,
+      "searched_artist": "Joe Nichols",
+      "searched_title": "Gimmie That Girl",
+      "missing": false,
+      "actual_artist": "Joe Nichols",
+      "actual_title": "Gimmie That Girl",
+      "lyrics_path": "joe-nichols\\_singles\\gimmie-that-girl.txt"
+    },
+    {
+      "rank": 8,
+      "searched_artist": "Blake Shelton",
+      "searched_title": "All About Tonight",
+      "missing": false,
+      "actual_artist": "Blake Shelton",
+      "actual_title": "All About Tonight",
+      "lyrics_path": "blake-shelton\\_singles\\all-about-tonight.txt"
+    },
+    {
+      "rank": 9,
+      "searched_artist": "Darius Rucker",
+      "searched_title": "Come Back Song",
+      "missing": false,
+      "actual_artist": "Darius Rucker",
+      "actual_title": "Come Back Song",
+      "lyrics_path": "darius-rucker\\_singles\\come-back-song.txt"
+    },
+    {
+      "rank": 10,
+      "searched_artist": "Clay Walker",
+      "searched_title": "She Won't Be Lonely Long",
+      "missing": false,
+      "actual_artist": "Clay Walker",
+      "actual_title": "She Won\u2019t Be Lonely Long",
+      "lyrics_path": "clay-walker\\_singles\\she-wont-be-lonely-long.txt"
+    },
+    {
+      "rank": 11,
+      "searched_artist": "Miranda Lambert",
+      "searched_title": "The House That Built Me",
+      "missing": false,
+      "actual_artist": "Miranda Lambert",
+      "actual_title": "The House That Built Me",
+      "lyrics_path": "miranda-lambert\\_singles\\the-house-that-built-me.txt"
+    },
+    {
+      "rank": 12,
+      "searched_artist": "Lady Antebellum",
+      "searched_title": "American Honey",
+      "missing": false,
+      "actual_artist": "Lady A",
+      "actual_title": "American Honey",
+      "lyrics_path": "lady-a\\_singles\\american-honey.txt"
+    },
+    {
+      "rank": 13,
+      "searched_artist": "Keith Urban",
+      "searched_title": "'Til Summer Comes Around",
+      "missing": false,
+      "actual_artist": "Keith Urban",
+      "actual_title": "\u2019Til Summer Comes Around",
+      "lyrics_path": "keith-urban\\_singles\\til-summer-comes-around.txt"
+    },
+    {
+      "rank": 14,
+      "searched_artist": "Zac Brown Band",
+      "searched_title": "Highway 20 Ride",
+      "missing": false,
+      "actual_artist": "Zac Brown Band",
+      "actual_title": "Highway 20 Ride",
+      "lyrics_path": "zac-brown-band\\_singles\\highway-20-ride.txt"
+    },
+    {
+      "rank": 15,
+      "searched_artist": "Steel Magnolia",
+      "searched_title": "Keep On Lovin' You",
+      "missing": false,
+      "actual_artist": "Steel Magnolia",
+      "actual_title": "Keep On Lovin\u2019 You",
+      "lyrics_path": "steel-magnolia\\_singles\\keep-on-lovin-you.txt"
+    },
+    {
+      "rank": 16,
+      "searched_artist": "Jason Aldean",
+      "searched_title": "Crazy Town",
+      "missing": false,
+      "actual_artist": "Jason Aldean",
+      "actual_title": "Crazy Town",
+      "lyrics_path": "jason-aldean\\_singles\\crazy-town.txt"
+    },
+    {
+      "rank": 17,
+      "searched_artist": "Lady Antebellum",
+      "searched_title": "Our Kind Of Love",
+      "missing": false,
+      "actual_artist": "Lady A",
+      "actual_title": "Our Kind of Love",
+      "lyrics_path": "lady-a\\_singles\\our-kind-of-love.txt"
+    },
+    {
+      "rank": 18,
+      "searched_artist": "Brad Paisley",
+      "searched_title": "Water",
+      "missing": false,
+      "actual_artist": "Brad Paisley",
+      "actual_title": "Water",
+      "lyrics_path": "brad-paisley\\_singles\\water.txt"
+    },
+    {
+      "rank": 19,
+      "searched_artist": "Easton Corbin",
+      "searched_title": "A Little More Country Than That",
+      "missing": false,
+      "actual_artist": "Easton Corbin",
+      "actual_title": "A Little More Country Than That",
+      "lyrics_path": "easton-corbin\\_singles\\a-little-more-country-than-that.txt"
+    },
+    {
+      "rank": 20,
+      "searched_artist": "Rodney Atkins",
+      "searched_title": "Farmer's Daughter",
+      "missing": false,
+      "actual_artist": "Rodney Atkins",
+      "actual_title": "Farmer\u2019s Daughter",
+      "lyrics_path": "rodney-atkins\\_singles\\farmers-daughter.txt"
+    },
+    {
+      "rank": 21,
+      "searched_artist": "Keith Urban",
+      "searched_title": "I'm In",
+      "missing": false,
+      "actual_artist": "Keith Urban",
+      "actual_title": "I\u2019m In",
+      "lyrics_path": "keith-urban\\_singles\\im-in.txt"
+    },
+    {
+      "rank": 22,
+      "searched_artist": "Jerrod Niemann",
+      "searched_title": "Lover, Lover",
+      "missing": false,
+      "actual_artist": "Jerrod Niemann",
+      "actual_title": "Lover, Lover",
+      "lyrics_path": "jerrod-niemann\\_singles\\lover-lover.txt"
+    },
+    {
+      "rank": 23,
+      "searched_artist": "Little Big Town",
+      "searched_title": "Little White Church",
+      "missing": false,
+      "actual_artist": "Little Big Town",
+      "actual_title": "Little White Church",
+      "lyrics_path": "little-big-town\\_singles\\little-white-church.txt"
+    },
+    {
+      "rank": 24,
+      "searched_artist": "Darius Rucker",
+      "searched_title": "History In The Making",
+      "missing": false,
+      "actual_artist": "Darius Rucker",
+      "actual_title": "History In the Making",
+      "lyrics_path": "darius-rucker\\_singles\\history-in-the-making.txt"
+    },
+    {
+      "rank": 25,
+      "searched_artist": "Carrie Underwood",
+      "searched_title": "Temporary Home",
+      "missing": false,
+      "actual_artist": "Carrie Underwood",
+      "actual_title": "Temporary Home",
+      "lyrics_path": "carrie-underwood\\_singles\\temporary-home.txt"
+    },
+    {
+      "rank": 26,
+      "searched_artist": "Billy Currington",
+      "searched_title": "That's How Country Boys Roll",
+      "missing": false,
+      "actual_artist": "Billy Currington",
+      "actual_title": "That\u2019s How Country Boys Roll",
+      "lyrics_path": "billy-currington\\_singles\\thats-how-country-boys-roll.txt"
+    },
+    {
+      "rank": 27,
+      "searched_artist": "Uncle Kracker",
+      "searched_title": "Smile",
+      "missing": false,
+      "actual_artist": "Uncle Kracker",
+      "actual_title": "Smile",
+      "lyrics_path": "uncle-kracker\\_singles\\smile.txt"
+    },
+    {
+      "rank": 28,
+      "searched_artist": "Billy Currington",
+      "searched_title": "Pretty Good At Drinkin' Beer",
+      "missing": false,
+      "actual_artist": "Billy Currington",
+      "actual_title": "Pretty Good At Drinkin\u2019 Beer",
+      "lyrics_path": "billy-currington\\_singles\\pretty-good-at-drinkin-beer.txt"
+    },
+    {
+      "rank": 29,
+      "searched_artist": "Carrie Underwood",
+      "searched_title": "Undo It",
+      "missing": false,
+      "actual_artist": "Carrie Underwood",
+      "actual_title": "Undo It",
+      "lyrics_path": "carrie-underwood\\_singles\\undo-it.txt"
+    },
+    {
+      "rank": 30,
+      "searched_artist": "Sugarland",
+      "searched_title": "Stuck Like Glue",
+      "missing": false,
+      "actual_artist": "Sugarland",
+      "actual_title": "Stuck Like Glue",
+      "lyrics_path": "sugarland\\_singles\\stuck-like-glue.txt"
+    },
+    {
+      "rank": 31,
+      "searched_artist": "Blake Shelton Featuring Trace Adkins",
+      "searched_title": "Hillbilly Bone",
+      "missing": false,
+      "actual_artist": "Blake Shelton",
+      "actual_title": "Hillbilly Bone",
+      "lyrics_path": "blake-shelton\\_singles\\hillbilly-bone.txt"
+    },
+    {
+      "rank": 32,
+      "searched_artist": "Jason Aldean",
+      "searched_title": "The Truth",
+      "missing": false,
+      "actual_artist": "Jason Aldean",
+      "actual_title": "The Truth",
+      "lyrics_path": "jason-aldean\\_singles\\the-truth.txt"
+    },
+    {
+      "rank": 33,
+      "searched_artist": "Kenny Chesney",
+      "searched_title": "Ain't Back Yet",
+      "missing": false,
+      "actual_artist": "Kenny Chesney",
+      "actual_title": "Ain\u2019t Back Yet",
+      "lyrics_path": "kenny-chesney\\_singles\\aint-back-yet.txt"
+    },
+    {
+      "rank": 34,
+      "searched_artist": "Brad Paisley",
+      "searched_title": "American Saturday Night",
+      "missing": false,
+      "actual_artist": "Brad Paisley",
+      "actual_title": "American Saturday Night",
+      "lyrics_path": "brad-paisley\\_singles\\american-saturday-night.txt"
+    },
+    {
+      "rank": 35,
+      "searched_artist": "Kenny Chesney",
+      "searched_title": "The Boys of Fall",
+      "missing": false,
+      "actual_artist": "Kenny Chesney",
+      "actual_title": "The Boys of Fall",
+      "lyrics_path": "kenny-chesney\\_singles\\the-boys-of-fall.txt"
+    },
+    {
+      "rank": 36,
+      "searched_artist": "Zac Brown Band",
+      "searched_title": "Free",
+      "missing": false,
+      "actual_artist": "Zac Brown Band",
+      "actual_title": "Free",
+      "lyrics_path": "zac-brown-band\\_singles\\free.txt"
+    },
+    {
+      "rank": 37,
+      "searched_artist": "The Band Perry",
+      "searched_title": "If I Die Young",
+      "missing": false,
+      "actual_artist": "The Band Perry",
+      "actual_title": "If I Die Young",
+      "lyrics_path": "the-band-perry\\_singles\\if-i-die-young.txt"
+    },
+    {
+      "rank": 38,
+      "searched_artist": "Taylor Swift",
+      "searched_title": "Mine",
+      "missing": false,
+      "actual_artist": "Taylor Swift",
+      "actual_title": "Mine",
+      "lyrics_path": "taylor-swift\\_singles\\mine.txt"
+    },
+    {
+      "rank": 39,
+      "searched_artist": "Rascal Flatts",
+      "searched_title": "Unstoppable",
+      "missing": false,
+      "actual_artist": "Rascal Flatts",
+      "actual_title": "Unstoppable",
+      "lyrics_path": "rascal-flatts\\_singles\\unstoppable.txt"
+    },
+    {
+      "rank": 40,
+      "searched_artist": "George Strait",
+      "searched_title": "I Gotta Get To You",
+      "missing": false,
+      "actual_artist": "George Strait",
+      "actual_title": "I Gotta Get to You",
+      "lyrics_path": "george-strait\\_singles\\i-gotta-get-to-you.txt"
+    },
+    {
+      "rank": 41,
+      "searched_artist": "Justin Moore",
+      "searched_title": "Backwoods",
+      "missing": false,
+      "actual_artist": "Justin Moore",
+      "actual_title": "Backwoods",
+      "lyrics_path": "justin-moore\\_singles\\backwoods.txt"
+    },
+    {
+      "rank": 42,
+      "searched_artist": "Reba",
+      "searched_title": "Consider Me Gone",
+      "missing": false,
+      "actual_artist": "Reba McEntire",
+      "actual_title": "Consider Me Gone",
+      "lyrics_path": "reba-mcentire\\_singles\\consider-me-gone.txt"
+    },
+    {
+      "rank": 43,
+      "searched_artist": "Tim McGraw",
+      "searched_title": "Southern Voice",
+      "missing": false,
+      "actual_artist": "Tim McGraw",
+      "actual_title": "Southern Voice",
+      "lyrics_path": "tim-mcgraw\\_singles\\southern-voice.txt"
+    },
+    {
+      "rank": 44,
+      "searched_artist": "Dierks Bentley",
+      "searched_title": "I Wanna Make You Close Your Eyes",
+      "missing": false,
+      "actual_artist": "Dierks Bentley",
+      "actual_title": "I Wanna Make You Close Your Eyes",
+      "lyrics_path": "dierks-bentley\\_singles\\i-wanna-make-you-close-your-eyes.txt"
+    },
+    {
+      "rank": 45,
+      "searched_artist": "Miranda Lambert",
+      "searched_title": "White Liar",
+      "missing": false,
+      "actual_artist": "Miranda Lambert",
+      "actual_title": "White Liar",
+      "lyrics_path": "miranda-lambert\\_singles\\white-liar.txt"
+    },
+    {
+      "rank": 46,
+      "searched_artist": "Zac Brown Band Featuring Alan Jackson",
+      "searched_title": "As She's Walking Away",
+      "missing": false,
+      "actual_artist": "Zac Brown Band",
+      "actual_title": "As She\u2019s Walking Away",
+      "lyrics_path": "zac-brown-band\\_singles\\as-shes-walking-away.txt"
+    },
+    {
+      "rank": 47,
+      "searched_artist": "Rascal Flatts",
+      "searched_title": "Why Wait",
+      "missing": false,
+      "actual_artist": "Rascal Flatts",
+      "actual_title": "Why Wait",
+      "lyrics_path": "rascal-flatts\\_singles\\why-wait.txt"
+    },
+    {
+      "rank": 48,
+      "searched_artist": "Lady Antebellum",
+      "searched_title": "Need You Now",
+      "missing": false,
+      "actual_artist": "Lady A",
+      "actual_title": "Need You Now",
+      "lyrics_path": "lady-a\\_singles\\need-you-now.txt"
+    },
+    {
+      "rank": 49,
+      "searched_artist": "Craig Morgan",
+      "searched_title": "This Ain't Nothin'",
+      "missing": false,
+      "actual_artist": "Craig Morgan",
+      "actual_title": "This Ain\u2019t Nothin\u2019",
+      "lyrics_path": "craig-morgan\\_singles\\this-aint-nothin.txt"
+    },
+    {
+      "rank": 50,
+      "searched_artist": "George Strait",
+      "searched_title": "The Breath You Take",
+      "missing": false,
+      "actual_artist": "George Strait",
+      "actual_title": "The Breath You Take",
+      "lyrics_path": "george-strait\\_singles\\the-breath-you-take.txt"
+    },
+    {
+      "rank": 51,
+      "searched_artist": "Brad Paisley",
+      "searched_title": "Anything Like Me",
+      "missing": false,
+      "actual_artist": "Brad Paisley",
+      "actual_title": "Anything Like Me",
+      "lyrics_path": "brad-paisley\\_singles\\anything-like-me.txt"
+    },
+    {
+      "rank": 52,
+      "searched_artist": "Martina McBride",
+      "searched_title": "Wrong Baby Wrong",
+      "missing": false,
+      "actual_artist": "Martina McBride",
+      "actual_title": "Wrong Baby Wrong",
+      "lyrics_path": "martina-mcbride\\_singles\\wrong-baby-wrong.txt"
+    },
+    {
+      "rank": 53,
+      "searched_artist": "Reba",
+      "searched_title": "I Keep On Loving You",
+      "missing": false,
+      "actual_artist": "Reba McEntire",
+      "actual_title": "I Keep On Lovin\u2019 You",
+      "lyrics_path": "reba-mcentire\\_singles\\i-keep-on-lovin-you.txt"
+    },
+    {
+      "rank": 54,
+      "searched_artist": "Eric Church",
+      "searched_title": "Hell On The Heart",
+      "missing": false,
+      "actual_artist": "Eric Church",
+      "actual_title": "Hell On The Heart",
+      "lyrics_path": "eric-church\\_singles\\hell-on-the-heart.txt"
+    },
+    {
+      "rank": 55,
+      "searched_artist": "Taylor Swift",
+      "searched_title": "Fearless",
+      "missing": false,
+      "actual_artist": "Taylor Swift",
+      "actual_title": "Fearless",
+      "lyrics_path": "taylor-swift\\_singles\\fearless.txt"
+    },
+    {
+      "rank": 56,
+      "searched_artist": "Reba",
+      "searched_title": "Turn On The Radio",
+      "missing": false,
+      "actual_artist": "Reba McEntire",
+      "actual_title": "Turn On The Radio",
+      "lyrics_path": "reba-mcentire\\_singles\\turn-on-the-radio.txt"
+    },
+    {
+      "rank": 57,
+      "searched_artist": "Toby Keith",
+      "searched_title": "Cryin' For Me (Wayman's Song)",
+      "missing": false,
+      "actual_artist": "Toby Keith",
+      "actual_title": "Cryin\u2019 For Me (Wayman\u2019s Song)",
+      "lyrics_path": "toby-keith\\_singles\\cryin-for-me-waymans-song.txt"
+    },
+    {
+      "rank": 58,
+      "searched_artist": "Josh Thompson",
+      "searched_title": "Way Out Here",
+      "missing": false,
+      "actual_artist": "Josh Thompson",
+      "actual_title": "Way Out Here",
+      "lyrics_path": "josh-thompson\\_singles\\way-out-here.txt"
+    },
+    {
+      "rank": 59,
+      "searched_artist": "Luke Bryan",
+      "searched_title": "Do I",
+      "missing": false,
+      "actual_artist": "Luke Bryan",
+      "actual_title": "Do I",
+      "lyrics_path": "luke-bryan\\_singles\\do-i.txt"
+    },
+    {
+      "rank": 60,
+      "searched_artist": "Justin Moore",
+      "searched_title": "How I Got To Be This Way",
+      "missing": false,
+      "actual_artist": "Justin Moore",
+      "actual_title": "How I Got To Be This Way",
+      "lyrics_path": "justin-moore\\_singles\\how-i-got-to-be-this-way.txt"
+    }
+  ]
+}

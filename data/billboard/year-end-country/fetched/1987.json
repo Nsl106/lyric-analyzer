@@ -1,0 +1,407 @@
+{
+  "year": 1987,
+  "chart": "year-end-country",
+  "total_songs": 45,
+  "fetched": 42,
+  "songs": [
+    {
+      "rank": 1,
+      "searched_artist": "Michael Johnson",
+      "searched_title": "Give Me Wings",
+      "missing": false,
+      "actual_artist": "Michael Johnson",
+      "actual_title": "Give Me Wings",
+      "lyrics_path": "michael-johnson\\_singles\\give-me-wings.txt"
+    },
+    {
+      "rank": 2,
+      "searched_artist": "T.G. Sheppard",
+      "searched_title": "Half Past Forever (Till I'm Blue In The Heart)",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 3,
+      "searched_artist": "Reba McEntire",
+      "searched_title": "What Am I Gonna Do About You",
+      "missing": false,
+      "actual_artist": "Reba McEntire",
+      "actual_title": "What Am I Gonna Do About You",
+      "lyrics_path": "reba-mcentire\\_singles\\what-am-i-gonna-do-about-you.txt"
+    },
+    {
+      "rank": 4,
+      "searched_artist": "Nitty Gritty Dirt Band",
+      "searched_title": "Fishin' In The Dark",
+      "missing": false,
+      "actual_artist": "Nitty Gritty Dirt Band",
+      "actual_title": "Fishin\u2019 In The Dark",
+      "lyrics_path": "nitty-gritty-dirt-band\\_singles\\fishin-in-the-dark.txt"
+    },
+    {
+      "rank": 6,
+      "searched_artist": "The Judds",
+      "searched_title": "Cry Myself To Sleep",
+      "missing": false,
+      "actual_artist": "The Judds",
+      "actual_title": "Cry Myself to Sleep",
+      "lyrics_path": "the-judds\\_singles\\cry-myself-to-sleep.txt"
+    },
+    {
+      "rank": 7,
+      "searched_artist": "The Forester Sisters",
+      "searched_title": "You Again",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 8,
+      "searched_artist": "Ricky Van Shelton",
+      "searched_title": "Somebody Lied",
+      "missing": false,
+      "actual_artist": "Ricky Van Shelton",
+      "actual_title": "Somebody Lied",
+      "lyrics_path": "ricky-van-shelton\\_singles\\somebody-lied.txt"
+    },
+    {
+      "rank": 9,
+      "searched_artist": "Rosanne Cash",
+      "searched_title": "The Way We Make A Broken Heart",
+      "missing": false,
+      "actual_artist": "Rosanne Cash",
+      "actual_title": "The Way We Make a Broken Heart",
+      "lyrics_path": "rosanne-cash\\_singles\\the-way-we-make-a-broken-heart.txt"
+    },
+    {
+      "rank": 10,
+      "searched_artist": "The Oak Ridge Boys",
+      "searched_title": "It Takes A Little Rain",
+      "missing": false,
+      "actual_artist": "The Oak Ridge Boys",
+      "actual_title": "It Takes A Little Rain (To Make Love Grow)",
+      "lyrics_path": "the-oak-ridge-boys\\_singles\\it-takes-a-little-rain-to-make-love-grow.txt"
+    },
+    {
+      "rank": 11,
+      "searched_artist": "T. Graham Brown",
+      "searched_title": "Hell And High Water",
+      "missing": false,
+      "actual_artist": "T. Graham Brown",
+      "actual_title": "Hell and High Water",
+      "lyrics_path": "t-graham-brown\\_singles\\hell-and-high-water.txt"
+    },
+    {
+      "rank": 12,
+      "searched_artist": "Dan Seals",
+      "searched_title": "You Still Move Me",
+      "missing": false,
+      "actual_artist": "Dan Seals",
+      "actual_title": "You Still Move Me",
+      "lyrics_path": "dan-seals\\_singles\\you-still-move-me.txt"
+    },
+    {
+      "rank": 13,
+      "searched_artist": "The Oak Ridge Boys",
+      "searched_title": "This Crazy Love",
+      "missing": false,
+      "actual_artist": "The Oak Ridge Boys",
+      "actual_title": "This Crazy Love",
+      "lyrics_path": "the-oak-ridge-boys\\_singles\\this-crazy-love.txt"
+    },
+    {
+      "rank": 14,
+      "searched_artist": "Randy Travis",
+      "searched_title": "Forever And Ever, Amen",
+      "missing": false,
+      "actual_artist": "Randy Travis",
+      "actual_title": "Forever and Ever, Amen",
+      "lyrics_path": "randy-travis\\_singles\\forever-and-ever-amen.txt"
+    },
+    {
+      "rank": 15,
+      "searched_artist": "Lee Greenwood",
+      "searched_title": "Mornin' Ride",
+      "missing": false,
+      "actual_artist": "Lee Greenwood",
+      "actual_title": "Mornin\u2019 Ride",
+      "lyrics_path": "lee-greenwood\\_singles\\mornin-ride.txt"
+    },
+    {
+      "rank": 16,
+      "searched_artist": "Conway Twitty",
+      "searched_title": "Fallin' For You For Years",
+      "missing": false,
+      "actual_artist": "Conway Twitty",
+      "actual_title": "Fallin\u2019 for You for Years",
+      "lyrics_path": "conway-twitty\\_singles\\fallin-for-you-for-years.txt"
+    },
+    {
+      "rank": 17,
+      "searched_artist": "Reba McEntire",
+      "searched_title": "One Promise Too Late",
+      "missing": false,
+      "actual_artist": "Reba McEntire",
+      "actual_title": "One Promise Too Late",
+      "lyrics_path": "reba-mcentire\\_singles\\one-promise-too-late.txt"
+    },
+    {
+      "rank": 19,
+      "searched_artist": "Tanya Tucker",
+      "searched_title": "Love Me Like You Used To",
+      "missing": false,
+      "actual_artist": "Tanya Tucker",
+      "actual_title": "Love Me Like You Used To",
+      "lyrics_path": "tanya-tucker\\_singles\\love-me-like-you-used-to.txt"
+    },
+    {
+      "rank": 20,
+      "searched_artist": "T. Graham Brown",
+      "searched_title": "Don't Go To Strangers",
+      "missing": false,
+      "actual_artist": "T. Graham Brown",
+      "actual_title": "Don\u2019t Go To Strangers",
+      "lyrics_path": "t-graham-brown\\_singles\\dont-go-to-strangers.txt"
+    },
+    {
+      "rank": 21,
+      "searched_artist": "Ricky Skaggs",
+      "searched_title": "Love's Gonna Get You Someday",
+      "missing": false,
+      "actual_artist": "Ricky Skaggs",
+      "actual_title": "Love\u2019s Gonna Get You Someday",
+      "lyrics_path": "ricky-skaggs\\_singles\\loves-gonna-get-you-someday.txt"
+    },
+    {
+      "rank": 22,
+      "searched_artist": "Hank Williams Jr.",
+      "searched_title": "Mind Your Own Business",
+      "missing": false,
+      "actual_artist": "Hank Williams Jr.",
+      "actual_title": "Mind Your Own Business",
+      "lyrics_path": "hank-williams-jr\\_singles\\mind-your-own-business.txt"
+    },
+    {
+      "rank": 23,
+      "searched_artist": "Steve Wariner",
+      "searched_title": "The Weekend",
+      "missing": false,
+      "actual_artist": "Steve Wariner",
+      "actual_title": "The Weekend",
+      "lyrics_path": "steve-wariner\\_singles\\the-weekend.txt"
+    },
+    {
+      "rank": 24,
+      "searched_artist": "Gary Morris",
+      "searched_title": "Leave Me Lonely",
+      "missing": false,
+      "actual_artist": "Gary Morris",
+      "actual_title": "Leave Me Lonely",
+      "lyrics_path": "gary-morris\\_singles\\leave-me-lonely.txt"
+    },
+    {
+      "rank": 25,
+      "searched_artist": "Exile",
+      "searched_title": "She's Too Good To Be True",
+      "missing": false,
+      "actual_artist": "Exile (Band)",
+      "actual_title": "She\u2019s Too Good to Be True",
+      "lyrics_path": "exile-band\\_singles\\shes-too-good-to-be-true.txt"
+    },
+    {
+      "rank": 26,
+      "searched_artist": "Holly Dunn",
+      "searched_title": "Love Someone Like Me",
+      "missing": false,
+      "actual_artist": "Holly Dunn",
+      "actual_title": "Love Someone Like Me",
+      "lyrics_path": "holly-dunn\\_singles\\love-someone-like-me.txt"
+    },
+    {
+      "rank": 27,
+      "searched_artist": "Conway Twitty",
+      "searched_title": "I Want To Know You Before We Make Love",
+      "missing": false,
+      "actual_artist": "Conway Twitty",
+      "actual_title": "I Want to Know You Before We Make Love",
+      "lyrics_path": "conway-twitty\\_singles\\i-want-to-know-you-before-we-make-love.txt"
+    },
+    {
+      "rank": 29,
+      "searched_artist": "Restless Heart",
+      "searched_title": "Why Does It Have To Be (Wrong Or Right)",
+      "missing": false,
+      "actual_artist": "Restless Heart",
+      "actual_title": "Why Does It Have to Be (Wrong or Right)",
+      "lyrics_path": "restless-heart\\_singles\\why-does-it-have-to-be-wrong-or-right.txt"
+    },
+    {
+      "rank": 30,
+      "searched_artist": "Don Williams",
+      "searched_title": "I'll Never Be In Love Again",
+      "missing": false,
+      "actual_artist": "Don Williams",
+      "actual_title": "I\u2019ll Never Be In Love Again",
+      "lyrics_path": "don-williams\\_singles\\ill-never-be-in-love-again.txt"
+    },
+    {
+      "rank": 31,
+      "searched_artist": "Dan Seals",
+      "searched_title": "Three Time Loser",
+      "missing": false,
+      "actual_artist": "Dan Seals",
+      "actual_title": "Three Time Loser",
+      "lyrics_path": "dan-seals\\_singles\\three-time-loser.txt"
+    },
+    {
+      "rank": 32,
+      "searched_artist": "Conway Twitty",
+      "searched_title": "Julia",
+      "missing": false,
+      "actual_artist": "Conway Twitty",
+      "actual_title": "Julia",
+      "lyrics_path": "conway-twitty\\_singles\\julia.txt"
+    },
+    {
+      "rank": 33,
+      "searched_artist": "Kenny Rogers",
+      "searched_title": "Twenty Years Ago",
+      "missing": false,
+      "actual_artist": "Kenny Rogers",
+      "actual_title": "Twenty Years Ago",
+      "lyrics_path": "kenny-rogers\\_singles\\twenty-years-ago.txt"
+    },
+    {
+      "rank": 34,
+      "searched_artist": "George Strait",
+      "searched_title": "It Ain't Cool To Be Crazy About You",
+      "missing": false,
+      "actual_artist": "George Strait",
+      "actual_title": "It Ain\u2019t Cool to Be Crazy About You",
+      "lyrics_path": "george-strait\\_singles\\it-aint-cool-to-be-crazy-about-you.txt"
+    },
+    {
+      "rank": 35,
+      "searched_artist": "Michael Martin Murphey",
+      "searched_title": "A Long Line Of Love",
+      "missing": false,
+      "actual_artist": "Michael Martin Murphey",
+      "actual_title": "A Long Line of Love",
+      "lyrics_path": "michael-martin-murphey\\_singles\\a-long-line-of-love.txt"
+    },
+    {
+      "rank": 36,
+      "searched_artist": "Restless Heart",
+      "searched_title": "I'll Still Be Loving You",
+      "missing": false,
+      "actual_artist": "Restless Heart",
+      "actual_title": "I\u2019ll Still Be Loving You",
+      "lyrics_path": "restless-heart\\_singles\\ill-still-be-loving-you.txt"
+    },
+    {
+      "rank": 37,
+      "searched_artist": "Moe Bandy",
+      "searched_title": "Til' I'm Too Old To Die Young",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 38,
+      "searched_artist": "Earl Thomas Conley",
+      "searched_title": "I Can't Win For Losin' You",
+      "missing": false,
+      "actual_artist": "Earl Thomas Conley",
+      "actual_title": "I Can\u2019t Win For Losin\u2019 You",
+      "lyrics_path": "earl-thomas-conley\\_singles\\i-cant-win-for-losin-you.txt"
+    },
+    {
+      "rank": 39,
+      "searched_artist": "Earl Thomas Conley",
+      "searched_title": "Right From The Start",
+      "missing": false,
+      "actual_artist": "Earl Thomas Conley",
+      "actual_title": "Right from the Start",
+      "lyrics_path": "earl-thomas-conley\\_singles\\right-from-the-start.txt"
+    },
+    {
+      "rank": 40,
+      "searched_artist": "Earl Thomas Conley",
+      "searched_title": "That Was A Close One",
+      "missing": false,
+      "actual_artist": "Earl Thomas Conley",
+      "actual_title": "That Was a Close One",
+      "lyrics_path": "earl-thomas-conley\\_singles\\that-was-a-close-one.txt"
+    },
+    {
+      "rank": 41,
+      "searched_artist": "Eddy Raven",
+      "searched_title": "Right Hand Man",
+      "missing": false,
+      "actual_artist": "Eddy Raven",
+      "actual_title": "Right Hand Man",
+      "lyrics_path": "eddy-raven\\_singles\\right-hand-man.txt"
+    },
+    {
+      "rank": 42,
+      "searched_artist": "Highway 101",
+      "searched_title": "Whiskey, If You Were A Woman",
+      "missing": false,
+      "actual_artist": "Highway 101",
+      "actual_title": "Whiskey If You Were A Woman",
+      "lyrics_path": "highway-101\\_singles\\whiskey-if-you-were-a-woman.txt"
+    },
+    {
+      "rank": 43,
+      "searched_artist": "Randy Travis",
+      "searched_title": "I Won't Need You Anymore (Always And Forever)",
+      "missing": false,
+      "actual_artist": "Randy Travis",
+      "actual_title": "I Won\u2019t Need You Anymore (Always & Forever)",
+      "lyrics_path": "randy-travis\\_singles\\i-wont-need-you-anymore-always--forever.txt"
+    },
+    {
+      "rank": 45,
+      "searched_artist": "Steve Wariner",
+      "searched_title": "Small Town Girl",
+      "missing": false,
+      "actual_artist": "Steve Wariner",
+      "actual_title": "Small Town Girl",
+      "lyrics_path": "steve-wariner\\_singles\\small-town-girl.txt"
+    },
+    {
+      "rank": 46,
+      "searched_artist": "Hank Williams Jr.",
+      "searched_title": "Born To Boogie",
+      "missing": false,
+      "actual_artist": "Hank Williams Jr.",
+      "actual_title": "Born to Boogie",
+      "lyrics_path": "hank-williams-jr\\_singles\\born-to-boogie.txt"
+    },
+    {
+      "rank": 48,
+      "searched_artist": "Randy Travis",
+      "searched_title": "No Place Like Home",
+      "missing": false,
+      "actual_artist": "Randy Travis",
+      "actual_title": "No Place Like Home",
+      "lyrics_path": "randy-travis\\_singles\\no-place-like-home.txt"
+    },
+    {
+      "rank": 49,
+      "searched_artist": "Eddy Raven",
+      "searched_title": "Shine, Shine, Shine",
+      "missing": false,
+      "actual_artist": "Eddy Raven",
+      "actual_title": "Shine, Shine, Shine",
+      "lyrics_path": "eddy-raven\\_singles\\shine-shine-shine.txt"
+    },
+    {
+      "rank": 50,
+      "searched_artist": "The Judds",
+      "searched_title": "Maybe Your Baby's Got The Blues",
+      "missing": false,
+      "actual_artist": "The Judds",
+      "actual_title": "Maybe Your Baby\u2019s Got the Blues",
+      "lyrics_path": "the-judds\\_singles\\maybe-your-babys-got-the-blues.txt"
+    }
+  ]
+}

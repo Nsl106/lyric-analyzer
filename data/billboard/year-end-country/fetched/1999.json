@@ -1,0 +1,638 @@
+{
+  "year": 1999,
+  "chart": "year-end-country",
+  "total_songs": 70,
+  "fetched": 70,
+  "songs": [
+    {
+      "rank": 1,
+      "searched_artist": "Lonestar",
+      "searched_title": "Amazed",
+      "missing": false,
+      "actual_artist": "Lonestar",
+      "actual_title": "Amazed",
+      "lyrics_path": "lonestar\\_singles\\amazed.txt"
+    },
+    {
+      "rank": 2,
+      "searched_artist": "George Strait",
+      "searched_title": "Write This Down",
+      "missing": false,
+      "actual_artist": "George Strait",
+      "actual_title": "Write This Down",
+      "lyrics_path": "george-strait\\_singles\\write-this-down.txt"
+    },
+    {
+      "rank": 3,
+      "searched_artist": "Jo Dee Messina",
+      "searched_title": "Lesson In Leavin'",
+      "missing": false,
+      "actual_artist": "Jo Dee Messina",
+      "actual_title": "Lesson in Leavin\u2019",
+      "lyrics_path": "jo-dee-messina\\_singles\\lesson-in-leavin.txt"
+    },
+    {
+      "rank": 4,
+      "searched_artist": "Kenny Chesney",
+      "searched_title": "How Forever Feels",
+      "missing": false,
+      "actual_artist": "Kenny Chesney",
+      "actual_title": "How Forever Feels",
+      "lyrics_path": "kenny-chesney\\_singles\\how-forever-feels.txt"
+    },
+    {
+      "rank": 5,
+      "searched_artist": "Tim McGraw",
+      "searched_title": "PLEASE REMEMBER ME",
+      "missing": false,
+      "actual_artist": "Tim McGraw",
+      "actual_title": "Please Remember Me",
+      "lyrics_path": "tim-mcgraw\\_singles\\please-remember-me.txt"
+    },
+    {
+      "rank": 6,
+      "searched_artist": "Kenny Chesney",
+      "searched_title": "You Had Me From Hello",
+      "missing": false,
+      "actual_artist": "Kenny Chesney",
+      "actual_title": "You Had Me From Hello",
+      "lyrics_path": "kenny-chesney\\_singles\\you-had-me-from-hello.txt"
+    },
+    {
+      "rank": 7,
+      "searched_artist": "Jo Dee Messina",
+      "searched_title": "Stand Beside Me",
+      "missing": false,
+      "actual_artist": "Jo Dee Messina",
+      "actual_title": "Stand Beside Me",
+      "lyrics_path": "jo-dee-messina\\_singles\\stand-beside-me.txt"
+    },
+    {
+      "rank": 8,
+      "searched_artist": "Andy Griggs",
+      "searched_title": "You Won't Ever Be Lonely",
+      "missing": false,
+      "actual_artist": "Andy Griggs",
+      "actual_title": "You Won\u2019t Ever Be Lonely",
+      "lyrics_path": "andy-griggs\\_singles\\you-wont-ever-be-lonely.txt"
+    },
+    {
+      "rank": 9,
+      "searched_artist": "Mark Chesnutt",
+      "searched_title": "I Don't Want To Miss A Thing",
+      "missing": false,
+      "actual_artist": "Mark Chesnutt",
+      "actual_title": "I Don\u2019t Want to Miss a Thing",
+      "lyrics_path": "mark-chesnutt\\_singles\\i-dont-want-to-miss-a-thing.txt"
+    },
+    {
+      "rank": 10,
+      "searched_artist": "Diamond Rio",
+      "searched_title": "Unbelievable",
+      "missing": false,
+      "actual_artist": "Diamond Rio",
+      "actual_title": "Unbelievable",
+      "lyrics_path": "diamond-rio\\_singles\\unbelievable.txt"
+    },
+    {
+      "rank": 11,
+      "searched_artist": "Dixie Chicks",
+      "searched_title": "You Were Mine",
+      "missing": false,
+      "actual_artist": "The Chicks",
+      "actual_title": "You Were Mine",
+      "lyrics_path": "the-chicks\\_singles\\you-were-mine.txt"
+    },
+    {
+      "rank": 12,
+      "searched_artist": "Chely Wright",
+      "searched_title": "Single White Female",
+      "missing": false,
+      "actual_artist": "Chely Wright",
+      "actual_title": "Single White Female",
+      "lyrics_path": "chely-wright\\_singles\\single-white-female.txt"
+    },
+    {
+      "rank": 13,
+      "searched_artist": "Tim McGraw",
+      "searched_title": "Something Like That",
+      "missing": false,
+      "actual_artist": "Tim McGraw",
+      "actual_title": "Something Like That",
+      "lyrics_path": "tim-mcgraw\\_singles\\something-like-that.txt"
+    },
+    {
+      "rank": 15,
+      "searched_artist": "Mark Wills",
+      "searched_title": "Wish You Were Here",
+      "missing": false,
+      "actual_artist": "Mark Wills",
+      "actual_title": "Wish You Were Here",
+      "lyrics_path": "mark-wills\\_singles\\wish-you-were-here.txt"
+    },
+    {
+      "rank": 16,
+      "searched_artist": "SHeDAISY",
+      "searched_title": "Little Good-Byes",
+      "missing": false,
+      "actual_artist": "SHeDAISY",
+      "actual_title": "Little Good-Byes",
+      "lyrics_path": "shedaisy\\_singles\\little-good-byes.txt"
+    },
+    {
+      "rank": 17,
+      "searched_artist": "Martina McBride",
+      "searched_title": "Whatever You Say",
+      "missing": false,
+      "actual_artist": "Martina McBride",
+      "actual_title": "Whatever You Say",
+      "lyrics_path": "martina-mcbride\\_singles\\whatever-you-say.txt"
+    },
+    {
+      "rank": 18,
+      "searched_artist": "Joe Diffie",
+      "searched_title": "A Night To Remember",
+      "missing": false,
+      "actual_artist": "Joe Diffie",
+      "actual_title": "A Night To Remember",
+      "lyrics_path": "joe-diffie\\_singles\\a-night-to-remember.txt"
+    },
+    {
+      "rank": 19,
+      "searched_artist": "Dixie Chicks",
+      "searched_title": "READY TO RUN",
+      "missing": false,
+      "actual_artist": "The Chicks",
+      "actual_title": "Ready to Run",
+      "lyrics_path": "the-chicks\\_singles\\ready-to-run.txt"
+    },
+    {
+      "rank": 20,
+      "searched_artist": "Lee Ann Womack",
+      "searched_title": "I'll Think Of A Reason Later",
+      "missing": false,
+      "actual_artist": "Lee Ann Womack",
+      "actual_title": "I\u2019ll Think Of a Reason Later",
+      "lyrics_path": "lee-ann-womack\\_singles\\ill-think-of-a-reason-later.txt"
+    },
+    {
+      "rank": 21,
+      "searched_artist": "Steve Wariner",
+      "searched_title": "Two Teardrops",
+      "missing": false,
+      "actual_artist": "Steve Wariner",
+      "actual_title": "Two Teardrops",
+      "lyrics_path": "steve-wariner\\_singles\\two-teardrops.txt"
+    },
+    {
+      "rank": 22,
+      "searched_artist": "Faith Hill",
+      "searched_title": "The Secret Of Life",
+      "missing": false,
+      "actual_artist": "Faith Hill",
+      "actual_title": "The Secret of Life",
+      "lyrics_path": "faith-hill\\_singles\\the-secret-of-life.txt"
+    },
+    {
+      "rank": 23,
+      "searched_artist": "Billy Ray Cyrus",
+      "searched_title": "Busy Man",
+      "missing": false,
+      "actual_artist": "Billy Ray Cyrus",
+      "actual_title": "Busy Man",
+      "lyrics_path": "billy-ray-cyrus\\_singles\\busy-man.txt"
+    },
+    {
+      "rank": 24,
+      "searched_artist": "Martina McBride",
+      "searched_title": "I Love You",
+      "missing": false,
+      "actual_artist": "Martina McBride",
+      "actual_title": "I Love You",
+      "lyrics_path": "martina-mcbride\\_singles\\i-love-you.txt"
+    },
+    {
+      "rank": 25,
+      "searched_artist": "Alan Jackson",
+      "searched_title": "Little Man",
+      "missing": false,
+      "actual_artist": "Alan Jackson",
+      "actual_title": "Little Man",
+      "lyrics_path": "alan-jackson\\_singles\\little-man.txt"
+    },
+    {
+      "rank": 26,
+      "searched_artist": "Sara Evans",
+      "searched_title": "No Place That Far",
+      "missing": false,
+      "actual_artist": "Sara Evans",
+      "actual_title": "No Place That Far",
+      "lyrics_path": "sara-evans\\_singles\\no-place-that-far.txt"
+    },
+    {
+      "rank": 28,
+      "searched_artist": "Tim McGraw",
+      "searched_title": "For A Little While",
+      "missing": false,
+      "actual_artist": "Tim McGraw",
+      "actual_title": "For a Little While",
+      "lyrics_path": "tim-mcgraw\\_singles\\for-a-little-while.txt"
+    },
+    {
+      "rank": 29,
+      "searched_artist": "Chad Brock",
+      "searched_title": "Ordinary Life",
+      "missing": false,
+      "actual_artist": "Chad Brock",
+      "actual_title": "Ordinary Life",
+      "lyrics_path": "chad-brock\\_singles\\ordinary-life.txt"
+    },
+    {
+      "rank": 30,
+      "searched_artist": "John Michael Montgomery",
+      "searched_title": "Hold On To Me",
+      "missing": false,
+      "actual_artist": "John Michael Montgomery",
+      "actual_title": "Hold On To Me",
+      "lyrics_path": "john-michael-montgomery\\_singles\\hold-on-to-me.txt"
+    },
+    {
+      "rank": 31,
+      "searched_artist": "Steve Wariner",
+      "searched_title": "I'm Already Taken",
+      "missing": false,
+      "actual_artist": "Steve Wariner",
+      "actual_title": "I\u2019m Already Taken",
+      "lyrics_path": "steve-wariner\\_singles\\im-already-taken.txt"
+    },
+    {
+      "rank": 32,
+      "searched_artist": "Montgomery Gentry",
+      "searched_title": "Lonely And Gone",
+      "missing": false,
+      "actual_artist": "Montgomery Gentry",
+      "actual_title": "Lonely & Gone",
+      "lyrics_path": "montgomery-gentry\\_singles\\lonely--gone.txt"
+    },
+    {
+      "rank": 33,
+      "searched_artist": "Alan Jackson",
+      "searched_title": "Gone Crazy",
+      "missing": false,
+      "actual_artist": "Alan Jackson",
+      "actual_title": "Gone Crazy",
+      "lyrics_path": "alan-jackson\\_singles\\gone-crazy.txt"
+    },
+    {
+      "rank": 35,
+      "searched_artist": "George Strait",
+      "searched_title": "WHAT DO YOU SAY TO THAT",
+      "missing": false,
+      "actual_artist": "George Strait",
+      "actual_title": "What Do You Say to That",
+      "lyrics_path": "george-strait\\_singles\\what-do-you-say-to-that.txt"
+    },
+    {
+      "rank": 36,
+      "searched_artist": "Martina McBride",
+      "searched_title": "Wrong Again",
+      "missing": false,
+      "actual_artist": "Martina McBride",
+      "actual_title": "Wrong Again",
+      "lyrics_path": "martina-mcbride\\_singles\\wrong-again.txt"
+    },
+    {
+      "rank": 37,
+      "searched_artist": "Trisha Yearwood",
+      "searched_title": "I'll Still Love You More",
+      "missing": false,
+      "actual_artist": "Trisha Yearwood",
+      "actual_title": "I\u2019ll Still Love You More",
+      "lyrics_path": "trisha-yearwood\\_singles\\ill-still-love-you-more.txt"
+    },
+    {
+      "rank": 38,
+      "searched_artist": "Shania Twain",
+      "searched_title": "Man! I Feel Like A Woman!",
+      "missing": false,
+      "actual_artist": "Shania Twain",
+      "actual_title": "Man! I Feel Like a Woman!",
+      "lyrics_path": "shania-twain\\_singles\\man-i-feel-like-a-woman.txt"
+    },
+    {
+      "rank": 39,
+      "searched_artist": "Trisha Yearwood",
+      "searched_title": "Powerful Thing",
+      "missing": false,
+      "actual_artist": "Trisha Yearwood",
+      "actual_title": "Powerful Thing",
+      "lyrics_path": "trisha-yearwood\\_singles\\powerful-thing.txt"
+    },
+    {
+      "rank": 40,
+      "searched_artist": "Lila McCann",
+      "searched_title": "With You",
+      "missing": false,
+      "actual_artist": "Lila McCann",
+      "actual_title": "With You",
+      "lyrics_path": "lila-mccann\\_singles\\with-you.txt"
+    },
+    {
+      "rank": 41,
+      "searched_artist": "Sawyer Brown",
+      "searched_title": "Drive Me Wild",
+      "missing": false,
+      "actual_artist": "Sawyer Brown",
+      "actual_title": "Drive Me Wild",
+      "lyrics_path": "sawyer-brown\\_singles\\drive-me-wild.txt"
+    },
+    {
+      "rank": 43,
+      "searched_artist": "Dixie Chicks",
+      "searched_title": "Tonight The Heartache's On Me",
+      "missing": false,
+      "actual_artist": "The Chicks",
+      "actual_title": "Tonight the Heartache\u2019s on Me",
+      "lyrics_path": "the-chicks\\_singles\\tonight-the-heartaches-on-me.txt"
+    },
+    {
+      "rank": 44,
+      "searched_artist": "Reba",
+      "searched_title": "Wrong Night",
+      "missing": false,
+      "actual_artist": "Reba McEntire",
+      "actual_title": "Wrong Night",
+      "lyrics_path": "reba-mcentire\\_singles\\wrong-night.txt"
+    },
+    {
+      "rank": 45,
+      "searched_artist": "Brad Paisley",
+      "searched_title": "Who Needs Pictures",
+      "missing": false,
+      "actual_artist": "Brad Paisley",
+      "actual_title": "Who Needs Pictures",
+      "lyrics_path": "brad-paisley\\_singles\\who-needs-pictures.txt"
+    },
+    {
+      "rank": 46,
+      "searched_artist": "George Strait",
+      "searched_title": "Meanwhile",
+      "missing": false,
+      "actual_artist": "George Strait",
+      "actual_title": "Meanwhile",
+      "lyrics_path": "george-strait\\_singles\\meanwhile.txt"
+    },
+    {
+      "rank": 47,
+      "searched_artist": "Alan Jackson",
+      "searched_title": "Right On The Money",
+      "missing": false,
+      "actual_artist": "Alan Jackson",
+      "actual_title": "Right on the Money",
+      "lyrics_path": "alan-jackson\\_singles\\right-on-the-money.txt"
+    },
+    {
+      "rank": 48,
+      "searched_artist": "John Michael Montgomery",
+      "searched_title": "Home To You",
+      "missing": false,
+      "actual_artist": "John Michael Montgomery",
+      "actual_title": "Home To You",
+      "lyrics_path": "john-michael-montgomery\\_singles\\home-to-you.txt"
+    },
+    {
+      "rank": 49,
+      "searched_artist": "BlackHawk",
+      "searched_title": "There You Have It",
+      "missing": false,
+      "actual_artist": "BlackHawk",
+      "actual_title": "There You Have It",
+      "lyrics_path": "blackhawk\\_singles\\there-you-have-it.txt"
+    },
+    {
+      "rank": 50,
+      "searched_artist": "Mark Wills",
+      "searched_title": "She's In Love",
+      "missing": false,
+      "actual_artist": "Mark Wills",
+      "actual_title": "She\u2019s In Love",
+      "lyrics_path": "mark-wills\\_singles\\shes-in-love.txt"
+    },
+    {
+      "rank": 51,
+      "searched_artist": "Randy Travis",
+      "searched_title": "Spirit Of A Boy, Wisdom Of A Man",
+      "missing": false,
+      "actual_artist": "Randy Travis",
+      "actual_title": "Spirit of a Boy, Wisdom of a Man",
+      "lyrics_path": "randy-travis\\_singles\\spirit-of-a-boy-wisdom-of-a-man.txt"
+    },
+    {
+      "rank": 52,
+      "searched_artist": "Andy Griggs",
+      "searched_title": "I'll Go Crazy",
+      "missing": false,
+      "actual_artist": "Andy Griggs",
+      "actual_title": "I\u2019ll Go Crazy",
+      "lyrics_path": "andy-griggs\\_singles\\ill-go-crazy.txt"
+    },
+    {
+      "rank": 53,
+      "searched_artist": "Shania Twain",
+      "searched_title": "That Don't Impress Me Much",
+      "missing": false,
+      "actual_artist": "Shania Twain",
+      "actual_title": "That Don\u2019t Impress Me Much",
+      "lyrics_path": "shania-twain\\_singles\\that-dont-impress-me-much.txt"
+    },
+    {
+      "rank": 54,
+      "searched_artist": "Terri Clark",
+      "searched_title": "You're Easy On The Eyes",
+      "missing": false,
+      "actual_artist": "Terri Clark",
+      "actual_title": "You\u2019re Easy on the Eyes",
+      "lyrics_path": "terri-clark\\_singles\\youre-easy-on-the-eyes.txt"
+    },
+    {
+      "rank": 55,
+      "searched_artist": "Reba",
+      "searched_title": "One Honest Heart",
+      "missing": false,
+      "actual_artist": "Reba McEntire",
+      "actual_title": "One Honest Heart",
+      "lyrics_path": "reba-mcentire\\_singles\\one-honest-heart.txt"
+    },
+    {
+      "rank": 56,
+      "searched_artist": "Clay Walker",
+      "searched_title": "You're Beginning To Get To Me",
+      "missing": false,
+      "actual_artist": "Clay Walker",
+      "actual_title": "You\u2019re Beginning to Get to Me",
+      "lyrics_path": "clay-walker\\_singles\\youre-beginning-to-get-to-me.txt"
+    },
+    {
+      "rank": 57,
+      "searched_artist": "Aaron Tippin",
+      "searched_title": "For You I Will",
+      "missing": false,
+      "actual_artist": "Aaron Tippin",
+      "actual_title": "For You I Will",
+      "lyrics_path": "aaron-tippin\\_singles\\for-you-i-will.txt"
+    },
+    {
+      "rank": 58,
+      "searched_artist": "Lee Ann Womack",
+      "searched_title": "(Now You See Me) Now You Don't",
+      "missing": false,
+      "actual_artist": "Lee Ann Womack",
+      "actual_title": "(Now You See Me) Now You Don\u2019t",
+      "lyrics_path": "lee-ann-womack\\_singles\\now-you-see-me-now-you-dont.txt"
+    },
+    {
+      "rank": 59,
+      "searched_artist": "Alabama",
+      "searched_title": "Keepin' Up",
+      "missing": false,
+      "actual_artist": "Alabama",
+      "actual_title": "Keepin\u2019 Up",
+      "lyrics_path": "alabama\\_singles\\keepin-up.txt"
+    },
+    {
+      "rank": 60,
+      "searched_artist": "Terri Clark",
+      "searched_title": "Everytime I Cry",
+      "missing": false,
+      "actual_artist": "Terri Clark",
+      "actual_title": "Everytime I Cry",
+      "lyrics_path": "terri-clark\\_singles\\everytime-i-cry.txt"
+    },
+    {
+      "rank": 61,
+      "searched_artist": "Faith Hill",
+      "searched_title": "Love Ain't Like That",
+      "missing": false,
+      "actual_artist": "Faith Hill",
+      "actual_title": "Love Ain\u2019t Like That",
+      "lyrics_path": "faith-hill\\_singles\\love-aint-like-that.txt"
+    },
+    {
+      "rank": 62,
+      "searched_artist": "Montgomery Gentry",
+      "searched_title": "Hillbilly Shoes",
+      "missing": false,
+      "actual_artist": "Montgomery Gentry",
+      "actual_title": "Hillbilly Shoes",
+      "lyrics_path": "montgomery-gentry\\_singles\\hillbilly-shoes.txt"
+    },
+    {
+      "rank": 63,
+      "searched_artist": "The Wilkinsons",
+      "searched_title": "Fly (The Angel Song)",
+      "missing": false,
+      "actual_artist": "The Wilkinsons",
+      "actual_title": "Fly (The Angel Song)",
+      "lyrics_path": "the-wilkinsons\\_singles\\fly-the-angel-song.txt"
+    },
+    {
+      "rank": 64,
+      "searched_artist": "Dwight Yoakam",
+      "searched_title": "Crazy Little Thing Called Love",
+      "missing": false,
+      "actual_artist": "Dwight Yoakam",
+      "actual_title": "Crazy Little Thing Called Love",
+      "lyrics_path": "dwight-yoakam\\_singles\\crazy-little-thing-called-love.txt"
+    },
+    {
+      "rank": 65,
+      "searched_artist": "Clint Black",
+      "searched_title": "When I Said I Do",
+      "missing": false,
+      "actual_artist": "Clint Black",
+      "actual_title": "When I Said I Do",
+      "lyrics_path": "clint-black\\_singles\\when-i-said-i-do.txt"
+    },
+    {
+      "rank": 66,
+      "searched_artist": "Yankee Grey",
+      "searched_title": "All Things Considered",
+      "missing": false,
+      "actual_artist": "Yankee Grey",
+      "actual_title": "All Things Considered",
+      "lyrics_path": "yankee-grey\\_singles\\all-things-considered.txt"
+    },
+    {
+      "rank": 67,
+      "searched_artist": "Shania Twain",
+      "searched_title": "You've Got A Way",
+      "missing": false,
+      "actual_artist": "Shania Twain",
+      "actual_title": "You\u2019ve Got a Way",
+      "lyrics_path": "shania-twain\\_singles\\youve-got-a-way.txt"
+    },
+    {
+      "rank": 68,
+      "searched_artist": "Faith Hill",
+      "searched_title": "Let Me Let Go",
+      "missing": false,
+      "actual_artist": "Faith Hill",
+      "actual_title": "Let Me Let Go",
+      "lyrics_path": "faith-hill\\_singles\\let-me-let-go.txt"
+    },
+    {
+      "rank": 69,
+      "searched_artist": "Chad Brock",
+      "searched_title": "LIGHTNING DOES THE WORK",
+      "missing": false,
+      "actual_artist": "Chad Brock",
+      "actual_title": "Lightning Does the Work",
+      "lyrics_path": "chad-brock\\_singles\\lightning-does-the-work.txt"
+    },
+    {
+      "rank": 70,
+      "searched_artist": "Dixie Chicks",
+      "searched_title": "Wide Open Spaces",
+      "missing": false,
+      "actual_artist": "The Chicks",
+      "actual_title": "Wide Open Spaces",
+      "lyrics_path": "the-chicks\\_singles\\wide-open-spaces.txt"
+    },
+    {
+      "rank": 71,
+      "searched_artist": "Collin Raye",
+      "searched_title": "Someone You Used To Know",
+      "missing": false,
+      "actual_artist": "Collin Raye",
+      "actual_title": "Someone You Used To Know",
+      "lyrics_path": "collin-raye\\_singles\\someone-you-used-to-know.txt"
+    },
+    {
+      "rank": 72,
+      "searched_artist": "Clay Walker",
+      "searched_title": "She's Always Right",
+      "missing": false,
+      "actual_artist": "Clay Walker",
+      "actual_title": "She\u2019s Always Right",
+      "lyrics_path": "clay-walker\\_singles\\shes-always-right.txt"
+    },
+    {
+      "rank": 73,
+      "searched_artist": "Doug Stone",
+      "searched_title": "Make Up In Love",
+      "missing": false,
+      "actual_artist": "Doug Stone",
+      "actual_title": "Make Up In Love",
+      "lyrics_path": "doug-stone\\_singles\\make-up-in-love.txt"
+    },
+    {
+      "rank": 74,
+      "searched_artist": "Mark Chesnutt",
+      "searched_title": "This Heartache Never Sleeps",
+      "missing": false,
+      "actual_artist": "Mark Chesnutt",
+      "actual_title": "This Heartache Never Sleeps",
+      "lyrics_path": "mark-chesnutt\\_singles\\this-heartache-never-sleeps.txt"
+    }
+  ]
+}

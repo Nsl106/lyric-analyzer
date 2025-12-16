@@ -1,0 +1,502 @@
+[
+  {
+    "rank": 1,
+    "title": "Last Night",
+    "artist": "Morgan Wallen"
+  },
+  {
+    "rank": 2,
+    "title": "Fast Car",
+    "artist": "Luke Combs"
+  },
+  {
+    "rank": 3,
+    "title": "You Proof",
+    "artist": "Morgan Wallen"
+  },
+  {
+    "rank": 4,
+    "title": "Something In The Orange",
+    "artist": "Zach Bryan"
+  },
+  {
+    "rank": 5,
+    "title": "Rock And A Hard Place",
+    "artist": "Bailey Zimmerman"
+  },
+  {
+    "rank": 6,
+    "title": "Thinkin' Bout Me",
+    "artist": "Morgan Wallen"
+  },
+  {
+    "rank": 7,
+    "title": "Thank God",
+    "artist": "Kane Brown With Katelyn Brown"
+  },
+  {
+    "rank": 8,
+    "title": "Need A Favor",
+    "artist": "Jelly Roll"
+  },
+  {
+    "rank": 9,
+    "title": "Thought You Should Know",
+    "artist": "Morgan Wallen"
+  },
+  {
+    "rank": 10,
+    "title": "Religiously",
+    "artist": "Bailey Zimmerman"
+  },
+  {
+    "rank": 11,
+    "title": "One Thing At A Time",
+    "artist": "Morgan Wallen"
+  },
+  {
+    "rank": 12,
+    "title": "Love You Anyway",
+    "artist": "Luke Combs"
+  },
+  {
+    "rank": 13,
+    "title": "Everything I Love",
+    "artist": "Morgan Wallen"
+  },
+  {
+    "rank": 14,
+    "title": "Tennessee Orange",
+    "artist": "Megan Moroney"
+  },
+  {
+    "rank": 15,
+    "title": "Wait In The Truck",
+    "artist": "HARDY Featuring Lainey Wilson"
+  },
+  {
+    "rank": 16,
+    "title": "Next Thing You Know",
+    "artist": "Jordan Davis"
+  },
+  {
+    "rank": 17,
+    "title": "Going, Going, Gone",
+    "artist": "Luke Combs"
+  },
+  {
+    "rank": 18,
+    "title": "Heart Like A Truck",
+    "artist": "Lainey Wilson"
+  },
+  {
+    "rank": 19,
+    "title": "Try That In A Small Town",
+    "artist": "Jason Aldean"
+  },
+  {
+    "rank": 20,
+    "title": "Dancin' In The Country",
+    "artist": "Tyler Hubbard"
+  },
+  {
+    "rank": 21,
+    "title": "The Kind Of Love We Make",
+    "artist": "Luke Combs"
+  },
+  {
+    "rank": 22,
+    "title": "I Remember Everything",
+    "artist": "Zach Bryan Featuring Kacey Musgraves"
+  },
+  {
+    "rank": 23,
+    "title": "Cowgirls",
+    "artist": "Morgan Wallen Featuring ERNEST"
+  },
+  {
+    "rank": 24,
+    "title": "Handle On You",
+    "artist": "Parker McCollum"
+  },
+  {
+    "rank": 25,
+    "title": "Wild As Her",
+    "artist": "Corey Kent"
+  },
+  {
+    "rank": 26,
+    "title": "Rich Men North Of Richmond",
+    "artist": "Oliver Anthony Music"
+  },
+  {
+    "rank": 27,
+    "title": "Memory Lane",
+    "artist": "Old Dominion"
+  },
+  {
+    "rank": 28,
+    "title": "Bury Me In Georgia",
+    "artist": "Kane Brown"
+  },
+  {
+    "rank": 29,
+    "title": "Ain't That Some",
+    "artist": "Morgan Wallen"
+  },
+  {
+    "rank": 30,
+    "title": "I Wrote The Book",
+    "artist": "Morgan Wallen"
+  },
+  {
+    "rank": 31,
+    "title": "Your Heart Or Mine",
+    "artist": "Jon Pardi"
+  },
+  {
+    "rank": 32,
+    "title": "Watermelon Moonshine",
+    "artist": "Lainey Wilson"
+  },
+  {
+    "rank": 33,
+    "title": "You, Me, & Whiskey",
+    "artist": "Justin Moore & Priscilla Block"
+  },
+  {
+    "rank": 34,
+    "title": "Wasted On You",
+    "artist": "Morgan Wallen"
+  },
+  {
+    "rank": 35,
+    "title": "Truck Bed",
+    "artist": "HARDY"
+  },
+  {
+    "rank": 36,
+    "title": "Human",
+    "artist": "Cody Johnson"
+  },
+  {
+    "rank": 37,
+    "title": "Everything She Ain't",
+    "artist": "Hailey Whitters"
+  },
+  {
+    "rank": 38,
+    "title": "What He Didn't Do",
+    "artist": "Carly Pearce"
+  },
+  {
+    "rank": 39,
+    "title": "Man Made A Bar",
+    "artist": "Morgan Wallen Featuring Eric Church"
+  },
+  {
+    "rank": 40,
+    "title": "Dawns",
+    "artist": "Zach Bryan Featuring Maggie Rogers"
+  },
+  {
+    "rank": 41,
+    "title": "Save Me",
+    "artist": "Jelly Roll With Lainey Wilson"
+  },
+  {
+    "rank": 42,
+    "title": "It Matters To Her",
+    "artist": "Scotty McCreery"
+  },
+  {
+    "rank": 43,
+    "title": "Sunrise",
+    "artist": "Morgan Wallen"
+  },
+  {
+    "rank": 44,
+    "title": "Girl In Mine",
+    "artist": "Parmalee"
+  },
+  {
+    "rank": 45,
+    "title": "She Had Me At Heads Carolina",
+    "artist": "Cole Swindell"
+  },
+  {
+    "rank": 46,
+    "title": "Whiskey On You",
+    "artist": "Nate Smith"
+  },
+  {
+    "rank": 47,
+    "title": "'98 Braves",
+    "artist": "Morgan Wallen"
+  },
+  {
+    "rank": 48,
+    "title": "What My World Spins Around",
+    "artist": "Jordan Davis"
+  },
+  {
+    "rank": 49,
+    "title": "Angels Don't Always Have Wings",
+    "artist": "Thomas Rhett"
+  },
+  {
+    "rank": 50,
+    "title": "Tennessee Fan",
+    "artist": "Morgan Wallen"
+  },
+  {
+    "rank": 51,
+    "title": "Gold",
+    "artist": "Dierks Bentley"
+  },
+  {
+    "rank": 52,
+    "title": "Son Of A Sinner",
+    "artist": "Jelly Roll"
+  },
+  {
+    "rank": 53,
+    "title": "Standing Room Only",
+    "artist": "Tim McGraw"
+  },
+  {
+    "rank": 54,
+    "title": "I Can See You (Taylor's Version) (From The Vault)",
+    "artist": "Taylor Swift"
+  },
+  {
+    "rank": 55,
+    "title": "White Horse",
+    "artist": "Chris Stapleton"
+  },
+  {
+    "rank": 56,
+    "title": "Can't Have Mine",
+    "artist": "Dylan Scott"
+  },
+  {
+    "rank": 57,
+    "title": "You Didn't",
+    "artist": "Brett Young"
+  },
+  {
+    "rank": 58,
+    "title": "But I Got A Beer In My Hand",
+    "artist": "Luke Bryan"
+  },
+  {
+    "rank": 59,
+    "title": "5 Leaf Clover",
+    "artist": "Luke Combs"
+  },
+  {
+    "rank": 60,
+    "title": "Pretty Little Poison",
+    "artist": "Warren Zeiders"
+  },
+  {
+    "rank": 61,
+    "title": "That's What Tequila Does",
+    "artist": "Jason Aldean"
+  },
+  {
+    "rank": 62,
+    "title": "Growin' Up And Gettin' Old",
+    "artist": "Luke Combs"
+  },
+  {
+    "rank": 63,
+    "title": "Half Of Me",
+    "artist": "Thomas Rhett Featuring Riley Green"
+  },
+  {
+    "rank": 64,
+    "title": "Drinkaby",
+    "artist": "Cole Swindell"
+  },
+  {
+    "rank": 65,
+    "title": "Hey Driver",
+    "artist": "Zach Bryan Featuring The War And Treaty"
+  },
+  {
+    "rank": 66,
+    "title": "In Your Love",
+    "artist": "Tyler Childers"
+  },
+  {
+    "rank": 67,
+    "title": "World On Fire",
+    "artist": "Nate Smith"
+  },
+  {
+    "rank": 68,
+    "title": "If You Go Down (I'm Goin' Down Too)",
+    "artist": "Kelsea Ballerini"
+  },
+  {
+    "rank": 69,
+    "title": "Enchanted (Taylor's Version)",
+    "artist": "Taylor Swift"
+  },
+  {
+    "rank": 70,
+    "title": "Pick Me Up",
+    "artist": "Gabby Barrett"
+  },
+  {
+    "rank": 71,
+    "title": "Brown Eyes Baby",
+    "artist": "Keith Urban"
+  },
+  {
+    "rank": 72,
+    "title": "Days That End In Why",
+    "artist": "Morgan Wallen"
+  },
+  {
+    "rank": 73,
+    "title": "Looking For You",
+    "artist": "Chris Young"
+  },
+  {
+    "rank": 74,
+    "title": "Whiskey Friends",
+    "artist": "Morgan Wallen"
+  },
+  {
+    "rank": 75,
+    "title": "Dying Man",
+    "artist": "Morgan Wallen"
+  },
+  {
+    "rank": 76,
+    "title": "You",
+    "artist": "Dan + Shay"
+  },
+  {
+    "rank": 77,
+    "title": "Tourniquet",
+    "artist": "Zach Bryan"
+  },
+  {
+    "rank": 78,
+    "title": "Fall In Love",
+    "artist": "Bailey Zimmerman"
+  },
+  {
+    "rank": 79,
+    "title": "Water Under The Bridge",
+    "artist": "Sam Hunt"
+  },
+  {
+    "rank": 80,
+    "title": "Heartbroken",
+    "artist": "Diplo, Jessie Murph & Polo G"
+  },
+  {
+    "rank": 81,
+    "title": "Spotless",
+    "artist": "Zach Bryan Featuring The Lumineers"
+  },
+  {
+    "rank": 82,
+    "title": "Straight And Narrow",
+    "artist": "Sam Barber"
+  },
+  {
+    "rank": 83,
+    "title": "Burn It Down",
+    "artist": "Parker McCollum"
+  },
+  {
+    "rank": 84,
+    "title": "We Got History",
+    "artist": "Mitchell Tenpenny"
+  },
+  {
+    "rank": 85,
+    "title": "Neon Star (Country Boy Lullaby)",
+    "artist": "Morgan Wallen"
+  },
+  {
+    "rank": 86,
+    "title": "East Side Of Sorrow",
+    "artist": "Zach Bryan"
+  },
+  {
+    "rank": 87,
+    "title": "Wreckage",
+    "artist": "Nate Smith"
+  },
+  {
+    "rank": 88,
+    "title": "God Gave Me A Girl",
+    "artist": "Russell Dickerson"
+  },
+  {
+    "rank": 89,
+    "title": "Stars Like Confetti",
+    "artist": "Dustin Lynch"
+  },
+  {
+    "rank": 90,
+    "title": "Sun To Me",
+    "artist": "Zach Bryan"
+  },
+  {
+    "rank": 91,
+    "title": "23",
+    "artist": "Chayce Beckham"
+  },
+  {
+    "rank": 92,
+    "title": "I Deserve A Drink",
+    "artist": "Morgan Wallen"
+  },
+  {
+    "rank": 93,
+    "title": "Devil Don't Know",
+    "artist": "Morgan Wallen"
+  },
+  {
+    "rank": 94,
+    "title": "Down Home",
+    "artist": "Jimmie Allen"
+  },
+  {
+    "rank": 95,
+    "title": "No Body",
+    "artist": "Blake Shelton"
+  },
+  {
+    "rank": 96,
+    "title": "Born With A Beer In My Hand",
+    "artist": "Morgan Wallen"
+  },
+  {
+    "rank": 97,
+    "title": "Me + All Your Reasons",
+    "artist": "Morgan Wallen"
+  },
+  {
+    "rank": 98,
+    "title": "Country On",
+    "artist": "Luke Bryan"
+  },
+  {
+    "rank": 99,
+    "title": "Out In The Middle",
+    "artist": "Zac Brown Band"
+  },
+  {
+    "rank": 100,
+    "title": "Fear And Friday's",
+    "artist": "Zach Bryan"
+  }
+]

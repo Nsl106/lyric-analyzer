@@ -1,0 +1,371 @@
+{
+  "year": 1983,
+  "chart": "year-end-country",
+  "total_songs": 41,
+  "fetched": 38,
+  "songs": [
+    {
+      "rank": 1,
+      "searched_artist": "Shelly West",
+      "searched_title": "Jose Cuervo",
+      "missing": false,
+      "actual_artist": "Shelly West",
+      "actual_title": "Jose Cuervo",
+      "lyrics_path": "shelly-west\\_singles\\jose-cuervo.txt"
+    },
+    {
+      "rank": 2,
+      "searched_artist": "Ronnie McDowell",
+      "searched_title": "You're Gonna Ruin My Bad Reputation",
+      "missing": false,
+      "actual_artist": "Ronnie McDowell",
+      "actual_title": "You\u2019re Gonna Ruin My Bad Reputation",
+      "lyrics_path": "ronnie-mcdowell\\_singles\\youre-gonna-ruin-my-bad-reputation.txt"
+    },
+    {
+      "rank": 5,
+      "searched_artist": "George Strait",
+      "searched_title": "A Fire I Can't Put Out",
+      "missing": false,
+      "actual_artist": "George Strait",
+      "actual_title": "A Fire I Can\u2019t Put Out",
+      "lyrics_path": "george-strait\\_singles\\a-fire-i-cant-put-out.txt"
+    },
+    {
+      "rank": 7,
+      "searched_artist": "Reba McEntire",
+      "searched_title": "You're The First Time I've Thought About Leaving",
+      "missing": false,
+      "actual_artist": "Reba McEntire",
+      "actual_title": "You\u2019re the First Time I\u2019ve Thought About Leaving",
+      "lyrics_path": "reba-mcentire\\_singles\\youre-the-first-time-ive-thought-about-leaving.txt"
+    },
+    {
+      "rank": 8,
+      "searched_artist": "John Conlee",
+      "searched_title": "I'm Only In It For The Love",
+      "missing": false,
+      "actual_artist": "John Conlee",
+      "actual_title": "I\u2019m Only In It For The Love",
+      "lyrics_path": "john-conlee\\_singles\\im-only-in-it-for-the-love.txt"
+    },
+    {
+      "rank": 9,
+      "searched_artist": "John Anderson",
+      "searched_title": "Swingin'",
+      "missing": false,
+      "actual_artist": "John Anderson",
+      "actual_title": "Swingin\u2019",
+      "lyrics_path": "john-anderson\\_singles\\swingin.txt"
+    },
+    {
+      "rank": 10,
+      "searched_artist": "Charley Pride",
+      "searched_title": "Night Games",
+      "missing": false,
+      "actual_artist": "Charley Pride",
+      "actual_title": "Night Games",
+      "lyrics_path": "charley-pride\\_singles\\night-games.txt"
+    },
+    {
+      "rank": 11,
+      "searched_artist": "George Jones",
+      "searched_title": "I Always Get Lucky With You",
+      "missing": false,
+      "actual_artist": "George Jones",
+      "actual_title": "I Always Get Lucky With You",
+      "lyrics_path": "george-jones\\_singles\\i-always-get-lucky-with-you.txt"
+    },
+    {
+      "rank": 12,
+      "searched_artist": "Earl Thomas Conley",
+      "searched_title": "Your Love's On The Line",
+      "missing": false,
+      "actual_artist": "Earl Thomas Conley",
+      "actual_title": "Your Love\u2019s On the Line",
+      "lyrics_path": "earl-thomas-conley\\_singles\\your-loves-on-the-line.txt"
+    },
+    {
+      "rank": 13,
+      "searched_artist": "Ricky Skaggs",
+      "searched_title": "I Wouldn't Change You If I Could",
+      "missing": false,
+      "actual_artist": "Ricky Skaggs",
+      "actual_title": "I Wouldn\u2019t Change You If I Could",
+      "lyrics_path": "ricky-skaggs\\_singles\\i-wouldnt-change-you-if-i-could.txt"
+    },
+    {
+      "rank": 14,
+      "searched_artist": "Johnny Lee",
+      "searched_title": "Hey Bartender",
+      "missing": false,
+      "actual_artist": "Johnny Lee",
+      "actual_title": "Hey Bartender",
+      "lyrics_path": "johnny-lee\\_singles\\hey-bartender.txt"
+    },
+    {
+      "rank": 16,
+      "searched_artist": "Conway Twitty",
+      "searched_title": "Lost In The Feeling",
+      "missing": false,
+      "actual_artist": "Conway Twitty",
+      "actual_title": "Lost In the Feeling",
+      "lyrics_path": "conway-twitty\\_singles\\lost-in-the-feeling.txt"
+    },
+    {
+      "rank": 17,
+      "searched_artist": "John Conlee",
+      "searched_title": "Common Man",
+      "missing": false,
+      "actual_artist": "John Conlee",
+      "actual_title": "Common Man",
+      "lyrics_path": "john-conlee\\_singles\\common-man.txt"
+    },
+    {
+      "rank": 19,
+      "searched_artist": "Merle Haggard",
+      "searched_title": "You Take Me For Granted",
+      "missing": false,
+      "actual_artist": "Merle Haggard",
+      "actual_title": "You Take Me for Granted",
+      "lyrics_path": "merle-haggard\\_singles\\you-take-me-for-granted.txt"
+    },
+    {
+      "rank": 20,
+      "searched_artist": "Mickey Gilley",
+      "searched_title": "Fool For Your Love",
+      "missing": false,
+      "actual_artist": "Mickey Gilley",
+      "actual_title": "Fool for Your Love",
+      "lyrics_path": "mickey-gilley\\_singles\\fool-for-your-love.txt"
+    },
+    {
+      "rank": 21,
+      "searched_artist": "Charly McClain & Mickey Gilley",
+      "searched_title": "Paradise Tonight",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 23,
+      "searched_artist": "Don Williams",
+      "searched_title": "If Hollywood Don't Need You",
+      "missing": false,
+      "actual_artist": "Don Williams",
+      "actual_title": "If Hollywood Don\u2019t Need You",
+      "lyrics_path": "don-williams\\_singles\\if-hollywood-dont-need-you.txt"
+    },
+    {
+      "rank": 24,
+      "searched_artist": "Earl Thomas Conley",
+      "searched_title": "I Have Loved You, Girl (But Not Like This Before)",
+      "missing": false,
+      "actual_artist": "Earl Thomas Conley",
+      "actual_title": "I Have Loved You, Girl (But Not Like This Before)",
+      "lyrics_path": "earl-thomas-conley\\_singles\\i-have-loved-you-girl-but-not-like-this-before.txt"
+    },
+    {
+      "rank": 25,
+      "searched_artist": "Don Williams",
+      "searched_title": "Love Is On A Roll",
+      "missing": false,
+      "actual_artist": "Don Williams",
+      "actual_title": "Love Is On a Roll",
+      "lyrics_path": "don-williams\\_singles\\love-is-on-a-roll.txt"
+    },
+    {
+      "rank": 26,
+      "searched_artist": "The Bellamy Brothers",
+      "searched_title": "When I'm Away From You",
+      "missing": false,
+      "actual_artist": "The Bellamy Brothers",
+      "actual_title": "When I\u2019m Away From You",
+      "lyrics_path": "the-bellamy-brothers\\_singles\\when-im-away-from-you.txt"
+    },
+    {
+      "rank": 27,
+      "searched_artist": "The Oak Ridge Boys",
+      "searched_title": "Love Song",
+      "missing": false,
+      "actual_artist": "The Oak Ridge Boys",
+      "actual_title": "Love Song",
+      "lyrics_path": "the-oak-ridge-boys\\_singles\\love-song.txt"
+    },
+    {
+      "rank": 28,
+      "searched_artist": "Conway Twitty",
+      "searched_title": "The Rose",
+      "missing": false,
+      "actual_artist": "Conway Twitty",
+      "actual_title": "The Rose",
+      "lyrics_path": "conway-twitty\\_singles\\the-rose.txt"
+    },
+    {
+      "rank": 29,
+      "searched_artist": "Ricky Skaggs",
+      "searched_title": "Highway 40 Blues",
+      "missing": false,
+      "actual_artist": "Ricky Skaggs",
+      "actual_title": "Highway 40 Blues",
+      "lyrics_path": "ricky-skaggs\\_singles\\highway-40-blues.txt"
+    },
+    {
+      "rank": 30,
+      "searched_artist": "Eddie Rabbitt",
+      "searched_title": "You Can't Run From Love",
+      "missing": false,
+      "actual_artist": "Eddie Rabbitt",
+      "actual_title": "You Can\u2019t Run from Love",
+      "lyrics_path": "eddie-rabbitt\\_singles\\you-cant-run-from-love.txt"
+    },
+    {
+      "rank": 31,
+      "searched_artist": "Alabama",
+      "searched_title": "Dixieland Delight",
+      "missing": false,
+      "actual_artist": "Alabama",
+      "actual_title": "Dixieland Delight",
+      "lyrics_path": "alabama\\_singles\\dixieland-delight.txt"
+    },
+    {
+      "rank": 33,
+      "searched_artist": "Merle Haggard",
+      "searched_title": "Going Where The Lonely Go",
+      "missing": false,
+      "actual_artist": "Merle Haggard",
+      "actual_title": "Going Where the Lonely Go",
+      "lyrics_path": "merle-haggard\\_singles\\going-where-the-lonely-go.txt"
+    },
+    {
+      "rank": 34,
+      "searched_artist": "Gary Morris",
+      "searched_title": "The Love She Found In Me",
+      "missing": false,
+      "actual_artist": "Gary Morris",
+      "actual_title": "The Love She Found In Me",
+      "lyrics_path": "gary-morris\\_singles\\the-love-she-found-in-me.txt"
+    },
+    {
+      "rank": 35,
+      "searched_artist": "Ronnie Milsap",
+      "searched_title": "Inside/Carolina Dreams",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 36,
+      "searched_artist": "Charley Pride",
+      "searched_title": "Why Baby Why",
+      "missing": false,
+      "actual_artist": "Charley Pride",
+      "actual_title": "Why Baby Why",
+      "lyrics_path": "charley-pride\\_singles\\why-baby-why.txt"
+    },
+    {
+      "rank": 37,
+      "searched_artist": "Willie Nelson",
+      "searched_title": "Why Do I Have To Choose",
+      "missing": false,
+      "actual_artist": "Willie Nelson",
+      "actual_title": "Why Do I Have to Choose",
+      "lyrics_path": "willie-nelson\\_singles\\why-do-i-have-to-choose.txt"
+    },
+    {
+      "rank": 39,
+      "searched_artist": "Crystal Gayle",
+      "searched_title": "Our Love Is On The Faultline",
+      "missing": false,
+      "actual_artist": "Crystal Gayle",
+      "actual_title": "Our Love Is on the Faultline",
+      "lyrics_path": "crystal-gayle\\_singles\\our-love-is-on-the-faultline.txt"
+    },
+    {
+      "rank": 40,
+      "searched_artist": "Emmylou Harris",
+      "searched_title": "(lost His Love) On Our Last Date",
+      "missing": false,
+      "actual_artist": "Emmylou Harris",
+      "actual_title": "(Lost His Love) On Our Last Date",
+      "lyrics_path": "emmylou-harris\\_singles\\lost-his-love-on-our-last-date.txt"
+    },
+    {
+      "rank": 41,
+      "searched_artist": "Mickey Gilley",
+      "searched_title": "Talk To Me",
+      "missing": false,
+      "actual_artist": "Mickey Gilley",
+      "actual_title": "Talk to Me",
+      "lyrics_path": "mickey-gilley\\_singles\\talk-to-me.txt"
+    },
+    {
+      "rank": 42,
+      "searched_artist": "Lee Greenwood",
+      "searched_title": "I.o.u.",
+      "missing": false,
+      "actual_artist": "Lee Greenwood",
+      "actual_title": "I.O.U.",
+      "lyrics_path": "lee-greenwood\\_singles\\iou.txt"
+    },
+    {
+      "rank": 43,
+      "searched_artist": "Ronnie Milsap",
+      "searched_title": "Don't You Know How Much I Love You",
+      "missing": false,
+      "actual_artist": "Ronnie Milsap",
+      "actual_title": "Don\u2019t You Know How Much I Love You",
+      "lyrics_path": "ronnie-milsap\\_singles\\dont-you-know-how-much-i-love-you.txt"
+    },
+    {
+      "rank": 44,
+      "searched_artist": "The Statler Brothers",
+      "searched_title": "Oh Baby Mine (i Get So Lonely)",
+      "missing": false,
+      "actual_artist": "The Statler Brothers",
+      "actual_title": "Oh Baby Mine (I Get So Lonely)",
+      "lyrics_path": "the-statler-brothers\\_singles\\oh-baby-mine-i-get-so-lonely.txt"
+    },
+    {
+      "rank": 46,
+      "searched_artist": "Crystal Gayle",
+      "searched_title": "Baby, What About You",
+      "missing": false,
+      "actual_artist": "Crystal Gayle",
+      "actual_title": "Baby, What About You",
+      "lyrics_path": "crystal-gayle\\_singles\\baby-what-about-you.txt"
+    },
+    {
+      "rank": 47,
+      "searched_artist": "Alabama",
+      "searched_title": "The Closer You Get",
+      "missing": false,
+      "actual_artist": "Alabama",
+      "actual_title": "The Closer You Get",
+      "lyrics_path": "alabama\\_singles\\the-closer-you-get.txt"
+    },
+    {
+      "rank": 48,
+      "searched_artist": "Gene Watson With The Farewell Party Band",
+      "searched_title": "You're Out Doing What I'm Here Doing Without",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 49,
+      "searched_artist": "Johnny Rodriguez",
+      "searched_title": "Foolin'",
+      "missing": false,
+      "actual_artist": "Johnny Rodriguez",
+      "actual_title": "Foolin\u2019",
+      "lyrics_path": "johnny-rodriguez\\_singles\\foolin.txt"
+    },
+    {
+      "rank": 50,
+      "searched_artist": "Barbara Mandrell",
+      "searched_title": "In Times Like These",
+      "missing": false,
+      "actual_artist": "Barbara Mandrell",
+      "actual_title": "In Times Like These",
+      "lyrics_path": "barbara-mandrell\\_singles\\in-times-like-these.txt"
+    }
+  ]
+}

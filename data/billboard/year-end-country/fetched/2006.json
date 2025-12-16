@@ -1,0 +1,544 @@
+{
+  "year": 2006,
+  "chart": "year-end-country",
+  "total_songs": 60,
+  "fetched": 58,
+  "songs": [
+    {
+      "rank": 1,
+      "searched_artist": "Rodney Atkins",
+      "searched_title": "If You're Going Through Hell (Before The Devil Even Knows)",
+      "missing": false,
+      "actual_artist": "Rodney Atkins",
+      "actual_title": "If You\u2019re Going Through Hell (Before the Devil Even Knows)",
+      "lyrics_path": "rodney-atkins\\_singles\\if-youre-going-through-hell-before-the-devil-even-knows.txt"
+    },
+    {
+      "rank": 2,
+      "searched_artist": "Brad Paisley",
+      "searched_title": "The World",
+      "missing": false,
+      "actual_artist": "Brad Paisley",
+      "actual_title": "The World",
+      "lyrics_path": "brad-paisley\\_singles\\the-world.txt"
+    },
+    {
+      "rank": 3,
+      "searched_artist": "Kenny Chesney",
+      "searched_title": "Summertime",
+      "missing": false,
+      "actual_artist": "Kenny Chesney",
+      "actual_title": "Summertime",
+      "lyrics_path": "kenny-chesney\\_singles\\summertime.txt"
+    },
+    {
+      "rank": 4,
+      "searched_artist": "Rascal Flatts",
+      "searched_title": "What Hurts The Most",
+      "missing": false,
+      "actual_artist": "Rascal Flatts",
+      "actual_title": "What Hurts The Most",
+      "lyrics_path": "rascal-flatts\\_singles\\what-hurts-the-most.txt"
+    },
+    {
+      "rank": 5,
+      "searched_artist": "Carrie Underwood",
+      "searched_title": "Jesus, Take The Wheel",
+      "missing": false,
+      "actual_artist": "Carrie Underwood",
+      "actual_title": "Jesus, Take the Wheel",
+      "lyrics_path": "carrie-underwood\\_singles\\jesus-take-the-wheel.txt"
+    },
+    {
+      "rank": 6,
+      "searched_artist": "Josh Turner",
+      "searched_title": "Would You Go With Me",
+      "missing": false,
+      "actual_artist": "Josh Turner",
+      "actual_title": "Would You Go With Me",
+      "lyrics_path": "josh-turner\\_singles\\would-you-go-with-me.txt"
+    },
+    {
+      "rank": 7,
+      "searched_artist": "Keith Urban",
+      "searched_title": "Tonight I Wanna Cry",
+      "missing": false,
+      "actual_artist": "Keith Urban",
+      "actual_title": "Tonight I Wanna Cry",
+      "lyrics_path": "keith-urban\\_singles\\tonight-i-wanna-cry.txt"
+    },
+    {
+      "rank": 8,
+      "searched_artist": "The Wreckers",
+      "searched_title": "Leave The Pieces",
+      "missing": false,
+      "actual_artist": "The Wreckers",
+      "actual_title": "Leave the Pieces",
+      "lyrics_path": "the-wreckers\\_singles\\leave-the-pieces.txt"
+    },
+    {
+      "rank": 9,
+      "searched_artist": "Bon Jovi Duet With Jennifer Nettles",
+      "searched_title": "Who Says You Can't Go Home",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 10,
+      "searched_artist": "Jason Aldean",
+      "searched_title": "Why",
+      "missing": false,
+      "actual_artist": "Jason Aldean",
+      "actual_title": "Why",
+      "lyrics_path": "jason-aldean\\_singles\\why.txt"
+    },
+    {
+      "rank": 11,
+      "searched_artist": "Little Big Town",
+      "searched_title": "Bring It On Home",
+      "missing": false,
+      "actual_artist": "Little Big Town",
+      "actual_title": "Bring It On Home",
+      "lyrics_path": "little-big-town\\_singles\\bring-it-on-home.txt"
+    },
+    {
+      "rank": 12,
+      "searched_artist": "Steve Holy",
+      "searched_title": "Brand New Girlfriend",
+      "missing": false,
+      "actual_artist": "Steve Holy",
+      "actual_title": "Brand New Girlfriend",
+      "lyrics_path": "steve-holy\\_singles\\brand-new-girlfriend.txt"
+    },
+    {
+      "rank": 13,
+      "searched_artist": "Carrie Underwood",
+      "searched_title": "Don't Forget To Remember Me",
+      "missing": false,
+      "actual_artist": "Carrie Underwood",
+      "actual_title": "Don\u2019t Forget to Remember Me",
+      "lyrics_path": "carrie-underwood\\_singles\\dont-forget-to-remember-me.txt"
+    },
+    {
+      "rank": 14,
+      "searched_artist": "George Strait",
+      "searched_title": "Give It Away",
+      "missing": false,
+      "actual_artist": "George Strait",
+      "actual_title": "Give It Away",
+      "lyrics_path": "george-strait\\_singles\\give-it-away.txt"
+    },
+    {
+      "rank": 15,
+      "searched_artist": "Toby Keith",
+      "searched_title": "A Little Too Late",
+      "missing": false,
+      "actual_artist": "Toby Keith",
+      "actual_title": "A Little Too Late",
+      "lyrics_path": "toby-keith\\_singles\\a-little-too-late.txt"
+    },
+    {
+      "rank": 16,
+      "searched_artist": "LeAnn Rimes",
+      "searched_title": "Something's Gotta Give",
+      "missing": false,
+      "actual_artist": "LeAnn Rimes",
+      "actual_title": "Something\u2019s Gotta Give",
+      "lyrics_path": "leann-rimes\\_singles\\somethings-gotta-give.txt"
+    },
+    {
+      "rank": 17,
+      "searched_artist": "Phil Vassar",
+      "searched_title": "Last Day Of My Life",
+      "missing": false,
+      "actual_artist": "Phil Vassar",
+      "actual_title": "Last Day of My Life",
+      "lyrics_path": "phil-vassar\\_singles\\last-day-of-my-life.txt"
+    },
+    {
+      "rank": 18,
+      "searched_artist": "Keith Anderson",
+      "searched_title": "Every Time I Hear Your Name",
+      "missing": false,
+      "actual_artist": "Keith Anderson",
+      "actual_title": "Every Time I Hear Your Name",
+      "lyrics_path": "keith-anderson\\_singles\\every-time-i-hear-your-name.txt"
+    },
+    {
+      "rank": 19,
+      "searched_artist": "Dierks Bentley",
+      "searched_title": "Settle For A Slowdown",
+      "missing": false,
+      "actual_artist": "Dierks Bentley",
+      "actual_title": "Settle for a Slowdown",
+      "lyrics_path": "dierks-bentley\\_singles\\settle-for-a-slowdown.txt"
+    },
+    {
+      "rank": 20,
+      "searched_artist": "Tim McGraw",
+      "searched_title": "When The Stars Go Blue",
+      "missing": false,
+      "actual_artist": "Tim McGraw",
+      "actual_title": "When the Stars Go Blue",
+      "lyrics_path": "tim-mcgraw\\_singles\\when-the-stars-go-blue.txt"
+    },
+    {
+      "rank": 21,
+      "searched_artist": "Josh Turner",
+      "searched_title": "Your Man",
+      "missing": false,
+      "actual_artist": "Josh Turner",
+      "actual_title": "Your Man",
+      "lyrics_path": "josh-turner\\_singles\\your-man.txt"
+    },
+    {
+      "rank": 22,
+      "searched_artist": "Brad Paisley Featuring Dolly Parton",
+      "searched_title": "When I Get Where I'm Going",
+      "missing": false,
+      "actual_artist": "Brad Paisley",
+      "actual_title": "When I Get Where I\u2019m Going",
+      "lyrics_path": "brad-paisley\\_singles\\when-i-get-where-im-going.txt"
+    },
+    {
+      "rank": 23,
+      "searched_artist": "Gary Allan",
+      "searched_title": "Life Ain't Always Beautiful",
+      "missing": false,
+      "actual_artist": "Gary Allan",
+      "actual_title": "Life Ain\u2019t Always Beautiful",
+      "lyrics_path": "gary-allan\\_singles\\life-aint-always-beautiful.txt"
+    },
+    {
+      "rank": 24,
+      "searched_artist": "Montgomery Gentry",
+      "searched_title": "She Don't Tell Me To",
+      "missing": false,
+      "actual_artist": "Montgomery Gentry",
+      "actual_title": "She Don\u2019t Tell Me To",
+      "lyrics_path": "montgomery-gentry\\_singles\\she-dont-tell-me-to.txt"
+    },
+    {
+      "rank": 25,
+      "searched_artist": "Jack Ingram",
+      "searched_title": "Wherever You Are",
+      "missing": false,
+      "actual_artist": "Jack Ingram",
+      "actual_title": "Wherever You Are",
+      "lyrics_path": "jack-ingram\\_singles\\wherever-you-are.txt"
+    },
+    {
+      "rank": 26,
+      "searched_artist": "Blake Shelton",
+      "searched_title": "Nobody But Me",
+      "missing": false,
+      "actual_artist": "Blake Shelton",
+      "actual_title": "Nobody But Me",
+      "lyrics_path": "blake-shelton\\_singles\\nobody-but-me.txt"
+    },
+    {
+      "rank": 27,
+      "searched_artist": "Brooks & Dunn",
+      "searched_title": "Believe",
+      "missing": false,
+      "actual_artist": "Brooks & Dunn",
+      "actual_title": "Believe",
+      "lyrics_path": "brooks--dunn\\_singles\\believe.txt"
+    },
+    {
+      "rank": 28,
+      "searched_artist": "Kenny Chesney",
+      "searched_title": "Living In Fast Forward",
+      "missing": false,
+      "actual_artist": "Kenny Chesney",
+      "actual_title": "Living In Fast Forward",
+      "lyrics_path": "kenny-chesney\\_singles\\living-in-fast-forward.txt"
+    },
+    {
+      "rank": 29,
+      "searched_artist": "Brooks & Dunn With Sheryl Crow & Vince Gill",
+      "searched_title": "Building Bridges",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 30,
+      "searched_artist": "Heartland",
+      "searched_title": "I Loved Her First",
+      "missing": false,
+      "actual_artist": "Heartland",
+      "actual_title": "I Loved Her First",
+      "lyrics_path": "heartland\\_singles\\i-loved-her-first.txt"
+    },
+    {
+      "rank": 31,
+      "searched_artist": "Toby Keith",
+      "searched_title": "Get Drunk And Be Somebody",
+      "missing": false,
+      "actual_artist": "Toby Keith",
+      "actual_title": "Get Drunk And Be Somebody",
+      "lyrics_path": "toby-keith\\_singles\\get-drunk-and-be-somebody.txt"
+    },
+    {
+      "rank": 32,
+      "searched_artist": "Dierks Bentley",
+      "searched_title": "Every Mile A Memory",
+      "missing": false,
+      "actual_artist": "Dierks Bentley",
+      "actual_title": "Every Mile a Memory",
+      "lyrics_path": "dierks-bentley\\_singles\\every-mile-a-memory.txt"
+    },
+    {
+      "rank": 33,
+      "searched_artist": "Joe Nichols",
+      "searched_title": "Size Matters (Someday)",
+      "missing": false,
+      "actual_artist": "Joe Nichols",
+      "actual_title": "Size Matters (Someday)",
+      "lyrics_path": "joe-nichols\\_singles\\size-matters-someday.txt"
+    },
+    {
+      "rank": 34,
+      "searched_artist": "Billy Currington",
+      "searched_title": "Must Be Doin' Somethin' Right",
+      "missing": false,
+      "actual_artist": "Billy Currington",
+      "actual_title": "Must Be Doin\u2019 Somethin\u2019 Right",
+      "lyrics_path": "billy-currington\\_singles\\must-be-doin-somethin-right.txt"
+    },
+    {
+      "rank": 35,
+      "searched_artist": "Trace Adkins",
+      "searched_title": "Honky Tonk Badonkadonk",
+      "missing": false,
+      "actual_artist": "Trace Adkins",
+      "actual_title": "Honky Tonk Badonkadonk",
+      "lyrics_path": "trace-adkins\\_singles\\honky-tonk-badonkadonk.txt"
+    },
+    {
+      "rank": 36,
+      "searched_artist": "George Strait",
+      "searched_title": "She Let Herself Go",
+      "missing": false,
+      "actual_artist": "George Strait",
+      "actual_title": "She Let Herself Go",
+      "lyrics_path": "george-strait\\_singles\\she-let-herself-go.txt"
+    },
+    {
+      "rank": 37,
+      "searched_artist": "Carrie Underwood",
+      "searched_title": "Before He Cheats",
+      "missing": false,
+      "actual_artist": "Carrie Underwood",
+      "actual_title": "Before He Cheats",
+      "lyrics_path": "carrie-underwood\\_singles\\before-he-cheats.txt"
+    },
+    {
+      "rank": 38,
+      "searched_artist": "Rascal Flatts",
+      "searched_title": "Me And My Gang",
+      "missing": false,
+      "actual_artist": "Rascal Flatts",
+      "actual_title": "Me And My Gang",
+      "lyrics_path": "rascal-flatts\\_singles\\me-and-my-gang.txt"
+    },
+    {
+      "rank": 39,
+      "searched_artist": "Kenny Chesney",
+      "searched_title": "You Save Me",
+      "missing": false,
+      "actual_artist": "Kenny Chesney",
+      "actual_title": "You Save Me",
+      "lyrics_path": "kenny-chesney\\_singles\\you-save-me.txt"
+    },
+    {
+      "rank": 40,
+      "searched_artist": "Keith Urban",
+      "searched_title": "Once In A Lifetime",
+      "missing": false,
+      "actual_artist": "Keith Urban",
+      "actual_title": "Once in a Lifetime",
+      "lyrics_path": "keith-urban\\_singles\\once-in-a-lifetime.txt"
+    },
+    {
+      "rank": 41,
+      "searched_artist": "Sugarland",
+      "searched_title": "Just Might (Make Me Believe)",
+      "missing": false,
+      "actual_artist": "Sugarland",
+      "actual_title": "Just Might (Make Me Believe)",
+      "lyrics_path": "sugarland\\_singles\\just-might-make-me-believe.txt"
+    },
+    {
+      "rank": 42,
+      "searched_artist": "Faith Hill",
+      "searched_title": "The Lucky One",
+      "missing": false,
+      "actual_artist": "Faith Hill",
+      "actual_title": "The Lucky One",
+      "lyrics_path": "faith-hill\\_singles\\the-lucky-one.txt"
+    },
+    {
+      "rank": 43,
+      "searched_artist": "Sara Evans",
+      "searched_title": "Cheatin'",
+      "missing": false,
+      "actual_artist": "Sara Evans",
+      "actual_title": "Cheatin\u2019",
+      "lyrics_path": "sara-evans\\_singles\\cheatin.txt"
+    },
+    {
+      "rank": 44,
+      "searched_artist": "Faith Hill",
+      "searched_title": "Sunshine And Summertime",
+      "missing": false,
+      "actual_artist": "Faith Hill",
+      "actual_title": "Sunshine and Summertime",
+      "lyrics_path": "faith-hill\\_singles\\sunshine-and-summertime.txt"
+    },
+    {
+      "rank": 45,
+      "searched_artist": "Sugarland",
+      "searched_title": "Want To",
+      "missing": false,
+      "actual_artist": "Sugarland",
+      "actual_title": "Want To",
+      "lyrics_path": "sugarland\\_singles\\want-to.txt"
+    },
+    {
+      "rank": 46,
+      "searched_artist": "Billy Currington",
+      "searched_title": "Why, Why, Why",
+      "missing": false,
+      "actual_artist": "Billy Currington",
+      "actual_title": "Why, Why, Why",
+      "lyrics_path": "billy-currington\\_singles\\why-why-why.txt"
+    },
+    {
+      "rank": 47,
+      "searched_artist": "Garth Brooks",
+      "searched_title": "Good Ride Cowboy",
+      "missing": false,
+      "actual_artist": "Garth Brooks",
+      "actual_title": "Good Ride Cowboy",
+      "lyrics_path": "garth-brooks\\_singles\\good-ride-cowboy.txt"
+    },
+    {
+      "rank": 48,
+      "searched_artist": "Tim McGraw",
+      "searched_title": "My Old Friend",
+      "missing": false,
+      "actual_artist": "Tim McGraw",
+      "actual_title": "My Old Friend",
+      "lyrics_path": "tim-mcgraw\\_singles\\my-old-friend.txt"
+    },
+    {
+      "rank": 49,
+      "searched_artist": "Faith Hill",
+      "searched_title": "Like We Never Loved At All",
+      "missing": false,
+      "actual_artist": "Faith Hill",
+      "actual_title": "Like We Never Loved At All",
+      "lyrics_path": "faith-hill\\_singles\\like-we-never-loved-at-all.txt"
+    },
+    {
+      "rank": 50,
+      "searched_artist": "Rascal Flatts",
+      "searched_title": "My Wish",
+      "missing": false,
+      "actual_artist": "Rascal Flatts",
+      "actual_title": "My Wish",
+      "lyrics_path": "rascal-flatts\\_singles\\my-wish.txt"
+    },
+    {
+      "rank": 51,
+      "searched_artist": "Dierks Bentley",
+      "searched_title": "Come A Little Closer",
+      "missing": false,
+      "actual_artist": "Dierks Bentley",
+      "actual_title": "Come a Little Closer",
+      "lyrics_path": "dierks-bentley\\_singles\\come-a-little-closer.txt"
+    },
+    {
+      "rank": 52,
+      "searched_artist": "Pat Green",
+      "searched_title": "Feels Just Like It Should",
+      "missing": false,
+      "actual_artist": "Pat Green",
+      "actual_title": "Feels Just Like It Should",
+      "lyrics_path": "pat-green\\_singles\\feels-just-like-it-should.txt"
+    },
+    {
+      "rank": 53,
+      "searched_artist": "George Strait",
+      "searched_title": "The Seashores Of Old Mexico",
+      "missing": false,
+      "actual_artist": "George Strait",
+      "actual_title": "The Seashores of Old Mexico",
+      "lyrics_path": "george-strait\\_singles\\the-seashores-of-old-mexico.txt"
+    },
+    {
+      "rank": 54,
+      "searched_artist": "Craig Morgan",
+      "searched_title": "I Got You",
+      "missing": false,
+      "actual_artist": "Craig Morgan",
+      "actual_title": "I Got You",
+      "lyrics_path": "craig-morgan\\_singles\\i-got-you.txt"
+    },
+    {
+      "rank": 55,
+      "searched_artist": "Kenny Chesney",
+      "searched_title": "Who You'd Be Today",
+      "missing": false,
+      "actual_artist": "Kenny Chesney",
+      "actual_title": "Who You\u2019d Be Today",
+      "lyrics_path": "kenny-chesney\\_singles\\who-youd-be-today.txt"
+    },
+    {
+      "rank": 56,
+      "searched_artist": "Tim McGraw",
+      "searched_title": "My Little Girl",
+      "missing": false,
+      "actual_artist": "Tim McGraw",
+      "actual_title": "My Little Girl",
+      "lyrics_path": "tim-mcgraw\\_singles\\my-little-girl.txt"
+    },
+    {
+      "rank": 57,
+      "searched_artist": "Joe Nichols",
+      "searched_title": "Tequila Makes Her Clothes Fall Off",
+      "missing": false,
+      "actual_artist": "Joe Nichols",
+      "actual_title": "Tequila Makes Her Clothes Fall Off",
+      "lyrics_path": "joe-nichols\\_singles\\tequila-makes-her-clothes-fall-off.txt"
+    },
+    {
+      "rank": 58,
+      "searched_artist": "Danielle Peck",
+      "searched_title": "Findin' A Good Man",
+      "missing": false,
+      "actual_artist": "Danielle Peck",
+      "actual_title": "Findin\u2019 a Good Man",
+      "lyrics_path": "danielle-peck\\_singles\\findin-a-good-man.txt"
+    },
+    {
+      "rank": 59,
+      "searched_artist": "Lonestar",
+      "searched_title": "Mountains",
+      "missing": false,
+      "actual_artist": "Lonestar",
+      "actual_title": "Mountains",
+      "lyrics_path": "lonestar\\_singles\\mountains.txt"
+    },
+    {
+      "rank": 60,
+      "searched_artist": "Jack Ingram",
+      "searched_title": "Love You",
+      "missing": false,
+      "actual_artist": "Jack Ingram",
+      "actual_title": "Love You",
+      "lyrics_path": "jack-ingram\\_singles\\love-you.txt"
+    }
+  ]
+}

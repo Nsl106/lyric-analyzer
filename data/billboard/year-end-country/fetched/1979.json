@@ -1,0 +1,367 @@
+{
+  "year": 1979,
+  "chart": "year-end-country",
+  "total_songs": 41,
+  "fetched": 36,
+  "songs": [
+    {
+      "rank": 1,
+      "searched_artist": "Anne Murray",
+      "searched_title": "I Just Fall In Love Again",
+      "missing": false,
+      "actual_artist": "Anne Murray",
+      "actual_title": "I Just Fall In Love Again",
+      "lyrics_path": "anne-murray\\_singles\\i-just-fall-in-love-again.txt"
+    },
+    {
+      "rank": 3,
+      "searched_artist": "Waylon Jennings",
+      "searched_title": "Amanda",
+      "missing": false,
+      "actual_artist": "Waylon Jennings",
+      "actual_title": "Amanda",
+      "lyrics_path": "waylon-jennings\\_singles\\amanda.txt"
+    },
+    {
+      "rank": 4,
+      "searched_artist": "Eddie Rabbitt",
+      "searched_title": "Every Which Way But Loose",
+      "missing": false,
+      "actual_artist": "Eddie Rabbitt",
+      "actual_title": "Every Which Way But Loose",
+      "lyrics_path": "eddie-rabbitt\\_singles\\every-which-way-but-loose.txt"
+    },
+    {
+      "rank": 6,
+      "searched_artist": "Kenny Rogers",
+      "searched_title": "She Believes In Me",
+      "missing": false,
+      "actual_artist": "Kenny Rogers",
+      "actual_title": "She Believes in Me",
+      "lyrics_path": "kenny-rogers\\_singles\\she-believes-in-me.txt"
+    },
+    {
+      "rank": 7,
+      "searched_artist": "Kenny Rogers",
+      "searched_title": "The Gambler",
+      "missing": false,
+      "actual_artist": "Kenny Rogers",
+      "actual_title": "The Gambler",
+      "lyrics_path": "kenny-rogers\\_singles\\the-gambler.txt"
+    },
+    {
+      "rank": 8,
+      "searched_artist": "Dolly Parton",
+      "searched_title": "You're The Only One",
+      "missing": false,
+      "actual_artist": "Dolly Parton",
+      "actual_title": "You\u2019re the Only One",
+      "lyrics_path": "dolly-parton\\_singles\\youre-the-only-one.txt"
+    },
+    {
+      "rank": 9,
+      "searched_artist": "Barbara Mandrell",
+      "searched_title": "Sleeping Single In A Double Bed",
+      "missing": false,
+      "actual_artist": "Barbara Mandrell",
+      "actual_title": "Sleeping Single in a Double Bed",
+      "lyrics_path": "barbara-mandrell\\_singles\\sleeping-single-in-a-double-bed.txt"
+    },
+    {
+      "rank": 10,
+      "searched_artist": "Crystal Gayle",
+      "searched_title": "Why Have You Left The One You Left Me For",
+      "missing": false,
+      "actual_artist": "Crystal Gayle",
+      "actual_title": "Why Have You Left the One You Left Me For",
+      "lyrics_path": "crystal-gayle\\_singles\\why-have-you-left-the-one-you-left-me-for.txt"
+    },
+    {
+      "rank": 11,
+      "searched_artist": "T.G. Sheppard",
+      "searched_title": "Last Cheater's Waltz",
+      "missing": false,
+      "actual_artist": "T.G. Sheppard",
+      "actual_title": "Last Cheaters Waltz",
+      "lyrics_path": "tg-sheppard\\_singles\\last-cheaters-waltz.txt"
+    },
+    {
+      "rank": 12,
+      "searched_artist": "Ronnie Milsap",
+      "searched_title": "Nobody Likes Sad Songs",
+      "missing": false,
+      "actual_artist": "Ronnie Milsap",
+      "actual_title": "Nobody Likes Sad Songs",
+      "lyrics_path": "ronnie-milsap\\_singles\\nobody-likes-sad-songs.txt"
+    },
+    {
+      "rank": 13,
+      "searched_artist": "Moe Bandy & Joe Stampley",
+      "searched_title": "Just Good Ol' Boys",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 14,
+      "searched_artist": "Charley Pride",
+      "searched_title": "Where Do I Put Her Memory",
+      "missing": false,
+      "actual_artist": "Charley Pride",
+      "actual_title": "Where Do I Put Her Memory",
+      "lyrics_path": "charley-pride\\_singles\\where-do-i-put-her-memory.txt"
+    },
+    {
+      "rank": 16,
+      "searched_artist": "John Conlee",
+      "searched_title": "Backside Of Thirty",
+      "missing": false,
+      "actual_artist": "John Conlee",
+      "actual_title": "Backside Of Thirty",
+      "lyrics_path": "john-conlee\\_singles\\backside-of-thirty.txt"
+    },
+    {
+      "rank": 17,
+      "searched_artist": "John Conlee",
+      "searched_title": "Lady Lay Down",
+      "missing": false,
+      "actual_artist": "John Conlee",
+      "actual_title": "Lady Lay Down",
+      "lyrics_path": "john-conlee\\_singles\\lady-lay-down.txt"
+    },
+    {
+      "rank": 18,
+      "searched_artist": "Eddie Rabbitt",
+      "searched_title": "Suspicions",
+      "missing": false,
+      "actual_artist": "Eddie Rabbitt",
+      "actual_title": "Suspicions",
+      "lyrics_path": "eddie-rabbitt\\_singles\\suspicions.txt"
+    },
+    {
+      "rank": 19,
+      "searched_artist": "Barbara Mandrell",
+      "searched_title": "(If Loving You Is Wrong) I Don't Want To Be Right",
+      "missing": false,
+      "actual_artist": "Barbara Mandrell",
+      "actual_title": "(If Loving You Is Wrong) I Don\u2019t Want To Be Right",
+      "lyrics_path": "barbara-mandrell\\_singles\\if-loving-you-is-wrong-i-dont-want-to-be-right.txt"
+    },
+    {
+      "rank": 20,
+      "searched_artist": "Conway Twitty",
+      "searched_title": "I May Never Get To Heaven",
+      "missing": false,
+      "actual_artist": "Conway Twitty",
+      "actual_title": "I May Never Get to Heaven",
+      "lyrics_path": "conway-twitty\\_singles\\i-may-never-get-to-heaven.txt"
+    },
+    {
+      "rank": 21,
+      "searched_artist": "Charley Pride",
+      "searched_title": "You're My Jamaica",
+      "missing": false,
+      "actual_artist": "Charley Pride",
+      "actual_title": "You\u2019re My Jamaica",
+      "lyrics_path": "charley-pride\\_singles\\youre-my-jamaica.txt"
+    },
+    {
+      "rank": 22,
+      "searched_artist": "Mel Tillis",
+      "searched_title": "Coca Cola Cowboy",
+      "missing": false,
+      "actual_artist": "Mel Tillis",
+      "actual_title": "Coca Cola Cowboy",
+      "lyrics_path": "mel-tillis\\_singles\\coca-cola-cowboy.txt"
+    },
+    {
+      "rank": 23,
+      "searched_artist": "Anne Murray",
+      "searched_title": "Shadows In The Moonlight",
+      "missing": false,
+      "actual_artist": "Anne Murray",
+      "actual_title": "Shadows In The Moonlight",
+      "lyrics_path": "anne-murray\\_singles\\shadows-in-the-moonlight.txt"
+    },
+    {
+      "rank": 24,
+      "searched_artist": "Conway Twitty",
+      "searched_title": "Don't Take It Away",
+      "missing": false,
+      "actual_artist": "Conway Twitty",
+      "actual_title": "Don\u2019t Take It Away",
+      "lyrics_path": "conway-twitty\\_singles\\dont-take-it-away.txt"
+    },
+    {
+      "rank": 25,
+      "searched_artist": "Don Williams",
+      "searched_title": "Tulsa Time",
+      "missing": false,
+      "actual_artist": "Don Williams",
+      "actual_title": "Tulsa Time",
+      "lyrics_path": "don-williams\\_singles\\tulsa-time.txt"
+    },
+    {
+      "rank": 26,
+      "searched_artist": "Don Williams",
+      "searched_title": "Lay Down Beside Me",
+      "missing": false,
+      "actual_artist": "Don Williams",
+      "actual_title": "Lay Down Beside Me",
+      "lyrics_path": "don-williams\\_singles\\lay-down-beside-me.txt"
+    },
+    {
+      "rank": 27,
+      "searched_artist": "Don Williams",
+      "searched_title": "It Must Be Love",
+      "missing": false,
+      "actual_artist": "Don Williams",
+      "actual_title": "It Must Be Love",
+      "lyrics_path": "don-williams\\_singles\\it-must-be-love.txt"
+    },
+    {
+      "rank": 28,
+      "searched_artist": "Ronnie Milsap",
+      "searched_title": "Back On My Mind Again/santa Barbara",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 29,
+      "searched_artist": "Gene Watson",
+      "searched_title": "Farewell Party",
+      "missing": false,
+      "actual_artist": "Gene Watson",
+      "actual_title": "Farewell Party",
+      "lyrics_path": "gene-watson\\_singles\\farewell-party.txt"
+    },
+    {
+      "rank": 31,
+      "searched_artist": "Johnny Cash",
+      "searched_title": "(Ghost) Riders In The Sky",
+      "missing": false,
+      "actual_artist": "Johnny Cash",
+      "actual_title": "Ghost Riders in the Sky",
+      "lyrics_path": "johnny-cash\\_singles\\ghost-riders-in-the-sky.txt"
+    },
+    {
+      "rank": 32,
+      "searched_artist": "Dolly Parton",
+      "searched_title": "I Really Got The Feeling/baby I'm Burning",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 34,
+      "searched_artist": "Crystal Gayle",
+      "searched_title": "When I Dream",
+      "missing": false,
+      "actual_artist": "Crystal Gayle",
+      "actual_title": "When I Dream",
+      "lyrics_path": "crystal-gayle\\_singles\\when-i-dream.txt"
+    },
+    {
+      "rank": 35,
+      "searched_artist": "Donna Fargo",
+      "searched_title": "Somebody Special",
+      "missing": false,
+      "actual_artist": "Donna Fargo",
+      "actual_title": "Somebody Special",
+      "lyrics_path": "donna-fargo\\_singles\\somebody-special.txt"
+    },
+    {
+      "rank": 36,
+      "searched_artist": "Gene Watson",
+      "searched_title": "Pick The Wildwood Flower",
+      "missing": false,
+      "actual_artist": "Gene Watson",
+      "actual_title": "Pick The Wildwood Flower",
+      "lyrics_path": "gene-watson\\_singles\\pick-the-wildwood-flower.txt"
+    },
+    {
+      "rank": 37,
+      "searched_artist": "The Kendalls",
+      "searched_title": "I Had A Lovely Time",
+      "missing": false,
+      "actual_artist": "The Kendalls",
+      "actual_title": "I Had A Lovely Time",
+      "lyrics_path": "the-kendalls\\_singles\\i-had-a-lovely-time.txt"
+    },
+    {
+      "rank": 39,
+      "searched_artist": "The Oak Ridge Boys",
+      "searched_title": "Sail Away",
+      "missing": false,
+      "actual_artist": "The Oak Ridge Boys",
+      "actual_title": "Sail Away",
+      "lyrics_path": "the-oak-ridge-boys\\_singles\\sail-away.txt"
+    },
+    {
+      "rank": 40,
+      "searched_artist": "Moe Bandy",
+      "searched_title": "It's A Cheatin' Situation",
+      "missing": false,
+      "actual_artist": "Moe Bandy",
+      "actual_title": "It\u2019s A Cheating Situation",
+      "lyrics_path": "moe-bandy\\_singles\\its-a-cheating-situation.txt"
+    },
+    {
+      "rank": 41,
+      "searched_artist": "Charlie Daniels Band",
+      "searched_title": "The Devil Went Down To Georgia",
+      "missing": false,
+      "actual_artist": "Charlie Daniels",
+      "actual_title": "The Devil Went Down to Georgia",
+      "lyrics_path": "charlie-daniels\\_singles\\the-devil-went-down-to-georgia.txt"
+    },
+    {
+      "rank": 44,
+      "searched_artist": "Joe Stampley",
+      "searched_title": "Do You Ever Fool Around",
+      "missing": false,
+      "actual_artist": "Joe Stampley",
+      "actual_title": "Do You Ever Fool Around",
+      "lyrics_path": "joe-stampley\\_singles\\do-you-ever-fool-around.txt"
+    },
+    {
+      "rank": 45,
+      "searched_artist": "Johnny Rodriguez",
+      "searched_title": "Down On The Rio Grande",
+      "missing": false,
+      "actual_artist": "Johnny Rodriguez",
+      "actual_title": "Down On The Rio Grande",
+      "lyrics_path": "johnny-rodriguez\\_singles\\down-on-the-rio-grande.txt"
+    },
+    {
+      "rank": 46,
+      "searched_artist": "T.G. Sheppard",
+      "searched_title": "You Feel Good All Over",
+      "missing": false,
+      "actual_artist": "T.G. Sheppard",
+      "actual_title": "You Feel Good All Over",
+      "lyrics_path": "tg-sheppard\\_singles\\you-feel-good-all-over.txt"
+    },
+    {
+      "rank": 47,
+      "searched_artist": "Tanya Tucker",
+      "searched_title": "Texas (when I Die)",
+      "missing": false,
+      "actual_artist": "Tanya Tucker",
+      "actual_title": "Texas (When I Die)",
+      "lyrics_path": "tanya-tucker\\_singles\\texas-when-i-die.txt"
+    },
+    {
+      "rank": 49,
+      "searched_artist": "Merle Haggard",
+      "searched_title": "Red Bandana/i Must Have Done Something Bad",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 50,
+      "searched_artist": "Conway Twitty",
+      "searched_title": "Your Love Has Taken Me That High",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    }
+  ]
+}

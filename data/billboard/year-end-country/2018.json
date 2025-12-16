@@ -1,0 +1,502 @@
+[
+  {
+    "rank": 1,
+    "title": "Meant To Be",
+    "artist": "Bebe Rexha & Florida Georgia Line"
+  },
+  {
+    "rank": 2,
+    "title": "Heaven",
+    "artist": "Kane Brown"
+  },
+  {
+    "rank": 3,
+    "title": "Tequila",
+    "artist": "Dan + Shay"
+  },
+  {
+    "rank": 4,
+    "title": "You Make It Easy",
+    "artist": "Jason Aldean"
+  },
+  {
+    "rank": 5,
+    "title": "Marry Me",
+    "artist": "Thomas Rhett"
+  },
+  {
+    "rank": 6,
+    "title": "One Number Away",
+    "artist": "Luke Combs"
+  },
+  {
+    "rank": 7,
+    "title": "Simple",
+    "artist": "Florida Georgia Line"
+  },
+  {
+    "rank": 8,
+    "title": "Get Along",
+    "artist": "Kenny Chesney"
+  },
+  {
+    "rank": 9,
+    "title": "Mercy",
+    "artist": "Brett Young"
+  },
+  {
+    "rank": 10,
+    "title": "Up Down",
+    "artist": "Morgan Wallen Featuring Florida Georgia Line"
+  },
+  {
+    "rank": 11,
+    "title": "Most People Are Good",
+    "artist": "Luke Bryan"
+  },
+  {
+    "rank": 12,
+    "title": "Take Back Home Girl",
+    "artist": "Chris Lane Featuring Tori Kelly"
+  },
+  {
+    "rank": 13,
+    "title": "Drowns The Whiskey",
+    "artist": "Jason Aldean Featuring Miranda Lambert"
+  },
+  {
+    "rank": 14,
+    "title": "Break Up In The End",
+    "artist": "Cole Swindell"
+  },
+  {
+    "rank": 15,
+    "title": "Broken Halos",
+    "artist": "Chris Stapleton"
+  },
+  {
+    "rank": 16,
+    "title": "Sunrise, Sunburn, Sunset",
+    "artist": "Luke Bryan"
+  },
+  {
+    "rank": 17,
+    "title": "Hooked",
+    "artist": "Dylan Scott"
+  },
+  {
+    "rank": 18,
+    "title": "Drunk Girl",
+    "artist": "Chris Janson"
+  },
+  {
+    "rank": 19,
+    "title": "Singles You Up",
+    "artist": "Jordan Davis"
+  },
+  {
+    "rank": 20,
+    "title": "Hotel Key",
+    "artist": "Old Dominion"
+  },
+  {
+    "rank": 21,
+    "title": "Lose It",
+    "artist": "Kane Brown"
+  },
+  {
+    "rank": 22,
+    "title": "Five More Minutes",
+    "artist": "Scotty McCreery"
+  },
+  {
+    "rank": 23,
+    "title": "She Got The Best Of Me",
+    "artist": "Luke Combs"
+  },
+  {
+    "rank": 24,
+    "title": "I Was Jack (You Were Diane)",
+    "artist": "Jake Owen"
+  },
+  {
+    "rank": 25,
+    "title": "Life Changes",
+    "artist": "Thomas Rhett"
+  },
+  {
+    "rank": 26,
+    "title": "Beautiful Crazy",
+    "artist": "Luke Combs"
+  },
+  {
+    "rank": 27,
+    "title": "I Lived It",
+    "artist": "Blake Shelton"
+  },
+  {
+    "rank": 28,
+    "title": "Woman, Amen",
+    "artist": "Dierks Bentley"
+  },
+  {
+    "rank": 29,
+    "title": "All On Me",
+    "artist": "Devin Dawson"
+  },
+  {
+    "rank": 30,
+    "title": "Blue Tacoma",
+    "artist": "Russell Dickerson"
+  },
+  {
+    "rank": 31,
+    "title": "Yours",
+    "artist": "Russell Dickerson"
+  },
+  {
+    "rank": 32,
+    "title": "Speechless",
+    "artist": "Dan + Shay"
+  },
+  {
+    "rank": 33,
+    "title": "Hangin' On",
+    "artist": "Chris Young"
+  },
+  {
+    "rank": 34,
+    "title": "The Long Way",
+    "artist": "Brett Eldredge"
+  },
+  {
+    "rank": 35,
+    "title": "Babe",
+    "artist": "Sugarland Featuring Taylor Swift"
+  },
+  {
+    "rank": 36,
+    "title": "Written In The Sand",
+    "artist": "Old Dominion"
+  },
+  {
+    "rank": 37,
+    "title": "What Ifs",
+    "artist": "Kane Brown Featuring Lauren Alaina"
+  },
+  {
+    "rank": 38,
+    "title": "Everything's Gonna Be Alright",
+    "artist": "David Lee Murphy & Kenny Chesney"
+  },
+  {
+    "rank": 39,
+    "title": "Cry Pretty",
+    "artist": "Carrie Underwood"
+  },
+  {
+    "rank": 40,
+    "title": "For The First Time",
+    "artist": "Darius Rucker"
+  },
+  {
+    "rank": 41,
+    "title": "Greatest Love Story",
+    "artist": "LANco"
+  },
+  {
+    "rank": 42,
+    "title": "Kiss Somebody",
+    "artist": "Morgan Evans"
+  },
+  {
+    "rank": 43,
+    "title": "Best Shot",
+    "artist": "Jimmie Allen"
+  },
+  {
+    "rank": 44,
+    "title": "Rich",
+    "artist": "Maren Morris"
+  },
+  {
+    "rank": 45,
+    "title": "Coming Home",
+    "artist": "Keith Urban Featuring Julia Michaels"
+  },
+  {
+    "rank": 46,
+    "title": "Body Like A Back Road",
+    "artist": "Sam Hunt"
+  },
+  {
+    "rank": 47,
+    "title": "I'll Name The Dogs",
+    "artist": "Blake Shelton"
+  },
+  {
+    "rank": 48,
+    "title": "You Broke Up With Me",
+    "artist": "Walker Hayes"
+  },
+  {
+    "rank": 49,
+    "title": "Born To Love You",
+    "artist": "LANco"
+  },
+  {
+    "rank": 50,
+    "title": "Drunk Me",
+    "artist": "Mitchell Tenpenny"
+  },
+  {
+    "rank": 51,
+    "title": "Like I Loved You",
+    "artist": "Brett Young"
+  },
+  {
+    "rank": 52,
+    "title": "Desperate Man",
+    "artist": "Eric Church"
+  },
+  {
+    "rank": 53,
+    "title": "She's With Me",
+    "artist": "High Valley"
+  },
+  {
+    "rank": 54,
+    "title": "Losing Sleep",
+    "artist": "Chris Young"
+  },
+  {
+    "rank": 55,
+    "title": "Heart Break",
+    "artist": "Lady Antebellum"
+  },
+  {
+    "rank": 56,
+    "title": "Female",
+    "artist": "Keith Urban"
+  },
+  {
+    "rank": 57,
+    "title": "Millionaire",
+    "artist": "Chris Stapleton"
+  },
+  {
+    "rank": 58,
+    "title": "Unforgettable",
+    "artist": "Thomas Rhett"
+  },
+  {
+    "rank": 59,
+    "title": "Boy",
+    "artist": "Lee Brice"
+  },
+  {
+    "rank": 60,
+    "title": "Get To You",
+    "artist": "Michael Ray"
+  },
+  {
+    "rank": 61,
+    "title": "Hide The Wine",
+    "artist": "Carly Pearce"
+  },
+  {
+    "rank": 62,
+    "title": "Legends",
+    "artist": "Kelsea Ballerini"
+  },
+  {
+    "rank": 63,
+    "title": "Round Here Buzz",
+    "artist": "Eric Church"
+  },
+  {
+    "rank": 64,
+    "title": "Light It Up",
+    "artist": "Luke Bryan"
+  },
+  {
+    "rank": 65,
+    "title": "When It Rains It Pours",
+    "artist": "Luke Combs"
+  },
+  {
+    "rank": 66,
+    "title": "Burning Man",
+    "artist": "Dierks Bentley Featuring Brothers Osborne"
+  },
+  {
+    "rank": 67,
+    "title": "Happens Like That",
+    "artist": "Granger Smith"
+  },
+  {
+    "rank": 68,
+    "title": "All Day Long",
+    "artist": "Garth Brooks"
+  },
+  {
+    "rank": 69,
+    "title": "Last Shot",
+    "artist": "Kip Moore"
+  },
+  {
+    "rank": 70,
+    "title": "I Could Use A Love Song",
+    "artist": "Maren Morris"
+  },
+  {
+    "rank": 71,
+    "title": "Kinda Don't Care",
+    "artist": "Justin Moore"
+  },
+  {
+    "rank": 72,
+    "title": "Downtown's Dead",
+    "artist": "Sam Hunt"
+  },
+  {
+    "rank": 73,
+    "title": "I Hate Love Songs",
+    "artist": "Kelsea Ballerini"
+  },
+  {
+    "rank": 74,
+    "title": "A Girl Like You",
+    "artist": "Easton Corbin"
+  },
+  {
+    "rank": 75,
+    "title": "Shoot Me Straight",
+    "artist": "Brothers Osborne"
+  },
+  {
+    "rank": 76,
+    "title": "She Ain't In It",
+    "artist": "Jon Pardi"
+  },
+  {
+    "rank": 77,
+    "title": "Criminal",
+    "artist": "Lindsay Ell"
+  },
+  {
+    "rank": 78,
+    "title": "Ones That Like Me",
+    "artist": "Brantley Gilbert"
+  },
+  {
+    "rank": 79,
+    "title": "Burn Out",
+    "artist": "Midland"
+  },
+  {
+    "rank": 80,
+    "title": "Good Girl",
+    "artist": "Dustin Lynch"
+  },
+  {
+    "rank": 81,
+    "title": "The Rest Of Our Life",
+    "artist": "Tim McGraw & Faith Hill"
+  },
+  {
+    "rank": 82,
+    "title": "Take It From Me",
+    "artist": "Jordan Davis"
+  },
+  {
+    "rank": 83,
+    "title": "Must've Never Met You",
+    "artist": "Luke Combs"
+  },
+  {
+    "rank": 84,
+    "title": "Three Chords & The Truth",
+    "artist": "Chase Rice"
+  },
+  {
+    "rank": 85,
+    "title": "Make A Little",
+    "artist": "Midland"
+  },
+  {
+    "rank": 86,
+    "title": "Turnin' Me On",
+    "artist": "Blake Shelton"
+  },
+  {
+    "rank": 87,
+    "title": "This Is It",
+    "artist": "Scotty McCreery"
+  },
+  {
+    "rank": 88,
+    "title": "Houston, We Got A Problem",
+    "artist": "Luke Combs"
+  },
+  {
+    "rank": 89,
+    "title": "I'd Be Jealous Too",
+    "artist": "Dustin Lynch"
+  },
+  {
+    "rank": 90,
+    "title": "Down To The Honkytonk",
+    "artist": "Jake Owen"
+  },
+  {
+    "rank": 91,
+    "title": "Famous",
+    "artist": "Mason Ramsey"
+  },
+  {
+    "rank": 92,
+    "title": "Outta Style",
+    "artist": "Aaron Watson"
+  },
+  {
+    "rank": 93,
+    "title": "A Little Dive Bar In Dahlonega",
+    "artist": "Ashley McBryde"
+  },
+  {
+    "rank": 94,
+    "title": "David Ashley Parker From Powder Springs",
+    "artist": "Travis Denning"
+  },
+  {
+    "rank": 95,
+    "title": "Doin' Fine",
+    "artist": "Lauren Alaina"
+  },
+  {
+    "rank": 96,
+    "title": "The Difference",
+    "artist": "Tyler Rich"
+  },
+  {
+    "rank": 97,
+    "title": "On My Way To You",
+    "artist": "Cody Johnson"
+  },
+  {
+    "rank": 98,
+    "title": "Love Wins",
+    "artist": "Carrie Underwood"
+  },
+  {
+    "rank": 99,
+    "title": "Girl Like You",
+    "artist": "Jason Aldean"
+  },
+  {
+    "rank": 100,
+    "title": "Caught Up In The Country",
+    "artist": "Rodney Atkins Featuring The Fisk Jubilee Singers"
+  }
+]

@@ -1,0 +1,544 @@
+{
+  "year": 2002,
+  "chart": "year-end-country",
+  "total_songs": 60,
+  "fetched": 58,
+  "songs": [
+    {
+      "rank": 1,
+      "searched_artist": "Kenny Chesney",
+      "searched_title": "The Good Stuff",
+      "missing": false,
+      "actual_artist": "Kenny Chesney",
+      "actual_title": "The Good Stuff",
+      "lyrics_path": "kenny-chesney\\_singles\\the-good-stuff.txt"
+    },
+    {
+      "rank": 2,
+      "searched_artist": "Alan Jackson",
+      "searched_title": "Drive (For Daddy Gene)",
+      "missing": false,
+      "actual_artist": "Alan Jackson",
+      "actual_title": "Drive (For Daddy Gene)",
+      "lyrics_path": "alan-jackson\\_singles\\drive-for-daddy-gene.txt"
+    },
+    {
+      "rank": 3,
+      "searched_artist": "George Strait",
+      "searched_title": "Living And Living Well",
+      "missing": false,
+      "actual_artist": "George Strait",
+      "actual_title": "Living and Living Well",
+      "lyrics_path": "george-strait\\_singles\\living-and-living-well.txt"
+    },
+    {
+      "rank": 4,
+      "searched_artist": "Steve Holy",
+      "searched_title": "Good Morning Beautiful",
+      "missing": false,
+      "actual_artist": "Steve Holy",
+      "actual_title": "Good Morning Beautiful",
+      "lyrics_path": "steve-holy\\_singles\\good-morning-beautiful.txt"
+    },
+    {
+      "rank": 5,
+      "searched_artist": "Darryl Worley",
+      "searched_title": "I Miss My Friend",
+      "missing": false,
+      "actual_artist": "Darryl Worley",
+      "actual_title": "I Miss My Friend",
+      "lyrics_path": "darryl-worley\\_singles\\i-miss-my-friend.txt"
+    },
+    {
+      "rank": 6,
+      "searched_artist": "Toby Keith",
+      "searched_title": "My List",
+      "missing": false,
+      "actual_artist": "Toby Keith",
+      "actual_title": "My List",
+      "lyrics_path": "toby-keith\\_singles\\my-list.txt"
+    },
+    {
+      "rank": 7,
+      "searched_artist": "Steve Azar",
+      "searched_title": "I Don't Have To Be Me ('til Monday)",
+      "missing": false,
+      "actual_artist": "Steve Azar",
+      "actual_title": "I Don\u2019t Have To Be Me (\u2019Til Monday)",
+      "lyrics_path": "steve-azar\\_singles\\i-dont-have-to-be-me-til-monday.txt"
+    },
+    {
+      "rank": 8,
+      "searched_artist": "Diamond Rio",
+      "searched_title": "Beautiful Mess",
+      "missing": false,
+      "actual_artist": "Diamond Rio",
+      "actual_title": "Beautiful Mess",
+      "lyrics_path": "diamond-rio\\_singles\\beautiful-mess.txt"
+    },
+    {
+      "rank": 9,
+      "searched_artist": "Martina McBride",
+      "searched_title": "Blessed",
+      "missing": false,
+      "actual_artist": "Martina McBride",
+      "actual_title": "Blessed",
+      "lyrics_path": "martina-mcbride\\_singles\\blessed.txt"
+    },
+    {
+      "rank": 10,
+      "searched_artist": "Joe Nichols",
+      "searched_title": "The Impossible",
+      "missing": false,
+      "actual_artist": "Joe Nichols",
+      "actual_title": "The Impossible",
+      "lyrics_path": "joe-nichols\\_singles\\the-impossible.txt"
+    },
+    {
+      "rank": 11,
+      "searched_artist": "Tracy Byrd",
+      "searched_title": "Ten Rounds With Jose Cuervo",
+      "missing": false,
+      "actual_artist": "Tracy Byrd",
+      "actual_title": "Ten Rounds With Jose Cuervo",
+      "lyrics_path": "tracy-byrd\\_singles\\ten-rounds-with-jose-cuervo.txt"
+    },
+    {
+      "rank": 12,
+      "searched_artist": "Tommy Shane Steiner",
+      "searched_title": "What If She's An Angel",
+      "missing": false,
+      "actual_artist": "Tommy Shane Steiner",
+      "actual_title": "What If She\u2019s an Angel",
+      "lyrics_path": "tommy-shane-steiner\\_singles\\what-if-shes-an-angel.txt"
+    },
+    {
+      "rank": 13,
+      "searched_artist": "Gary Allan",
+      "searched_title": "The One",
+      "missing": false,
+      "actual_artist": "Gary Allan",
+      "actual_title": "The One",
+      "lyrics_path": "gary-allan\\_singles\\the-one.txt"
+    },
+    {
+      "rank": 14,
+      "searched_artist": "Keith Urban",
+      "searched_title": "Somebody Like You",
+      "missing": false,
+      "actual_artist": "Keith Urban",
+      "actual_title": "Somebody Like You",
+      "lyrics_path": "keith-urban\\_singles\\somebody-like-you.txt"
+    },
+    {
+      "rank": 15,
+      "searched_artist": "Rascal Flatts",
+      "searched_title": "I'm Movin' On",
+      "missing": false,
+      "actual_artist": "Rascal Flatts",
+      "actual_title": "I\u2019m Movin\u2019 On",
+      "lyrics_path": "rascal-flatts\\_singles\\im-movin-on.txt"
+    },
+    {
+      "rank": 16,
+      "searched_artist": "Jo Dee Messina With Tim McGraw",
+      "searched_title": "Bring On The Rain",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 17,
+      "searched_artist": "Brooks & Dunn",
+      "searched_title": "The Long Goodbye",
+      "missing": false,
+      "actual_artist": "Brooks & Dunn",
+      "actual_title": "The Long Goodbye",
+      "lyrics_path": "brooks--dunn\\_singles\\the-long-goodbye.txt"
+    },
+    {
+      "rank": 18,
+      "searched_artist": "Lonestar",
+      "searched_title": "Not A Day Goes By",
+      "missing": false,
+      "actual_artist": "Lonestar",
+      "actual_title": "Not a Day Goes By",
+      "lyrics_path": "lonestar\\_singles\\not-a-day-goes-by.txt"
+    },
+    {
+      "rank": 19,
+      "searched_artist": "Kenny Chesney",
+      "searched_title": "Young",
+      "missing": false,
+      "actual_artist": "Kenny Chesney",
+      "actual_title": "Young",
+      "lyrics_path": "kenny-chesney\\_singles\\young.txt"
+    },
+    {
+      "rank": 20,
+      "searched_artist": "Sara Evans",
+      "searched_title": "I Keep Looking",
+      "missing": false,
+      "actual_artist": "Sara Evans",
+      "actual_title": "I Keep Looking",
+      "lyrics_path": "sara-evans\\_singles\\i-keep-looking.txt"
+    },
+    {
+      "rank": 21,
+      "searched_artist": "Tim McGraw",
+      "searched_title": "The Cowboy In Me",
+      "missing": false,
+      "actual_artist": "Tim McGraw",
+      "actual_title": "The Cowboy In Me",
+      "lyrics_path": "tim-mcgraw\\_singles\\the-cowboy-in-me.txt"
+    },
+    {
+      "rank": 22,
+      "searched_artist": "Emerson Drive",
+      "searched_title": "I Should Be Sleeping",
+      "missing": false,
+      "actual_artist": "Emerson Drive",
+      "actual_title": "I Should Be Sleeping",
+      "lyrics_path": "emerson-drive\\_singles\\i-should-be-sleeping.txt"
+    },
+    {
+      "rank": 23,
+      "searched_artist": "Chris Cagle",
+      "searched_title": "I Breathe In, I Breathe Out",
+      "missing": false,
+      "actual_artist": "Chris Cagle",
+      "actual_title": "I Breathe In, I Breathe Out",
+      "lyrics_path": "chris-cagle\\_singles\\i-breathe-in-i-breathe-out.txt"
+    },
+    {
+      "rank": 24,
+      "searched_artist": "Alan Jackson",
+      "searched_title": "Where Were You (When The World Stopped Turning)",
+      "missing": false,
+      "actual_artist": "Alan Jackson",
+      "actual_title": "Where Were You (When The World Stopped Turning)",
+      "lyrics_path": "alan-jackson\\_singles\\where-were-you-when-the-world-stopped-turning.txt"
+    },
+    {
+      "rank": 25,
+      "searched_artist": "Brad Paisley",
+      "searched_title": "I'm Gonna Miss Her (The Fishin' Song)",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 26,
+      "searched_artist": "Phil Vassar",
+      "searched_title": "That's When I Love You",
+      "missing": false,
+      "actual_artist": "Phil Vassar",
+      "actual_title": "That\u2019s When I Love You",
+      "lyrics_path": "phil-vassar\\_singles\\thats-when-i-love-you.txt"
+    },
+    {
+      "rank": 27,
+      "searched_artist": "Martina McBride",
+      "searched_title": "Where Would You Be",
+      "missing": false,
+      "actual_artist": "Martina McBride",
+      "actual_title": "Where Would You Be",
+      "lyrics_path": "martina-mcbride\\_singles\\where-would-you-be.txt"
+    },
+    {
+      "rank": 28,
+      "searched_artist": "Toby Keith",
+      "searched_title": "Courtesy Of The Red, White And Blue (The Angry American)",
+      "missing": false,
+      "actual_artist": "Toby Keith",
+      "actual_title": "Courtesy of the Red, White, and Blue (The Angry American)",
+      "lyrics_path": "toby-keith\\_singles\\courtesy-of-the-red-white-and-blue-the-angry-american.txt"
+    },
+    {
+      "rank": 29,
+      "searched_artist": "Brad Paisley",
+      "searched_title": "Wrapped Around",
+      "missing": false,
+      "actual_artist": "Brad Paisley",
+      "actual_title": "Wrapped Around",
+      "lyrics_path": "brad-paisley\\_singles\\wrapped-around.txt"
+    },
+    {
+      "rank": 30,
+      "searched_artist": "George Strait",
+      "searched_title": "Run",
+      "missing": false,
+      "actual_artist": "George Strait",
+      "actual_title": "Run",
+      "lyrics_path": "george-strait\\_singles\\run.txt"
+    },
+    {
+      "rank": 31,
+      "searched_artist": "Alan Jackson",
+      "searched_title": "Work In Progress",
+      "missing": false,
+      "actual_artist": "Alan Jackson",
+      "actual_title": "Work In Progress",
+      "lyrics_path": "alan-jackson\\_singles\\work-in-progress.txt"
+    },
+    {
+      "rank": 32,
+      "searched_artist": "Phil Vassar",
+      "searched_title": "American Child",
+      "missing": false,
+      "actual_artist": "Phil Vassar",
+      "actual_title": "American Child",
+      "lyrics_path": "phil-vassar\\_singles\\american-child.txt"
+    },
+    {
+      "rank": 33,
+      "searched_artist": "Andy Griggs",
+      "searched_title": "Tonight I Wanna Be Your Man",
+      "missing": false,
+      "actual_artist": "Andy Griggs",
+      "actual_title": "Tonight I Wanna Be Your Man",
+      "lyrics_path": "andy-griggs\\_singles\\tonight-i-wanna-be-your-man.txt"
+    },
+    {
+      "rank": 34,
+      "searched_artist": "Kellie Coffey",
+      "searched_title": "When You Lie Next To Me",
+      "missing": false,
+      "actual_artist": "Kellie Coffey",
+      "actual_title": "When You Lie Next to Me",
+      "lyrics_path": "kellie-coffey\\_singles\\when-you-lie-next-to-me.txt"
+    },
+    {
+      "rank": 35,
+      "searched_artist": "Dixie Chicks",
+      "searched_title": "Long Time Gone",
+      "missing": false,
+      "actual_artist": "The Chicks",
+      "actual_title": "Long Time Gone",
+      "lyrics_path": "the-chicks\\_singles\\long-time-gone.txt"
+    },
+    {
+      "rank": 36,
+      "searched_artist": "Tim McGraw",
+      "searched_title": "Unbroken",
+      "missing": false,
+      "actual_artist": "Tim McGraw",
+      "actual_title": "Unbroken",
+      "lyrics_path": "tim-mcgraw\\_singles\\unbroken.txt"
+    },
+    {
+      "rank": 37,
+      "searched_artist": "Montgomery Gentry",
+      "searched_title": "My Town",
+      "missing": false,
+      "actual_artist": "Montgomery Gentry",
+      "actual_title": "My Town",
+      "lyrics_path": "montgomery-gentry\\_singles\\my-town.txt"
+    },
+    {
+      "rank": 38,
+      "searched_artist": "Aaron Tippin",
+      "searched_title": "Where The Stars And Stripes And The Eagle Fly",
+      "missing": false,
+      "actual_artist": "Aaron Tippin",
+      "actual_title": "Where the Stars and Stripes and the Eagle Fly",
+      "lyrics_path": "aaron-tippin\\_singles\\where-the-stars-and-stripes-and-the-eagle-fly.txt"
+    },
+    {
+      "rank": 39,
+      "searched_artist": "Carolyn Dawn Johnson",
+      "searched_title": "I Don't Want You To Go",
+      "missing": false,
+      "actual_artist": "Carolyn Dawn Johnson",
+      "actual_title": "I Don\u2019t Want You To Go",
+      "lyrics_path": "carolyn-dawn-johnson\\_singles\\i-dont-want-you-to-go.txt"
+    },
+    {
+      "rank": 40,
+      "searched_artist": "Toby Keith",
+      "searched_title": "I Wanna Talk About Me",
+      "missing": false,
+      "actual_artist": "Toby Keith",
+      "actual_title": "I Wanna Talk About Me",
+      "lyrics_path": "toby-keith\\_singles\\i-wanna-talk-about-me.txt"
+    },
+    {
+      "rank": 41,
+      "searched_artist": "Rascal Flatts",
+      "searched_title": "These Days",
+      "missing": false,
+      "actual_artist": "Rascal Flatts",
+      "actual_title": "These Days",
+      "lyrics_path": "rascal-flatts\\_singles\\these-days.txt"
+    },
+    {
+      "rank": 42,
+      "searched_artist": "Dixie Chicks",
+      "searched_title": "Some Days You Gotta Dance",
+      "missing": false,
+      "actual_artist": "The Chicks",
+      "actual_title": "Some Days You Gotta Dance",
+      "lyrics_path": "the-chicks\\_singles\\some-days-you-gotta-dance.txt"
+    },
+    {
+      "rank": 43,
+      "searched_artist": "Garth Brooks",
+      "searched_title": "Wrapped Up In You",
+      "missing": false,
+      "actual_artist": "Garth Brooks",
+      "actual_title": "Wrapped Up In You",
+      "lyrics_path": "garth-brooks\\_singles\\wrapped-up-in-you.txt"
+    },
+    {
+      "rank": 44,
+      "searched_artist": "Brooks & Dunn",
+      "searched_title": "My Heart Is Lost To You",
+      "missing": false,
+      "actual_artist": "Brooks & Dunn",
+      "actual_title": "My Heart Is Lost to You",
+      "lyrics_path": "brooks--dunn\\_singles\\my-heart-is-lost-to-you.txt"
+    },
+    {
+      "rank": 45,
+      "searched_artist": "Travis Tritt",
+      "searched_title": "Modern Day Bonnie And Clyde",
+      "missing": false,
+      "actual_artist": "Travis Tritt",
+      "actual_title": "Modern Day Bonnie and Clyde",
+      "lyrics_path": "travis-tritt\\_singles\\modern-day-bonnie-and-clyde.txt"
+    },
+    {
+      "rank": 46,
+      "searched_artist": "Mark Chesnutt",
+      "searched_title": "She Was",
+      "missing": false,
+      "actual_artist": "Mark Chesnutt",
+      "actual_title": "She Was",
+      "lyrics_path": "mark-chesnutt\\_singles\\she-was.txt"
+    },
+    {
+      "rank": 47,
+      "searched_artist": "Rebecca Lynn Howard",
+      "searched_title": "Forgive",
+      "missing": false,
+      "actual_artist": "Rebecca Lynn Howard",
+      "actual_title": "Forgive",
+      "lyrics_path": "rebecca-lynn-howard\\_singles\\forgive.txt"
+    },
+    {
+      "rank": 48,
+      "searched_artist": "Dixie Chicks",
+      "searched_title": "Landslide",
+      "missing": false,
+      "actual_artist": "The Chicks",
+      "actual_title": "Landslide",
+      "lyrics_path": "the-chicks\\_singles\\landslide.txt"
+    },
+    {
+      "rank": 49,
+      "searched_artist": "Blake Shelton",
+      "searched_title": "Ol' Red",
+      "missing": false,
+      "actual_artist": "Blake Shelton",
+      "actual_title": "Ol\u2019 Red",
+      "lyrics_path": "blake-shelton\\_singles\\ol-red.txt"
+    },
+    {
+      "rank": 50,
+      "searched_artist": "Trace Adkins",
+      "searched_title": "I'm Tryin'",
+      "missing": false,
+      "actual_artist": "Trace Adkins",
+      "actual_title": "I\u2019m Tryin\u2019",
+      "lyrics_path": "trace-adkins\\_singles\\im-tryin.txt"
+    },
+    {
+      "rank": 51,
+      "searched_artist": "Joe Diffie",
+      "searched_title": "In Another World",
+      "missing": false,
+      "actual_artist": "Joe Diffie",
+      "actual_title": "In Another World",
+      "lyrics_path": "joe-diffie\\_singles\\in-another-world.txt"
+    },
+    {
+      "rank": 52,
+      "searched_artist": "Trick Pony",
+      "searched_title": "Just What I Do",
+      "missing": false,
+      "actual_artist": "Trick Pony",
+      "actual_title": "Just What I Do",
+      "lyrics_path": "trick-pony\\_singles\\just-what-i-do.txt"
+    },
+    {
+      "rank": 53,
+      "searched_artist": "Brad Martin",
+      "searched_title": "Before I Knew Better",
+      "missing": false,
+      "actual_artist": "Brad Martin",
+      "actual_title": "Before I Knew Better",
+      "lyrics_path": "brad-martin\\_singles\\before-i-knew-better.txt"
+    },
+    {
+      "rank": 54,
+      "searched_artist": "Toby Keith",
+      "searched_title": "Who's Your Daddy?",
+      "missing": false,
+      "actual_artist": "Toby Keith",
+      "actual_title": "Who\u2019s Your Daddy?",
+      "lyrics_path": "toby-keith\\_singles\\whos-your-daddy.txt"
+    },
+    {
+      "rank": 55,
+      "searched_artist": "George Strait",
+      "searched_title": "She'll Leave You With A Smile",
+      "missing": false,
+      "actual_artist": "George Strait",
+      "actual_title": "She\u2019ll Leave You with a Smile",
+      "lyrics_path": "george-strait\\_singles\\shell-leave-you-with-a-smile.txt"
+    },
+    {
+      "rank": 56,
+      "searched_artist": "Trace Adkins",
+      "searched_title": "Help Me Understand",
+      "missing": false,
+      "actual_artist": "Trace Adkins",
+      "actual_title": "Help Me Understand",
+      "lyrics_path": "trace-adkins\\_singles\\help-me-understand.txt"
+    },
+    {
+      "rank": 57,
+      "searched_artist": "David Ball",
+      "searched_title": "Riding With Private Malone",
+      "missing": false,
+      "actual_artist": "David Ball",
+      "actual_title": "Riding with Private Malone",
+      "lyrics_path": "david-ball\\_singles\\riding-with-private-malone.txt"
+    },
+    {
+      "rank": 58,
+      "searched_artist": "Tracy Byrd",
+      "searched_title": "Just Let Me Be In Love",
+      "missing": false,
+      "actual_artist": "Tracy Byrd",
+      "actual_title": "Just Let Me Be In Love",
+      "lyrics_path": "tracy-byrd\\_singles\\just-let-me-be-in-love.txt"
+    },
+    {
+      "rank": 59,
+      "searched_artist": "Tammy Cochran",
+      "searched_title": "I Cry",
+      "missing": false,
+      "actual_artist": "Tammy Cochran",
+      "actual_title": "I Cry",
+      "lyrics_path": "tammy-cochran\\_singles\\i-cry.txt"
+    },
+    {
+      "rank": 60,
+      "searched_artist": "Kevin Denney",
+      "searched_title": "That's Just Jessie",
+      "missing": false,
+      "actual_artist": "Kevin Denney",
+      "actual_title": "That\u2019s Just Jessie",
+      "lyrics_path": "kevin-denney\\_singles\\thats-just-jessie.txt"
+    }
+  ]
+}

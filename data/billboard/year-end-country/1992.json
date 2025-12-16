@@ -1,0 +1,317 @@
+[
+  {
+    "rank": 1,
+    "title": "I Saw The Light",
+    "artist": "Wynonna"
+  },
+  {
+    "rank": 2,
+    "title": "Achy Breaky Heart",
+    "artist": "Billy Ray Cyrus"
+  },
+  {
+    "rank": 3,
+    "title": "Is There Life Out There",
+    "artist": "Reba McEntire"
+  },
+  {
+    "rank": 4,
+    "title": "What She's Doing Now",
+    "artist": "Garth Brooks"
+  },
+  {
+    "rank": 5,
+    "title": "We Tell Ourselves",
+    "artist": "Clint Black"
+  },
+  {
+    "rank": 6,
+    "title": "Dallas",
+    "artist": "Alan Jackson"
+  },
+  {
+    "rank": 8,
+    "title": "I Still Believe In You",
+    "artist": "Vince Gill"
+  },
+  {
+    "rank": 10,
+    "title": "Some Girls Do",
+    "artist": "Sawyer Brown"
+  },
+  {
+    "rank": 11,
+    "title": "I'll Think Of Something",
+    "artist": "Mark Chesnutt"
+  },
+  {
+    "rank": 12,
+    "title": "Love's Got A Hold On You",
+    "artist": "Alan Jackson"
+  },
+  {
+    "rank": 13,
+    "title": "Better Class Of Losers",
+    "artist": "Randy Travis"
+  },
+  {
+    "rank": 14,
+    "title": "A Jukebox With A Country Song",
+    "artist": "Doug Stone"
+  },
+  {
+    "rank": 16,
+    "title": "Straight Tequila Night",
+    "artist": "John Anderson"
+  },
+  {
+    "rank": 17,
+    "title": "Born Country",
+    "artist": "Alabama"
+  },
+  {
+    "rank": 18,
+    "title": "She Is His Only Need",
+    "artist": "Wynonna"
+  },
+  {
+    "rank": 19,
+    "title": "Take A Little Trip",
+    "artist": "Alabama"
+  },
+  {
+    "rank": 20,
+    "title": "Past The Point Of Rescue",
+    "artist": "Hal Ketchum"
+  },
+  {
+    "rank": 21,
+    "title": "Warning Labels",
+    "artist": "Doug Stone"
+  },
+  {
+    "rank": 22,
+    "title": "In This Life",
+    "artist": "Collin Raye"
+  },
+  {
+    "rank": 23,
+    "title": "Love, Me",
+    "artist": "Collin Raye"
+  },
+  {
+    "rank": 24,
+    "title": "Rock My Baby",
+    "artist": "Shenandoah"
+  },
+  {
+    "rank": 25,
+    "title": "When It Comes To You",
+    "artist": "John Anderson"
+  },
+  {
+    "rank": 26,
+    "title": "Except For Monday",
+    "artist": "Lorrie Morgan"
+  },
+  {
+    "rank": 27,
+    "title": "Midnight In Montgomery",
+    "artist": "Alan Jackson"
+  },
+  {
+    "rank": 28,
+    "title": "Sticks And Stones",
+    "artist": "Tracy Lawrence"
+  },
+  {
+    "rank": 29,
+    "title": "Maybe It Was Memphis",
+    "artist": "Pam Tillis"
+  },
+  {
+    "rank": 30,
+    "title": "Could've Been Me",
+    "artist": "Billy Ray Cyrus"
+  },
+  {
+    "rank": 31,
+    "title": "There Ain't Nothin' Wrong With The Radio",
+    "artist": "Aaron Tippin"
+  },
+  {
+    "rank": 32,
+    "title": "Take Your Memory With You",
+    "artist": "Vince Gill"
+  },
+  {
+    "rank": 33,
+    "title": "Old Flames Have New Names",
+    "artist": "Mark Chesnutt"
+  },
+  {
+    "rank": 34,
+    "title": "Norma Jean Riley",
+    "artist": "Diamond Rio"
+  },
+  {
+    "rank": 35,
+    "title": "Backroads",
+    "artist": "Ricky Van Shelton"
+  },
+  {
+    "rank": 36,
+    "title": "No One Else On Earth",
+    "artist": "Wynonna"
+  },
+  {
+    "rank": 38,
+    "title": "Today's Lonely Fool",
+    "artist": "Tracy Lawrence"
+  },
+  {
+    "rank": 39,
+    "title": "Every Second",
+    "artist": "Collin Raye"
+  },
+  {
+    "rank": 40,
+    "title": "Billy The Kid",
+    "artist": "Billy Dean"
+  },
+  {
+    "rank": 41,
+    "title": "Some Kind Of Trouble",
+    "artist": "Tanya Tucker"
+  },
+  {
+    "rank": 42,
+    "title": "If Your Heart Ain't Busy Tonight",
+    "artist": "Tanya Tucker"
+  },
+  {
+    "rank": 43,
+    "title": "The River",
+    "artist": "Garth Brooks"
+  },
+  {
+    "rank": 45,
+    "title": "Nothing Short Of Dying",
+    "artist": "Travis Tritt"
+  },
+  {
+    "rank": 46,
+    "title": "Ships That Don't Come In",
+    "artist": "Joe Diffie"
+  },
+  {
+    "rank": 47,
+    "title": "Is It Cold In Here",
+    "artist": "Joe Diffie"
+  },
+  {
+    "rank": 48,
+    "title": "Come In Out Of The Pain",
+    "artist": "Doug Stone"
+  },
+  {
+    "rank": 49,
+    "title": "The Woman Before Me",
+    "artist": "Trisha Yearwood"
+  },
+  {
+    "rank": 50,
+    "title": "So Much Like My Dad",
+    "artist": "George Strait"
+  },
+  {
+    "rank": 51,
+    "title": "The Dirt Road",
+    "artist": "Sawyer Brown"
+  },
+  {
+    "rank": 52,
+    "title": "Gone As A Girl Can Get",
+    "artist": "George Strait"
+  },
+  {
+    "rank": 53,
+    "title": "If I Didn't Have You",
+    "artist": "Randy Travis"
+  },
+  {
+    "rank": 54,
+    "title": "The Tips Of My Fingers",
+    "artist": "Steve Wariner"
+  },
+  {
+    "rank": 56,
+    "title": "Only The Wind",
+    "artist": "Billy Dean"
+  },
+  {
+    "rank": 57,
+    "title": "Papa Loved Mama",
+    "artist": "Garth Brooks"
+  },
+  {
+    "rank": 58,
+    "title": "What Kind Of Fool Do You Think I Am",
+    "artist": "Lee Roy Parnell"
+  },
+  {
+    "rank": 59,
+    "title": "Seminole Wind",
+    "artist": "John Anderson"
+  },
+  {
+    "rank": 62,
+    "title": "Burn Me Down",
+    "artist": "Marty Stuart"
+  },
+  {
+    "rank": 65,
+    "title": "Nowhere Bound",
+    "artist": "Diamond Rio"
+  },
+  {
+    "rank": 67,
+    "title": "Turn That Radio On",
+    "artist": "Ronnie Milsap"
+  },
+  {
+    "rank": 68,
+    "title": "You Can Depend On Me",
+    "artist": "Restless Heart"
+  },
+  {
+    "rank": 69,
+    "title": "Wrong Side Of Memphis",
+    "artist": "Trisha Yearwood"
+  },
+  {
+    "rank": 71,
+    "title": "Aces",
+    "artist": "Suzy Bogguss"
+  },
+  {
+    "rank": 72,
+    "title": "Jesus And Mama",
+    "artist": "Confederate Railroad"
+  },
+  {
+    "rank": 73,
+    "title": "It Only Hurts When I Cry",
+    "artist": "Dwight Yoakam"
+  },
+  {
+    "rank": 74,
+    "title": "A Woman Loves",
+    "artist": "Steve Wariner"
+  },
+  {
+    "rank": 75,
+    "title": "That's What I Like About You",
+    "artist": "Trisha Yearwood"
+  }
+]

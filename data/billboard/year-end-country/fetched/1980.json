@@ -1,0 +1,377 @@
+{
+  "year": 1980,
+  "chart": "year-end-country",
+  "total_songs": 41,
+  "fetched": 41,
+  "songs": [
+    {
+      "rank": 3,
+      "searched_artist": "George Jones",
+      "searched_title": "He Stopped Loving Her Today",
+      "missing": false,
+      "actual_artist": "George Jones",
+      "actual_title": "He Stopped Loving Her Today",
+      "lyrics_path": "george-jones\\_singles\\he-stopped-loving-her-today.txt"
+    },
+    {
+      "rank": 5,
+      "searched_artist": "Alabama",
+      "searched_title": "Tennessee River",
+      "missing": false,
+      "actual_artist": "Alabama",
+      "actual_title": "Tennessee River",
+      "lyrics_path": "alabama\\_singles\\tennessee-river.txt"
+    },
+    {
+      "rank": 7,
+      "searched_artist": "Mickey Gilley",
+      "searched_title": "True Love Ways",
+      "missing": false,
+      "actual_artist": "Mickey Gilley",
+      "actual_title": "True Love Ways",
+      "lyrics_path": "mickey-gilley\\_singles\\true-love-ways.txt"
+    },
+    {
+      "rank": 8,
+      "searched_artist": "Kenny Rogers",
+      "searched_title": "Coward Of The County",
+      "missing": false,
+      "actual_artist": "Kenny Rogers",
+      "actual_title": "Coward of the County",
+      "lyrics_path": "kenny-rogers\\_singles\\coward-of-the-county.txt"
+    },
+    {
+      "rank": 9,
+      "searched_artist": "Ronnie Milsap",
+      "searched_title": "Cowboys And Clowns",
+      "missing": false,
+      "actual_artist": "Ronnie Milsap",
+      "actual_title": "Cowboys and Clowns",
+      "lyrics_path": "ronnie-milsap\\_singles\\cowboys-and-clowns.txt"
+    },
+    {
+      "rank": 10,
+      "searched_artist": "Mickey Gilley",
+      "searched_title": "Stand By Me",
+      "missing": false,
+      "actual_artist": "Mickey Gilley",
+      "actual_title": "Stand By Me",
+      "lyrics_path": "mickey-gilley\\_singles\\stand-by-me.txt"
+    },
+    {
+      "rank": 11,
+      "searched_artist": "The Oak Ridge Boys",
+      "searched_title": "Trying To Love Two Women",
+      "missing": false,
+      "actual_artist": "The Oak Ridge Boys",
+      "actual_title": "Trying to Love Two Women",
+      "lyrics_path": "the-oak-ridge-boys\\_singles\\trying-to-love-two-women.txt"
+    },
+    {
+      "rank": 12,
+      "searched_artist": "T.G. Sheppard",
+      "searched_title": "I'll Be Coming Back For More",
+      "missing": false,
+      "actual_artist": "T.G. Sheppard",
+      "actual_title": "I\u2019ll Be Coming Back For More",
+      "lyrics_path": "tg-sheppard\\_singles\\ill-be-coming-back-for-more.txt"
+    },
+    {
+      "rank": 13,
+      "searched_artist": "Willie Nelson",
+      "searched_title": "My Heroes Have Always Been Cowboys",
+      "missing": false,
+      "actual_artist": "Willie Nelson",
+      "actual_title": "My Heroes Have Always Been Cowboys",
+      "lyrics_path": "willie-nelson\\_singles\\my-heroes-have-always-been-cowboys.txt"
+    },
+    {
+      "rank": 14,
+      "searched_artist": "Johnny Lee",
+      "searched_title": "Lookin' For Love",
+      "missing": false,
+      "actual_artist": "Johnny Lee",
+      "actual_title": "Lookin\u2019 For Love",
+      "lyrics_path": "johnny-lee\\_singles\\lookin-for-love.txt"
+    },
+    {
+      "rank": 15,
+      "searched_artist": "Ronnie Milsap",
+      "searched_title": "Why Don't You Spend The Night",
+      "missing": false,
+      "actual_artist": "Ronnie Milsap",
+      "actual_title": "Why Don\u2019t You Spend the Night",
+      "lyrics_path": "ronnie-milsap\\_singles\\why-dont-you-spend-the-night.txt"
+    },
+    {
+      "rank": 16,
+      "searched_artist": "Don Williams",
+      "searched_title": "Love Me Over Again",
+      "missing": false,
+      "actual_artist": "Don Williams",
+      "actual_title": "Love Me Over Again",
+      "lyrics_path": "don-williams\\_singles\\love-me-over-again.txt"
+    },
+    {
+      "rank": 17,
+      "searched_artist": "Dottie West",
+      "searched_title": "A Lesson In Leavin'",
+      "missing": false,
+      "actual_artist": "Dottie West",
+      "actual_title": "A Lesson In Leavin\u2019",
+      "lyrics_path": "dottie-west\\_singles\\a-lesson-in-leavin.txt"
+    },
+    {
+      "rank": 18,
+      "searched_artist": "Eddie Rabbitt",
+      "searched_title": "Drivin' My Life Away",
+      "missing": false,
+      "actual_artist": "Eddie Rabbitt",
+      "actual_title": "Drivin\u2019 My Life Away",
+      "lyrics_path": "eddie-rabbitt\\_singles\\drivin-my-life-away.txt"
+    },
+    {
+      "rank": 19,
+      "searched_artist": "Waylon Jennings",
+      "searched_title": "I Ain't Living Long Like This",
+      "missing": false,
+      "actual_artist": "Waylon Jennings",
+      "actual_title": "I Ain\u2019t Living Long Like This",
+      "lyrics_path": "waylon-jennings\\_singles\\i-aint-living-long-like-this.txt"
+    },
+    {
+      "rank": 20,
+      "searched_artist": "Conway Twitty",
+      "searched_title": "Happy Birthday Darlin'",
+      "missing": false,
+      "actual_artist": "Conway Twitty",
+      "actual_title": "Happy Birthday Darlin\u2019",
+      "lyrics_path": "conway-twitty\\_singles\\happy-birthday-darlin.txt"
+    },
+    {
+      "rank": 21,
+      "searched_artist": "Emmylou Harris",
+      "searched_title": "Beneath Still Waters",
+      "missing": false,
+      "actual_artist": "Emmylou Harris",
+      "actual_title": "Beneath Still Waters",
+      "lyrics_path": "emmylou-harris\\_singles\\beneath-still-waters.txt"
+    },
+    {
+      "rank": 22,
+      "searched_artist": "Dolly Parton",
+      "searched_title": "Starting Over Again",
+      "missing": false,
+      "actual_artist": "Dolly Parton",
+      "actual_title": "Starting Over Again",
+      "lyrics_path": "dolly-parton\\_singles\\starting-over-again.txt"
+    },
+    {
+      "rank": 24,
+      "searched_artist": "Conway Twitty",
+      "searched_title": "I'd Love To Lay You Down",
+      "missing": false,
+      "actual_artist": "Conway Twitty",
+      "actual_title": "I\u2019d Love to Lay You Down",
+      "lyrics_path": "conway-twitty\\_singles\\id-love-to-lay-you-down.txt"
+    },
+    {
+      "rank": 26,
+      "searched_artist": "Eddie Rabbitt",
+      "searched_title": "Gone Too Far",
+      "missing": false,
+      "actual_artist": "Eddie Rabbitt",
+      "actual_title": "Gone Too Far",
+      "lyrics_path": "eddie-rabbitt\\_singles\\gone-too-far.txt"
+    },
+    {
+      "rank": 27,
+      "searched_artist": "Waylon Jennings",
+      "searched_title": "Come With Me",
+      "missing": false,
+      "actual_artist": "Waylon Jennings",
+      "actual_title": "Come With Me",
+      "lyrics_path": "waylon-jennings\\_singles\\come-with-me.txt"
+    },
+    {
+      "rank": 28,
+      "searched_artist": "Crystal Gayle",
+      "searched_title": "It's Like We Never Said Goodbye",
+      "missing": false,
+      "actual_artist": "Crystal Gayle",
+      "actual_title": "It\u2019s Like We Never Said Goodbye",
+      "lyrics_path": "crystal-gayle\\_singles\\its-like-we-never-said-goodbye.txt"
+    },
+    {
+      "rank": 29,
+      "searched_artist": "Debby Boone",
+      "searched_title": "Are You On The Road To Lovin' Me Again",
+      "missing": false,
+      "actual_artist": "Debby Boone",
+      "actual_title": "Are You on the Road to Lovin\u2019 Me Again",
+      "lyrics_path": "debby-boone\\_singles\\are-you-on-the-road-to-lovin-me-again.txt"
+    },
+    {
+      "rank": 30,
+      "searched_artist": "Don Williams",
+      "searched_title": "Good Ole Boys Like Me",
+      "missing": false,
+      "actual_artist": "Don Williams",
+      "actual_title": "Good Ole Boys Like Me",
+      "lyrics_path": "don-williams\\_singles\\good-ole-boys-like-me.txt"
+    },
+    {
+      "rank": 31,
+      "searched_artist": "Barbara Mandrell",
+      "searched_title": "Years",
+      "missing": false,
+      "actual_artist": "Barbara Mandrell",
+      "actual_title": "Years",
+      "lyrics_path": "barbara-mandrell\\_singles\\years.txt"
+    },
+    {
+      "rank": 32,
+      "searched_artist": "John Conlee",
+      "searched_title": "Friday Night Blues",
+      "missing": false,
+      "actual_artist": "John Conlee",
+      "actual_title": "Friday Night Blues",
+      "lyrics_path": "john-conlee\\_singles\\friday-night-blues.txt"
+    },
+    {
+      "rank": 33,
+      "searched_artist": "Porter Wagoner And Dolly Parton",
+      "searched_title": "Making Plans",
+      "missing": false,
+      "actual_artist": "Porter Wagoner",
+      "actual_title": "Making Plans",
+      "lyrics_path": "porter-wagoner\\_singles\\making-plans.txt"
+    },
+    {
+      "rank": 34,
+      "searched_artist": "Charley Pride",
+      "searched_title": "You Win Again",
+      "missing": false,
+      "actual_artist": "Charley Pride",
+      "actual_title": "You Win Again",
+      "lyrics_path": "charley-pride\\_singles\\you-win-again.txt"
+    },
+    {
+      "rank": 35,
+      "searched_artist": "Barbara Mandrell",
+      "searched_title": "Crackers",
+      "missing": false,
+      "actual_artist": "Barbara Mandrell",
+      "actual_title": "Crackers",
+      "lyrics_path": "barbara-mandrell\\_singles\\crackers.txt"
+    },
+    {
+      "rank": 36,
+      "searched_artist": "Anne Murray",
+      "searched_title": "Broken Hearted Me",
+      "missing": false,
+      "actual_artist": "Anne Murray",
+      "actual_title": "Broken Hearted Me",
+      "lyrics_path": "anne-murray\\_singles\\broken-hearted-me.txt"
+    },
+    {
+      "rank": 37,
+      "searched_artist": "Jacky Ward",
+      "searched_title": "Save Your Heart For Me",
+      "missing": false,
+      "actual_artist": "Jacky Ward",
+      "actual_title": "Save Your Heart For Me",
+      "lyrics_path": "jacky-ward\\_singles\\save-your-heart-for-me.txt"
+    },
+    {
+      "rank": 38,
+      "searched_artist": "Moe Bandy",
+      "searched_title": "I Cheated Me Right Out Of You",
+      "missing": false,
+      "actual_artist": "Moe Bandy",
+      "actual_title": "I Cheated Me Right Out Of You",
+      "lyrics_path": "moe-bandy\\_singles\\i-cheated-me-right-out-of-you.txt"
+    },
+    {
+      "rank": 39,
+      "searched_artist": "T.G. Sheppard",
+      "searched_title": "Smooth Sailin'",
+      "missing": false,
+      "actual_artist": "T.G. Sheppard",
+      "actual_title": "Smooth Sailin\u2019",
+      "lyrics_path": "tg-sheppard\\_singles\\smooth-sailin.txt"
+    },
+    {
+      "rank": 40,
+      "searched_artist": "Charley Pride",
+      "searched_title": "Honky Tonk Blues",
+      "missing": false,
+      "actual_artist": "Charley Pride",
+      "actual_title": "Honky Tonk Blues",
+      "lyrics_path": "charley-pride\\_singles\\honky-tonk-blues.txt"
+    },
+    {
+      "rank": 41,
+      "searched_artist": "Anne Murray",
+      "searched_title": "Daydream Believer",
+      "missing": false,
+      "actual_artist": "Anne Murray",
+      "actual_title": "Daydream Believer",
+      "lyrics_path": "anne-murray\\_singles\\daydream-believer.txt"
+    },
+    {
+      "rank": 42,
+      "searched_artist": "Leon Everette",
+      "searched_title": "Over",
+      "missing": false,
+      "actual_artist": "Leon Everette",
+      "actual_title": "Over",
+      "lyrics_path": "leon-everette\\_singles\\over.txt"
+    },
+    {
+      "rank": 44,
+      "searched_artist": "Merle Haggard",
+      "searched_title": "The Way I Am",
+      "missing": false,
+      "actual_artist": "Merle Haggard",
+      "actual_title": "The Way I Am",
+      "lyrics_path": "merle-haggard\\_singles\\the-way-i-am.txt"
+    },
+    {
+      "rank": 45,
+      "searched_artist": "Gene Watson",
+      "searched_title": "Nothing Sure Looked Good On You",
+      "missing": false,
+      "actual_artist": "Gene Watson",
+      "actual_title": "Nothing Sure Looked Good On You",
+      "lyrics_path": "gene-watson\\_singles\\nothing-sure-looked-good-on-you.txt"
+    },
+    {
+      "rank": 46,
+      "searched_artist": "Jeanne Pruett",
+      "searched_title": "Temporarily Yours",
+      "missing": false,
+      "actual_artist": "Jeanne Pruett",
+      "actual_title": "Temporarily Yours",
+      "lyrics_path": "jeanne-pruett\\_singles\\temporarily-yours.txt"
+    },
+    {
+      "rank": 49,
+      "searched_artist": "Jeanne Pruett",
+      "searched_title": "Back To Back",
+      "missing": false,
+      "actual_artist": "Jeanne Pruett",
+      "actual_title": "Back To Back",
+      "lyrics_path": "jeanne-pruett\\_singles\\back-to-back.txt"
+    },
+    {
+      "rank": 50,
+      "searched_artist": "Charley Pride",
+      "searched_title": "Missin' You",
+      "missing": false,
+      "actual_artist": "Charley Pride",
+      "actual_title": "Missin\u2019 You",
+      "lyrics_path": "charley-pride\\_singles\\missin-you.txt"
+    }
+  ]
+}

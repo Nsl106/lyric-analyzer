@@ -1,0 +1,502 @@
+[
+  {
+    "rank": 1,
+    "title": "A Bar Song (Tipsy)",
+    "artist": "Shaboozey"
+  },
+  {
+    "rank": 2,
+    "title": "I Had Some Help",
+    "artist": "Post Malone Featuring Morgan Wallen"
+  },
+  {
+    "rank": 3,
+    "title": "I Remember Everything",
+    "artist": "Zach Bryan Featuring Kacey Musgraves"
+  },
+  {
+    "rank": 4,
+    "title": "Austin",
+    "artist": "Dasha"
+  },
+  {
+    "rank": 5,
+    "title": "Last Night",
+    "artist": "Morgan Wallen"
+  },
+  {
+    "rank": 6,
+    "title": "Fast Car",
+    "artist": "Luke Combs"
+  },
+  {
+    "rank": 7,
+    "title": "Thinkin' Bout Me",
+    "artist": "Morgan Wallen"
+  },
+  {
+    "rank": 8,
+    "title": "Cowgirls",
+    "artist": "Morgan Wallen Featuring ERNEST"
+  },
+  {
+    "rank": 9,
+    "title": "Pink Skies",
+    "artist": "Zach Bryan"
+  },
+  {
+    "rank": 10,
+    "title": "Texas Hold 'Em",
+    "artist": "Beyonce"
+  },
+  {
+    "rank": 11,
+    "title": "Miles On It",
+    "artist": "Marshmello & Kane Brown"
+  },
+  {
+    "rank": 12,
+    "title": "Wild Ones",
+    "artist": "Jessie Murph & Jelly Roll"
+  },
+  {
+    "rank": 13,
+    "title": "Ain't No Love In Oklahoma",
+    "artist": "Luke Combs"
+  },
+  {
+    "rank": 14,
+    "title": "Where The Wild Things Are",
+    "artist": "Luke Combs"
+  },
+  {
+    "rank": 15,
+    "title": "Lies Lies Lies",
+    "artist": "Morgan Wallen"
+  },
+  {
+    "rank": 16,
+    "title": "Pretty Little Poison",
+    "artist": "Warren Zeiders"
+  },
+  {
+    "rank": 17,
+    "title": "Dirt Cheap",
+    "artist": "Cody Johnson"
+  },
+  {
+    "rank": 18,
+    "title": "Think I'm In Love With You",
+    "artist": "Chris Stapleton"
+  },
+  {
+    "rank": 19,
+    "title": "Bulletproof",
+    "artist": "Nate Smith"
+  },
+  {
+    "rank": 20,
+    "title": "Truck Bed",
+    "artist": "HARDY"
+  },
+  {
+    "rank": 21,
+    "title": "I Am Not Okay",
+    "artist": "Jelly Roll"
+  },
+  {
+    "rank": 22,
+    "title": "Pour Me A Drink",
+    "artist": "Post Malone Featuring Blake Shelton"
+  },
+  {
+    "rank": 23,
+    "title": "White Horse",
+    "artist": "Chris Stapleton"
+  },
+  {
+    "rank": 24,
+    "title": "Burn It Down",
+    "artist": "Parker McCollum"
+  },
+  {
+    "rank": 25,
+    "title": "High Road",
+    "artist": "Koe Wetzel & Jessie Murph"
+  },
+  {
+    "rank": 26,
+    "title": "Need A Favor",
+    "artist": "Jelly Roll"
+  },
+  {
+    "rank": 27,
+    "title": "We Ride",
+    "artist": "Bryan Martin"
+  },
+  {
+    "rank": 28,
+    "title": "Wind Up Missin' You",
+    "artist": "Tucker Wetmore"
+  },
+  {
+    "rank": 29,
+    "title": "The Painter",
+    "artist": "Cody Johnson"
+  },
+  {
+    "rank": 30,
+    "title": "28",
+    "artist": "Zach Bryan"
+  },
+  {
+    "rank": 31,
+    "title": "We Don't Fight Anymore",
+    "artist": "Carly Pearce Featuring Chris Stapleton"
+  },
+  {
+    "rank": 32,
+    "title": "World On Fire",
+    "artist": "Nate Smith"
+  },
+  {
+    "rank": 33,
+    "title": "Save Me",
+    "artist": "Jelly Roll With Lainey Wilson"
+  },
+  {
+    "rank": 34,
+    "title": "Whiskey Whiskey",
+    "artist": "Moneybagg Yo Featuring Morgan Wallen"
+  },
+  {
+    "rank": 35,
+    "title": "Wildflowers And Wild Horses",
+    "artist": "Lainey Wilson"
+  },
+  {
+    "rank": 36,
+    "title": "You Look Like You Love Me",
+    "artist": "Ella Langley Featuring Riley Green"
+  },
+  {
+    "rank": 37,
+    "title": "Holy Smokes",
+    "artist": "Bailey Zimmerman"
+  },
+  {
+    "rank": 38,
+    "title": "Wondering Why",
+    "artist": "The Red Clay Strays"
+  },
+  {
+    "rank": 39,
+    "title": "23",
+    "artist": "Chayce Beckham"
+  },
+  {
+    "rank": 40,
+    "title": "Man Made A Bar",
+    "artist": "Morgan Wallen Featuring Eric Church"
+  },
+  {
+    "rank": 41,
+    "title": "Love You Again",
+    "artist": "Chase Matthew"
+  },
+  {
+    "rank": 42,
+    "title": "Spin You Around (1/24)",
+    "artist": "Morgan Wallen"
+  },
+  {
+    "rank": 43,
+    "title": "I Can Feel It",
+    "artist": "Kane Brown"
+  },
+  {
+    "rank": 44,
+    "title": "Chevrolet",
+    "artist": "Dustin Lynch Featuring Jelly Roll"
+  },
+  {
+    "rank": 45,
+    "title": "Halfway To Hell",
+    "artist": "Jelly Roll"
+  },
+  {
+    "rank": 46,
+    "title": "Beautiful As You",
+    "artist": "Thomas Rhett"
+  },
+  {
+    "rank": 47,
+    "title": "Hey Driver",
+    "artist": "Zach Bryan Featuring The War And Treaty"
+  },
+  {
+    "rank": 48,
+    "title": "I'm Not Pretty",
+    "artist": "Megan Moroney"
+  },
+  {
+    "rank": 49,
+    "title": "Coal",
+    "artist": "Dylan Gossett"
+  },
+  {
+    "rank": 50,
+    "title": "Sweet Dreams",
+    "artist": "Koe Wetzel"
+  },
+  {
+    "rank": 51,
+    "title": "Guy For That",
+    "artist": "Post Malone Featuring Luke Combs"
+  },
+  {
+    "rank": 52,
+    "title": "Back Then Right Now",
+    "artist": "Tyler Hubbard"
+  },
+  {
+    "rank": 53,
+    "title": "Wine Into Whiskey",
+    "artist": "Tucker Wetmore"
+  },
+  {
+    "rank": 54,
+    "title": "Tucson Too Late",
+    "artist": "Jordan Davis"
+  },
+  {
+    "rank": 55,
+    "title": "Mamaw's House",
+    "artist": "Thomas Rhett Featuring Morgan Wallen"
+  },
+  {
+    "rank": 56,
+    "title": "Love You, Miss You, Mean It",
+    "artist": "Luke Bryan"
+  },
+  {
+    "rank": 57,
+    "title": "In Your Love",
+    "artist": "Tyler Childers"
+  },
+  {
+    "rank": 58,
+    "title": "Devil You Know",
+    "artist": "Tyler Braden"
+  },
+  {
+    "rank": 59,
+    "title": "Different 'Round Here",
+    "artist": "Riley Green Featuring Luke Combs"
+  },
+  {
+    "rank": 60,
+    "title": "Where It Ends",
+    "artist": "Bailey Zimmerman"
+  },
+  {
+    "rank": 61,
+    "title": "Your Place",
+    "artist": "Ashley Cooke"
+  },
+  {
+    "rank": 62,
+    "title": "Take Her Home",
+    "artist": "Kenny Chesney"
+  },
+  {
+    "rank": 63,
+    "title": "Worst Way",
+    "artist": "Riley Green"
+  },
+  {
+    "rank": 64,
+    "title": "Let Your Boys Be Country",
+    "artist": "Jason Aldean"
+  },
+  {
+    "rank": 65,
+    "title": "Young Love & Saturday Nights",
+    "artist": "Chris Young"
+  },
+  {
+    "rank": 66,
+    "title": "Boys Back Home",
+    "artist": "Dylan Marlowe & Dylan Scott"
+  },
+  {
+    "rank": 67,
+    "title": "II Most Wanted",
+    "artist": "Beyonce & Miley Cyrus"
+  },
+  {
+    "rank": 68,
+    "title": "Save Me The Trouble",
+    "artist": "Dan + Shay"
+  },
+  {
+    "rank": 69,
+    "title": "Hang Tight Honey",
+    "artist": "Lainey Wilson"
+  },
+  {
+    "rank": 70,
+    "title": "What He'll Never Have",
+    "artist": "Dylan Scott"
+  },
+  {
+    "rank": 71,
+    "title": "Rich Men North Of Richmond",
+    "artist": "Oliver Anthony Music"
+  },
+  {
+    "rank": 72,
+    "title": "American Nights",
+    "artist": "Zach Bryan"
+  },
+  {
+    "rank": 73,
+    "title": "Mind On You",
+    "artist": "George Birge"
+  },
+  {
+    "rank": 74,
+    "title": "Try That In A Small Town",
+    "artist": "Jason Aldean"
+  },
+  {
+    "rank": 75,
+    "title": "Lonely Road",
+    "artist": "MGK & Jelly Roll"
+  },
+  {
+    "rank": 76,
+    "title": "No Caller ID",
+    "artist": "Megan Moroney"
+  },
+  {
+    "rank": 77,
+    "title": "Am I Okay?",
+    "artist": "Megan Moroney"
+  },
+  {
+    "rank": 78,
+    "title": "Nine Ball",
+    "artist": "Zach Bryan"
+  },
+  {
+    "rank": 79,
+    "title": "Smoke & A Light",
+    "artist": "Ole 60"
+  },
+  {
+    "rank": 80,
+    "title": "Outskirts",
+    "artist": "Sam Hunt"
+  },
+  {
+    "rank": 81,
+    "title": "Everything I Love",
+    "artist": "Morgan Wallen"
+  },
+  {
+    "rank": 82,
+    "title": "Creek Will Rise",
+    "artist": "Conner Smith"
+  },
+  {
+    "rank": 83,
+    "title": "Sarah's Place",
+    "artist": "Zach Bryan Featuring Noah Kahan"
+  },
+  {
+    "rank": 84,
+    "title": "Cab In A Solo",
+    "artist": "Scotty McCreery"
+  },
+  {
+    "rank": 85,
+    "title": "Relapse",
+    "artist": "Warren Zeiders"
+  },
+  {
+    "rank": 86,
+    "title": "16 Carriages",
+    "artist": "Beyonce"
+  },
+  {
+    "rank": 87,
+    "title": "Cowboys Cry Too",
+    "artist": "Kelsea Ballerini & Noah Kahan"
+  },
+  {
+    "rank": 88,
+    "title": "This Town's Been Too Good To Us",
+    "artist": "Dylan Scott"
+  },
+  {
+    "rank": 89,
+    "title": "Tourniquet",
+    "artist": "Zach Bryan"
+  },
+  {
+    "rank": 90,
+    "title": "All I Need Is You",
+    "artist": "Chris Janson"
+  },
+  {
+    "rank": 91,
+    "title": "Fearless (The Echo)",
+    "artist": "Jackson Dean"
+  },
+  {
+    "rank": 92,
+    "title": "Wanna Be Loved",
+    "artist": "The Red Clay Strays"
+  },
+  {
+    "rank": 93,
+    "title": "Losers",
+    "artist": "Post Malone Featuring Jelly Roll"
+  },
+  {
+    "rank": 94,
+    "title": "Jolene",
+    "artist": "Beyonce"
+  },
+  {
+    "rank": 95,
+    "title": "Indifferent",
+    "artist": "Megan Moroney"
+  },
+  {
+    "rank": 96,
+    "title": "Religiously",
+    "artist": "Bailey Zimmerman"
+  },
+  {
+    "rank": 97,
+    "title": "Remember Him That Way",
+    "artist": "Luke Combs"
+  },
+  {
+    "rank": 98,
+    "title": "Can't Have Mine",
+    "artist": "Dylan Scott"
+  },
+  {
+    "rank": 99,
+    "title": "She's Somebody's Daughter (Reimagined)",
+    "artist": "Drew Baldridge"
+  },
+  {
+    "rank": 100,
+    "title": "Watermelon Moonshine",
+    "artist": "Lainey Wilson"
+  }
+]

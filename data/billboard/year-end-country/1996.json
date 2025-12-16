@@ -1,0 +1,362 @@
+[
+  {
+    "rank": 2,
+    "title": "Blue Clear Sky",
+    "artist": "George Strait"
+  },
+  {
+    "rank": 3,
+    "title": "Time Marches On",
+    "artist": "Tracy Lawrence"
+  },
+  {
+    "rank": 4,
+    "title": "Daddy's Money",
+    "artist": "Ricochet"
+  },
+  {
+    "rank": 5,
+    "title": "She Never Lets It Go To Her Heart",
+    "artist": "Tim McGraw"
+  },
+  {
+    "rank": 6,
+    "title": "Living In A Moment",
+    "artist": "Ty Herndon"
+  },
+  {
+    "rank": 7,
+    "title": "No One Needs To Know",
+    "artist": "Shania Twain"
+  },
+  {
+    "rank": 8,
+    "title": "You Can Feel Bad",
+    "artist": "Patty Loveless"
+  },
+  {
+    "rank": 9,
+    "title": "Hypnotize The Moon",
+    "artist": "Clay Walker"
+  },
+  {
+    "rank": 10,
+    "title": "No News",
+    "artist": "Lonestar"
+  },
+  {
+    "rank": 11,
+    "title": "You Win My Love",
+    "artist": "Shania Twain"
+  },
+  {
+    "rank": 12,
+    "title": "(If You're Not In It For Love) I'm Outta Here!",
+    "artist": "Shania Twain"
+  },
+  {
+    "rank": 13,
+    "title": "So Much For Pretending",
+    "artist": "Bryan White"
+  },
+  {
+    "rank": 14,
+    "title": "It Matters To Me",
+    "artist": "Faith Hill"
+  },
+  {
+    "rank": 15,
+    "title": "I Think About You",
+    "artist": "Collin Raye"
+  },
+  {
+    "rank": 16,
+    "title": "Does That Blue Moon Ever Shine On You",
+    "artist": "Toby Keith"
+  },
+  {
+    "rank": 17,
+    "title": "Home",
+    "artist": "Alan Jackson"
+  },
+  {
+    "rank": 18,
+    "title": "Carried Away",
+    "artist": "George Strait"
+  },
+  {
+    "rank": 19,
+    "title": "Bigger Than The Beatles",
+    "artist": "Joe Diffie"
+  },
+  {
+    "rank": 20,
+    "title": "On A Good Night",
+    "artist": "Wade Hayes"
+  },
+  {
+    "rank": 21,
+    "title": "To Be Loved By You",
+    "artist": "Wynonna"
+  },
+  {
+    "rank": 22,
+    "title": "Believe Me Baby (I Lied)",
+    "artist": "Trisha Yearwood"
+  },
+  {
+    "rank": 23,
+    "title": "Someone Else's Dream",
+    "artist": "Faith Hill"
+  },
+  {
+    "rank": 24,
+    "title": "I'm Not Supposed To Love You Anymore",
+    "artist": "Bryan White"
+  },
+  {
+    "rank": 25,
+    "title": "You Gotta Love That",
+    "artist": "Neal McCoy"
+  },
+  {
+    "rank": 26,
+    "title": "Every Time I Get Around You",
+    "artist": "David Lee Murphy"
+  },
+  {
+    "rank": 27,
+    "title": "Walkin' Away",
+    "artist": "Diamond Rio"
+  },
+  {
+    "rank": 28,
+    "title": "Heart's Desire",
+    "artist": "Lee Roy Parnell"
+  },
+  {
+    "rank": 29,
+    "title": "I'll Try",
+    "artist": "Alan Jackson"
+  },
+  {
+    "rank": 30,
+    "title": "Guys Do It All The Time",
+    "artist": "Mindy McCready"
+  },
+  {
+    "rank": 31,
+    "title": "Wild Angels",
+    "artist": "Martina McBride"
+  },
+  {
+    "rank": 32,
+    "title": "Learning As You Go",
+    "artist": "Rick Trevino"
+  },
+  {
+    "rank": 33,
+    "title": "If You Loved Me",
+    "artist": "Tracy Lawrence"
+  },
+  {
+    "rank": 34,
+    "title": "Don't Get Me Started",
+    "artist": "Rhett Akins"
+  },
+  {
+    "rank": 35,
+    "title": "That's What I Get For Lovin' You",
+    "artist": "Diamond Rio"
+  },
+  {
+    "rank": 36,
+    "title": "I Don't Think I Will",
+    "artist": "James Bonamy"
+  },
+  {
+    "rank": 37,
+    "title": "Me And You",
+    "artist": "Kenny Chesney"
+  },
+  {
+    "rank": 38,
+    "title": "The Beaches Of Cheyenne",
+    "artist": "Garth Brooks"
+  },
+  {
+    "rank": 40,
+    "title": "Long As I Live",
+    "artist": "John Michael Montgomery"
+  },
+  {
+    "rank": 41,
+    "title": "It's What I Do",
+    "artist": "Billy Dean"
+  },
+  {
+    "rank": 42,
+    "title": "It Wouldn't Hurt To Have Wings",
+    "artist": "Mark Chesnutt"
+  },
+  {
+    "rank": 43,
+    "title": "I Know She Still Loves Me",
+    "artist": "George Strait"
+  },
+  {
+    "rank": 44,
+    "title": "Then You Can Tell Me Goodbye",
+    "artist": "Neal McCoy"
+  },
+  {
+    "rank": 45,
+    "title": "If I Were You",
+    "artist": "Terri Clark"
+  },
+  {
+    "rank": 47,
+    "title": "Cowboy Love",
+    "artist": "John Michael Montgomery"
+  },
+  {
+    "rank": 48,
+    "title": "Not That Different",
+    "artist": "Collin Raye"
+  },
+  {
+    "rank": 49,
+    "title": "Treat Her Right",
+    "artist": "Sawyer Brown"
+  },
+  {
+    "rank": 50,
+    "title": "Ten Thousand Angels",
+    "artist": "Mindy McCready"
+  },
+  {
+    "rank": 51,
+    "title": "Like The Rain",
+    "artist": "Clint Black"
+  },
+  {
+    "rank": 52,
+    "title": "Heads Carolina, Tails California",
+    "artist": "Jo Dee Messina"
+  },
+  {
+    "rank": 53,
+    "title": "More Than You'll Ever Know",
+    "artist": "Travis Tritt"
+  },
+  {
+    "rank": 54,
+    "title": "Too Much Fun",
+    "artist": "Daryle Singletary"
+  },
+  {
+    "rank": 55,
+    "title": "The Road You Leave Behind",
+    "artist": "David Lee Murphy"
+  },
+  {
+    "rank": 56,
+    "title": "Stars Over Texas",
+    "artist": "Tracy Lawrence"
+  },
+  {
+    "rank": 57,
+    "title": "Worlds Apart",
+    "artist": "Vince Gill"
+  },
+  {
+    "rank": 58,
+    "title": "My Heart Has A History",
+    "artist": "Paul Brandt"
+  },
+  {
+    "rank": 59,
+    "title": "I Do",
+    "artist": "Paul Brandt"
+  },
+  {
+    "rank": 60,
+    "title": "That Girl's Been Spyin' On Me",
+    "artist": "Billy Dean"
+  },
+  {
+    "rank": 61,
+    "title": "You Can't Lose Me",
+    "artist": "Faith Hill"
+  },
+  {
+    "rank": 62,
+    "title": "Meant To Be",
+    "artist": "Sammy Kershaw"
+  },
+  {
+    "rank": 63,
+    "title": "Lonely Too Long",
+    "artist": "Patty Loveless"
+  },
+  {
+    "rank": 64,
+    "title": "The Maker Said Take Her",
+    "artist": "Alabama"
+  },
+  {
+    "rank": 65,
+    "title": "When Boy Meets Girl",
+    "artist": "Terri Clark"
+  },
+  {
+    "rank": 66,
+    "title": "You're Not In Kansas Anymore",
+    "artist": "Jo Dee Messina"
+  },
+  {
+    "rank": 67,
+    "title": "Love Remains",
+    "artist": "Collin Raye"
+  },
+  {
+    "rank": 68,
+    "title": "All I Want Is A Life",
+    "artist": "Tim McGraw"
+  },
+  {
+    "rank": 69,
+    "title": "What Do I Know",
+    "artist": "Ricochet"
+  },
+  {
+    "rank": 70,
+    "title": "Runnin' Away With My Heart",
+    "artist": "Lonestar"
+  },
+  {
+    "rank": 71,
+    "title": "The River And The Highway",
+    "artist": "Pam Tillis"
+  },
+  {
+    "rank": 72,
+    "title": "Not Enough Hours In The Night",
+    "artist": "Doug Supernaw"
+  },
+  {
+    "rank": 73,
+    "title": "Like There Ain't No Yesterday",
+    "artist": "BlackHawk"
+  },
+  {
+    "rank": 74,
+    "title": "Can't Be Really Gone",
+    "artist": "Tim McGraw"
+  },
+  {
+    "rank": 75,
+    "title": "A Woman's Touch",
+    "artist": "Toby Keith"
+  }
+]

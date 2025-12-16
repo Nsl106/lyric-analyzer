@@ -1,0 +1,302 @@
+[
+  {
+    "rank": 1,
+    "title": "Love Like Crazy",
+    "artist": "Lee Brice"
+  },
+  {
+    "rank": 2,
+    "title": "Rain Is A Good Thing",
+    "artist": "Luke Bryan"
+  },
+  {
+    "rank": 3,
+    "title": "Why Don't We Just Dance",
+    "artist": "Josh Turner"
+  },
+  {
+    "rank": 4,
+    "title": "All Over Me",
+    "artist": "Josh Turner"
+  },
+  {
+    "rank": 5,
+    "title": "The Man I Want To Be",
+    "artist": "Chris Young"
+  },
+  {
+    "rank": 6,
+    "title": "Roll With It",
+    "artist": "Easton Corbin"
+  },
+  {
+    "rank": 7,
+    "title": "Gimmie That Girl",
+    "artist": "Joe Nichols"
+  },
+  {
+    "rank": 8,
+    "title": "All About Tonight",
+    "artist": "Blake Shelton"
+  },
+  {
+    "rank": 9,
+    "title": "Come Back Song",
+    "artist": "Darius Rucker"
+  },
+  {
+    "rank": 10,
+    "title": "She Won't Be Lonely Long",
+    "artist": "Clay Walker"
+  },
+  {
+    "rank": 11,
+    "title": "The House That Built Me",
+    "artist": "Miranda Lambert"
+  },
+  {
+    "rank": 12,
+    "title": "American Honey",
+    "artist": "Lady Antebellum"
+  },
+  {
+    "rank": 13,
+    "title": "'Til Summer Comes Around",
+    "artist": "Keith Urban"
+  },
+  {
+    "rank": 14,
+    "title": "Highway 20 Ride",
+    "artist": "Zac Brown Band"
+  },
+  {
+    "rank": 15,
+    "title": "Keep On Lovin' You",
+    "artist": "Steel Magnolia"
+  },
+  {
+    "rank": 16,
+    "title": "Crazy Town",
+    "artist": "Jason Aldean"
+  },
+  {
+    "rank": 17,
+    "title": "Our Kind Of Love",
+    "artist": "Lady Antebellum"
+  },
+  {
+    "rank": 18,
+    "title": "Water",
+    "artist": "Brad Paisley"
+  },
+  {
+    "rank": 19,
+    "title": "A Little More Country Than That",
+    "artist": "Easton Corbin"
+  },
+  {
+    "rank": 20,
+    "title": "Farmer's Daughter",
+    "artist": "Rodney Atkins"
+  },
+  {
+    "rank": 21,
+    "title": "I'm In",
+    "artist": "Keith Urban"
+  },
+  {
+    "rank": 22,
+    "title": "Lover, Lover",
+    "artist": "Jerrod Niemann"
+  },
+  {
+    "rank": 23,
+    "title": "Little White Church",
+    "artist": "Little Big Town"
+  },
+  {
+    "rank": 24,
+    "title": "History In The Making",
+    "artist": "Darius Rucker"
+  },
+  {
+    "rank": 25,
+    "title": "Temporary Home",
+    "artist": "Carrie Underwood"
+  },
+  {
+    "rank": 26,
+    "title": "That's How Country Boys Roll",
+    "artist": "Billy Currington"
+  },
+  {
+    "rank": 27,
+    "title": "Smile",
+    "artist": "Uncle Kracker"
+  },
+  {
+    "rank": 28,
+    "title": "Pretty Good At Drinkin' Beer",
+    "artist": "Billy Currington"
+  },
+  {
+    "rank": 29,
+    "title": "Undo It",
+    "artist": "Carrie Underwood"
+  },
+  {
+    "rank": 30,
+    "title": "Stuck Like Glue",
+    "artist": "Sugarland"
+  },
+  {
+    "rank": 31,
+    "title": "Hillbilly Bone",
+    "artist": "Blake Shelton Featuring Trace Adkins"
+  },
+  {
+    "rank": 32,
+    "title": "The Truth",
+    "artist": "Jason Aldean"
+  },
+  {
+    "rank": 33,
+    "title": "Ain't Back Yet",
+    "artist": "Kenny Chesney"
+  },
+  {
+    "rank": 34,
+    "title": "American Saturday Night",
+    "artist": "Brad Paisley"
+  },
+  {
+    "rank": 35,
+    "title": "The Boys of Fall",
+    "artist": "Kenny Chesney"
+  },
+  {
+    "rank": 36,
+    "title": "Free",
+    "artist": "Zac Brown Band"
+  },
+  {
+    "rank": 37,
+    "title": "If I Die Young",
+    "artist": "The Band Perry"
+  },
+  {
+    "rank": 38,
+    "title": "Mine",
+    "artist": "Taylor Swift"
+  },
+  {
+    "rank": 39,
+    "title": "Unstoppable",
+    "artist": "Rascal Flatts"
+  },
+  {
+    "rank": 40,
+    "title": "I Gotta Get To You",
+    "artist": "George Strait"
+  },
+  {
+    "rank": 41,
+    "title": "Backwoods",
+    "artist": "Justin Moore"
+  },
+  {
+    "rank": 42,
+    "title": "Consider Me Gone",
+    "artist": "Reba"
+  },
+  {
+    "rank": 43,
+    "title": "Southern Voice",
+    "artist": "Tim McGraw"
+  },
+  {
+    "rank": 44,
+    "title": "I Wanna Make You Close Your Eyes",
+    "artist": "Dierks Bentley"
+  },
+  {
+    "rank": 45,
+    "title": "White Liar",
+    "artist": "Miranda Lambert"
+  },
+  {
+    "rank": 46,
+    "title": "As She's Walking Away",
+    "artist": "Zac Brown Band Featuring Alan Jackson"
+  },
+  {
+    "rank": 47,
+    "title": "Why Wait",
+    "artist": "Rascal Flatts"
+  },
+  {
+    "rank": 48,
+    "title": "Need You Now",
+    "artist": "Lady Antebellum"
+  },
+  {
+    "rank": 49,
+    "title": "This Ain't Nothin'",
+    "artist": "Craig Morgan"
+  },
+  {
+    "rank": 50,
+    "title": "The Breath You Take",
+    "artist": "George Strait"
+  },
+  {
+    "rank": 51,
+    "title": "Anything Like Me",
+    "artist": "Brad Paisley"
+  },
+  {
+    "rank": 52,
+    "title": "Wrong Baby Wrong",
+    "artist": "Martina McBride"
+  },
+  {
+    "rank": 53,
+    "title": "I Keep On Loving You",
+    "artist": "Reba"
+  },
+  {
+    "rank": 54,
+    "title": "Hell On The Heart",
+    "artist": "Eric Church"
+  },
+  {
+    "rank": 55,
+    "title": "Fearless",
+    "artist": "Taylor Swift"
+  },
+  {
+    "rank": 56,
+    "title": "Turn On The Radio",
+    "artist": "Reba"
+  },
+  {
+    "rank": 57,
+    "title": "Cryin' For Me (Wayman's Song)",
+    "artist": "Toby Keith"
+  },
+  {
+    "rank": 58,
+    "title": "Way Out Here",
+    "artist": "Josh Thompson"
+  },
+  {
+    "rank": 59,
+    "title": "Do I",
+    "artist": "Luke Bryan"
+  },
+  {
+    "rank": 60,
+    "title": "How I Got To Be This Way",
+    "artist": "Justin Moore"
+  }
+]

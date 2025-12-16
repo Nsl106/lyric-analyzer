@@ -1,0 +1,326 @@
+{
+  "year": 1972,
+  "chart": "year-end-country",
+  "total_songs": 36,
+  "fetched": 33,
+  "songs": [
+    {
+      "rank": 3,
+      "searched_artist": "Faron Young",
+      "searched_title": "It's Four In The Morning",
+      "missing": false,
+      "actual_artist": "Faron Young",
+      "actual_title": "It\u2019s Four In The Morning",
+      "lyrics_path": "faron-young\\_singles\\its-four-in-the-morning.txt"
+    },
+    {
+      "rank": 4,
+      "searched_artist": "Charley Pride",
+      "searched_title": "It's Gonna Take A Little Bit Longer",
+      "missing": false,
+      "actual_artist": "Charley Pride",
+      "actual_title": "It\u2019s Gonna Take A Little Bit Longer",
+      "lyrics_path": "charley-pride\\_singles\\its-gonna-take-a-little-bit-longer.txt"
+    },
+    {
+      "rank": 5,
+      "searched_artist": "Jerry Wallace",
+      "searched_title": "If You Leave Me Tonight I'll Cry",
+      "missing": false,
+      "actual_artist": "Jerry Wallace",
+      "actual_title": "If You Leave Me Tonight I\u2019ll Cry",
+      "lyrics_path": "jerry-wallace\\_singles\\if-you-leave-me-tonight-ill-cry.txt"
+    },
+    {
+      "rank": 8,
+      "searched_artist": "Jerry Lee Lewis",
+      "searched_title": "Chantilly Lace/Think About It Darlin'",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 9,
+      "searched_artist": "Loretta Lynn",
+      "searched_title": "One's On The Way",
+      "missing": false,
+      "actual_artist": "Loretta Lynn",
+      "actual_title": "One\u2019s on the Way",
+      "lyrics_path": "loretta-lynn\\_singles\\ones-on-the-way.txt"
+    },
+    {
+      "rank": 10,
+      "searched_artist": "Don Gibson",
+      "searched_title": "Woman (Sensuous Woman)",
+      "missing": false,
+      "actual_artist": "Don Gibson",
+      "actual_title": "Woman (Sensuous Woman)",
+      "lyrics_path": "don-gibson\\_singles\\woman-sensuous-woman.txt"
+    },
+    {
+      "rank": 11,
+      "searched_artist": "Mel Tillis",
+      "searched_title": "I Ain't Never",
+      "missing": false,
+      "actual_artist": "Mel Tillis",
+      "actual_title": "I Ain\u2019t Never",
+      "lyrics_path": "mel-tillis\\_singles\\i-aint-never.txt"
+    },
+    {
+      "rank": 13,
+      "searched_artist": "Freddie Hart",
+      "searched_title": "Bless Your Heart",
+      "missing": false,
+      "actual_artist": "Freddie Hart",
+      "actual_title": "Bless Your Heart",
+      "lyrics_path": "freddie-hart\\_singles\\bless-your-heart.txt"
+    },
+    {
+      "rank": 14,
+      "searched_artist": "Conway Twitty",
+      "searched_title": "I Can't Stop Loving You",
+      "missing": false,
+      "actual_artist": "Conway Twitty",
+      "actual_title": "I Can\u2019t Stop Loving You",
+      "lyrics_path": "conway-twitty\\_singles\\i-cant-stop-loving-you.txt"
+    },
+    {
+      "rank": 15,
+      "searched_artist": "Donna Fargo",
+      "searched_title": "Funny Face",
+      "missing": false,
+      "actual_artist": "Donna Fargo",
+      "actual_title": "Funny Face",
+      "lyrics_path": "donna-fargo\\_singles\\funny-face.txt"
+    },
+    {
+      "rank": 16,
+      "searched_artist": "Sonny James",
+      "searched_title": "When The Snow Is On The Roses",
+      "missing": false,
+      "actual_artist": "Sonny James",
+      "actual_title": "When the Snow Is on the Roses",
+      "lyrics_path": "sonny-james\\_singles\\when-the-snow-is-on-the-roses.txt"
+    },
+    {
+      "rank": 17,
+      "searched_artist": "Conway Twitty",
+      "searched_title": "(Lost Her Love) On Our Last Date",
+      "missing": false,
+      "actual_artist": "Conway Twitty",
+      "actual_title": "(Lost Her Love) On Our Last Date",
+      "lyrics_path": "conway-twitty\\_singles\\lost-her-love-on-our-last-date.txt"
+    },
+    {
+      "rank": 20,
+      "searched_artist": "Waylon Jennings",
+      "searched_title": "Good Hearted Woman",
+      "missing": false,
+      "actual_artist": "Waylon Jennings",
+      "actual_title": "Good Hearted Woman",
+      "lyrics_path": "waylon-jennings\\_singles\\good-hearted-woman.txt"
+    },
+    {
+      "rank": 21,
+      "searched_artist": "Sonny James",
+      "searched_title": "Only Love Can Break A Heart",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 23,
+      "searched_artist": "Loretta Lynn",
+      "searched_title": "Here I Am Again",
+      "missing": false,
+      "actual_artist": "Loretta Lynn",
+      "actual_title": "Here I Am Again",
+      "lyrics_path": "loretta-lynn\\_singles\\here-i-am-again.txt"
+    },
+    {
+      "rank": 24,
+      "searched_artist": "Tanya Tucker",
+      "searched_title": "Delta Dawn",
+      "missing": false,
+      "actual_artist": "Tanya Tucker",
+      "actual_title": "Delta Dawn",
+      "lyrics_path": "tanya-tucker\\_singles\\delta-dawn.txt"
+    },
+    {
+      "rank": 25,
+      "searched_artist": "Lynn Anderson",
+      "searched_title": "Cry",
+      "missing": false,
+      "actual_artist": "Lynn Anderson",
+      "actual_title": "Cry",
+      "lyrics_path": "lynn-anderson\\_singles\\cry.txt"
+    },
+    {
+      "rank": 26,
+      "searched_artist": "Jerry Lee Lewis",
+      "searched_title": "Would You Take Another Chance On Me",
+      "missing": false,
+      "actual_artist": "Jerry Lee Lewis",
+      "actual_title": "Would You Take Another Chance on Me",
+      "lyrics_path": "jerry-lee-lewis\\_singles\\would-you-take-another-chance-on-me.txt"
+    },
+    {
+      "rank": 27,
+      "searched_artist": "Jerry Wallace",
+      "searched_title": "To Get To You",
+      "missing": false,
+      "actual_artist": "Jerry Wallace",
+      "actual_title": "To Get to You",
+      "lyrics_path": "jerry-wallace\\_singles\\to-get-to-you.txt"
+    },
+    {
+      "rank": 28,
+      "searched_artist": "Conway Twitty",
+      "searched_title": "I Can't See Me Without You",
+      "missing": false,
+      "actual_artist": "Conway Twitty",
+      "actual_title": "I Can\u2019t See Me Without You",
+      "lyrics_path": "conway-twitty\\_singles\\i-cant-see-me-without-you.txt"
+    },
+    {
+      "rank": 29,
+      "searched_artist": "Faron Young",
+      "searched_title": "This Little Girl Of Mine",
+      "missing": false,
+      "actual_artist": "Faron Young",
+      "actual_title": "This Little Girl Of Mine",
+      "lyrics_path": "faron-young\\_singles\\this-little-girl-of-mine.txt"
+    },
+    {
+      "rank": 30,
+      "searched_artist": "Tammy Wynette",
+      "searched_title": "Bedtime Story",
+      "missing": false,
+      "actual_artist": "Tammy Wynette",
+      "actual_title": "Bedtime Story",
+      "lyrics_path": "tammy-wynette\\_singles\\bedtime-story.txt"
+    },
+    {
+      "rank": 31,
+      "searched_artist": "Red Simpson",
+      "searched_title": "I'm A Truck",
+      "missing": false,
+      "actual_artist": "Red Simpson",
+      "actual_title": "I\u2019m A Truck",
+      "lyrics_path": "red-simpson\\_singles\\im-a-truck.txt"
+    },
+    {
+      "rank": 32,
+      "searched_artist": "Tommy Overstreet",
+      "searched_title": "Ann (Don't Go Runnin')",
+      "missing": false,
+      "actual_artist": "Tommy Overstreet",
+      "actual_title": "Ann (Don\u2019t Go Runnin\u2019)",
+      "lyrics_path": "tommy-overstreet\\_singles\\ann-dont-go-runnin.txt"
+    },
+    {
+      "rank": 34,
+      "searched_artist": "Mel Street",
+      "searched_title": "Borrowed Angel",
+      "missing": false,
+      "actual_artist": "Mel Street",
+      "actual_title": "Borrowed Angel",
+      "lyrics_path": "mel-street\\_singles\\borrowed-angel.txt"
+    },
+    {
+      "rank": 36,
+      "searched_artist": "Jim Reeves",
+      "searched_title": "Missing You",
+      "missing": false,
+      "actual_artist": "Jim Reeves",
+      "actual_title": "Missing You",
+      "lyrics_path": "jim-reeves\\_singles\\missing-you.txt"
+    },
+    {
+      "rank": 37,
+      "searched_artist": "Joe Stampley",
+      "searched_title": "If You Touch Me (You've Got To Love Me)",
+      "missing": false,
+      "actual_artist": "Joe Stampley",
+      "actual_title": "If You Touch Me (You\u2019ve Got to Love Me)",
+      "lyrics_path": "joe-stampley\\_singles\\if-you-touch-me-youve-got-to-love-me.txt"
+    },
+    {
+      "rank": 38,
+      "searched_artist": "Marty Robbins",
+      "searched_title": "The Best Part Of Living",
+      "missing": false,
+      "actual_artist": "Marty Robbins",
+      "actual_title": "The Best Part of Living",
+      "lyrics_path": "marty-robbins\\_singles\\the-best-part-of-living.txt"
+    },
+    {
+      "rank": 39,
+      "searched_artist": "Bob Luman",
+      "searched_title": "When You Say Love",
+      "missing": false,
+      "actual_artist": "Bob Luman",
+      "actual_title": "When You Say Love",
+      "lyrics_path": "bob-luman\\_singles\\when-you-say-love.txt"
+    },
+    {
+      "rank": 40,
+      "searched_artist": "Bill Anderson",
+      "searched_title": "All The Lonely Women In The World",
+      "missing": false,
+      "actual_artist": "Bill Anderson",
+      "actual_title": "All The Lonely Women In The World",
+      "lyrics_path": "bill-anderson\\_singles\\all-the-lonely-women-in-the-world.txt"
+    },
+    {
+      "rank": 41,
+      "searched_artist": "Cal Smith",
+      "searched_title": "I've Found Someone Of My Own",
+      "missing": false,
+      "actual_artist": "Cal Smith",
+      "actual_title": "I\u2019ve Found Someone Of My Own",
+      "lyrics_path": "cal-smith\\_singles\\ive-found-someone-of-my-own.txt"
+    },
+    {
+      "rank": 42,
+      "searched_artist": "Tammy Wynette",
+      "searched_title": "Reach Out Your Hand",
+      "missing": false,
+      "actual_artist": "Tammy Wynette",
+      "actual_title": "Reach Out Your Hand",
+      "lyrics_path": "tammy-wynette\\_singles\\reach-out-your-hand.txt"
+    },
+    {
+      "rank": 44,
+      "searched_artist": "Sammi Smith",
+      "searched_title": "I've Got To Have You",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 46,
+      "searched_artist": "Connie Smith",
+      "searched_title": "Just For What I Am",
+      "missing": false,
+      "actual_artist": "Connie Smith",
+      "actual_title": "Just For What I Am",
+      "lyrics_path": "connie-smith\\_singles\\just-for-what-i-am.txt"
+    },
+    {
+      "rank": 47,
+      "searched_artist": "Johnny Cash",
+      "searched_title": "Oney",
+      "missing": false,
+      "actual_artist": "Johnny Cash",
+      "actual_title": "Oney",
+      "lyrics_path": "johnny-cash\\_singles\\oney.txt"
+    },
+    {
+      "rank": 48,
+      "searched_artist": "Tom T. Hall",
+      "searched_title": "Me And Jesus",
+      "missing": false,
+      "actual_artist": "Tom T. Hall",
+      "actual_title": "Me and Jesus",
+      "lyrics_path": "tom-t-hall\\_singles\\me-and-jesus.txt"
+    }
+  ]
+}

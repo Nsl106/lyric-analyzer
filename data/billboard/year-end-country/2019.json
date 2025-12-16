@@ -1,0 +1,502 @@
+[
+  {
+    "rank": 1,
+    "title": "Whiskey Glasses",
+    "artist": "Morgan Wallen"
+  },
+  {
+    "rank": 2,
+    "title": "Speechless",
+    "artist": "Dan + Shay"
+  },
+  {
+    "rank": 3,
+    "title": "God's Country",
+    "artist": "Blake Shelton"
+  },
+  {
+    "rank": 4,
+    "title": "Beautiful Crazy",
+    "artist": "Luke Combs"
+  },
+  {
+    "rank": 5,
+    "title": "Beer Never Broke My Heart",
+    "artist": "Luke Combs"
+  },
+  {
+    "rank": 6,
+    "title": "The Git Up",
+    "artist": "Blanco Brown"
+  },
+  {
+    "rank": 7,
+    "title": "Tequila",
+    "artist": "Dan + Shay"
+  },
+  {
+    "rank": 8,
+    "title": "Rumor",
+    "artist": "Lee Brice"
+  },
+  {
+    "rank": 9,
+    "title": "Knockin' Boots",
+    "artist": "Luke Bryan"
+  },
+  {
+    "rank": 10,
+    "title": "Meant To Be",
+    "artist": "Bebe Rexha & Florida Georgia Line"
+  },
+  {
+    "rank": 11,
+    "title": "Look What God Gave Her",
+    "artist": "Thomas Rhett"
+  },
+  {
+    "rank": 12,
+    "title": "Talk You Out Of It",
+    "artist": "Florida Georgia Line"
+  },
+  {
+    "rank": 13,
+    "title": "Good As You",
+    "artist": "Kane Brown"
+  },
+  {
+    "rank": 14,
+    "title": "I Don't Know About You",
+    "artist": "Chris Lane"
+  },
+  {
+    "rank": 15,
+    "title": "All To Myself",
+    "artist": "Dan + Shay"
+  },
+  {
+    "rank": 16,
+    "title": "GIRL",
+    "artist": "Maren Morris"
+  },
+  {
+    "rank": 17,
+    "title": "Miss Me More",
+    "artist": "Kelsea Ballerini"
+  },
+  {
+    "rank": 18,
+    "title": "What Happens In A Small Town",
+    "artist": "Brantley Gilbert + Lindsay Ell"
+  },
+  {
+    "rank": 19,
+    "title": "Prayed For You",
+    "artist": "Matt Stell"
+  },
+  {
+    "rank": 20,
+    "title": "Eyes On You",
+    "artist": "Chase Rice"
+  },
+  {
+    "rank": 21,
+    "title": "One Thing Right",
+    "artist": "Marshmello & Kane Brown"
+  },
+  {
+    "rank": 22,
+    "title": "She Got The Best Of Me",
+    "artist": "Luke Combs"
+  },
+  {
+    "rank": 23,
+    "title": "Rearview Town",
+    "artist": "Jason Aldean"
+  },
+  {
+    "rank": 24,
+    "title": "Here Tonight",
+    "artist": "Brett Young"
+  },
+  {
+    "rank": 25,
+    "title": "The Bones",
+    "artist": "Maren Morris"
+  },
+  {
+    "rank": 26,
+    "title": "One Man Band",
+    "artist": "Old Dominion"
+  },
+  {
+    "rank": 27,
+    "title": "On My Way To You",
+    "artist": "Cody Johnson"
+  },
+  {
+    "rank": 28,
+    "title": "This Is It",
+    "artist": "Scotty McCreery"
+  },
+  {
+    "rank": 29,
+    "title": "Love You Too Late",
+    "artist": "Cole Swindell"
+  },
+  {
+    "rank": 30,
+    "title": "The Ones That Didn't Make It Back Home",
+    "artist": "Justin Moore"
+  },
+  {
+    "rank": 31,
+    "title": "Every Little Thing",
+    "artist": "Russell Dickerson"
+  },
+  {
+    "rank": 32,
+    "title": "Night Shift",
+    "artist": "Jon Pardi"
+  },
+  {
+    "rank": 33,
+    "title": "Girl Like You",
+    "artist": "Jason Aldean"
+  },
+  {
+    "rank": 34,
+    "title": "Good Vibes",
+    "artist": "Chris Janson"
+  },
+  {
+    "rank": 35,
+    "title": "Living",
+    "artist": "Dierks Bentley"
+  },
+  {
+    "rank": 36,
+    "title": "Make It Sweet",
+    "artist": "Old Dominion"
+  },
+  {
+    "rank": 37,
+    "title": "Some Of It",
+    "artist": "Eric Church"
+  },
+  {
+    "rank": 38,
+    "title": "Even Though I'm Leaving",
+    "artist": "Luke Combs"
+  },
+  {
+    "rank": 39,
+    "title": "What If I Never Get Over You",
+    "artist": "Lady Antebellum"
+  },
+  {
+    "rank": 40,
+    "title": "Millionaire",
+    "artist": "Chris Stapleton"
+  },
+  {
+    "rank": 41,
+    "title": "Southbound",
+    "artist": "Carrie Underwood"
+  },
+  {
+    "rank": 42,
+    "title": "Raised On Country",
+    "artist": "Chris Young"
+  },
+  {
+    "rank": 43,
+    "title": "We Were",
+    "artist": "Keith Urban"
+  },
+  {
+    "rank": 44,
+    "title": "Take It From Me",
+    "artist": "Jordan Davis"
+  },
+  {
+    "rank": 45,
+    "title": "Love Someone",
+    "artist": "Brett Eldredge"
+  },
+  {
+    "rank": 46,
+    "title": "10,000 Hours",
+    "artist": "Dan + Shay & Justin Bieber"
+  },
+  {
+    "rank": 47,
+    "title": "Best Shot",
+    "artist": "Jimmie Allen"
+  },
+  {
+    "rank": 48,
+    "title": "Down To The Honkytonk",
+    "artist": "Jake Owen"
+  },
+  {
+    "rank": 49,
+    "title": "Love Ain't",
+    "artist": "Eli Young Band"
+  },
+  {
+    "rank": 50,
+    "title": "Love Wins",
+    "artist": "Carrie Underwood"
+  },
+  {
+    "rank": 51,
+    "title": "Lose It",
+    "artist": "Kane Brown"
+  },
+  {
+    "rank": 52,
+    "title": "What Makes You Country",
+    "artist": "Luke Bryan"
+  },
+  {
+    "rank": 53,
+    "title": "There Was This Girl",
+    "artist": "Riley Green"
+  },
+  {
+    "rank": 54,
+    "title": "Tip Of My Tongue",
+    "artist": "Kenny Chesney"
+  },
+  {
+    "rank": 55,
+    "title": "Burning Man",
+    "artist": "Dierks Bentley Featuring Brothers Osborne"
+  },
+  {
+    "rank": 56,
+    "title": "Sixteen",
+    "artist": "Thomas Rhett"
+  },
+  {
+    "rank": 57,
+    "title": "Drunk Me",
+    "artist": "Mitchell Tenpenny"
+  },
+  {
+    "rank": 58,
+    "title": "Ridin' Roads",
+    "artist": "Dustin Lynch"
+  },
+  {
+    "rank": 59,
+    "title": "Buy My Own Drinks",
+    "artist": "Runaway June"
+  },
+  {
+    "rank": 60,
+    "title": "One That Got Away",
+    "artist": "Michael Ray"
+  },
+  {
+    "rank": 61,
+    "title": "Burn Out",
+    "artist": "Midland"
+  },
+  {
+    "rank": 62,
+    "title": "To A T",
+    "artist": "Ryan Hurd"
+  },
+  {
+    "rank": 63,
+    "title": "Rednecker",
+    "artist": "HARDY"
+  },
+  {
+    "rank": 64,
+    "title": "Heartache Medication",
+    "artist": "Jon Pardi"
+  },
+  {
+    "rank": 65,
+    "title": "Thought About You",
+    "artist": "Tim McGraw"
+  },
+  {
+    "rank": 66,
+    "title": "Remember You Young",
+    "artist": "Thomas Rhett"
+  },
+  {
+    "rank": 67,
+    "title": "Caught Up In The Country",
+    "artist": "Rodney Atkins Featuring The Fisk Jubilee Singers"
+  },
+  {
+    "rank": 68,
+    "title": "It All Comes Out In The Wash",
+    "artist": "Miranda Lambert"
+  },
+  {
+    "rank": 69,
+    "title": "Back To Life",
+    "artist": "Rascal Flatts"
+  },
+  {
+    "rank": 70,
+    "title": "Every Little Honky Tonk Bar",
+    "artist": "George Strait"
+  },
+  {
+    "rank": 71,
+    "title": "Dive Bar",
+    "artist": "Garth Brooks & Blake Shelton"
+  },
+  {
+    "rank": 72,
+    "title": "Good Girl",
+    "artist": "Dustin Lynch"
+  },
+  {
+    "rank": 73,
+    "title": "I Hope",
+    "artist": "Gabby Barrett"
+  },
+  {
+    "rank": 74,
+    "title": "Homesick",
+    "artist": "Kane Brown"
+  },
+  {
+    "rank": 75,
+    "title": "Heartless",
+    "artist": "Diplo Presents Thomas Wesley Featuring Morgan Wallen"
+  },
+  {
+    "rank": 76,
+    "title": "Make Me Want To",
+    "artist": "Jimmie Allen"
+  },
+  {
+    "rank": 77,
+    "title": "Nothing To Do Town",
+    "artist": "Dylan Scott"
+  },
+  {
+    "rank": 78,
+    "title": "Rainbow",
+    "artist": "Kacey Musgraves"
+  },
+  {
+    "rank": 79,
+    "title": "Someone I Used To Know",
+    "artist": "Zac Brown Band"
+  },
+  {
+    "rank": 80,
+    "title": "Mr. Lonely",
+    "artist": "Midland"
+  },
+  {
+    "rank": 81,
+    "title": "Last Shot",
+    "artist": "Kip Moore"
+  },
+  {
+    "rank": 82,
+    "title": "More Hearts Than Mine",
+    "artist": "Ingrid Andress"
+  },
+  {
+    "rank": 83,
+    "title": "Closer To You",
+    "artist": "Carly Pearce"
+  },
+  {
+    "rank": 84,
+    "title": "Hell Right",
+    "artist": "Blake Shelton Featuring Trace Adkins"
+  },
+  {
+    "rank": 85,
+    "title": "Day Drunk",
+    "artist": "Morgan Evans"
+  },
+  {
+    "rank": 86,
+    "title": "Slow Dance In A Parking Lot",
+    "artist": "Jordan Davis"
+  },
+  {
+    "rank": 87,
+    "title": "Somebody's Daughter",
+    "artist": "Tenille Townes"
+  },
+  {
+    "rank": 88,
+    "title": "homecoming queen?",
+    "artist": "Kelsea Ballerini"
+  },
+  {
+    "rank": 89,
+    "title": "The Difference",
+    "artist": "Tyler Rich"
+  },
+  {
+    "rank": 90,
+    "title": "Never Comin Down",
+    "artist": "Keith Urban"
+  },
+  {
+    "rank": 91,
+    "title": "I Wish Grandpas Never Died",
+    "artist": "Riley Green"
+  },
+  {
+    "rank": 92,
+    "title": "Catch",
+    "artist": "Brett Young"
+  },
+  {
+    "rank": 93,
+    "title": "We Back",
+    "artist": "Jason Aldean"
+  },
+  {
+    "rank": 94,
+    "title": "Turnin' Me On",
+    "artist": "Blake Shelton"
+  },
+  {
+    "rank": 95,
+    "title": "Neon Church",
+    "artist": "Tim McGraw"
+  },
+  {
+    "rank": 96,
+    "title": "Kinfolks",
+    "artist": "Sam Hunt"
+  },
+  {
+    "rank": 97,
+    "title": "Die From A Broken Heart",
+    "artist": "Maddie & Tae"
+  },
+  {
+    "rank": 98,
+    "title": "Chasin' You",
+    "artist": "Morgan Wallen"
+  },
+  {
+    "rank": 99,
+    "title": "Lonely If You Are",
+    "artist": "Chase Rice"
+  },
+  {
+    "rank": 100,
+    "title": "Stronger Than Me",
+    "artist": "Garth Brooks"
+  }
+]

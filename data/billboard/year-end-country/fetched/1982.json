@@ -1,0 +1,364 @@
+{
+  "year": 1982,
+  "chart": "year-end-country",
+  "total_songs": 40,
+  "fetched": 38,
+  "songs": [
+    {
+      "rank": 1,
+      "searched_artist": "Willie Nelson",
+      "searched_title": "Always On My Mind",
+      "missing": false,
+      "actual_artist": "Willie Nelson",
+      "actual_title": "Always on My Mind",
+      "lyrics_path": "willie-nelson\\_singles\\always-on-my-mind.txt"
+    },
+    {
+      "rank": 3,
+      "searched_artist": "Michael Murphey",
+      "searched_title": "What's Forever For",
+      "missing": false,
+      "actual_artist": "Michael Martin Murphey",
+      "actual_title": "What\u2019s Forever For",
+      "lyrics_path": "michael-martin-murphey\\_singles\\whats-forever-for.txt"
+    },
+    {
+      "rank": 4,
+      "searched_artist": "Ricky Skaggs",
+      "searched_title": "Crying My Heart Out Over You",
+      "missing": false,
+      "actual_artist": "Ricky Skaggs",
+      "actual_title": "Crying My Heart Out Over You (1981)",
+      "lyrics_path": "ricky-skaggs\\_singles\\crying-my-heart-out-over-you-1981.txt"
+    },
+    {
+      "rank": 6,
+      "searched_artist": "Waylon & Willie",
+      "searched_title": "Just To Satisfy You",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 7,
+      "searched_artist": "Jerry Reed",
+      "searched_title": "She Got The Goldmine (I Got The Shaft)",
+      "missing": false,
+      "actual_artist": "Jerry Reed",
+      "actual_title": "She Got the Goldmine (I Got the Shaft)",
+      "lyrics_path": "jerry-reed\\_singles\\she-got-the-goldmine-i-got-the-shaft.txt"
+    },
+    {
+      "rank": 8,
+      "searched_artist": "George Strait",
+      "searched_title": "If You're Thinking You Want A Stranger",
+      "missing": false,
+      "actual_artist": "George Strait",
+      "actual_title": "If You\u2019re Thinking You Want A Stranger",
+      "lyrics_path": "george-strait\\_singles\\if-youre-thinking-you-want-a-stranger.txt"
+    },
+    {
+      "rank": 9,
+      "searched_artist": "Hank Williams Jr.",
+      "searched_title": "A Country Boy Can Survive",
+      "missing": false,
+      "actual_artist": "Hank Williams Jr.",
+      "actual_title": "A Country Boy Can Survive",
+      "lyrics_path": "hank-williams-jr\\_singles\\a-country-boy-can-survive.txt"
+    },
+    {
+      "rank": 10,
+      "searched_artist": "Razzy Bailey",
+      "searched_title": "She Left Love All Over Me",
+      "missing": false,
+      "actual_artist": "Razzy Bailey",
+      "actual_title": "She Left Love All Over Me",
+      "lyrics_path": "razzy-bailey\\_singles\\she-left-love-all-over-me.txt"
+    },
+    {
+      "rank": 12,
+      "searched_artist": "Don Williams",
+      "searched_title": "Lord, I Hope This Day Is Good",
+      "missing": false,
+      "actual_artist": "Don Williams",
+      "actual_title": "Lord I Hope This Day Is Good",
+      "lyrics_path": "don-williams\\_singles\\lord-i-hope-this-day-is-good.txt"
+    },
+    {
+      "rank": 13,
+      "searched_artist": "Merle Haggard",
+      "searched_title": "BIG CITY",
+      "missing": false,
+      "actual_artist": "Merle Haggard",
+      "actual_title": "Big City",
+      "lyrics_path": "merle-haggard\\_singles\\big-city.txt"
+    },
+    {
+      "rank": 14,
+      "searched_artist": "Ed Bruce",
+      "searched_title": "You're The Best Break This Old Heart Ever Had",
+      "missing": false,
+      "actual_artist": "Ed Bruce",
+      "actual_title": "You\u2019re the Best Break This Old Heart Ever Had",
+      "lyrics_path": "ed-bruce\\_singles\\youre-the-best-break-this-old-heart-ever-had.txt"
+    },
+    {
+      "rank": 15,
+      "searched_artist": "George Strait",
+      "searched_title": "Fool Hearted Memory",
+      "missing": false,
+      "actual_artist": "George Strait",
+      "actual_title": "Fool Hearted Memory",
+      "lyrics_path": "george-strait\\_singles\\fool-hearted-memory.txt"
+    },
+    {
+      "rank": 16,
+      "searched_artist": "Reba McEntire",
+      "searched_title": "I'm Not That Lonely Yet",
+      "missing": false,
+      "actual_artist": "Reba McEntire",
+      "actual_title": "I\u2019m Not That Lonely Yet",
+      "lyrics_path": "reba-mcentire\\_singles\\im-not-that-lonely-yet.txt"
+    },
+    {
+      "rank": 17,
+      "searched_artist": "Conway Twitty",
+      "searched_title": "The Clown",
+      "missing": false,
+      "actual_artist": "Conway Twitty",
+      "actual_title": "The Clown",
+      "lyrics_path": "conway-twitty\\_singles\\the-clown.txt"
+    },
+    {
+      "rank": 18,
+      "searched_artist": "Kenny Rogers",
+      "searched_title": "Love Will Turn You Around",
+      "missing": false,
+      "actual_artist": "Kenny Rogers",
+      "actual_title": "Love Will Turn You Around",
+      "lyrics_path": "kenny-rogers\\_singles\\love-will-turn-you-around.txt"
+    },
+    {
+      "rank": 19,
+      "searched_artist": "Charly McClain",
+      "searched_title": "Dancing Your Memory Away",
+      "missing": false,
+      "actual_artist": "Charly McClain",
+      "actual_title": "Dancing Your Memory Away",
+      "lyrics_path": "charly-mcclain\\_singles\\dancing-your-memory-away.txt"
+    },
+    {
+      "rank": 20,
+      "searched_artist": "Conway Twitty",
+      "searched_title": "Slow Hand",
+      "missing": false,
+      "actual_artist": "Conway Twitty",
+      "actual_title": "Slow Hand",
+      "lyrics_path": "conway-twitty\\_singles\\slow-hand.txt"
+    },
+    {
+      "rank": 21,
+      "searched_artist": "Ricky Skaggs",
+      "searched_title": "I Don't Care",
+      "missing": false,
+      "actual_artist": "Ricky Skaggs",
+      "actual_title": "I Don\u2019t Care",
+      "lyrics_path": "ricky-skaggs\\_singles\\i-dont-care.txt"
+    },
+    {
+      "rank": 22,
+      "searched_artist": "George Jones",
+      "searched_title": "Same Ole Me",
+      "missing": false,
+      "actual_artist": "George Jones",
+      "actual_title": "Same Ole Me",
+      "lyrics_path": "george-jones\\_singles\\same-ole-me.txt"
+    },
+    {
+      "rank": 23,
+      "searched_artist": "Loretta Lynn",
+      "searched_title": "I Lie",
+      "missing": false,
+      "actual_artist": "Loretta Lynn",
+      "actual_title": "I Lie",
+      "lyrics_path": "loretta-lynn\\_singles\\i-lie.txt"
+    },
+    {
+      "rank": 24,
+      "searched_artist": "Alabama",
+      "searched_title": "Mountain Music",
+      "missing": false,
+      "actual_artist": "Alabama",
+      "actual_title": "Mountain Music",
+      "lyrics_path": "alabama\\_singles\\mountain-music.txt"
+    },
+    {
+      "rank": 26,
+      "searched_artist": "Juice Newton",
+      "searched_title": "The Sweetest Thing",
+      "missing": false,
+      "actual_artist": "Juice Newton",
+      "actual_title": "The Sweetest Thing (I\u2019ve Ever Known)",
+      "lyrics_path": "juice-newton\\_singles\\the-sweetest-thing-ive-ever-known.txt"
+    },
+    {
+      "rank": 28,
+      "searched_artist": "Crystal Gayle",
+      "searched_title": "You Never Gave Up On Me",
+      "missing": false,
+      "actual_artist": "Crystal Gayle",
+      "actual_title": "You Never Gave Up on Me",
+      "lyrics_path": "crystal-gayle\\_singles\\you-never-gave-up-on-me.txt"
+    },
+    {
+      "rank": 29,
+      "searched_artist": "Anne Murray",
+      "searched_title": "Another Sleepless Night",
+      "missing": false,
+      "actual_artist": "Anne Murray",
+      "actual_title": "Another Sleepless Night",
+      "lyrics_path": "anne-murray\\_singles\\another-sleepless-night.txt"
+    },
+    {
+      "rank": 30,
+      "searched_artist": "Mickey Gilley",
+      "searched_title": "Lonely Nights",
+      "missing": false,
+      "actual_artist": "Mickey Gilley",
+      "actual_title": "Lonely Nights",
+      "lyrics_path": "mickey-gilley\\_singles\\lonely-nights.txt"
+    },
+    {
+      "rank": 31,
+      "searched_artist": "Charley Pride",
+      "searched_title": "I Don't Think She's In Love Anymore",
+      "missing": false,
+      "actual_artist": "Charley Pride",
+      "actual_title": "I Don\u2019t Think She\u2019s In Love Anymore",
+      "lyrics_path": "charley-pride\\_singles\\i-dont-think-shes-in-love-anymore.txt"
+    },
+    {
+      "rank": 32,
+      "searched_artist": "Alabama",
+      "searched_title": "Take Me Down",
+      "missing": false,
+      "actual_artist": "Alabama",
+      "actual_title": "Take Me Down",
+      "lyrics_path": "alabama\\_singles\\take-me-down.txt"
+    },
+    {
+      "rank": 33,
+      "searched_artist": "T.G. Sheppard",
+      "searched_title": "Only One You",
+      "missing": false,
+      "actual_artist": "T.G. Sheppard",
+      "actual_title": "Only One You",
+      "lyrics_path": "tg-sheppard\\_singles\\only-one-you.txt"
+    },
+    {
+      "rank": 34,
+      "searched_artist": "Mickey Gilley",
+      "searched_title": "Tears Of The Lonely",
+      "missing": false,
+      "actual_artist": "Mickey Gilley",
+      "actual_title": "Tears Of The Lonely",
+      "lyrics_path": "mickey-gilley\\_singles\\tears-of-the-lonely.txt"
+    },
+    {
+      "rank": 37,
+      "searched_artist": "Ronnie Milsap",
+      "searched_title": "Any Day Now",
+      "missing": false,
+      "actual_artist": "Ronnie Milsap",
+      "actual_title": "Any Day Now",
+      "lyrics_path": "ronnie-milsap\\_singles\\any-day-now.txt"
+    },
+    {
+      "rank": 38,
+      "searched_artist": "Charley Pride",
+      "searched_title": "Mountain Of Love",
+      "missing": false,
+      "actual_artist": "Charley Pride",
+      "actual_title": "Mountain Of Love",
+      "lyrics_path": "charley-pride\\_singles\\mountain-of-love.txt"
+    },
+    {
+      "rank": 39,
+      "searched_artist": "Mel McDaniel",
+      "searched_title": "Big Ole Brew",
+      "missing": false,
+      "actual_artist": "Mel McDaniel",
+      "actual_title": "Big Ole Brew",
+      "lyrics_path": "mel-mcdaniel\\_singles\\big-ole-brew.txt"
+    },
+    {
+      "rank": 40,
+      "searched_artist": "Hank Williams Jr.",
+      "searched_title": "Honky Tonkin'",
+      "missing": false,
+      "actual_artist": "Hank Williams Jr.",
+      "actual_title": "Honky Tonkin\u2019",
+      "lyrics_path": "hank-williams-jr\\_singles\\honky-tonkin.txt"
+    },
+    {
+      "rank": 41,
+      "searched_artist": "Rosanne Cash",
+      "searched_title": "Blue Moon With Heartache",
+      "missing": false,
+      "actual_artist": "Rosanne Cash",
+      "actual_title": "Blue Moon With Heartache",
+      "lyrics_path": "rosanne-cash\\_singles\\blue-moon-with-heartache.txt"
+    },
+    {
+      "rank": 42,
+      "searched_artist": "John Anderson",
+      "searched_title": "Would You Catch A Falling Star",
+      "missing": false,
+      "actual_artist": "John Anderson",
+      "actual_title": "Would You Catch a Falling Star",
+      "lyrics_path": "john-anderson\\_singles\\would-you-catch-a-falling-star.txt"
+    },
+    {
+      "rank": 44,
+      "searched_artist": "Rosanne Cash",
+      "searched_title": "Ain't No Money",
+      "missing": false,
+      "actual_artist": "Rosanne Cash",
+      "actual_title": "Ain\u2019t No Money",
+      "lyrics_path": "rosanne-cash\\_singles\\aint-no-money.txt"
+    },
+    {
+      "rank": 45,
+      "searched_artist": "Eddie Rabbitt",
+      "searched_title": "Someone Could Lose A Heart Tonight",
+      "missing": false,
+      "actual_artist": "Eddie Rabbitt",
+      "actual_title": "Someone Could Lose a Heart Tonight",
+      "lyrics_path": "eddie-rabbitt\\_singles\\someone-could-lose-a-heart-tonight.txt"
+    },
+    {
+      "rank": 47,
+      "searched_artist": "Emmylou Harris",
+      "searched_title": "Born To Run",
+      "missing": false,
+      "actual_artist": "Emmylou Harris",
+      "actual_title": "Born To Run",
+      "lyrics_path": "emmylou-harris\\_singles\\born-to-run.txt"
+    },
+    {
+      "rank": 48,
+      "searched_artist": "John Conlee",
+      "searched_title": "Busted",
+      "missing": false,
+      "actual_artist": "John Conlee",
+      "actual_title": "Busted",
+      "lyrics_path": "john-conlee\\_singles\\busted.txt"
+    },
+    {
+      "rank": 50,
+      "searched_artist": "David Frizzell & Shelly West",
+      "searched_title": "Another Honky Tonk Night On Broadway",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    }
+  ]
+}

@@ -1,0 +1,502 @@
+[
+  {
+    "rank": 1,
+    "title": "Time Is Love",
+    "artist": "Josh Turner"
+  },
+  {
+    "rank": 2,
+    "title": "You Don't Know Her Like I Do",
+    "artist": "Brantley Gilbert"
+  },
+  {
+    "rank": 3,
+    "title": "Why Ya Wanna",
+    "artist": "Jana Kramer"
+  },
+  {
+    "rank": 4,
+    "title": "Cowboys And Angels",
+    "artist": "Dustin Lynch"
+  },
+  {
+    "rank": 5,
+    "title": "(Kissed You) Good Night",
+    "artist": "Gloriana"
+  },
+  {
+    "rank": 6,
+    "title": "Better Than I Used To Be",
+    "artist": "Tim McGraw"
+  },
+  {
+    "rank": 7,
+    "title": "Even If It Breaks Your Heart",
+    "artist": "Eli Young Band"
+  },
+  {
+    "rank": 8,
+    "title": "Lovin' You Is Fun",
+    "artist": "Easton Corbin"
+  },
+  {
+    "rank": 9,
+    "title": "Springsteen",
+    "artist": "Eric Church"
+  },
+  {
+    "rank": 10,
+    "title": "Drunk On You",
+    "artist": "Luke Bryan"
+  },
+  {
+    "rank": 11,
+    "title": "You",
+    "artist": "Chris Young"
+  },
+  {
+    "rank": 12,
+    "title": "Somethin' 'Bout A Truck",
+    "artist": "Kip Moore"
+  },
+  {
+    "rank": 13,
+    "title": "Reality",
+    "artist": "Kenny Chesney"
+  },
+  {
+    "rank": 14,
+    "title": "Alone With You",
+    "artist": "Jake Owen"
+  },
+  {
+    "rank": 15,
+    "title": "Over You",
+    "artist": "Miranda Lambert"
+  },
+  {
+    "rank": 16,
+    "title": "Home",
+    "artist": "Dierks Bentley"
+  },
+  {
+    "rank": 17,
+    "title": "I Don't Want This Night To End",
+    "artist": "Luke Bryan"
+  },
+  {
+    "rank": 18,
+    "title": "Hard To Love",
+    "artist": "Lee Brice"
+  },
+  {
+    "rank": 19,
+    "title": "Dancin' Away With My Heart",
+    "artist": "Lady Antebellum"
+  },
+  {
+    "rank": 20,
+    "title": "Wanted",
+    "artist": "Hunter Hayes"
+  },
+  {
+    "rank": 21,
+    "title": "Angel Eyes",
+    "artist": "Love And Theft"
+  },
+  {
+    "rank": 22,
+    "title": "A Woman Like You",
+    "artist": "Lee Brice"
+  },
+  {
+    "rank": 23,
+    "title": "You Gonna Fly",
+    "artist": "Keith Urban"
+  },
+  {
+    "rank": 24,
+    "title": "No Hurry",
+    "artist": "Zac Brown Band"
+  },
+  {
+    "rank": 25,
+    "title": "All Your Life",
+    "artist": "The Band Perry"
+  },
+  {
+    "rank": 26,
+    "title": "Fly Over States",
+    "artist": "Jason Aldean"
+  },
+  {
+    "rank": 27,
+    "title": "Good Girl",
+    "artist": "Carrie Underwood"
+  },
+  {
+    "rank": 28,
+    "title": "Fastest Girl In Town",
+    "artist": "Miranda Lambert"
+  },
+  {
+    "rank": 29,
+    "title": "Drink On It",
+    "artist": "Blake Shelton"
+  },
+  {
+    "rank": 30,
+    "title": "Postcard From Paris",
+    "artist": "The Band Perry"
+  },
+  {
+    "rank": 31,
+    "title": "Take A Little Ride",
+    "artist": "Jason Aldean"
+  },
+  {
+    "rank": 32,
+    "title": "Blown Away",
+    "artist": "Carrie Underwood"
+  },
+  {
+    "rank": 33,
+    "title": "Banjo",
+    "artist": "Rascal Flatts"
+  },
+  {
+    "rank": 34,
+    "title": "For You",
+    "artist": "Keith Urban"
+  },
+  {
+    "rank": 35,
+    "title": "Come Over",
+    "artist": "Kenny Chesney"
+  },
+  {
+    "rank": 36,
+    "title": "Over",
+    "artist": "Blake Shelton"
+  },
+  {
+    "rank": 37,
+    "title": "Ours",
+    "artist": "Taylor Swift"
+  },
+  {
+    "rank": 38,
+    "title": "Keep Me In Mind",
+    "artist": "Zac Brown Band"
+  },
+  {
+    "rank": 39,
+    "title": "The One That Got Away",
+    "artist": "Jake Owen"
+  },
+  {
+    "rank": 40,
+    "title": "5-1-5-0",
+    "artist": "Dierks Bentley"
+  },
+  {
+    "rank": 41,
+    "title": "Pontoon",
+    "artist": "Little Big Town"
+  },
+  {
+    "rank": 42,
+    "title": "Love's Gonna Make It Alright",
+    "artist": "George Strait"
+  },
+  {
+    "rank": 43,
+    "title": "Come Wake Me Up",
+    "artist": "Rascal Flatts"
+  },
+  {
+    "rank": 44,
+    "title": "Drink In My Hand",
+    "artist": "Eric Church"
+  },
+  {
+    "rank": 45,
+    "title": "I'm Gonna Love You Through It",
+    "artist": "Martina McBride"
+  },
+  {
+    "rank": 46,
+    "title": "Where I Come From",
+    "artist": "Montgomery Gentry"
+  },
+  {
+    "rank": 47,
+    "title": "Beers Ago",
+    "artist": "Toby Keith"
+  },
+  {
+    "rank": 48,
+    "title": "Kiss Tomorrow Goodbye",
+    "artist": "Luke Bryan"
+  },
+  {
+    "rank": 49,
+    "title": "Tattoos On This Town",
+    "artist": "Jason Aldean"
+  },
+  {
+    "rank": 50,
+    "title": "Let It Rain",
+    "artist": "David Nail Featuring Sarah Buxton"
+  },
+  {
+    "rank": 51,
+    "title": "Truck Yeah",
+    "artist": "Tim McGraw"
+  },
+  {
+    "rank": 52,
+    "title": "Til My Last Day",
+    "artist": "Justin Moore"
+  },
+  {
+    "rank": 53,
+    "title": "Red Solo Cup",
+    "artist": "Toby Keith"
+  },
+  {
+    "rank": 54,
+    "title": "Did It For The Girl",
+    "artist": "Greg Bates"
+  },
+  {
+    "rank": 55,
+    "title": "This Ole Boy",
+    "artist": "Craig Morgan"
+  },
+  {
+    "rank": 56,
+    "title": "Got My Country On",
+    "artist": "Chris Cagle"
+  },
+  {
+    "rank": 57,
+    "title": "Easy",
+    "artist": "Rascal Flatts Featuring Natasha Bedingfield"
+  },
+  {
+    "rank": 58,
+    "title": "That's Why I Pray",
+    "artist": "Big & Rich"
+  },
+  {
+    "rank": 59,
+    "title": "Beer Money",
+    "artist": "Kip Moore"
+  },
+  {
+    "rank": 60,
+    "title": "The Wind",
+    "artist": "Zac Brown Band"
+  },
+  {
+    "rank": 61,
+    "title": "We Owned The Night",
+    "artist": "Lady Antebellum"
+  },
+  {
+    "rank": 62,
+    "title": "Glass",
+    "artist": "Thompson Square"
+  },
+  {
+    "rank": 63,
+    "title": "Creepin'",
+    "artist": "Eric Church"
+  },
+  {
+    "rank": 64,
+    "title": "Camouflage",
+    "artist": "Brad Paisley"
+  },
+  {
+    "rank": 65,
+    "title": "Cruise",
+    "artist": "Florida Georgia Line"
+  },
+  {
+    "rank": 66,
+    "title": "Storm Warning",
+    "artist": "Hunter Hayes"
+  },
+  {
+    "rank": 67,
+    "title": "Shinin' On Me",
+    "artist": "Jerrod Niemann"
+  },
+  {
+    "rank": 68,
+    "title": "Home Sweet Home",
+    "artist": "THE FARM"
+  },
+  {
+    "rank": 69,
+    "title": "Something To Do With My Hands",
+    "artist": "Thomas Rhett"
+  },
+  {
+    "rank": 70,
+    "title": "How Country Feels",
+    "artist": "Randy Houser"
+  },
+  {
+    "rank": 71,
+    "title": "The Trouble With Girls",
+    "artist": "Scotty McCreery"
+  },
+  {
+    "rank": 72,
+    "title": "Wanted You More",
+    "artist": "Lady Antebellum"
+  },
+  {
+    "rank": 73,
+    "title": "Bait A Hook",
+    "artist": "Justin Moore"
+  },
+  {
+    "rank": 74,
+    "title": "I Like Girls That Drink Beer",
+    "artist": "Toby Keith"
+  },
+  {
+    "rank": 75,
+    "title": "Feel Like A Rock Star",
+    "artist": "Kenny Chesney & Tim McGraw"
+  },
+  {
+    "rank": 76,
+    "title": "Let's Don't Call It A Night",
+    "artist": "Casey James"
+  },
+  {
+    "rank": 77,
+    "title": "Crying On A Suitcase",
+    "artist": "Casey James"
+  },
+  {
+    "rank": 78,
+    "title": "Amen",
+    "artist": "Edens Edge"
+  },
+  {
+    "rank": 79,
+    "title": "El Cerrito Place",
+    "artist": "Kenny Chesney"
+  },
+  {
+    "rank": 80,
+    "title": "Neon",
+    "artist": "Chris Young"
+  },
+  {
+    "rank": 81,
+    "title": "Baggage Claim",
+    "artist": "Miranda Lambert"
+  },
+  {
+    "rank": 82,
+    "title": "Southern Comfort Zone",
+    "artist": "Brad Paisley"
+  },
+  {
+    "rank": 83,
+    "title": "Wanna Make You Love Me",
+    "artist": "Andy Gibson"
+  },
+  {
+    "rank": 84,
+    "title": "Missin' You Crazy",
+    "artist": "Jon Pardi"
+  },
+  {
+    "rank": 85,
+    "title": "So You Don't Have To Love Me Anymore",
+    "artist": "Alan Jackson"
+  },
+  {
+    "rank": 86,
+    "title": "We Are Never Ever Getting Back Together",
+    "artist": "Taylor Swift"
+  },
+  {
+    "rank": 87,
+    "title": "True Believers",
+    "artist": "Darius Rucker"
+  },
+  {
+    "rank": 88,
+    "title": "Goodbye In Her Eyes",
+    "artist": "Zac Brown Band"
+  },
+  {
+    "rank": 89,
+    "title": "Country Must Be Country Wide",
+    "artist": "Brantley Gilbert"
+  },
+  {
+    "rank": 90,
+    "title": "My Heart Can't Tell You No",
+    "artist": "Sara Evans"
+  },
+  {
+    "rank": 91,
+    "title": "Mr. Know It All",
+    "artist": "Kelly Clarkson"
+  },
+  {
+    "rank": 92,
+    "title": "God Gave Me You",
+    "artist": "Blake Shelton"
+  },
+  {
+    "rank": 93,
+    "title": "He's Mine",
+    "artist": "Rodney Atkins"
+  },
+  {
+    "rank": 94,
+    "title": "Too Good To Be True",
+    "artist": "Edens Edge"
+  },
+  {
+    "rank": 95,
+    "title": "Ex-Old Man",
+    "artist": "Kristen Kelly"
+  },
+  {
+    "rank": 96,
+    "title": "Tip It On Back",
+    "artist": "Dierks Bentley"
+  },
+  {
+    "rank": 97,
+    "title": "Comin' Around",
+    "artist": "Josh Thompson"
+  },
+  {
+    "rank": 98,
+    "title": "Like My Dog",
+    "artist": "Billy Currington"
+  },
+  {
+    "rank": 99,
+    "title": "I Got You",
+    "artist": "Thompson Square"
+  },
+  {
+    "rank": 100,
+    "title": "Begin Again",
+    "artist": "Taylor Swift"
+  }
+]

@@ -1,0 +1,645 @@
+{
+  "year": 1991,
+  "chart": "year-end-country",
+  "total_songs": 71,
+  "fetched": 70,
+  "songs": [
+    {
+      "rank": 2,
+      "searched_artist": "George Strait",
+      "searched_title": "I've Come To Expect It From You",
+      "missing": false,
+      "actual_artist": "George Strait",
+      "actual_title": "I\u2019ve Come to Expect It from You",
+      "lyrics_path": "george-strait\\_singles\\ive-come-to-expect-it-from-you.txt"
+    },
+    {
+      "rank": 3,
+      "searched_artist": "Alabama",
+      "searched_title": "Forever's As Far As I'll Go",
+      "missing": false,
+      "actual_artist": "Alabama",
+      "actual_title": "Forever\u2019s As Far As I\u2019ll Go",
+      "lyrics_path": "alabama\\_singles\\forevers-as-far-as-ill-go.txt"
+    },
+    {
+      "rank": 4,
+      "searched_artist": "Garth Brooks",
+      "searched_title": "The Thunder Rolls",
+      "missing": false,
+      "actual_artist": "Garth Brooks",
+      "actual_title": "The Thunder Rolls",
+      "lyrics_path": "garth-brooks\\_singles\\the-thunder-rolls.txt"
+    },
+    {
+      "rank": 5,
+      "searched_artist": "Doug Stone",
+      "searched_title": "In A Different Light",
+      "missing": false,
+      "actual_artist": "Doug Stone",
+      "actual_title": "In a Different Light",
+      "lyrics_path": "doug-stone\\_singles\\in-a-different-light.txt"
+    },
+    {
+      "rank": 6,
+      "searched_artist": "Mark Chesnutt",
+      "searched_title": "Brother Jukebox",
+      "missing": false,
+      "actual_artist": "Mark Chesnutt",
+      "actual_title": "Brother Jukebox",
+      "lyrics_path": "mark-chesnutt\\_singles\\brother-jukebox.txt"
+    },
+    {
+      "rank": 7,
+      "searched_artist": "George Strait",
+      "searched_title": "You Know Me Better Than That",
+      "missing": false,
+      "actual_artist": "George Strait",
+      "actual_title": "You Know Me Better Than That",
+      "lyrics_path": "george-strait\\_singles\\you-know-me-better-than-that.txt"
+    },
+    {
+      "rank": 8,
+      "searched_artist": "Alabama",
+      "searched_title": "Down Home",
+      "missing": false,
+      "actual_artist": "Alabama",
+      "actual_title": "Down Home",
+      "lyrics_path": "alabama\\_singles\\down-home.txt"
+    },
+    {
+      "rank": 9,
+      "searched_artist": "Garth Brooks",
+      "searched_title": "Unanswered Prayers",
+      "missing": false,
+      "actual_artist": "Garth Brooks",
+      "actual_title": "Unanswered Prayers",
+      "lyrics_path": "garth-brooks\\_singles\\unanswered-prayers.txt"
+    },
+    {
+      "rank": 10,
+      "searched_artist": "George Strait",
+      "searched_title": "If I Know Me",
+      "missing": false,
+      "actual_artist": "George Strait",
+      "actual_title": "If I Know Me",
+      "lyrics_path": "george-strait\\_singles\\if-i-know-me.txt"
+    },
+    {
+      "rank": 11,
+      "searched_artist": "Alan Jackson",
+      "searched_title": "I'd Love You All Over Again",
+      "missing": false,
+      "actual_artist": "Alan Jackson",
+      "actual_title": "I\u2019d Love You All Over Again",
+      "lyrics_path": "alan-jackson\\_singles\\id-love-you-all-over-again.txt"
+    },
+    {
+      "rank": 12,
+      "searched_artist": "Paul Overstreet",
+      "searched_title": "Daddy's Come Around",
+      "missing": false,
+      "actual_artist": "Paul Overstreet",
+      "actual_title": "Daddy\u2019s Come Around",
+      "lyrics_path": "paul-overstreet\\_singles\\daddys-come-around.txt"
+    },
+    {
+      "rank": 13,
+      "searched_artist": "Mike Reid",
+      "searched_title": "Walk On Faith",
+      "missing": false,
+      "actual_artist": "Mike Reid",
+      "actual_title": "Walk On Faith",
+      "lyrics_path": "mike-reid\\_singles\\walk-on-faith.txt"
+    },
+    {
+      "rank": 14,
+      "searched_artist": "Clint Black",
+      "searched_title": "Loving Blind",
+      "missing": false,
+      "actual_artist": "Clint Black",
+      "actual_title": "Loving Blind",
+      "lyrics_path": "clint-black\\_singles\\loving-blind.txt"
+    },
+    {
+      "rank": 15,
+      "searched_artist": "Garth Brooks",
+      "searched_title": "Two Of A Kind, Workin' On A Full House",
+      "missing": false,
+      "actual_artist": "Garth Brooks",
+      "actual_title": "Two of a Kind, Workin\u2019 on a Full House",
+      "lyrics_path": "garth-brooks\\_singles\\two-of-a-kind-workin-on-a-full-house.txt"
+    },
+    {
+      "rank": 16,
+      "searched_artist": "Diamond Rio",
+      "searched_title": "Meet In The Middle",
+      "missing": false,
+      "actual_artist": "Diamond Rio",
+      "actual_title": "Meet in the Middle",
+      "lyrics_path": "diamond-rio\\_singles\\meet-in-the-middle.txt"
+    },
+    {
+      "rank": 17,
+      "searched_artist": "Reba McEntire",
+      "searched_title": "Rumor Has It: 30th Anniversary Edition",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 18,
+      "searched_artist": "Trisha Yearwood",
+      "searched_title": "She's In Love With The Boy",
+      "missing": false,
+      "actual_artist": "Trisha Yearwood",
+      "actual_title": "She\u2019s In Love With The Boy",
+      "lyrics_path": "trisha-yearwood\\_singles\\shes-in-love-with-the-boy.txt"
+    },
+    {
+      "rank": 19,
+      "searched_artist": "Ricky Van Shelton",
+      "searched_title": "I Am A Simple Man",
+      "missing": false,
+      "actual_artist": "Ricky Van Shelton",
+      "actual_title": "I Am A Simple Man",
+      "lyrics_path": "ricky-van-shelton\\_singles\\i-am-a-simple-man.txt"
+    },
+    {
+      "rank": 20,
+      "searched_artist": "Alabama",
+      "searched_title": "Here We Are",
+      "missing": false,
+      "actual_artist": "Alabama",
+      "actual_title": "Here We Are",
+      "lyrics_path": "alabama\\_singles\\here-we-are.txt"
+    },
+    {
+      "rank": 21,
+      "searched_artist": "Billy Dean",
+      "searched_title": "Somewhere In My Broken Heart",
+      "missing": false,
+      "actual_artist": "Billy Dean",
+      "actual_title": "Somewhere In My Broken Heart",
+      "lyrics_path": "billy-dean\\_singles\\somewhere-in-my-broken-heart.txt"
+    },
+    {
+      "rank": 22,
+      "searched_artist": "Joe Diffie",
+      "searched_title": "If The Devil Danced (In Empty Pockets)",
+      "missing": false,
+      "actual_artist": "Joe Diffie",
+      "actual_title": "If the Devil Danced (In Empty Pockets)",
+      "lyrics_path": "joe-diffie\\_singles\\if-the-devil-danced-in-empty-pockets.txt"
+    },
+    {
+      "rank": 23,
+      "searched_artist": "Travis Tritt",
+      "searched_title": "Here's A Quarter (Call Someone Who Cares)",
+      "missing": false,
+      "actual_artist": "Travis Tritt",
+      "actual_title": "Here\u2019s a Quarter (Call Someone Who Cares)",
+      "lyrics_path": "travis-tritt\\_singles\\heres-a-quarter-call-someone-who-cares.txt"
+    },
+    {
+      "rank": 24,
+      "searched_artist": "Conway Twitty",
+      "searched_title": "I Couldn't See You Leavin'",
+      "missing": false,
+      "actual_artist": "Conway Twitty",
+      "actual_title": "I Couldn\u2019t See You Leavin\u2019",
+      "lyrics_path": "conway-twitty\\_singles\\i-couldnt-see-you-leavin.txt"
+    },
+    {
+      "rank": 25,
+      "searched_artist": "Lorrie Morgan",
+      "searched_title": "We Both Walk",
+      "missing": false,
+      "actual_artist": "Lorrie Morgan",
+      "actual_title": "We Both Walk",
+      "lyrics_path": "lorrie-morgan\\_singles\\we-both-walk.txt"
+    },
+    {
+      "rank": 26,
+      "searched_artist": "Clint Black",
+      "searched_title": "Where Are You Now",
+      "missing": false,
+      "actual_artist": "Clint Black",
+      "actual_title": "Where Are You Now",
+      "lyrics_path": "clint-black\\_singles\\where-are-you-now.txt"
+    },
+    {
+      "rank": 27,
+      "searched_artist": "Tanya Tucker",
+      "searched_title": "Down To My Last Teardrop",
+      "missing": false,
+      "actual_artist": "Tanya Tucker",
+      "actual_title": "Down to My Last Teardrop",
+      "lyrics_path": "tanya-tucker\\_singles\\down-to-my-last-teardrop.txt"
+    },
+    {
+      "rank": 28,
+      "searched_artist": "Lionel Cartwright",
+      "searched_title": "Leap Of Faith",
+      "missing": false,
+      "actual_artist": "Lionel Cartwright",
+      "actual_title": "Leap of Faith",
+      "lyrics_path": "lionel-cartwright\\_singles\\leap-of-faith.txt"
+    },
+    {
+      "rank": 30,
+      "searched_artist": "Randy Travis",
+      "searched_title": "Heroes And Friends",
+      "missing": false,
+      "actual_artist": "Randy Travis",
+      "actual_title": "Heroes And Friends",
+      "lyrics_path": "randy-travis\\_singles\\heroes-and-friends.txt"
+    },
+    {
+      "rank": 31,
+      "searched_artist": "Randy Travis",
+      "searched_title": "Point Of Light",
+      "missing": false,
+      "actual_artist": "Randy Travis",
+      "actual_title": "Point of Light",
+      "lyrics_path": "randy-travis\\_singles\\point-of-light.txt"
+    },
+    {
+      "rank": 32,
+      "searched_artist": "Mark Chesnutt",
+      "searched_title": "Your Love Is A Miracle",
+      "missing": false,
+      "actual_artist": "Mark Chesnutt",
+      "actual_title": "Your Love Is a Miracle",
+      "lyrics_path": "mark-chesnutt\\_singles\\your-love-is-a-miracle.txt"
+    },
+    {
+      "rank": 33,
+      "searched_artist": "Travis Tritt",
+      "searched_title": "Drift Off To Dream",
+      "missing": false,
+      "actual_artist": "Travis Tritt",
+      "actual_title": "Drift Off to Dream",
+      "lyrics_path": "travis-tritt\\_singles\\drift-off-to-dream.txt"
+    },
+    {
+      "rank": 35,
+      "searched_artist": "Ronnie Milsap",
+      "searched_title": "Are You Lovin' Me Like I'm Lovin' You",
+      "missing": false,
+      "actual_artist": "Ronnie Milsap",
+      "actual_title": "Are You Lovin\u2019 Me (Like I\u2019m Lovin\u2019 You)",
+      "lyrics_path": "ronnie-milsap\\_singles\\are-you-lovin-me-like-im-lovin-you.txt"
+    },
+    {
+      "rank": 36,
+      "searched_artist": "Reba McEntire",
+      "searched_title": "Fallin' Out Of Love",
+      "missing": false,
+      "actual_artist": "Reba McEntire",
+      "actual_title": "Fallin\u2019 Out Of Love",
+      "lyrics_path": "reba-mcentire\\_singles\\fallin-out-of-love.txt"
+    },
+    {
+      "rank": 37,
+      "searched_artist": "Joe Diffie",
+      "searched_title": "If You Want Me To",
+      "missing": false,
+      "actual_artist": "Joe Diffie",
+      "actual_title": "If You Want Me To",
+      "lyrics_path": "joe-diffie\\_singles\\if-you-want-me-to.txt"
+    },
+    {
+      "rank": 38,
+      "searched_artist": "Diamond Rio",
+      "searched_title": "Mirror Mirror",
+      "missing": false,
+      "actual_artist": "Diamond Rio",
+      "actual_title": "Mirror Mirror",
+      "lyrics_path": "diamond-rio\\_singles\\mirror-mirror.txt"
+    },
+    {
+      "rank": 39,
+      "searched_artist": "Paul Overstreet",
+      "searched_title": "Heroes",
+      "missing": false,
+      "actual_artist": "Paul Overstreet",
+      "actual_title": "Heroes",
+      "lyrics_path": "paul-overstreet\\_singles\\heroes.txt"
+    },
+    {
+      "rank": 40,
+      "searched_artist": "Hal Ketchum",
+      "searched_title": "Small Town Saturday Night",
+      "missing": false,
+      "actual_artist": "Hal Ketchum",
+      "actual_title": "Small Town Saturday Night",
+      "lyrics_path": "hal-ketchum\\_singles\\small-town-saturday-night.txt"
+    },
+    {
+      "rank": 41,
+      "searched_artist": "Joe Diffie",
+      "searched_title": "New Way (To Light Up An Old Flame)",
+      "missing": false,
+      "actual_artist": "Joe Diffie",
+      "actual_title": "New Way (To Light Up an Old Flame)",
+      "lyrics_path": "joe-diffie\\_singles\\new-way-to-light-up-an-old-flame.txt"
+    },
+    {
+      "rank": 42,
+      "searched_artist": "Carlene Carter",
+      "searched_title": "Come On Back",
+      "missing": false,
+      "actual_artist": "Carlene Carter",
+      "actual_title": "Come On Back",
+      "lyrics_path": "carlene-carter\\_singles\\come-on-back.txt"
+    },
+    {
+      "rank": 43,
+      "searched_artist": "Doug Stone",
+      "searched_title": "I Thought It Was You",
+      "missing": false,
+      "actual_artist": "Doug Stone",
+      "actual_title": "I Thought It Was You",
+      "lyrics_path": "doug-stone\\_singles\\i-thought-it-was-you.txt"
+    },
+    {
+      "rank": 44,
+      "searched_artist": "Ricky Van Shelton",
+      "searched_title": "Life's Little Ups And Downs",
+      "missing": false,
+      "actual_artist": "Ricky Van Shelton",
+      "actual_title": "Life\u2019s Little Ups And Downs",
+      "lyrics_path": "ricky-van-shelton\\_singles\\lifes-little-ups-and-downs.txt"
+    },
+    {
+      "rank": 45,
+      "searched_artist": "Billy Dean",
+      "searched_title": "Only Here For A Little While",
+      "missing": false,
+      "actual_artist": "Billy Dean",
+      "actual_title": "Only Here For A Little While",
+      "lyrics_path": "billy-dean\\_singles\\only-here-for-a-little-while.txt"
+    },
+    {
+      "rank": 46,
+      "searched_artist": "Sawyer Brown",
+      "searched_title": "The Walk",
+      "missing": false,
+      "actual_artist": "Sawyer Brown",
+      "actual_title": "The Walk",
+      "lyrics_path": "sawyer-brown\\_singles\\the-walk.txt"
+    },
+    {
+      "rank": 48,
+      "searched_artist": "Alan Jackson",
+      "searched_title": "Chasin' That Neon Rainbow",
+      "missing": false,
+      "actual_artist": "Alan Jackson",
+      "actual_title": "Chasin\u2019 That Neon Rainbow",
+      "lyrics_path": "alan-jackson\\_singles\\chasin-that-neon-rainbow.txt"
+    },
+    {
+      "rank": 49,
+      "searched_artist": "Don Williams",
+      "searched_title": "True Love",
+      "missing": false,
+      "actual_artist": "Don Williams",
+      "actual_title": "True Love",
+      "lyrics_path": "don-williams\\_singles\\true-love.txt"
+    },
+    {
+      "rank": 50,
+      "searched_artist": "Doug Stone",
+      "searched_title": "These Lips Don't Know How To Say Goodbye",
+      "missing": false,
+      "actual_artist": "Doug Stone",
+      "actual_title": "These Lips Don\u2019t Know How To Say Goodbye",
+      "lyrics_path": "doug-stone\\_singles\\these-lips-dont-know-how-to-say-goodbye.txt"
+    },
+    {
+      "rank": 51,
+      "searched_artist": "The Judds",
+      "searched_title": "Love Can Build A Bridge",
+      "missing": false,
+      "actual_artist": "The Judds",
+      "actual_title": "Love Can Build a Bridge",
+      "lyrics_path": "the-judds\\_singles\\love-can-build-a-bridge.txt"
+    },
+    {
+      "rank": 52,
+      "searched_artist": "Shenandoah",
+      "searched_title": "I Got You",
+      "missing": false,
+      "actual_artist": "Shenandoah",
+      "actual_title": "I Got You",
+      "lyrics_path": "shenandoah\\_singles\\i-got-you.txt"
+    },
+    {
+      "rank": 53,
+      "searched_artist": "Dwight Yoakam",
+      "searched_title": "You're The One",
+      "missing": false,
+      "actual_artist": "Dwight Yoakam",
+      "actual_title": "You\u2019re the One",
+      "lyrics_path": "dwight-yoakam\\_singles\\youre-the-one.txt"
+    },
+    {
+      "rank": 54,
+      "searched_artist": "The Judds",
+      "searched_title": "One Hundred And Two",
+      "missing": false,
+      "actual_artist": "The Judds",
+      "actual_title": "One Hundred and Two",
+      "lyrics_path": "the-judds\\_singles\\one-hundred-and-two.txt"
+    },
+    {
+      "rank": 55,
+      "searched_artist": "Ricky Van Shelton",
+      "searched_title": "Keep It Between The Lines",
+      "missing": false,
+      "actual_artist": "Ricky Van Shelton",
+      "actual_title": "Keep It Between The Lines",
+      "lyrics_path": "ricky-van-shelton\\_singles\\keep-it-between-the-lines.txt"
+    },
+    {
+      "rank": 56,
+      "searched_artist": "The Oak Ridge Boys",
+      "searched_title": "Lucky Moon",
+      "missing": false,
+      "actual_artist": "The Oak Ridge Boys",
+      "actual_title": "Lucky Moon",
+      "lyrics_path": "the-oak-ridge-boys\\_singles\\lucky-moon.txt"
+    },
+    {
+      "rank": 57,
+      "searched_artist": "Mark Chesnutt",
+      "searched_title": "Blame It On Texas",
+      "missing": false,
+      "actual_artist": "Mark Chesnutt",
+      "actual_title": "Blame It on Texas",
+      "lyrics_path": "mark-chesnutt\\_singles\\blame-it-on-texas.txt"
+    },
+    {
+      "rank": 58,
+      "searched_artist": "Don Williams",
+      "searched_title": "Lord Have Mercy On A Country Boy",
+      "missing": false,
+      "actual_artist": "Don Williams",
+      "actual_title": "Lord Have Mercy On A Country Boy",
+      "lyrics_path": "don-williams\\_singles\\lord-have-mercy-on-a-country-boy.txt"
+    },
+    {
+      "rank": 59,
+      "searched_artist": "Paul Overstreet",
+      "searched_title": "Ball And Chain",
+      "missing": false,
+      "actual_artist": "Paul Overstreet",
+      "actual_title": "Ball and Chain",
+      "lyrics_path": "paul-overstreet\\_singles\\ball-and-chain.txt"
+    },
+    {
+      "rank": 60,
+      "searched_artist": "Clint Black",
+      "searched_title": "One More Payment",
+      "missing": false,
+      "actual_artist": "Clint Black",
+      "actual_title": "One More Payment",
+      "lyrics_path": "clint-black\\_singles\\one-more-payment.txt"
+    },
+    {
+      "rank": 61,
+      "searched_artist": "Garth Brooks",
+      "searched_title": "Rodeo",
+      "missing": false,
+      "actual_artist": "Garth Brooks",
+      "actual_title": "Rodeo",
+      "lyrics_path": "garth-brooks\\_singles\\rodeo.txt"
+    },
+    {
+      "rank": 62,
+      "searched_artist": "Patty Loveless",
+      "searched_title": "I'm That Kind Of Girl",
+      "missing": false,
+      "actual_artist": "Patty Loveless",
+      "actual_title": "I\u2019m That Kind Of Girl",
+      "lyrics_path": "patty-loveless\\_singles\\im-that-kind-of-girl.txt"
+    },
+    {
+      "rank": 63,
+      "searched_artist": "Alan Jackson",
+      "searched_title": "Someday",
+      "missing": false,
+      "actual_artist": "Alan Jackson",
+      "actual_title": "Someday",
+      "lyrics_path": "alan-jackson\\_singles\\someday.txt"
+    },
+    {
+      "rank": 64,
+      "searched_artist": "Vince Gill",
+      "searched_title": "Never Knew Lonely",
+      "missing": false,
+      "actual_artist": "Vince Gill",
+      "actual_title": "Never Knew Lonely",
+      "lyrics_path": "vince-gill\\_singles\\never-knew-lonely.txt"
+    },
+    {
+      "rank": 65,
+      "searched_artist": "Pam Tillis",
+      "searched_title": "Don't Tell Me What To Do",
+      "missing": false,
+      "actual_artist": "Pam Tillis",
+      "actual_title": "Don\u2019t Tell Me What to Do",
+      "lyrics_path": "pam-tillis\\_singles\\dont-tell-me-what-to-do.txt"
+    },
+    {
+      "rank": 66,
+      "searched_artist": "Pam Tillis",
+      "searched_title": "One Of Those Things",
+      "missing": false,
+      "actual_artist": "Pam Tillis",
+      "actual_title": "One Of Those Things",
+      "lyrics_path": "pam-tillis\\_singles\\one-of-those-things.txt"
+    },
+    {
+      "rank": 67,
+      "searched_artist": "Ronnie Milsap",
+      "searched_title": "Since I Don't Have You",
+      "missing": false,
+      "actual_artist": "Ronnie Milsap",
+      "actual_title": "Since I Don\u2019t Have You",
+      "lyrics_path": "ronnie-milsap\\_singles\\since-i-dont-have-you.txt"
+    },
+    {
+      "rank": 68,
+      "searched_artist": "Earl Thomas Conley",
+      "searched_title": "Shadow Of A Doubt",
+      "missing": false,
+      "actual_artist": "Earl Thomas Conley",
+      "actual_title": "Shadow of a Doubt",
+      "lyrics_path": "earl-thomas-conley\\_singles\\shadow-of-a-doubt.txt"
+    },
+    {
+      "rank": 69,
+      "searched_artist": "Clint Black",
+      "searched_title": "Put Yourself In My Shoes",
+      "missing": false,
+      "actual_artist": "Clint Black",
+      "actual_title": "Put Yourself In My Shoes",
+      "lyrics_path": "clint-black\\_singles\\put-yourself-in-my-shoes.txt"
+    },
+    {
+      "rank": 70,
+      "searched_artist": "Shenandoah",
+      "searched_title": "Ghost In This House",
+      "missing": false,
+      "actual_artist": "Shenandoah",
+      "actual_title": "Ghost in This House",
+      "lyrics_path": "shenandoah\\_singles\\ghost-in-this-house.txt"
+    },
+    {
+      "rank": 71,
+      "searched_artist": "Travis Tritt",
+      "searched_title": "Anymore",
+      "missing": false,
+      "actual_artist": "Travis Tritt",
+      "actual_title": "Anymore",
+      "lyrics_path": "travis-tritt\\_singles\\anymore.txt"
+    },
+    {
+      "rank": 72,
+      "searched_artist": "Shenandoah",
+      "searched_title": "The Moon Over Georgia",
+      "missing": false,
+      "actual_artist": "Shenandoah",
+      "actual_title": "The Moon Over Georgia",
+      "lyrics_path": "shenandoah\\_singles\\the-moon-over-georgia.txt"
+    },
+    {
+      "rank": 73,
+      "searched_artist": "Tanya Tucker",
+      "searched_title": "It Won't Be Me",
+      "missing": false,
+      "actual_artist": "Tanya Tucker",
+      "actual_title": "It Won\u2019t Be Me",
+      "lyrics_path": "tanya-tucker\\_singles\\it-wont-be-me.txt"
+    },
+    {
+      "rank": 74,
+      "searched_artist": "Aaron Tippin",
+      "searched_title": "You've Got To Stand For Something",
+      "missing": false,
+      "actual_artist": "Aaron Tippin",
+      "actual_title": "You\u2019ve Got To Stand For Something",
+      "lyrics_path": "aaron-tippin\\_singles\\youve-got-to-stand-for-something.txt"
+    },
+    {
+      "rank": 75,
+      "searched_artist": "Vince Gill",
+      "searched_title": "Liza Jane",
+      "missing": false,
+      "actual_artist": "Vince Gill",
+      "actual_title": "Liza Jane",
+      "lyrics_path": "vince-gill\\_singles\\liza-jane.txt"
+    }
+  ]
+}

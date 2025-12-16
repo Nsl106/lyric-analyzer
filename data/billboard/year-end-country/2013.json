@@ -1,0 +1,502 @@
+[
+  {
+    "rank": 1,
+    "title": "Cruise",
+    "artist": "Florida Georgia Line"
+  },
+  {
+    "rank": 2,
+    "title": "Wagon Wheel",
+    "artist": "Darius Rucker"
+  },
+  {
+    "rank": 3,
+    "title": "Boys 'Round Here",
+    "artist": "Blake Shelton Featuring Pistol Annies & Friends"
+  },
+  {
+    "rank": 4,
+    "title": "Crash My Party",
+    "artist": "Luke Bryan"
+  },
+  {
+    "rank": 5,
+    "title": "I Want Crazy",
+    "artist": "Hunter Hayes"
+  },
+  {
+    "rank": 6,
+    "title": "Highway Don't Care",
+    "artist": "Tim McGraw With Taylor Swift"
+  },
+  {
+    "rank": 7,
+    "title": "Get Your Shine On",
+    "artist": "Florida Georgia Line"
+  },
+  {
+    "rank": 8,
+    "title": "Mama's Broken Heart",
+    "artist": "Miranda Lambert"
+  },
+  {
+    "rank": 9,
+    "title": "Sure Be Cool If You Did",
+    "artist": "Blake Shelton"
+  },
+  {
+    "rank": 10,
+    "title": "Runnin' Outta Moonlight",
+    "artist": "Randy Houser"
+  },
+  {
+    "rank": 11,
+    "title": "That's My Kind Of Night",
+    "artist": "Luke Bryan"
+  },
+  {
+    "rank": 12,
+    "title": "Better Dig Two",
+    "artist": "The Band Perry"
+  },
+  {
+    "rank": 13,
+    "title": "It Goes Like This",
+    "artist": "Thomas Rhett"
+  },
+  {
+    "rank": 14,
+    "title": "We Are Never Ever Getting Back Together",
+    "artist": "Taylor Swift"
+  },
+  {
+    "rank": 15,
+    "title": "Redneck Crazy",
+    "artist": "Tyler Farr"
+  },
+  {
+    "rank": 16,
+    "title": "Round Here",
+    "artist": "Florida Georgia Line"
+  },
+  {
+    "rank": 17,
+    "title": "Wanted",
+    "artist": "Hunter Hayes"
+  },
+  {
+    "rank": 18,
+    "title": "Downtown",
+    "artist": "Lady Antebellum"
+  },
+  {
+    "rank": 19,
+    "title": "Hey Girl",
+    "artist": "Billy Currington"
+  },
+  {
+    "rank": 20,
+    "title": "Don't Ya",
+    "artist": "Brett Eldredge"
+  },
+  {
+    "rank": 21,
+    "title": "DONE.",
+    "artist": "The Band Perry"
+  },
+  {
+    "rank": 22,
+    "title": "Night Train",
+    "artist": "Jason Aldean"
+  },
+  {
+    "rank": 23,
+    "title": "Hey Pretty Girl",
+    "artist": "Kip Moore"
+  },
+  {
+    "rank": 24,
+    "title": "Every Storm (Runs Out Of Rain)",
+    "artist": "Gary Allan"
+  },
+  {
+    "rank": 25,
+    "title": "All Over The Road",
+    "artist": "Easton Corbin"
+  },
+  {
+    "rank": 26,
+    "title": "See You Again",
+    "artist": "Carrie Underwood"
+  },
+  {
+    "rank": 27,
+    "title": "Give It All We Got Tonight",
+    "artist": "George Strait"
+  },
+  {
+    "rank": 28,
+    "title": "Somebody's Heartbreak",
+    "artist": "Hunter Hayes"
+  },
+  {
+    "rank": 29,
+    "title": "Two Black Cadillacs",
+    "artist": "Carrie Underwood"
+  },
+  {
+    "rank": 30,
+    "title": "Anywhere With You",
+    "artist": "Jake Owen"
+  },
+  {
+    "rank": 31,
+    "title": "Little Bit Of Everything",
+    "artist": "Keith Urban"
+  },
+  {
+    "rank": 32,
+    "title": "Aw Naw",
+    "artist": "Chris Young"
+  },
+  {
+    "rank": 33,
+    "title": "If I Didn't Have You",
+    "artist": "Thompson Square"
+  },
+  {
+    "rank": 34,
+    "title": "Pirate Flag",
+    "artist": "Kenny Chesney"
+  },
+  {
+    "rank": 35,
+    "title": "Mine Would Be You",
+    "artist": "Blake Shelton"
+  },
+  {
+    "rank": 36,
+    "title": "Beat This Summer",
+    "artist": "Brad Paisley"
+  },
+  {
+    "rank": 37,
+    "title": "One Of Those Nights",
+    "artist": "Tim McGraw"
+  },
+  {
+    "rank": 38,
+    "title": "I Drive Your Truck",
+    "artist": "Lee Brice"
+  },
+  {
+    "rank": 39,
+    "title": "Point At You",
+    "artist": "Justin Moore"
+  },
+  {
+    "rank": 40,
+    "title": "Parking Lot Party",
+    "artist": "Lee Brice"
+  },
+  {
+    "rank": 41,
+    "title": "Southern Girl",
+    "artist": "Tim McGraw"
+  },
+  {
+    "rank": 42,
+    "title": "Tornado",
+    "artist": "Little Big Town"
+  },
+  {
+    "rank": 43,
+    "title": "The Only Way I Know",
+    "artist": "Jason Aldean With Luke Bryan & Eric Church"
+  },
+  {
+    "rank": 44,
+    "title": "Red",
+    "artist": "Taylor Swift"
+  },
+  {
+    "rank": 45,
+    "title": "Blown Away",
+    "artist": "Carrie Underwood"
+  },
+  {
+    "rank": 46,
+    "title": "How Country Feels",
+    "artist": "Randy Houser"
+  },
+  {
+    "rank": 47,
+    "title": "Like Jesus Does",
+    "artist": "Eric Church"
+  },
+  {
+    "rank": 48,
+    "title": "More Than Miles",
+    "artist": "Brantley Gilbert"
+  },
+  {
+    "rank": 49,
+    "title": "Wasting All These Tears",
+    "artist": "Cassadee Pope"
+  },
+  {
+    "rank": 50,
+    "title": "Jump Right In",
+    "artist": "Zac Brown Band"
+  },
+  {
+    "rank": 51,
+    "title": "Sunny And 75",
+    "artist": "Joe Nichols"
+  },
+  {
+    "rank": 52,
+    "title": "Merry Go 'round",
+    "artist": "Kacey Musgraves"
+  },
+  {
+    "rank": 53,
+    "title": "1994",
+    "artist": "Jason Aldean"
+  },
+  {
+    "rank": 54,
+    "title": "Carolina",
+    "artist": "Parmalee"
+  },
+  {
+    "rank": 55,
+    "title": "Drunk Last Night",
+    "artist": "Eli Young Band"
+  },
+  {
+    "rank": 56,
+    "title": "Goodbye In Her Eyes",
+    "artist": "Zac Brown Band"
+  },
+  {
+    "rank": 57,
+    "title": "Begin Again",
+    "artist": "Taylor Swift"
+  },
+  {
+    "rank": 58,
+    "title": "Southern Comfort Zone",
+    "artist": "Brad Paisley"
+  },
+  {
+    "rank": 59,
+    "title": "I Can Take It From There",
+    "artist": "Chris Young"
+  },
+  {
+    "rank": 60,
+    "title": "Kiss Tomorrow Goodbye",
+    "artist": "Luke Bryan"
+  },
+  {
+    "rank": 61,
+    "title": "Tip It On Back",
+    "artist": "Dierks Bentley"
+  },
+  {
+    "rank": 62,
+    "title": "We Were Us",
+    "artist": "Keith Urban And Miranda Lambert"
+  },
+  {
+    "rank": 63,
+    "title": "Beer Money",
+    "artist": "Kip Moore"
+  },
+  {
+    "rank": 64,
+    "title": "Goodbye Town",
+    "artist": "Lady Antebellum"
+  },
+  {
+    "rank": 65,
+    "title": "Til My Last Day",
+    "artist": "Justin Moore"
+  },
+  {
+    "rank": 66,
+    "title": "Whatever She's Got",
+    "artist": "David Nail"
+  },
+  {
+    "rank": 67,
+    "title": "Easy",
+    "artist": "Sheryl Crow"
+  },
+  {
+    "rank": 68,
+    "title": "Hard To Love",
+    "artist": "Lee Brice"
+  },
+  {
+    "rank": 69,
+    "title": "Outta My Head",
+    "artist": "Craig Campbell"
+  },
+  {
+    "rank": 70,
+    "title": "Chillin' It",
+    "artist": "Cole Swindell"
+  },
+  {
+    "rank": 71,
+    "title": "Drinks After Work",
+    "artist": "Toby Keith"
+  },
+  {
+    "rank": 72,
+    "title": "Bruises",
+    "artist": "Train Featuring Ashley Monroe"
+  },
+  {
+    "rank": 73,
+    "title": "All Kinds Of Kinds",
+    "artist": "Miranda Lambert"
+  },
+  {
+    "rank": 74,
+    "title": "Can't Shake You",
+    "artist": "Gloriana"
+  },
+  {
+    "rank": 75,
+    "title": "Changed",
+    "artist": "Rascal Flatts"
+  },
+  {
+    "rank": 76,
+    "title": "When I See This Bar",
+    "artist": "Kenny Chesney"
+  },
+  {
+    "rank": 77,
+    "title": "Friday Night",
+    "artist": "Eric Paslay"
+  },
+  {
+    "rank": 78,
+    "title": "Could It Be",
+    "artist": "Charlie Worsham"
+  },
+  {
+    "rank": 79,
+    "title": "Creepin'",
+    "artist": "Eric Church"
+  },
+  {
+    "rank": 80,
+    "title": "See You Tonight",
+    "artist": "Scotty McCreery"
+  },
+  {
+    "rank": 81,
+    "title": "Days Of Gold",
+    "artist": "Jake Owen"
+  },
+  {
+    "rank": 82,
+    "title": "Pieces",
+    "artist": "Gary Allan"
+  },
+  {
+    "rank": 83,
+    "title": "The One That Got Away",
+    "artist": "Jake Owen"
+  },
+  {
+    "rank": 84,
+    "title": "She Cranks My Tractor",
+    "artist": "Dustin Lynch"
+  },
+  {
+    "rank": 85,
+    "title": "Stay",
+    "artist": "Florida Georgia Line"
+  },
+  {
+    "rank": 86,
+    "title": "El Cerrito Place",
+    "artist": "Kenny Chesney"
+  },
+  {
+    "rank": 87,
+    "title": "American Beautiful",
+    "artist": "The Henningsens"
+  },
+  {
+    "rank": 88,
+    "title": "Don't Let Me Be Lonely",
+    "artist": "The Band Perry"
+  },
+  {
+    "rank": 89,
+    "title": "Whiskey",
+    "artist": "Jana Kramer"
+  },
+  {
+    "rank": 90,
+    "title": "Your Side Of The Bed",
+    "artist": "Little Big Town"
+  },
+  {
+    "rank": 91,
+    "title": "Blowin' Smoke",
+    "artist": "Kacey Musgraves"
+  },
+  {
+    "rank": 92,
+    "title": "Sweet Annie",
+    "artist": "Zac Brown Band"
+  },
+  {
+    "rank": 93,
+    "title": "Up All Night",
+    "artist": "Jon Pardi"
+  },
+  {
+    "rank": 94,
+    "title": "Radio",
+    "artist": "Darius Rucker"
+  },
+  {
+    "rank": 95,
+    "title": "Don't Rush",
+    "artist": "Kelly Clarkson Featuring Vince Gill"
+  },
+  {
+    "rank": 96,
+    "title": "Let There Be Cowgirls",
+    "artist": "Chris Cagle"
+  },
+  {
+    "rank": 97,
+    "title": "Did It For The Girl",
+    "artist": "Greg Bates"
+  },
+  {
+    "rank": 98,
+    "title": "Beer With Jesus",
+    "artist": "Thomas Rhett"
+  },
+  {
+    "rank": 99,
+    "title": "Hope On The Rocks",
+    "artist": "Toby Keith"
+  },
+  {
+    "rank": 100,
+    "title": "The Outsiders",
+    "artist": "Eric Church"
+  }
+]

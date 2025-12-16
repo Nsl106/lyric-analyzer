@@ -1,0 +1,535 @@
+{
+  "year": 2003,
+  "chart": "year-end-country",
+  "total_songs": 59,
+  "fetched": 57,
+  "songs": [
+    {
+      "rank": 1,
+      "searched_artist": "Lonestar",
+      "searched_title": "My Front Porch Looking In",
+      "missing": false,
+      "actual_artist": "Lonestar",
+      "actual_title": "My Front Porch Looking In",
+      "lyrics_path": "lonestar\\_singles\\my-front-porch-looking-in.txt"
+    },
+    {
+      "rank": 2,
+      "searched_artist": "Toby Keith Duet With Willie Nelson",
+      "searched_title": "Beer For My Horses",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 3,
+      "searched_artist": "Mark Wills",
+      "searched_title": "19 Somethin'",
+      "missing": false,
+      "actual_artist": "Mark Wills",
+      "actual_title": "19 Somethin\u2019",
+      "lyrics_path": "mark-wills\\_singles\\19-somethin.txt"
+    },
+    {
+      "rank": 4,
+      "searched_artist": "Alan Jackson & Jimmy Buffett",
+      "searched_title": "It's Five O'Clock Somewhere",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 5,
+      "searched_artist": "Brooks & Dunn",
+      "searched_title": "Red Dirt Road",
+      "missing": false,
+      "actual_artist": "Brooks & Dunn",
+      "actual_title": "Red Dirt Road",
+      "lyrics_path": "brooks--dunn\\_singles\\red-dirt-road.txt"
+    },
+    {
+      "rank": 6,
+      "searched_artist": "Dierks Bentley",
+      "searched_title": "What Was I Thinkin'",
+      "missing": false,
+      "actual_artist": "Dierks Bentley",
+      "actual_title": "What Was I Thinkin\u2019",
+      "lyrics_path": "dierks-bentley\\_singles\\what-was-i-thinkin.txt"
+    },
+    {
+      "rank": 7,
+      "searched_artist": "Diamond Rio",
+      "searched_title": "I Believe",
+      "missing": false,
+      "actual_artist": "Diamond Rio",
+      "actual_title": "I Believe",
+      "lyrics_path": "diamond-rio\\_singles\\i-believe.txt"
+    },
+    {
+      "rank": 8,
+      "searched_artist": "Joe Nichols",
+      "searched_title": "Brokenheartsville",
+      "missing": false,
+      "actual_artist": "Joe Nichols",
+      "actual_title": "Brokenheartsville",
+      "lyrics_path": "joe-nichols\\_singles\\brokenheartsville.txt"
+    },
+    {
+      "rank": 9,
+      "searched_artist": "Tim McGraw",
+      "searched_title": "Real Good Man",
+      "missing": false,
+      "actual_artist": "Tim McGraw",
+      "actual_title": "Real Good Man",
+      "lyrics_path": "tim-mcgraw\\_singles\\real-good-man.txt"
+    },
+    {
+      "rank": 10,
+      "searched_artist": "Brad Paisley",
+      "searched_title": "Celebrity",
+      "missing": false,
+      "actual_artist": "Brad Paisley",
+      "actual_title": "Celebrity",
+      "lyrics_path": "brad-paisley\\_singles\\celebrity.txt"
+    },
+    {
+      "rank": 11,
+      "searched_artist": "Kenny Chesney",
+      "searched_title": "No Shoes, No Shirt, No Problems",
+      "missing": false,
+      "actual_artist": "Kenny Chesney",
+      "actual_title": "No Shoes, No Shirt, No Problems",
+      "lyrics_path": "kenny-chesney\\_singles\\no-shoes-no-shirt-no-problems.txt"
+    },
+    {
+      "rank": 12,
+      "searched_artist": "Darryl Worley",
+      "searched_title": "Have You Forgotten?",
+      "missing": false,
+      "actual_artist": "Darryl Worley",
+      "actual_title": "Have You Forgotten",
+      "lyrics_path": "darryl-worley\\_singles\\have-you-forgotten.txt"
+    },
+    {
+      "rank": 13,
+      "searched_artist": "Keith Urban",
+      "searched_title": "Raining On Sunday",
+      "missing": false,
+      "actual_artist": "Keith Urban",
+      "actual_title": "Raining On Sunday",
+      "lyrics_path": "keith-urban\\_singles\\raining-on-sunday.txt"
+    },
+    {
+      "rank": 14,
+      "searched_artist": "Shania Twain",
+      "searched_title": "Forever And For Always",
+      "missing": false,
+      "actual_artist": "Shania Twain",
+      "actual_title": "Forever and for Always",
+      "lyrics_path": "shania-twain\\_singles\\forever-and-for-always.txt"
+    },
+    {
+      "rank": 15,
+      "searched_artist": "Gary Allan",
+      "searched_title": "Man To Man",
+      "missing": false,
+      "actual_artist": "Gary Allan",
+      "actual_title": "Man to Man",
+      "lyrics_path": "gary-allan\\_singles\\man-to-man.txt"
+    },
+    {
+      "rank": 16,
+      "searched_artist": "Kenny Chesney",
+      "searched_title": "Big Star",
+      "missing": false,
+      "actual_artist": "Kenny Chesney",
+      "actual_title": "Big Star",
+      "lyrics_path": "kenny-chesney\\_singles\\big-star.txt"
+    },
+    {
+      "rank": 17,
+      "searched_artist": "Randy Travis",
+      "searched_title": "Three Wooden Crosses",
+      "missing": false,
+      "actual_artist": "Randy Travis",
+      "actual_title": "Three Wooden Crosses",
+      "lyrics_path": "randy-travis\\_singles\\three-wooden-crosses.txt"
+    },
+    {
+      "rank": 18,
+      "searched_artist": "Terri Clark",
+      "searched_title": "I Just Wanna Be Mad",
+      "missing": false,
+      "actual_artist": "Terri Clark",
+      "actual_title": "I Just Wanna Be Mad",
+      "lyrics_path": "terri-clark\\_singles\\i-just-wanna-be-mad.txt"
+    },
+    {
+      "rank": 19,
+      "searched_artist": "Blake Shelton",
+      "searched_title": "The Baby",
+      "missing": false,
+      "actual_artist": "Blake Shelton",
+      "actual_title": "The Baby",
+      "lyrics_path": "blake-shelton\\_singles\\the-baby.txt"
+    },
+    {
+      "rank": 20,
+      "searched_artist": "Keith Urban",
+      "searched_title": "Who Wouldn't Wanna Be Me",
+      "missing": false,
+      "actual_artist": "Keith Urban",
+      "actual_title": "Who Wouldn\u2019t Wanna Be Me",
+      "lyrics_path": "keith-urban\\_singles\\who-wouldnt-wanna-be-me.txt"
+    },
+    {
+      "rank": 21,
+      "searched_artist": "Jimmy Wayne",
+      "searched_title": "Stay Gone",
+      "missing": false,
+      "actual_artist": "Jimmy Wayne",
+      "actual_title": "Stay Gone",
+      "lyrics_path": "jimmy-wayne\\_singles\\stay-gone.txt"
+    },
+    {
+      "rank": 22,
+      "searched_artist": "Alan Jackson",
+      "searched_title": "That'd Be Alright",
+      "missing": false,
+      "actual_artist": "Alan Jackson",
+      "actual_title": "That\u2019d Be Alright",
+      "lyrics_path": "alan-jackson\\_singles\\thatd-be-alright.txt"
+    },
+    {
+      "rank": 23,
+      "searched_artist": "Tim McGraw",
+      "searched_title": "She's My Kind Of Rain",
+      "missing": false,
+      "actual_artist": "Tim McGraw",
+      "actual_title": "She\u2019s My Kind of Rain",
+      "lyrics_path": "tim-mcgraw\\_singles\\shes-my-kind-of-rain.txt"
+    },
+    {
+      "rank": 24,
+      "searched_artist": "Montgomery Gentry",
+      "searched_title": "Speed",
+      "missing": false,
+      "actual_artist": "Montgomery Gentry",
+      "actual_title": "Speed",
+      "lyrics_path": "montgomery-gentry\\_singles\\speed.txt"
+    },
+    {
+      "rank": 25,
+      "searched_artist": "Buddy Jewell",
+      "searched_title": "Help Pour Out The Rain (Lacey's Song)",
+      "missing": false,
+      "actual_artist": "Buddy Jewell",
+      "actual_title": "Help Pour Out The Rain (Lacey\u2019s Song)",
+      "lyrics_path": "buddy-jewell\\_singles\\help-pour-out-the-rain-laceys-song.txt"
+    },
+    {
+      "rank": 26,
+      "searched_artist": "Chris Cagle",
+      "searched_title": "What A Beautiful Day",
+      "missing": false,
+      "actual_artist": "Chris Cagle",
+      "actual_title": "What a Beautiful Day",
+      "lyrics_path": "chris-cagle\\_singles\\what-a-beautiful-day.txt"
+    },
+    {
+      "rank": 27,
+      "searched_artist": "Rascal Flatts",
+      "searched_title": "Love You Out Loud",
+      "missing": false,
+      "actual_artist": "Rascal Flatts",
+      "actual_title": "Love You Out Loud",
+      "lyrics_path": "rascal-flatts\\_singles\\love-you-out-loud.txt"
+    },
+    {
+      "rank": 28,
+      "searched_artist": "Martina McBride",
+      "searched_title": "This One's For The Girls",
+      "missing": false,
+      "actual_artist": "Martina McBride",
+      "actual_title": "This One\u2019s for the Girls",
+      "lyrics_path": "martina-mcbride\\_singles\\this-ones-for-the-girls.txt"
+    },
+    {
+      "rank": 29,
+      "searched_artist": "Jeff Bates",
+      "searched_title": "The Love Song",
+      "missing": false,
+      "actual_artist": "Jeff Bates",
+      "actual_title": "The Love Song",
+      "lyrics_path": "jeff-bates\\_singles\\the-love-song.txt"
+    },
+    {
+      "rank": 30,
+      "searched_artist": "Gary Allan",
+      "searched_title": "Tough Little Boys",
+      "missing": false,
+      "actual_artist": "Gary Allan",
+      "actual_title": "Tough Little Boys",
+      "lyrics_path": "gary-allan\\_singles\\tough-little-boys.txt"
+    },
+    {
+      "rank": 31,
+      "searched_artist": "George Strait",
+      "searched_title": "She'll Leave You With A Smile",
+      "missing": false,
+      "actual_artist": "George Strait",
+      "actual_title": "She\u2019ll Leave You with a Smile",
+      "lyrics_path": "george-strait\\_singles\\shell-leave-you-with-a-smile.txt"
+    },
+    {
+      "rank": 32,
+      "searched_artist": "Rascal Flatts",
+      "searched_title": "I Melt",
+      "missing": false,
+      "actual_artist": "Rascal Flatts",
+      "actual_title": "I Melt",
+      "lyrics_path": "rascal-flatts\\_singles\\i-melt.txt"
+    },
+    {
+      "rank": 33,
+      "searched_artist": "Martina McBride",
+      "searched_title": "Concrete Angel",
+      "missing": false,
+      "actual_artist": "Martina McBride",
+      "actual_title": "Concrete Angel",
+      "lyrics_path": "martina-mcbride\\_singles\\concrete-angel.txt"
+    },
+    {
+      "rank": 34,
+      "searched_artist": "Keith Urban",
+      "searched_title": "Somebody Like You",
+      "missing": false,
+      "actual_artist": "Keith Urban",
+      "actual_title": "Somebody Like You",
+      "lyrics_path": "keith-urban\\_singles\\somebody-like-you.txt"
+    },
+    {
+      "rank": 35,
+      "searched_artist": "Clay Walker",
+      "searched_title": "A Few Questions",
+      "missing": false,
+      "actual_artist": "Clay Walker",
+      "actual_title": "A Few Questions",
+      "lyrics_path": "clay-walker\\_singles\\a-few-questions.txt"
+    },
+    {
+      "rank": 36,
+      "searched_artist": "Emerson Drive",
+      "searched_title": "Fall Into Me",
+      "missing": false,
+      "actual_artist": "Emerson Drive",
+      "actual_title": "Fall Into Me",
+      "lyrics_path": "emerson-drive\\_singles\\fall-into-me.txt"
+    },
+    {
+      "rank": 37,
+      "searched_artist": "Trace Adkins",
+      "searched_title": "Then They Do",
+      "missing": false,
+      "actual_artist": "Trace Adkins",
+      "actual_title": "Then They Do",
+      "lyrics_path": "trace-adkins\\_singles\\then-they-do.txt"
+    },
+    {
+      "rank": 38,
+      "searched_artist": "Aaron Lines",
+      "searched_title": "You Can't Hide Beautiful",
+      "missing": false,
+      "actual_artist": "Aaron Lines",
+      "actual_title": "You Can\u2019t Hide Beautiful",
+      "lyrics_path": "aaron-lines\\_singles\\you-cant-hide-beautiful.txt"
+    },
+    {
+      "rank": 39,
+      "searched_artist": "Pat Green",
+      "searched_title": "Wave On Wave",
+      "missing": false,
+      "actual_artist": "Pat Green",
+      "actual_title": "Wave On Wave",
+      "lyrics_path": "pat-green\\_singles\\wave-on-wave.txt"
+    },
+    {
+      "rank": 41,
+      "searched_artist": "Toby Keith",
+      "searched_title": "Who's Your Daddy?",
+      "missing": false,
+      "actual_artist": "Toby Keith",
+      "actual_title": "Who\u2019s Your Daddy?",
+      "lyrics_path": "toby-keith\\_singles\\whos-your-daddy.txt"
+    },
+    {
+      "rank": 42,
+      "searched_artist": "Craig Morgan",
+      "searched_title": "Almost Home",
+      "missing": false,
+      "actual_artist": "Craig Morgan",
+      "actual_title": "Almost Home",
+      "lyrics_path": "craig-morgan\\_singles\\almost-home.txt"
+    },
+    {
+      "rank": 43,
+      "searched_artist": "Rascal Flatts",
+      "searched_title": "These Days",
+      "missing": false,
+      "actual_artist": "Rascal Flatts",
+      "actual_title": "These Days",
+      "lyrics_path": "rascal-flatts\\_singles\\these-days.txt"
+    },
+    {
+      "rank": 44,
+      "searched_artist": "Toby Keith",
+      "searched_title": "I Love This Bar",
+      "missing": false,
+      "actual_artist": "Toby Keith",
+      "actual_title": "I Love This Bar",
+      "lyrics_path": "toby-keith\\_singles\\i-love-this-bar.txt"
+    },
+    {
+      "rank": 45,
+      "searched_artist": "Billy Currington",
+      "searched_title": "Walk A Little Straighter",
+      "missing": false,
+      "actual_artist": "Billy Currington",
+      "actual_title": "Walk A Little Straighter",
+      "lyrics_path": "billy-currington\\_singles\\walk-a-little-straighter.txt"
+    },
+    {
+      "rank": 46,
+      "searched_artist": "Tracy Byrd",
+      "searched_title": "The Truth About Men",
+      "missing": false,
+      "actual_artist": "Tracy Byrd",
+      "actual_title": "The Truth About Men",
+      "lyrics_path": "tracy-byrd\\_singles\\the-truth-about-men.txt"
+    },
+    {
+      "rank": 47,
+      "searched_artist": "Brad Paisley",
+      "searched_title": "I Wish You'd Stay",
+      "missing": false,
+      "actual_artist": "Brad Paisley",
+      "actual_title": "I Wish You\u2019d Stay",
+      "lyrics_path": "brad-paisley\\_singles\\i-wish-youd-stay.txt"
+    },
+    {
+      "rank": 48,
+      "searched_artist": "Dixie Chicks",
+      "searched_title": "Travelin' Soldier",
+      "missing": false,
+      "actual_artist": "The Chicks",
+      "actual_title": "Travelin\u2019 Soldier",
+      "lyrics_path": "the-chicks\\_singles\\travelin-soldier.txt"
+    },
+    {
+      "rank": 49,
+      "searched_artist": "George Strait",
+      "searched_title": "Tell Me Something Bad About Tulsa",
+      "missing": false,
+      "actual_artist": "George Strait",
+      "actual_title": "Tell Me Something Bad About Tulsa",
+      "lyrics_path": "george-strait\\_singles\\tell-me-something-bad-about-tulsa.txt"
+    },
+    {
+      "rank": 50,
+      "searched_artist": "Chris Cagle",
+      "searched_title": "Chicks Dig It",
+      "missing": false,
+      "actual_artist": "Chris Cagle",
+      "actual_title": "Chicks Dig It",
+      "lyrics_path": "chris-cagle\\_singles\\chicks-dig-it.txt"
+    },
+    {
+      "rank": 51,
+      "searched_artist": "Rushlow",
+      "searched_title": "I Can't Be Your Friend",
+      "missing": false,
+      "actual_artist": "Rushlow",
+      "actual_title": "I Can\u2019t Be Your Friend",
+      "lyrics_path": "rushlow\\_singles\\i-cant-be-your-friend.txt"
+    },
+    {
+      "rank": 52,
+      "searched_artist": "Sara Evans",
+      "searched_title": "Backseat Of A Greyhound Bus",
+      "missing": false,
+      "actual_artist": "Sara Evans",
+      "actual_title": "Backseat Of A Greyhound Bus",
+      "lyrics_path": "sara-evans\\_singles\\backseat-of-a-greyhound-bus.txt"
+    },
+    {
+      "rank": 53,
+      "searched_artist": "George Strait",
+      "searched_title": "Cowboys Like Us",
+      "missing": false,
+      "actual_artist": "George Strait",
+      "actual_title": "Cowboys Like Us",
+      "lyrics_path": "george-strait\\_singles\\cowboys-like-us.txt"
+    },
+    {
+      "rank": 54,
+      "searched_artist": "Deana Carter",
+      "searched_title": "There's No Limit",
+      "missing": false,
+      "actual_artist": "Deana Carter",
+      "actual_title": "There\u2019s No Limit",
+      "lyrics_path": "deana-carter\\_singles\\theres-no-limit.txt"
+    },
+    {
+      "rank": 55,
+      "searched_artist": "Wynonna",
+      "searched_title": "What The World Needs",
+      "missing": false,
+      "actual_artist": "Wynonna",
+      "actual_title": "What the World Needs",
+      "lyrics_path": "wynonna\\_singles\\what-the-world-needs.txt"
+    },
+    {
+      "rank": 56,
+      "searched_artist": "Trace Adkins",
+      "searched_title": "Chrome",
+      "missing": false,
+      "actual_artist": "Trace Adkins",
+      "actual_title": "Chrome",
+      "lyrics_path": "trace-adkins\\_singles\\chrome.txt"
+    },
+    {
+      "rank": 57,
+      "searched_artist": "Montgomery Gentry",
+      "searched_title": "Hell Yeah",
+      "missing": false,
+      "actual_artist": "Montgomery Gentry",
+      "actual_title": "Hell Yeah",
+      "lyrics_path": "montgomery-gentry\\_singles\\hell-yeah.txt"
+    },
+    {
+      "rank": 58,
+      "searched_artist": "Shania Twain",
+      "searched_title": "Up!",
+      "missing": false,
+      "actual_artist": "Shania Twain",
+      "actual_title": "Up!",
+      "lyrics_path": "shania-twain\\_singles\\up.txt"
+    },
+    {
+      "rank": 59,
+      "searched_artist": "Jessica Andrews",
+      "searched_title": "There's More To Me Than You",
+      "missing": false,
+      "actual_artist": "Jessica Andrews",
+      "actual_title": "There\u2019s More To Me Than You",
+      "lyrics_path": "jessica-andrews\\_singles\\theres-more-to-me-than-you.txt"
+    },
+    {
+      "rank": 60,
+      "searched_artist": "Tim McGraw",
+      "searched_title": "Red Rag Top",
+      "missing": false,
+      "actual_artist": "Tim McGraw",
+      "actual_title": "Red Ragtop",
+      "lyrics_path": "tim-mcgraw\\_singles\\red-ragtop.txt"
+    }
+  ]
+}

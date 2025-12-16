@@ -1,0 +1,502 @@
+[
+  {
+    "rank": 1,
+    "title": "I Hope",
+    "artist": "Gabby Barrett"
+  },
+  {
+    "rank": 2,
+    "title": "The Bones",
+    "artist": "Maren Morris"
+  },
+  {
+    "rank": 3,
+    "title": "10,000 Hours",
+    "artist": "Dan + Shay & Justin Bieber"
+  },
+  {
+    "rank": 4,
+    "title": "Chasin' You",
+    "artist": "Morgan Wallen"
+  },
+  {
+    "rank": 5,
+    "title": "Nobody But You",
+    "artist": "Blake Shelton Duet With Gwen Stefani"
+  },
+  {
+    "rank": 6,
+    "title": "One Man Band",
+    "artist": "Old Dominion"
+  },
+  {
+    "rank": 7,
+    "title": "Got What I Got",
+    "artist": "Jason Aldean"
+  },
+  {
+    "rank": 8,
+    "title": "Die From A Broken Heart",
+    "artist": "Maddie & Tae"
+  },
+  {
+    "rank": 9,
+    "title": "I Hope You're Happy Now",
+    "artist": "Carly Pearce & Lee Brice"
+  },
+  {
+    "rank": 10,
+    "title": "One Of Them Girls",
+    "artist": "Lee Brice"
+  },
+  {
+    "rank": 11,
+    "title": "One Margarita",
+    "artist": "Luke Bryan"
+  },
+  {
+    "rank": 12,
+    "title": "Hard To Forget",
+    "artist": "Sam Hunt"
+  },
+  {
+    "rank": 13,
+    "title": "Kinfolks",
+    "artist": "Sam Hunt"
+  },
+  {
+    "rank": 14,
+    "title": "One Beer",
+    "artist": "HARDY Featuring Lauren Alaina & Devin Dawson"
+  },
+  {
+    "rank": 15,
+    "title": "Bluebird",
+    "artist": "Miranda Lambert"
+  },
+  {
+    "rank": 16,
+    "title": "Does To Me",
+    "artist": "Luke Combs Featuring Eric Church"
+  },
+  {
+    "rank": 17,
+    "title": "More Than My Hometown",
+    "artist": "Morgan Wallen"
+  },
+  {
+    "rank": 18,
+    "title": "Even Though I'm Leaving",
+    "artist": "Luke Combs"
+  },
+  {
+    "rank": 19,
+    "title": "Lovin' On You",
+    "artist": "Luke Combs"
+  },
+  {
+    "rank": 20,
+    "title": "More Hearts Than Mine",
+    "artist": "Ingrid Andress"
+  },
+  {
+    "rank": 21,
+    "title": "Cool Again",
+    "artist": "Kane Brown"
+  },
+  {
+    "rank": 22,
+    "title": "Homesick",
+    "artist": "Kane Brown"
+  },
+  {
+    "rank": 23,
+    "title": "I Love My Country",
+    "artist": "Florida Georgia Line"
+  },
+  {
+    "rank": 24,
+    "title": "Be A Light",
+    "artist": "Thomas Rhett Featuring Reba McEntire, Hillary Scott, Chris Tomlin & Keith Urban"
+  },
+  {
+    "rank": 25,
+    "title": "After A Few",
+    "artist": "Travis Denning"
+  },
+  {
+    "rank": 26,
+    "title": "Beer Can't Fix",
+    "artist": "Thomas Rhett Featuring Jon Pardi"
+  },
+  {
+    "rank": 27,
+    "title": "What She Wants Tonight",
+    "artist": "Luke Bryan"
+  },
+  {
+    "rank": 28,
+    "title": "God Whispered Your Name",
+    "artist": "Keith Urban"
+  },
+  {
+    "rank": 29,
+    "title": "Some Girls",
+    "artist": "Jameson Rodgers"
+  },
+  {
+    "rank": 30,
+    "title": "Pretty Heart",
+    "artist": "Parker McCollum"
+  },
+  {
+    "rank": 31,
+    "title": "Slow Dance In A Parking Lot",
+    "artist": "Jordan Davis"
+  },
+  {
+    "rank": 32,
+    "title": "Heartache Medication",
+    "artist": "Jon Pardi"
+  },
+  {
+    "rank": 33,
+    "title": "Here And Now",
+    "artist": "Kenny Chesney"
+  },
+  {
+    "rank": 34,
+    "title": "Catch",
+    "artist": "Brett Young"
+  },
+  {
+    "rank": 35,
+    "title": "One Night Standards",
+    "artist": "Ashley McBryde"
+  },
+  {
+    "rank": 36,
+    "title": "Love You Like I Used To",
+    "artist": "Russell Dickerson"
+  },
+  {
+    "rank": 37,
+    "title": "Why We Drink",
+    "artist": "Justin Moore"
+  },
+  {
+    "rank": 38,
+    "title": "One Big Country Song",
+    "artist": "LoCash"
+  },
+  {
+    "rank": 39,
+    "title": "I Called Mama",
+    "artist": "Tim McGraw"
+  },
+  {
+    "rank": 40,
+    "title": "What If I Never Get Over You",
+    "artist": "Lady Antebellum"
+  },
+  {
+    "rank": 41,
+    "title": "We Back",
+    "artist": "Jason Aldean"
+  },
+  {
+    "rank": 42,
+    "title": "Everywhere But On",
+    "artist": "Matt Stell"
+  },
+  {
+    "rank": 43,
+    "title": "Done",
+    "artist": "Chris Janson"
+  },
+  {
+    "rank": 44,
+    "title": "homecoming queen?",
+    "artist": "Kelsea Ballerini"
+  },
+  {
+    "rank": 45,
+    "title": "I Should Probably Go To Bed",
+    "artist": "Dan + Shay"
+  },
+  {
+    "rank": 46,
+    "title": "In Between",
+    "artist": "Scotty McCreery"
+  },
+  {
+    "rank": 47,
+    "title": "I Wish Grandpas Never Died",
+    "artist": "Riley Green"
+  },
+  {
+    "rank": 48,
+    "title": "Ain't Always The Cowboy",
+    "artist": "Jon Pardi"
+  },
+  {
+    "rank": 49,
+    "title": "Homemade",
+    "artist": "Jake Owen"
+  },
+  {
+    "rank": 50,
+    "title": "Happy Anywhere",
+    "artist": "Blake Shelton Featuring Gwen Stefani"
+  },
+  {
+    "rank": 51,
+    "title": "7 Summers",
+    "artist": "Morgan Wallen"
+  },
+  {
+    "rank": 52,
+    "title": "Make Me Want To",
+    "artist": "Jimmie Allen"
+  },
+  {
+    "rank": 53,
+    "title": "Ridin' Roads",
+    "artist": "Dustin Lynch"
+  },
+  {
+    "rank": 54,
+    "title": "Champagne Night",
+    "artist": "Lady A"
+  },
+  {
+    "rank": 55,
+    "title": "Heartless",
+    "artist": "Diplo Presents Thomas Wesley Featuring Morgan Wallen"
+  },
+  {
+    "rank": 56,
+    "title": "She's Mine",
+    "artist": "Kip Moore"
+  },
+  {
+    "rank": 57,
+    "title": "One Thing Right",
+    "artist": "Marshmello & Kane Brown"
+  },
+  {
+    "rank": 58,
+    "title": "Big, Big Plans",
+    "artist": "Chris Lane"
+  },
+  {
+    "rank": 59,
+    "title": "Just The Way",
+    "artist": "Parmalee x Blanco Brown"
+  },
+  {
+    "rank": 60,
+    "title": "Lonely If You Are",
+    "artist": "Chase Rice"
+  },
+  {
+    "rank": 61,
+    "title": "Better Together",
+    "artist": "Luke Combs"
+  },
+  {
+    "rank": 62,
+    "title": "Monsters",
+    "artist": "Eric Church"
+  },
+  {
+    "rank": 63,
+    "title": "Dive Bar",
+    "artist": "Garth Brooks & Blake Shelton"
+  },
+  {
+    "rank": 64,
+    "title": "Remember You Young",
+    "artist": "Thomas Rhett"
+  },
+  {
+    "rank": 65,
+    "title": "Good Time",
+    "artist": "Niko Moon"
+  },
+  {
+    "rank": 66,
+    "title": "Drinking Alone",
+    "artist": "Carrie Underwood"
+  },
+  {
+    "rank": 67,
+    "title": "Almost Maybes",
+    "artist": "Jordan Davis"
+  },
+  {
+    "rank": 68,
+    "title": "Lady",
+    "artist": "Brett Young"
+  },
+  {
+    "rank": 69,
+    "title": "Starting Over",
+    "artist": "Chris Stapleton"
+  },
+  {
+    "rank": 70,
+    "title": "Hole In The Bottle",
+    "artist": "Kelsea Ballerini"
+  },
+  {
+    "rank": 71,
+    "title": "Six Feet Apart",
+    "artist": "Luke Combs"
+  },
+  {
+    "rank": 72,
+    "title": "My Truck",
+    "artist": "BRELAND"
+  },
+  {
+    "rank": 73,
+    "title": "The Other Girl",
+    "artist": "Kelsea Ballerini x Halsey"
+  },
+  {
+    "rank": 74,
+    "title": "The Good Ones",
+    "artist": "Gabby Barrett"
+  },
+  {
+    "rank": 75,
+    "title": "Getting Good",
+    "artist": "Lauren Alaina"
+  },
+  {
+    "rank": 76,
+    "title": "Betty",
+    "artist": "Taylor Swift"
+  },
+  {
+    "rank": 77,
+    "title": "What Could've Been",
+    "artist": "Gone West"
+  },
+  {
+    "rank": 78,
+    "title": "Momma's House",
+    "artist": "Dustin Lynch"
+  },
+  {
+    "rank": 79,
+    "title": "Stick That In Your Country Song",
+    "artist": "Eric Church"
+  },
+  {
+    "rank": 80,
+    "title": "Happy Does",
+    "artist": "Kenny Chesney"
+  },
+  {
+    "rank": 81,
+    "title": "To A T",
+    "artist": "Ryan Hurd"
+  },
+  {
+    "rank": 82,
+    "title": "Blessings",
+    "artist": "Florida Georgia Line"
+  },
+  {
+    "rank": 83,
+    "title": "Her World Or Mine",
+    "artist": "Michael Ray"
+  },
+  {
+    "rank": 84,
+    "title": "Tip Of My Tongue",
+    "artist": "Kenny Chesney"
+  },
+  {
+    "rank": 85,
+    "title": "Forever After All",
+    "artist": "Luke Combs"
+  },
+  {
+    "rank": 86,
+    "title": "No I In Beer",
+    "artist": "Brad Paisley"
+  },
+  {
+    "rank": 87,
+    "title": "To Hell & Back",
+    "artist": "Maren Morris"
+  },
+  {
+    "rank": 88,
+    "title": "Drowning",
+    "artist": "Chris Young"
+  },
+  {
+    "rank": 89,
+    "title": "Hell Right",
+    "artist": "Blake Shelton Featuring Trace Adkins"
+  },
+  {
+    "rank": 90,
+    "title": "Wine, Beer, Whiskey",
+    "artist": "Little Big Town"
+  },
+  {
+    "rank": 91,
+    "title": "Beers And Sunshine",
+    "artist": "Darius Rucker"
+  },
+  {
+    "rank": 92,
+    "title": "This Bar",
+    "artist": "Morgan Wallen"
+  },
+  {
+    "rank": 93,
+    "title": "Some People Do",
+    "artist": "Old Dominion"
+  },
+  {
+    "rank": 94,
+    "title": "Who You Are To Me",
+    "artist": "Chris Tomlin Featuring Lady A"
+  },
+  {
+    "rank": 95,
+    "title": "One Too Many",
+    "artist": "Keith Urban Duet With P!nk"
+  },
+  {
+    "rank": 96,
+    "title": "We Were",
+    "artist": "Keith Urban"
+  },
+  {
+    "rank": 97,
+    "title": "Cover Me Up",
+    "artist": "Morgan Wallen"
+  },
+  {
+    "rank": 98,
+    "title": "Long Live",
+    "artist": "Florida Georgia Line"
+  },
+  {
+    "rank": 99,
+    "title": "Gaslighter",
+    "artist": "The Chicks"
+  },
+  {
+    "rank": 100,
+    "title": "Cheatin' Songs",
+    "artist": "Midland"
+  }
+]

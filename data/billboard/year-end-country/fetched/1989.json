@@ -1,0 +1,843 @@
+{
+  "year": 1989,
+  "chart": "year-end-country",
+  "total_songs": 95,
+  "fetched": 85,
+  "songs": [
+    {
+      "rank": 1,
+      "searched_artist": "Clint Black",
+      "searched_title": "Better Man",
+      "missing": false,
+      "actual_artist": "Clint Black",
+      "actual_title": "A Better Man",
+      "lyrics_path": "clint-black\\_singles\\a-better-man.txt"
+    },
+    {
+      "rank": 2,
+      "searched_artist": "Clint Black",
+      "searched_title": "Killin' Time",
+      "missing": false,
+      "actual_artist": "Clint Black",
+      "actual_title": "Killin\u2019 Time",
+      "lyrics_path": "clint-black\\_singles\\killin-time.txt"
+    },
+    {
+      "rank": 3,
+      "searched_artist": "Conway Twitty",
+      "searched_title": "She's Got A Single Thing In Mind",
+      "missing": false,
+      "actual_artist": "Conway Twitty",
+      "actual_title": "She\u2019s Got a Single Thing in Mind",
+      "lyrics_path": "conway-twitty\\_singles\\shes-got-a-single-thing-in-mind.txt"
+    },
+    {
+      "rank": 4,
+      "searched_artist": "Ricky Skaggs",
+      "searched_title": "Lovin' Only Me",
+      "missing": false,
+      "actual_artist": "Ricky Skaggs",
+      "actual_title": "Lovin\u2019 Only Me",
+      "lyrics_path": "ricky-skaggs\\_singles\\lovin-only-me.txt"
+    },
+    {
+      "rank": 5,
+      "searched_artist": "Steve Wariner",
+      "searched_title": "I Got Dreams",
+      "missing": false,
+      "actual_artist": "Steve Wariner",
+      "actual_title": "I Got Dreams",
+      "lyrics_path": "steve-wariner\\_singles\\i-got-dreams.txt"
+    },
+    {
+      "rank": 6,
+      "searched_artist": "Rodney Crowell",
+      "searched_title": "Above And Beyond",
+      "missing": false,
+      "actual_artist": "Rodney Crowell",
+      "actual_title": "Above And Beyond",
+      "lyrics_path": "rodney-crowell\\_singles\\above-and-beyond.txt"
+    },
+    {
+      "rank": 7,
+      "searched_artist": "Keith Whitley",
+      "searched_title": "I'm No Stranger To The Rain",
+      "missing": false,
+      "actual_artist": "Keith Whitley",
+      "actual_title": "I\u2019m No Stranger To The Rain",
+      "lyrics_path": "keith-whitley\\_singles\\im-no-stranger-to-the-rain.txt"
+    },
+    {
+      "rank": 8,
+      "searched_artist": "The Judds",
+      "searched_title": "Let Me Tell You About Love",
+      "missing": false,
+      "actual_artist": "The Judds",
+      "actual_title": "Let Me Tell You About Love",
+      "lyrics_path": "the-judds\\_singles\\let-me-tell-you-about-love.txt"
+    },
+    {
+      "rank": 9,
+      "searched_artist": "George Strait",
+      "searched_title": "What's Going On In Your World",
+      "missing": false,
+      "actual_artist": "George Strait",
+      "actual_title": "What\u2019s Going on in Your World",
+      "lyrics_path": "george-strait\\_singles\\whats-going-on-in-your-world.txt"
+    },
+    {
+      "rank": 10,
+      "searched_artist": "Willie Nelson",
+      "searched_title": "Nothing I Can Do About It Now",
+      "missing": false,
+      "actual_artist": "Willie Nelson",
+      "actual_title": "Nothing I Can Do About It Now",
+      "lyrics_path": "willie-nelson\\_singles\\nothing-i-can-do-about-it-now.txt"
+    },
+    {
+      "rank": 11,
+      "searched_artist": "Earl Thomas Conley",
+      "searched_title": "Love Out Loud",
+      "missing": false,
+      "actual_artist": "Earl Thomas Conley",
+      "actual_title": "Love Out Loud",
+      "lyrics_path": "earl-thomas-conley\\_singles\\love-out-loud.txt"
+    },
+    {
+      "rank": 12,
+      "searched_artist": "Ricky Van Shelton",
+      "searched_title": "Living Proof",
+      "missing": false,
+      "actual_artist": "Ricky Van Shelton",
+      "actual_title": "Living Proof",
+      "lyrics_path": "ricky-van-shelton\\_singles\\living-proof.txt"
+    },
+    {
+      "rank": 13,
+      "searched_artist": "Alabama",
+      "searched_title": "High Cotton",
+      "missing": false,
+      "actual_artist": "Alabama",
+      "actual_title": "High Cotton",
+      "lyrics_path": "alabama\\_singles\\high-cotton.txt"
+    },
+    {
+      "rank": 14,
+      "searched_artist": "Keith Whitley",
+      "searched_title": "I Wonder Do You Think Of Me",
+      "missing": false,
+      "actual_artist": "Keith Whitley",
+      "actual_title": "I Wonder Do You Think Of Me",
+      "lyrics_path": "keith-whitley\\_singles\\i-wonder-do-you-think-of-me.txt"
+    },
+    {
+      "rank": 15,
+      "searched_artist": "Reba McEntire",
+      "searched_title": "Cathy's Clown",
+      "missing": false,
+      "actual_artist": "Reba McEntire",
+      "actual_title": "Cathy\u2019s Clown",
+      "lyrics_path": "reba-mcentire\\_singles\\cathys-clown.txt"
+    },
+    {
+      "rank": 16,
+      "searched_artist": "Rosanne Cash",
+      "searched_title": "I Don't Want To Spoil The Party",
+      "missing": false,
+      "actual_artist": "Rosanne Cash",
+      "actual_title": "I Don\u2019t Want to Spoil the Party",
+      "lyrics_path": "rosanne-cash\\_singles\\i-dont-want-to-spoil-the-party.txt"
+    },
+    {
+      "rank": 17,
+      "searched_artist": "Steve Wariner",
+      "searched_title": "Where Did I Go Wrong",
+      "missing": false,
+      "actual_artist": "Steve Wariner",
+      "actual_title": "Where Did I Go Wrong",
+      "lyrics_path": "steve-wariner\\_singles\\where-did-i-go-wrong.txt"
+    },
+    {
+      "rank": 18,
+      "searched_artist": "Eddy Raven",
+      "searched_title": "In A Letter To You",
+      "missing": false,
+      "actual_artist": "Eddy Raven",
+      "actual_title": "In A Letter To You",
+      "lyrics_path": "eddy-raven\\_singles\\in-a-letter-to-you.txt"
+    },
+    {
+      "rank": 19,
+      "searched_artist": "Shenandoah",
+      "searched_title": "Sunday In The South",
+      "missing": false,
+      "actual_artist": "Shenandoah",
+      "actual_title": "Sunday in the South",
+      "lyrics_path": "shenandoah\\_singles\\sunday-in-the-south.txt"
+    },
+    {
+      "rank": 20,
+      "searched_artist": "Holly Dunn",
+      "searched_title": "Are You Ever Gonna Love Me",
+      "missing": false,
+      "actual_artist": "Holly Dunn",
+      "actual_title": "Are You Ever Gonna Love Me",
+      "lyrics_path": "holly-dunn\\_singles\\are-you-ever-gonna-love-me.txt"
+    },
+    {
+      "rank": 21,
+      "searched_artist": "Tanya Tucker",
+      "searched_title": "Highway Robbery",
+      "missing": false,
+      "actual_artist": "Tanya Tucker",
+      "actual_title": "Highway Robbery",
+      "lyrics_path": "tanya-tucker\\_singles\\highway-robbery.txt"
+    },
+    {
+      "rank": 22,
+      "searched_artist": "Rodney Crowell",
+      "searched_title": "After All This Time",
+      "missing": false,
+      "actual_artist": "Rodney Crowell",
+      "actual_title": "After All This Time",
+      "lyrics_path": "rodney-crowell\\_singles\\after-all-this-time.txt"
+    },
+    {
+      "rank": 23,
+      "searched_artist": "Dwight Yoakam",
+      "searched_title": "I Sang Dixie",
+      "missing": false,
+      "actual_artist": "Dwight Yoakam",
+      "actual_title": "I Sang Dixie",
+      "lyrics_path": "dwight-yoakam\\_singles\\i-sang-dixie.txt"
+    },
+    {
+      "rank": 24,
+      "searched_artist": "Dan Seals",
+      "searched_title": "Big Wheels In The Moonlight",
+      "missing": false,
+      "actual_artist": "Dan Seals",
+      "actual_title": "Big Wheels in the Moonlight",
+      "lyrics_path": "dan-seals\\_singles\\big-wheels-in-the-moonlight.txt"
+    },
+    {
+      "rank": 25,
+      "searched_artist": "Eddy Raven",
+      "searched_title": "Bayou Boys",
+      "missing": false,
+      "actual_artist": "Eddy Raven",
+      "actual_title": "Bayou Boys",
+      "lyrics_path": "eddy-raven\\_singles\\bayou-boys.txt"
+    },
+    {
+      "rank": 26,
+      "searched_artist": "George Strait",
+      "searched_title": "Baby's Gotten Good At Goodbye",
+      "missing": false,
+      "actual_artist": "George Strait",
+      "actual_title": "Baby\u2019s Gotten Good at Goodbye",
+      "lyrics_path": "george-strait\\_singles\\babys-gotten-good-at-goodbye.txt"
+    },
+    {
+      "rank": 27,
+      "searched_artist": "The Desert Rose Band",
+      "searched_title": "I Still Believe In You",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 28,
+      "searched_artist": "Lionel Cartwright",
+      "searched_title": "Give Me His Last Chance",
+      "missing": false,
+      "actual_artist": "Lionel Cartwright",
+      "actual_title": "Give Me His Last Chance",
+      "lyrics_path": "lionel-cartwright\\_singles\\give-me-his-last-chance.txt"
+    },
+    {
+      "rank": 29,
+      "searched_artist": "Shenandoah",
+      "searched_title": "The Church On Cumberland Road",
+      "missing": false,
+      "actual_artist": "Shenandoah",
+      "actual_title": "The Church on Cumberland Road",
+      "lyrics_path": "shenandoah\\_singles\\the-church-on-cumberland-road.txt"
+    },
+    {
+      "rank": 30,
+      "searched_artist": "Don Williams",
+      "searched_title": "One Good Well",
+      "missing": false,
+      "actual_artist": "Don Williams",
+      "actual_title": "One Good Well",
+      "lyrics_path": "don-williams\\_singles\\one-good-well.txt"
+    },
+    {
+      "rank": 31,
+      "searched_artist": "Vern Gosdin",
+      "searched_title": "I'm Still Crazy",
+      "missing": false,
+      "actual_artist": "Vern Gosdin",
+      "actual_title": "I\u2019m Still Crazy",
+      "lyrics_path": "vern-gosdin\\_singles\\im-still-crazy.txt"
+    },
+    {
+      "rank": 32,
+      "searched_artist": "Kathy Mattea",
+      "searched_title": "Come From The Heart",
+      "missing": false,
+      "actual_artist": "Kathy Mattea",
+      "actual_title": "Come From the Heart",
+      "lyrics_path": "kathy-mattea\\_singles\\come-from-the-heart.txt"
+    },
+    {
+      "rank": 33,
+      "searched_artist": "Kathy Mattea",
+      "searched_title": "Burnin' Old Memories",
+      "missing": false,
+      "actual_artist": "Kathy Mattea",
+      "actual_title": "Burnin\u2019 Old Memories",
+      "lyrics_path": "kathy-mattea\\_singles\\burnin-old-memories.txt"
+    },
+    {
+      "rank": 34,
+      "searched_artist": "Dolly Parton",
+      "searched_title": "Yellow Roses",
+      "missing": false,
+      "actual_artist": "Dolly Parton",
+      "actual_title": "Yellow Roses",
+      "lyrics_path": "dolly-parton\\_singles\\yellow-roses.txt"
+    },
+    {
+      "rank": 35,
+      "searched_artist": "Patty Loveless",
+      "searched_title": "Timber I'm Falling In Love",
+      "missing": false,
+      "actual_artist": "Patty Loveless",
+      "actual_title": "Timber I\u2019m Falling In Love",
+      "lyrics_path": "patty-loveless\\_singles\\timber-im-falling-in-love.txt"
+    },
+    {
+      "rank": 36,
+      "searched_artist": "Reba McEntire",
+      "searched_title": "New Fool At An Old Game",
+      "missing": false,
+      "actual_artist": "Reba McEntire",
+      "actual_title": "New Fool at an Old Game",
+      "lyrics_path": "reba-mcentire\\_singles\\new-fool-at-an-old-game.txt"
+    },
+    {
+      "rank": 37,
+      "searched_artist": "George Strait",
+      "searched_title": "Ace In The Hole",
+      "missing": false,
+      "actual_artist": "George Strait",
+      "actual_title": "Ace in the Hole",
+      "lyrics_path": "george-strait\\_singles\\ace-in-the-hole.txt"
+    },
+    {
+      "rank": 38,
+      "searched_artist": "Vern Gosdin",
+      "searched_title": "Who You Gonna Blame It On This Time",
+      "missing": false,
+      "actual_artist": "Vern Gosdin",
+      "actual_title": "Who You Gonna Blame It On This Time",
+      "lyrics_path": "vern-gosdin\\_singles\\who-you-gonna-blame-it-on-this-time.txt"
+    },
+    {
+      "rank": 40,
+      "searched_artist": "Ronnie Milsap",
+      "searched_title": "Don't You Ever Get Tired (Of Hurting Me)",
+      "missing": false,
+      "actual_artist": "Ronnie Milsap",
+      "actual_title": "Don\u2019t You Ever Get Tired (Of Hurting Me)",
+      "lyrics_path": "ronnie-milsap\\_singles\\dont-you-ever-get-tired-of-hurting-me.txt"
+    },
+    {
+      "rank": 41,
+      "searched_artist": "Alabama",
+      "searched_title": "Song Of The South",
+      "missing": false,
+      "actual_artist": "Alabama",
+      "actual_title": "Song of the South",
+      "lyrics_path": "alabama\\_singles\\song-of-the-south.txt"
+    },
+    {
+      "rank": 42,
+      "searched_artist": "Alabama",
+      "searched_title": "If I Had You",
+      "missing": false,
+      "actual_artist": "Alabama",
+      "actual_title": "If I Had You",
+      "lyrics_path": "alabama\\_singles\\if-i-had-you.txt"
+    },
+    {
+      "rank": 43,
+      "searched_artist": "Dolly Parton",
+      "searched_title": "Why'd You Come In Here Lookin' Like That",
+      "missing": false,
+      "actual_artist": "Dolly Parton",
+      "actual_title": "Why\u2019d You Come in Here Lookin\u2019 Like That",
+      "lyrics_path": "dolly-parton\\_singles\\whyd-you-come-in-here-lookin-like-that.txt"
+    },
+    {
+      "rank": 44,
+      "searched_artist": "Michael Martin Murphey",
+      "searched_title": "From The Word Go",
+      "missing": false,
+      "actual_artist": "Michael Martin Murphey",
+      "actual_title": "From the Word Go",
+      "lyrics_path": "michael-martin-murphey\\_singles\\from-the-word-go.txt"
+    },
+    {
+      "rank": 45,
+      "searched_artist": "The Desert Rose Band",
+      "searched_title": "She Don't Love Nobody",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 46,
+      "searched_artist": "K.T. Oslin",
+      "searched_title": "Hey Bobby",
+      "missing": false,
+      "actual_artist": "K.T. Oslin",
+      "actual_title": "Hey Bobby",
+      "lyrics_path": "kt-oslin\\_singles\\hey-bobby.txt"
+    },
+    {
+      "rank": 47,
+      "searched_artist": "Merle Haggard",
+      "searched_title": "A Better Love Next Time",
+      "missing": false,
+      "actual_artist": "Merle Haggard",
+      "actual_title": "A Better Love Next Time",
+      "lyrics_path": "merle-haggard\\_singles\\a-better-love-next-time.txt"
+    },
+    {
+      "rank": 48,
+      "searched_artist": "The Judds",
+      "searched_title": "Young Love (Strong Love)",
+      "missing": false,
+      "actual_artist": "The Judds",
+      "actual_title": "Young Love (Strong Love)",
+      "lyrics_path": "the-judds\\_singles\\young-love-strong-love.txt"
+    },
+    {
+      "rank": 49,
+      "searched_artist": "Billy Joe Royal",
+      "searched_title": "Love Has No Right",
+      "missing": false,
+      "actual_artist": "Billy Joe Royal",
+      "actual_title": "Love Has No Right",
+      "lyrics_path": "billy-joe-royal\\_singles\\love-has-no-right.txt"
+    },
+    {
+      "rank": 50,
+      "searched_artist": "Ronnie Milsap",
+      "searched_title": "Houston Solution",
+      "missing": false,
+      "actual_artist": "Ronnie Milsap",
+      "actual_title": "Houston Solution",
+      "lyrics_path": "ronnie-milsap\\_singles\\houston-solution.txt"
+    },
+    {
+      "rank": 51,
+      "searched_artist": "Billy Joe Royal",
+      "searched_title": "Tell It Like It Is",
+      "missing": false,
+      "actual_artist": "Billy Joe Royal",
+      "actual_title": "Tell It Like It Is",
+      "lyrics_path": "billy-joe-royal\\_singles\\tell-it-like-it-is.txt"
+    },
+    {
+      "rank": 52,
+      "searched_artist": "Earl Thomas Conley",
+      "searched_title": "What I'd Say",
+      "missing": false,
+      "actual_artist": "Earl Thomas Conley",
+      "actual_title": "What I\u2019d Say",
+      "lyrics_path": "earl-thomas-conley\\_singles\\what-id-say.txt"
+    },
+    {
+      "rank": 53,
+      "searched_artist": "Randy Travis",
+      "searched_title": "Is It Still Over",
+      "missing": false,
+      "actual_artist": "Randy Travis",
+      "actual_title": "Is It Still Over?",
+      "lyrics_path": "randy-travis\\_singles\\is-it-still-over.txt"
+    },
+    {
+      "rank": 56,
+      "searched_artist": "Dan Seals",
+      "searched_title": "They Rage On",
+      "missing": false,
+      "actual_artist": "Dan Seals",
+      "actual_title": "They Rage On",
+      "lyrics_path": "dan-seals\\_singles\\they-rage-on.txt"
+    },
+    {
+      "rank": 57,
+      "searched_artist": "Kathy Mattea",
+      "searched_title": "Life As We Knew It",
+      "missing": false,
+      "actual_artist": "Kathy Mattea",
+      "actual_title": "Life As We Knew It",
+      "lyrics_path": "kathy-mattea\\_singles\\life-as-we-knew-it.txt"
+    },
+    {
+      "rank": 58,
+      "searched_artist": "Ricky Van Shelton",
+      "searched_title": "From A Jack To A King",
+      "missing": false,
+      "actual_artist": "Ricky Van Shelton",
+      "actual_title": "From A Jack To A King",
+      "lyrics_path": "ricky-van-shelton\\_singles\\from-a-jack-to-a-king.txt"
+    },
+    {
+      "rank": 59,
+      "searched_artist": "Restless Heart",
+      "searched_title": "Say What's In Your Heart",
+      "missing": false,
+      "actual_artist": "Restless Heart",
+      "actual_title": "Say What\u2019s in Your Heart",
+      "lyrics_path": "restless-heart\\_singles\\say-whats-in-your-heart.txt"
+    },
+    {
+      "rank": 61,
+      "searched_artist": "Reba McEntire",
+      "searched_title": "Til Love Comes Again",
+      "missing": false,
+      "actual_artist": "Reba McEntire",
+      "actual_title": "\u2019Til Love Comes Again",
+      "lyrics_path": "reba-mcentire\\_singles\\til-love-comes-again.txt"
+    },
+    {
+      "rank": 62,
+      "searched_artist": "Tanya Tucker",
+      "searched_title": "Call On Me",
+      "missing": false,
+      "actual_artist": "Tanya Tucker",
+      "actual_title": "Call On Me",
+      "lyrics_path": "tanya-tucker\\_singles\\call-on-me.txt"
+    },
+    {
+      "rank": 63,
+      "searched_artist": "Restless Heart",
+      "searched_title": "Big Dreams In A Small Town",
+      "missing": false,
+      "actual_artist": "Restless Heart",
+      "actual_title": "Big Dreams in a Small Town",
+      "lyrics_path": "restless-heart\\_singles\\big-dreams-in-a-small-town.txt"
+    },
+    {
+      "rank": 64,
+      "searched_artist": "Garth Brooks",
+      "searched_title": "Much Too Young (To Feel This Damn Old)",
+      "missing": false,
+      "actual_artist": "Garth Brooks",
+      "actual_title": "Much Too Young (To Feel This Damn Old)",
+      "lyrics_path": "garth-brooks\\_singles\\much-too-young-to-feel-this-damn-old.txt"
+    },
+    {
+      "rank": 65,
+      "searched_artist": "Southern Pacific",
+      "searched_title": "Any Way The Wind Blows",
+      "missing": false,
+      "actual_artist": "Southern Pacific",
+      "actual_title": "Any Way The Wind Blows",
+      "lyrics_path": "southern-pacific\\_singles\\any-way-the-wind-blows.txt"
+    },
+    {
+      "rank": 66,
+      "searched_artist": "Skip Ewing",
+      "searched_title": "Burnin' A Hole In My Heart",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 67,
+      "searched_artist": "Highway 101",
+      "searched_title": "Honky Tonk Heart",
+      "missing": false,
+      "actual_artist": "Highway 101",
+      "actual_title": "Honky Tonk Heart",
+      "lyrics_path": "highway-101\\_singles\\honky-tonk-heart.txt"
+    },
+    {
+      "rank": 68,
+      "searched_artist": "Patty Loveless",
+      "searched_title": "Don't Toss Us Away",
+      "missing": false,
+      "actual_artist": "Patty Loveless",
+      "actual_title": "Don\u2019t Toss Us Away",
+      "lyrics_path": "patty-loveless\\_singles\\dont-toss-us-away.txt"
+    },
+    {
+      "rank": 69,
+      "searched_artist": "The Statler Brothers",
+      "searched_title": "More Than A Name On A Wall",
+      "missing": false,
+      "actual_artist": "The Statler Brothers",
+      "actual_title": "More Than a Name on a Wall",
+      "lyrics_path": "the-statler-brothers\\_singles\\more-than-a-name-on-a-wall.txt"
+    },
+    {
+      "rank": 70,
+      "searched_artist": "George Jones",
+      "searched_title": "I'm A One Woman Man",
+      "missing": false,
+      "actual_artist": "George Jones",
+      "actual_title": "I\u2019m A One Woman Man",
+      "lyrics_path": "george-jones\\_singles\\im-a-one-woman-man.txt"
+    },
+    {
+      "rank": 71,
+      "searched_artist": "Hank Williams Jr.",
+      "searched_title": "Finders Are Keepers",
+      "missing": false,
+      "actual_artist": "Hank Williams Jr.",
+      "actual_title": "Finders Are Keepers",
+      "lyrics_path": "hank-williams-jr\\_singles\\finders-are-keepers.txt"
+    },
+    {
+      "rank": 72,
+      "searched_artist": "Southern Pacific",
+      "searched_title": "Honey I Dare You",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 73,
+      "searched_artist": "The Oak Ridge Boys",
+      "searched_title": "An American Family",
+      "missing": false,
+      "actual_artist": "The Oak Ridge Boys",
+      "actual_title": "An American Family",
+      "lyrics_path": "the-oak-ridge-boys\\_singles\\an-american-family.txt"
+    },
+    {
+      "rank": 74,
+      "searched_artist": "K.T. Oslin",
+      "searched_title": "This Woman",
+      "missing": false,
+      "actual_artist": "K.T. Oslin",
+      "actual_title": "This Woman",
+      "lyrics_path": "kt-oslin\\_singles\\this-woman.txt"
+    },
+    {
+      "rank": 75,
+      "searched_artist": "Dwight Yoakam",
+      "searched_title": "I Got You",
+      "missing": false,
+      "actual_artist": "Dwight Yoakam",
+      "actual_title": "I Got You",
+      "lyrics_path": "dwight-yoakam\\_singles\\i-got-you.txt"
+    },
+    {
+      "rank": 76,
+      "searched_artist": "Ricky Van Shelton",
+      "searched_title": "Hole In My Pocket",
+      "missing": false,
+      "actual_artist": "Ricky Van Shelton",
+      "actual_title": "Hole In My Pocket",
+      "lyrics_path": "ricky-van-shelton\\_singles\\hole-in-my-pocket.txt"
+    },
+    {
+      "rank": 77,
+      "searched_artist": "Don Williams",
+      "searched_title": "Old Coyote Town",
+      "missing": false,
+      "actual_artist": "Don Williams",
+      "actual_title": "Old Coyote Town",
+      "lyrics_path": "don-williams\\_singles\\old-coyote-town.txt"
+    },
+    {
+      "rank": 78,
+      "searched_artist": "Randy Travis",
+      "searched_title": "It's Just A Matter Of Time",
+      "missing": false,
+      "actual_artist": "Randy Travis",
+      "actual_title": "It\u2019s Just a Matter of Time",
+      "lyrics_path": "randy-travis\\_singles\\its-just-a-matter-of-time.txt"
+    },
+    {
+      "rank": 79,
+      "searched_artist": "Chris Hillman & Roger McGuinn",
+      "searched_title": "You Ain't Going Nowhere",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 80,
+      "searched_artist": "Rodney Crowell",
+      "searched_title": "She's Crazy For Leaving",
+      "missing": false,
+      "actual_artist": "Rodney Crowell",
+      "actual_title": "She\u2019s Crazy For Leaving",
+      "lyrics_path": "rodney-crowell\\_singles\\shes-crazy-for-leaving.txt"
+    },
+    {
+      "rank": 81,
+      "searched_artist": "Paul Overstreet",
+      "searched_title": "All The Fun",
+      "missing": false,
+      "actual_artist": "Paul Overstreet",
+      "actual_title": "All the Fun",
+      "lyrics_path": "paul-overstreet\\_singles\\all-the-fun.txt"
+    },
+    {
+      "rank": 82,
+      "searched_artist": "Lorrie Morgan",
+      "searched_title": "Dear Me",
+      "missing": false,
+      "actual_artist": "Lorrie Morgan",
+      "actual_title": "Dear Me",
+      "lyrics_path": "lorrie-morgan\\_singles\\dear-me.txt"
+    },
+    {
+      "rank": 83,
+      "searched_artist": "Ricky Skaggs",
+      "searched_title": "Let It Be You",
+      "missing": false,
+      "actual_artist": "Ricky Skaggs",
+      "actual_title": "Let It Be You",
+      "lyrics_path": "ricky-skaggs\\_singles\\let-it-be-you.txt"
+    },
+    {
+      "rank": 84,
+      "searched_artist": "Garth Brooks",
+      "searched_title": "If Tomorrow Never Comes",
+      "missing": false,
+      "actual_artist": "Garth Brooks",
+      "actual_title": "If Tomorrow Never Comes",
+      "lyrics_path": "garth-brooks\\_singles\\if-tomorrow-never-comes.txt"
+    },
+    {
+      "rank": 85,
+      "searched_artist": "The Oak Ridge Boys",
+      "searched_title": "Beyond Those Years",
+      "missing": false,
+      "actual_artist": "The Oak Ridge Boys",
+      "actual_title": "Beyond Those Years",
+      "lyrics_path": "the-oak-ridge-boys\\_singles\\beyond-those-years.txt"
+    },
+    {
+      "rank": 86,
+      "searched_artist": "The Bellamy Brothers",
+      "searched_title": "You'll Never Be Sorry",
+      "missing": false,
+      "actual_artist": "The Bellamy Brothers",
+      "actual_title": "You\u2019ll Never Be Sorry",
+      "lyrics_path": "the-bellamy-brothers\\_singles\\youll-never-be-sorry.txt"
+    },
+    {
+      "rank": 87,
+      "searched_artist": "Sawyer Brown",
+      "searched_title": "The Race Is On",
+      "missing": false,
+      "actual_artist": "Sawyer Brown",
+      "actual_title": "The Race Is On",
+      "lyrics_path": "sawyer-brown\\_singles\\the-race-is-on.txt"
+    },
+    {
+      "rank": 88,
+      "searched_artist": "T. Graham Brown",
+      "searched_title": "Come As You Were",
+      "missing": false,
+      "actual_artist": "T. Graham Brown",
+      "actual_title": "Come As You Were",
+      "lyrics_path": "t-graham-brown\\_singles\\come-as-you-were.txt"
+    },
+    {
+      "rank": 89,
+      "searched_artist": "Gene Watson",
+      "searched_title": "Don't Waste It On The Blues",
+      "missing": false,
+      "actual_artist": "Gene Watson",
+      "actual_title": "Don\u2019t Waste It On The Blues",
+      "lyrics_path": "gene-watson\\_singles\\dont-waste-it-on-the-blues.txt"
+    },
+    {
+      "rank": 91,
+      "searched_artist": "The Judds",
+      "searched_title": "Change Of Heart",
+      "missing": false,
+      "actual_artist": "The Judds",
+      "actual_title": "Change of Heart",
+      "lyrics_path": "the-judds\\_singles\\change-of-heart.txt"
+    },
+    {
+      "rank": 92,
+      "searched_artist": "Nitty Gritty Dirt Band",
+      "searched_title": "Down That Road Tonight",
+      "missing": false,
+      "actual_artist": "Nitty Gritty Dirt Band",
+      "actual_title": "Down That Road Tonight",
+      "lyrics_path": "nitty-gritty-dirt-band\\_singles\\down-that-road-tonight.txt"
+    },
+    {
+      "rank": 93,
+      "searched_artist": "Foster & Lloyd",
+      "searched_title": "Fair Shake",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 94,
+      "searched_artist": "The Forester Sisters",
+      "searched_title": "Love Will",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 95,
+      "searched_artist": "Roy Orbison",
+      "searched_title": "You Got It",
+      "missing": false,
+      "actual_artist": "Roy Orbison",
+      "actual_title": "You Got It",
+      "lyrics_path": "roy-orbison\\_singles\\you-got-it.txt"
+    },
+    {
+      "rank": 96,
+      "searched_artist": "Michael Martin Murphey",
+      "searched_title": "Never Givin' Up On Love",
+      "missing": false,
+      "actual_artist": "Michael Martin Murphey",
+      "actual_title": "Never Givin\u2019 Up on Love",
+      "lyrics_path": "michael-martin-murphey\\_singles\\never-givin-up-on-love.txt"
+    },
+    {
+      "rank": 97,
+      "searched_artist": "Highway 101",
+      "searched_title": "Setting Me Up",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 98,
+      "searched_artist": "The McCarters",
+      "searched_title": "Up And Gone",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 99,
+      "searched_artist": "Sweethearts Of The Rodeo",
+      "searched_title": "I Feel Fine",
+      "missing": false,
+      "actual_artist": "Sweethearts of the Rodeo",
+      "actual_title": "I Feel Fine",
+      "lyrics_path": "sweethearts-of-the-rodeo\\_singles\\i-feel-fine.txt"
+    },
+    {
+      "rank": 100,
+      "searched_artist": "The Forester Sisters",
+      "searched_title": "Don't You",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    }
+  ]
+}

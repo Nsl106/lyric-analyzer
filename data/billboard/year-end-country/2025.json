@@ -1,0 +1,502 @@
+[
+  {
+    "rank": 1,
+    "title": "A Bar Song (Tipsy)",
+    "artist": "Shaboozey"
+  },
+  {
+    "rank": 2,
+    "title": "Love Somebody",
+    "artist": "Morgan Wallen"
+  },
+  {
+    "rank": 3,
+    "title": "I'm The Problem",
+    "artist": "Morgan Wallen"
+  },
+  {
+    "rank": 4,
+    "title": "I Had Some Help",
+    "artist": "Post Malone Featuring Morgan Wallen"
+  },
+  {
+    "rank": 5,
+    "title": "Just In Case",
+    "artist": "Morgan Wallen"
+  },
+  {
+    "rank": 6,
+    "title": "Good News",
+    "artist": "Shaboozey"
+  },
+  {
+    "rank": 7,
+    "title": "What I Want",
+    "artist": "Morgan Wallen Featuring Tate McRae"
+  },
+  {
+    "rank": 8,
+    "title": "All The Way",
+    "artist": "BigXthaPlug Featuring Bailey Zimmerman"
+  },
+  {
+    "rank": 9,
+    "title": "I Got Better",
+    "artist": "Morgan Wallen"
+  },
+  {
+    "rank": 10,
+    "title": "I Never Lie",
+    "artist": "Zach Top"
+  },
+  {
+    "rank": 11,
+    "title": "High Road",
+    "artist": "Koe Wetzel & Jessie Murph"
+  },
+  {
+    "rank": 12,
+    "title": "Indigo",
+    "artist": "Sam Barber Featuring Avery Anna"
+  },
+  {
+    "rank": 13,
+    "title": "Smile",
+    "artist": "Morgan Wallen"
+  },
+  {
+    "rank": 14,
+    "title": "Weren't For The Wind",
+    "artist": "Ella Langley"
+  },
+  {
+    "rank": 15,
+    "title": "Worst Way",
+    "artist": "Riley Green"
+  },
+  {
+    "rank": 16,
+    "title": "Happen To Me",
+    "artist": "Russell Dickerson"
+  },
+  {
+    "rank": 17,
+    "title": "House Again",
+    "artist": "Hudson Westbrook"
+  },
+  {
+    "rank": 18,
+    "title": "Liar",
+    "artist": "Jelly Roll"
+  },
+  {
+    "rank": 19,
+    "title": "Am I Okay?",
+    "artist": "Megan Moroney"
+  },
+  {
+    "rank": 20,
+    "title": "I Ain't Coming Back",
+    "artist": "Morgan Wallen Featuring Post Malone"
+  },
+  {
+    "rank": 21,
+    "title": "I Am Not Okay",
+    "artist": "Jelly Roll"
+  },
+  {
+    "rank": 22,
+    "title": "Backup Plan",
+    "artist": "Bailey Zimmerman & Luke Combs"
+  },
+  {
+    "rank": 23,
+    "title": "Fix What You Didn't Break",
+    "artist": "Nate Smith"
+  },
+  {
+    "rank": 24,
+    "title": "I'm Gonna Love You",
+    "artist": "Cody Johnson & Carrie Underwood"
+  },
+  {
+    "rank": 25,
+    "title": "After All The Bars Are Closed",
+    "artist": "Thomas Rhett"
+  },
+  {
+    "rank": 26,
+    "title": "20 Cigarettes",
+    "artist": "Morgan Wallen"
+  },
+  {
+    "rank": 27,
+    "title": "Lies Lies Lies",
+    "artist": "Morgan Wallen"
+  },
+  {
+    "rank": 28,
+    "title": "Superman",
+    "artist": "Morgan Wallen"
+  },
+  {
+    "rank": 29,
+    "title": "I'm A Little Crazy",
+    "artist": "Morgan Wallen"
+  },
+  {
+    "rank": 30,
+    "title": "Amen",
+    "artist": "Shaboozey & Jelly Roll"
+  },
+  {
+    "rank": 31,
+    "title": "Wind Up Missin' You",
+    "artist": "Tucker Wetmore"
+  },
+  {
+    "rank": 32,
+    "title": "Hard Fought Hallelujah",
+    "artist": "Brandon Lake X Jelly Roll"
+  },
+  {
+    "rank": 33,
+    "title": "Bar None",
+    "artist": "Jordan Davis"
+  },
+  {
+    "rank": 34,
+    "title": "Backseat Driver",
+    "artist": "Kane Brown"
+  },
+  {
+    "rank": 35,
+    "title": "Better Me For You (Brown Eyes)",
+    "artist": "Max McNown"
+  },
+  {
+    "rank": 36,
+    "title": "4x4xU",
+    "artist": "Lainey Wilson"
+  },
+  {
+    "rank": 37,
+    "title": "Ends Of The Earth",
+    "artist": "Ty Myers"
+  },
+  {
+    "rank": 38,
+    "title": "I Ain't Sayin'",
+    "artist": "Jordan Davis"
+  },
+  {
+    "rank": 39,
+    "title": "Holy Smokes",
+    "artist": "Bailey Zimmerman"
+  },
+  {
+    "rank": 40,
+    "title": "Bottle Rockets",
+    "artist": "Scotty McCreery & Hootie & The Blowfish"
+  },
+  {
+    "rank": 41,
+    "title": "6 Months Later",
+    "artist": "Megan Moroney"
+  },
+  {
+    "rank": 42,
+    "title": "TN",
+    "artist": "Morgan Wallen"
+  },
+  {
+    "rank": 43,
+    "title": "Guy For That",
+    "artist": "Post Malone Featuring Luke Combs"
+  },
+  {
+    "rank": 44,
+    "title": "Miami",
+    "artist": "Morgan Wallen Featuring Lil Wayne & Rick Ross"
+  },
+  {
+    "rank": 45,
+    "title": "Don't Mind If I Do",
+    "artist": "Riley Green Featuring Ella Langley"
+  },
+  {
+    "rank": 46,
+    "title": "Texas",
+    "artist": "Blake Shelton"
+  },
+  {
+    "rank": 47,
+    "title": "Think I'm In Love With You",
+    "artist": "Chris Stapleton"
+  },
+  {
+    "rank": 48,
+    "title": "Hands Of Time",
+    "artist": "Eric Church"
+  },
+  {
+    "rank": 49,
+    "title": "Somethin' 'Bout A Woman",
+    "artist": "Thomas Rhett Featuring Teddy Swims"
+  },
+  {
+    "rank": 50,
+    "title": "Pour Me A Drink",
+    "artist": "Post Malone Featuring Blake Shelton"
+  },
+  {
+    "rank": 51,
+    "title": "Somewhere Over Laredo",
+    "artist": "Lainey Wilson"
+  },
+  {
+    "rank": 52,
+    "title": "Miles On It",
+    "artist": "Marshmello & Kane Brown"
+  },
+  {
+    "rank": 53,
+    "title": "Dark Til Daylight",
+    "artist": "Morgan Wallen"
+  },
+  {
+    "rank": 54,
+    "title": "You Look Like You Love Me",
+    "artist": "Ella Langley Featuring Riley Green"
+  },
+  {
+    "rank": 55,
+    "title": "The Giver",
+    "artist": "Chappell Roan"
+  },
+  {
+    "rank": 56,
+    "title": "Single Again",
+    "artist": "Josh Ross"
+  },
+  {
+    "rank": 57,
+    "title": "Back In The Saddle",
+    "artist": "Luke Combs"
+  },
+  {
+    "rank": 58,
+    "title": "Relapse",
+    "artist": "Warren Zeiders"
+  },
+  {
+    "rank": 59,
+    "title": "High Road",
+    "artist": "Zach Bryan"
+  },
+  {
+    "rank": 60,
+    "title": "Thought It Was Love",
+    "artist": "Ty Myers"
+  },
+  {
+    "rank": 61,
+    "title": "This Town's Been Too Good To Us",
+    "artist": "Dylan Scott"
+  },
+  {
+    "rank": 62,
+    "title": "Just Like Johnny",
+    "artist": "Redferrin"
+  },
+  {
+    "rank": 63,
+    "title": "Whiskey Drink",
+    "artist": "Jason Aldean"
+  },
+  {
+    "rank": 64,
+    "title": "Haunted",
+    "artist": "Kane Brown With Jelly Roll"
+  },
+  {
+    "rank": 65,
+    "title": "Eyes Are Closed",
+    "artist": "Morgan Wallen"
+  },
+  {
+    "rank": 66,
+    "title": "Friends Like That",
+    "artist": "John Morgan Featuring Jason Aldean"
+  },
+  {
+    "rank": 67,
+    "title": "Brunette",
+    "artist": "Tucker Wetmore"
+  },
+  {
+    "rank": 68,
+    "title": "Forever To Me",
+    "artist": "Cole Swindell"
+  },
+  {
+    "rank": 69,
+    "title": "God & Guns N Roses",
+    "artist": "Tyler Braden"
+  },
+  {
+    "rank": 70,
+    "title": "Hometown Home",
+    "artist": "LoCash"
+  },
+  {
+    "rank": 71,
+    "title": "Heart Of Stone",
+    "artist": "Jelly Roll"
+  },
+  {
+    "rank": 72,
+    "title": "This Heart",
+    "artist": "Corey Kent"
+  },
+  {
+    "rank": 73,
+    "title": "Don't We",
+    "artist": "Morgan Wallen"
+  },
+  {
+    "rank": 74,
+    "title": "Kiss Her In Front Of You",
+    "artist": "Morgan Wallen"
+  },
+  {
+    "rank": 75,
+    "title": "What Kinda Man",
+    "artist": "Parker McCollum"
+  },
+  {
+    "rank": 76,
+    "title": "Hell At Night",
+    "artist": "BigXthaPlug Featuring Ella Langley"
+  },
+  {
+    "rank": 77,
+    "title": "Cowboy Songs",
+    "artist": "George Birge"
+  },
+  {
+    "rank": 78,
+    "title": "Kick Myself",
+    "artist": "Morgan Wallen"
+  },
+  {
+    "rank": 79,
+    "title": "3,2,1",
+    "artist": "Tucker Wetmore"
+  },
+  {
+    "rank": 80,
+    "title": "Where'd That Girl Go",
+    "artist": "Morgan Wallen"
+  },
+  {
+    "rank": 81,
+    "title": "Pink Skies",
+    "artist": "Zach Bryan"
+  },
+  {
+    "rank": 82,
+    "title": "28",
+    "artist": "Zach Bryan"
+  },
+  {
+    "rank": 83,
+    "title": "If You Were Mine",
+    "artist": "Morgan Wallen"
+  },
+  {
+    "rank": 84,
+    "title": "Boys Back Home",
+    "artist": "Dylan Marlowe & Dylan Scott"
+  },
+  {
+    "rank": 85,
+    "title": "Cowboys Cry Too",
+    "artist": "Kelsea Ballerini & Noah Kahan"
+  },
+  {
+    "rank": 86,
+    "title": "Good Times & Tan Lines",
+    "artist": "Zach Top"
+  },
+  {
+    "rank": 87,
+    "title": "Skoal, Chevy, And Browning",
+    "artist": "Morgan Wallen"
+  },
+  {
+    "rank": 88,
+    "title": "Devil You Know",
+    "artist": "Tyler Braden"
+  },
+  {
+    "rank": 89,
+    "title": "Darlin'",
+    "artist": "Chase Matthew"
+  },
+  {
+    "rank": 90,
+    "title": "Bigger Houses",
+    "artist": "Dan + Shay"
+  },
+  {
+    "rank": 91,
+    "title": "Falling Apart",
+    "artist": "Morgan Wallen"
+  },
+  {
+    "rank": 92,
+    "title": "The Fall",
+    "artist": "Cody Johnson"
+  },
+  {
+    "rank": 93,
+    "title": "Last One To Know",
+    "artist": "Gavin Adcock"
+  },
+  {
+    "rank": 94,
+    "title": "Lonely Road",
+    "artist": "MGK & Jelly Roll"
+  },
+  {
+    "rank": 95,
+    "title": "Ain't No Love In Oklahoma",
+    "artist": "Luke Combs"
+  },
+  {
+    "rank": 96,
+    "title": "Austin",
+    "artist": "Dasha"
+  },
+  {
+    "rank": 97,
+    "title": "A Lot More Free",
+    "artist": "Max McNown"
+  },
+  {
+    "rank": 98,
+    "title": "Not At This Party",
+    "artist": "Dasha"
+  },
+  {
+    "rank": 99,
+    "title": "Use Me",
+    "artist": "Zach Top"
+  },
+  {
+    "rank": 100,
+    "title": "Beautiful As You",
+    "artist": "Thomas Rhett"
+  }
+]

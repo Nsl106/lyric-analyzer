@@ -1,0 +1,344 @@
+{
+  "year": 1978,
+  "chart": "year-end-country",
+  "total_songs": 38,
+  "fetched": 35,
+  "songs": [
+    {
+      "rank": 2,
+      "searched_artist": "Dolly Parton",
+      "searched_title": "Here You Come Again",
+      "missing": false,
+      "actual_artist": "Dolly Parton",
+      "actual_title": "Here You Come Again",
+      "lyrics_path": "dolly-parton\\_singles\\here-you-come-again.txt"
+    },
+    {
+      "rank": 3,
+      "searched_artist": "Ronnie Milsap",
+      "searched_title": "Only One Love In My Life",
+      "missing": false,
+      "actual_artist": "Ronnie Milsap",
+      "actual_title": "Only One Love in My Life",
+      "lyrics_path": "ronnie-milsap\\_singles\\only-one-love-in-my-life.txt"
+    },
+    {
+      "rank": 4,
+      "searched_artist": "Waylon Jennings",
+      "searched_title": "I've Always Been Crazy",
+      "missing": false,
+      "actual_artist": "Waylon Jennings",
+      "actual_title": "I\u2019ve Always Been Crazy",
+      "lyrics_path": "waylon-jennings\\_singles\\ive-always-been-crazy.txt"
+    },
+    {
+      "rank": 5,
+      "searched_artist": "Dolly Parton",
+      "searched_title": "Heartbreaker",
+      "missing": false,
+      "actual_artist": "Dolly Parton",
+      "actual_title": "Heartbreaker",
+      "lyrics_path": "dolly-parton\\_singles\\heartbreaker.txt"
+    },
+    {
+      "rank": 6,
+      "searched_artist": "Johnny Paycheck",
+      "searched_title": "Take This Job And Shove It",
+      "missing": false,
+      "actual_artist": "Johnny Paycheck",
+      "actual_title": "Take This Job and Shove It",
+      "lyrics_path": "johnny-paycheck\\_singles\\take-this-job-and-shove-it.txt"
+    },
+    {
+      "rank": 7,
+      "searched_artist": "Margo Smith",
+      "searched_title": "Don't Break The Heart That Loves You",
+      "missing": false,
+      "actual_artist": "Margo Smith",
+      "actual_title": "Don\u2019t Break The Heart That Loves You",
+      "lyrics_path": "margo-smith\\_singles\\dont-break-the-heart-that-loves-you.txt"
+    },
+    {
+      "rank": 10,
+      "searched_artist": "Charley Pride",
+      "searched_title": "Someone Loves You Honey",
+      "missing": false,
+      "actual_artist": "Charley Pride",
+      "actual_title": "Someone Loves You Honey",
+      "lyrics_path": "charley-pride\\_singles\\someone-loves-you-honey.txt"
+    },
+    {
+      "rank": 11,
+      "searched_artist": "Crystal Gayle",
+      "searched_title": "Talking In Your Sleep",
+      "missing": false,
+      "actual_artist": "Crystal Gayle",
+      "actual_title": "Talking in Your Sleep",
+      "lyrics_path": "crystal-gayle\\_singles\\talking-in-your-sleep.txt"
+    },
+    {
+      "rank": 12,
+      "searched_artist": "Loretta Lynn",
+      "searched_title": "Out Of My Head And Back In My Bed",
+      "missing": false,
+      "actual_artist": "Loretta Lynn",
+      "actual_title": "Out of My Head and Back in My Bed",
+      "lyrics_path": "loretta-lynn\\_singles\\out-of-my-head-and-back-in-my-bed.txt"
+    },
+    {
+      "rank": 14,
+      "searched_artist": "Ronnie Milsap",
+      "searched_title": "What A Difference You Made In My Life",
+      "missing": false,
+      "actual_artist": "Ronnie Milsap",
+      "actual_title": "What a Difference You\u2019ve Made in My Life",
+      "lyrics_path": "ronnie-milsap\\_singles\\what-a-difference-youve-made-in-my-life.txt"
+    },
+    {
+      "rank": 15,
+      "searched_artist": "Willie Nelson",
+      "searched_title": "GEORGIA ON MY MIND",
+      "missing": false,
+      "actual_artist": "Willie Nelson",
+      "actual_title": "Georgia on My Mind",
+      "lyrics_path": "willie-nelson\\_singles\\georgia-on-my-mind.txt"
+    },
+    {
+      "rank": 17,
+      "searched_artist": "Margo Smith",
+      "searched_title": "It Only Hurts For A Little While",
+      "missing": false,
+      "actual_artist": "Margo Smith",
+      "actual_title": "It Only Hurts For A Little While",
+      "lyrics_path": "margo-smith\\_singles\\it-only-hurts-for-a-little-while.txt"
+    },
+    {
+      "rank": 18,
+      "searched_artist": "Eddie Rabbitt",
+      "searched_title": "Hearts On Fire",
+      "missing": false,
+      "actual_artist": "Eddie Rabbitt",
+      "actual_title": "Hearts on Fire",
+      "lyrics_path": "eddie-rabbitt\\_singles\\hearts-on-fire.txt"
+    },
+    {
+      "rank": 19,
+      "searched_artist": "Kenny Rogers",
+      "searched_title": "Love Or Something Like It",
+      "missing": false,
+      "actual_artist": "Kenny Rogers",
+      "actual_title": "Love or Something Like It",
+      "lyrics_path": "kenny-rogers\\_singles\\love-or-something-like-it.txt"
+    },
+    {
+      "rank": 20,
+      "searched_artist": "Jerry Lee Lewis",
+      "searched_title": "Middle Age Crazy",
+      "missing": false,
+      "actual_artist": "Jerry Lee Lewis",
+      "actual_title": "Middle Age Crazy",
+      "lyrics_path": "jerry-lee-lewis\\_singles\\middle-age-crazy.txt"
+    },
+    {
+      "rank": 21,
+      "searched_artist": "John Conlee",
+      "searched_title": "Rose Colored Glasses",
+      "missing": false,
+      "actual_artist": "John Conlee",
+      "actual_title": "Rose Colored Glasses",
+      "lyrics_path": "john-conlee\\_singles\\rose-colored-glasses.txt"
+    },
+    {
+      "rank": 22,
+      "searched_artist": "Emmylou Harris",
+      "searched_title": "Two More Bottles Of Wine",
+      "missing": false,
+      "actual_artist": "Emmylou Harris",
+      "actual_title": "Two More Bottles Of Wine",
+      "lyrics_path": "emmylou-harris\\_singles\\two-more-bottles-of-wine.txt"
+    },
+    {
+      "rank": 23,
+      "searched_artist": "The Oak Ridge Boys",
+      "searched_title": "I'll Be True To You",
+      "missing": false,
+      "actual_artist": "The Oak Ridge Boys",
+      "actual_title": "I\u2019ll Be True To You",
+      "lyrics_path": "the-oak-ridge-boys\\_singles\\ill-be-true-to-you.txt"
+    },
+    {
+      "rank": 24,
+      "searched_artist": "Eddie Rabbitt",
+      "searched_title": "You Don't Love Me Anymore",
+      "missing": false,
+      "actual_artist": "Eddie Rabbitt",
+      "actual_title": "You Don\u2019t Love Me Anymore",
+      "lyrics_path": "eddie-rabbitt\\_singles\\you-dont-love-me-anymore.txt"
+    },
+    {
+      "rank": 26,
+      "searched_artist": "Mel Tillis",
+      "searched_title": "I Believe In You",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 27,
+      "searched_artist": "Donna Fargo",
+      "searched_title": "Do I Love You (yes In Every Way)",
+      "missing": false,
+      "actual_artist": "Donna Fargo",
+      "actual_title": "Do I Love You (Yes In Every Way)",
+      "lyrics_path": "donna-fargo\\_singles\\do-i-love-you-yes-in-every-way.txt"
+    },
+    {
+      "rank": 28,
+      "searched_artist": "Merle Haggard",
+      "searched_title": "I'm Always On A Mountain When I Fall",
+      "missing": false,
+      "actual_artist": "Merle Haggard",
+      "actual_title": "I\u2019m Always on a Mountain When I Fall",
+      "lyrics_path": "merle-haggard\\_singles\\im-always-on-a-mountain-when-i-fall.txt"
+    },
+    {
+      "rank": 29,
+      "searched_artist": "Crystal Gayle",
+      "searched_title": "Ready For The Times To Get Better",
+      "missing": false,
+      "actual_artist": "Crystal Gayle",
+      "actual_title": "Ready for the Times to Get Better",
+      "lyrics_path": "crystal-gayle\\_singles\\ready-for-the-times-to-get-better.txt"
+    },
+    {
+      "rank": 30,
+      "searched_artist": "Anne Murray",
+      "searched_title": "You Needed Me",
+      "missing": false,
+      "actual_artist": "Anne Murray",
+      "actual_title": "You Needed Me",
+      "lyrics_path": "anne-murray\\_singles\\you-needed-me.txt"
+    },
+    {
+      "rank": 31,
+      "searched_artist": "Ronnie McDowell",
+      "searched_title": "I Love You, I Love You, I Love You",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 32,
+      "searched_artist": "Waylon Jennings",
+      "searched_title": "The Wurlitzer Prize",
+      "missing": false,
+      "actual_artist": "Waylon Jennings",
+      "actual_title": "The Wurlitzer Prize (I Don\u2019t Want to Get Over You)",
+      "lyrics_path": "waylon-jennings\\_singles\\the-wurlitzer-prize-i-dont-want-to-get-over-you.txt"
+    },
+    {
+      "rank": 33,
+      "searched_artist": "The Kendalls",
+      "searched_title": "It Don't Feel Like Sinnin' To Me",
+      "missing": false,
+      "actual_artist": "The Kendalls",
+      "actual_title": "It Don\u2019t Feel Like Sinnin\u2019 To Me",
+      "lyrics_path": "the-kendalls\\_singles\\it-dont-feel-like-sinnin-to-me.txt"
+    },
+    {
+      "rank": 34,
+      "searched_artist": "Tammy Wynette",
+      "searched_title": "Womanhood",
+      "missing": false,
+      "actual_artist": "Tammy Wynette",
+      "actual_title": "Womanhood",
+      "lyrics_path": "tammy-wynette\\_singles\\womanhood.txt"
+    },
+    {
+      "rank": 35,
+      "searched_artist": "Anne Murray",
+      "searched_title": "Walk Right Back",
+      "missing": false,
+      "actual_artist": "Anne Murray",
+      "actual_title": "Walk Right Back",
+      "lyrics_path": "anne-murray\\_singles\\walk-right-back.txt"
+    },
+    {
+      "rank": 36,
+      "searched_artist": "Barbara Mandrell",
+      "searched_title": "Woman To Woman",
+      "missing": false,
+      "actual_artist": "Barbara Mandrell",
+      "actual_title": "Woman to Woman",
+      "lyrics_path": "barbara-mandrell\\_singles\\woman-to-woman.txt"
+    },
+    {
+      "rank": 37,
+      "searched_artist": "The Oak Ridge Boys",
+      "searched_title": "You're The One",
+      "missing": false,
+      "actual_artist": "The Oak Ridge Boys",
+      "actual_title": "You\u2019re the One",
+      "lyrics_path": "the-oak-ridge-boys\\_singles\\youre-the-one.txt"
+    },
+    {
+      "rank": 39,
+      "searched_artist": "Zella Lehr",
+      "searched_title": "Two Doors Down",
+      "missing": false,
+      "actual_artist": "Zella Lehr",
+      "actual_title": "Two Doors Down",
+      "lyrics_path": "zella-lehr\\_singles\\two-doors-down.txt"
+    },
+    {
+      "rank": 40,
+      "searched_artist": "Don Williams",
+      "searched_title": "Rake And Ramblin' Man",
+      "missing": false,
+      "actual_artist": "Don Williams",
+      "actual_title": "Rake And Ramblin\u2019 Man",
+      "lyrics_path": "don-williams\\_singles\\rake-and-ramblin-man.txt"
+    },
+    {
+      "rank": 42,
+      "searched_artist": "Jacky Ward",
+      "searched_title": "A Lover's Question",
+      "missing": false,
+      "actual_artist": "Jacky Ward",
+      "actual_title": "A Lover\u2019s Question",
+      "lyrics_path": "jacky-ward\\_singles\\a-lovers-question.txt"
+    },
+    {
+      "rank": 43,
+      "searched_artist": "Johnny Duncan",
+      "searched_title": "Come A Little Bit Closer",
+      "missing": false,
+      "actual_artist": "Johnny Duncan",
+      "actual_title": "Come A Little Bit Closer",
+      "lyrics_path": "johnny-duncan\\_singles\\come-a-little-bit-closer.txt"
+    },
+    {
+      "rank": 44,
+      "searched_artist": "Elvis Presley",
+      "searched_title": "My Way",
+      "missing": false,
+      "actual_artist": "Elvis Presley",
+      "actual_title": "My Way",
+      "lyrics_path": "elvis-presley\\_singles\\my-way.txt"
+    },
+    {
+      "rank": 47,
+      "searched_artist": "Joe Stampley",
+      "searched_title": "Red Wine And Blue Memories",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 50,
+      "searched_artist": "Bill Anderson",
+      "searched_title": "I Can't Wait Any Longer",
+      "missing": false,
+      "actual_artist": "Bill Anderson",
+      "actual_title": "I Can\u2019t Wait Any Longer",
+      "lyrics_path": "bill-anderson\\_singles\\i-cant-wait-any-longer.txt"
+    }
+  ]
+}

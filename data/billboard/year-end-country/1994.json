@@ -1,0 +1,362 @@
+[
+  {
+    "rank": 1,
+    "title": "I Swear",
+    "artist": "John Michael Montgomery"
+  },
+  {
+    "rank": 2,
+    "title": "Wink",
+    "artist": "Neal McCoy"
+  },
+  {
+    "rank": 3,
+    "title": "Third Rock From The Sun",
+    "artist": "Joe Diffie"
+  },
+  {
+    "rank": 4,
+    "title": "Dreaming With My Eyes Open",
+    "artist": "Clay Walker"
+  },
+  {
+    "rank": 5,
+    "title": "Down On The Farm",
+    "artist": "Tim McGraw"
+  },
+  {
+    "rank": 6,
+    "title": "XXX's And OOO's (An American Girl)",
+    "artist": "Trisha Yearwood"
+  },
+  {
+    "rank": 7,
+    "title": "Summertime Blues",
+    "artist": "Alan Jackson"
+  },
+  {
+    "rank": 8,
+    "title": "What The Cowgirls Do",
+    "artist": "Vince Gill"
+  },
+  {
+    "rank": 9,
+    "title": "Love A Little Stronger",
+    "artist": "Diamond Rio"
+  },
+  {
+    "rank": 10,
+    "title": "Foolish Pride",
+    "artist": "Travis Tritt"
+  },
+  {
+    "rank": 12,
+    "title": "Whenever You Come Around",
+    "artist": "Vince Gill"
+  },
+  {
+    "rank": 13,
+    "title": "Every Once In A While",
+    "artist": "BlackHawk"
+  },
+  {
+    "rank": 14,
+    "title": "Little Rock",
+    "artist": "Collin Raye"
+  },
+  {
+    "rank": 15,
+    "title": "No Doubt About It",
+    "artist": "Neal McCoy"
+  },
+  {
+    "rank": 16,
+    "title": "He Thinks He'll Keep Her",
+    "artist": "Mary Chapin Carpenter"
+  },
+  {
+    "rank": 18,
+    "title": "I Just Wanted You To Know",
+    "artist": "Mark Chesnutt"
+  },
+  {
+    "rank": 19,
+    "title": "State Of Mind",
+    "artist": "Clint Black"
+  },
+  {
+    "rank": 20,
+    "title": "A Good Run Of Bad Luck",
+    "artist": "Clint Black"
+  },
+  {
+    "rank": 21,
+    "title": "Walking Away A Winner",
+    "artist": "Kathy Mattea"
+  },
+  {
+    "rank": 22,
+    "title": "Piece Of My Heart",
+    "artist": "Faith Hill"
+  },
+  {
+    "rank": 23,
+    "title": "My Love",
+    "artist": "Little Texas"
+  },
+  {
+    "rank": 24,
+    "title": "Whisper My Name",
+    "artist": "Randy Travis"
+  },
+  {
+    "rank": 25,
+    "title": "I've Got It Made",
+    "artist": "John Anderson"
+  },
+  {
+    "rank": 26,
+    "title": "Wish I Didn't Know Now",
+    "artist": "Toby Keith"
+  },
+  {
+    "rank": 27,
+    "title": "They Don't Make 'em Like That Anymore",
+    "artist": "Boy Howdy"
+  },
+  {
+    "rank": 28,
+    "title": "Be My Baby Tonight",
+    "artist": "John Michael Montgomery"
+  },
+  {
+    "rank": 29,
+    "title": "I Try To Think About Elvis",
+    "artist": "Patty Loveless"
+  },
+  {
+    "rank": 30,
+    "title": "Don't Take The Girl",
+    "artist": "Tim McGraw"
+  },
+  {
+    "rank": 31,
+    "title": "Tryin' To Get Over You",
+    "artist": "Vince Gill"
+  },
+  {
+    "rank": 32,
+    "title": "If The Good Die Young",
+    "artist": "Tracy Lawrence"
+  },
+  {
+    "rank": 33,
+    "title": "National Working Woman's Holiday",
+    "artist": "Sammy Kershaw"
+  },
+  {
+    "rank": 34,
+    "title": "Who's That Man",
+    "artist": "Toby Keith"
+  },
+  {
+    "rank": 35,
+    "title": "If Bubba Can Dance (I Can Too)",
+    "artist": "Shenandoah"
+  },
+  {
+    "rank": 36,
+    "title": "Spilled Perfume",
+    "artist": "Pam Tillis"
+  },
+  {
+    "rank": 37,
+    "title": "Before You Kill Us All",
+    "artist": "Randy Travis"
+  },
+  {
+    "rank": 38,
+    "title": "A Little Less Talk And A Lot More Action",
+    "artist": "Toby Keith"
+  },
+  {
+    "rank": 39,
+    "title": "Rock Bottom",
+    "artist": "Wynonna"
+  },
+  {
+    "rank": 40,
+    "title": "I'm Holding My Own",
+    "artist": "Lee Roy Parnell"
+  },
+  {
+    "rank": 41,
+    "title": "Your Love Amazes Me",
+    "artist": "John Berry"
+  },
+  {
+    "rank": 42,
+    "title": "I Take My Chances",
+    "artist": "Mary Chapin Carpenter"
+  },
+  {
+    "rank": 43,
+    "title": "Why Haven't I Heard From You",
+    "artist": "Reba McEntire"
+  },
+  {
+    "rank": 44,
+    "title": "Live Until I Die",
+    "artist": "Clay Walker"
+  },
+  {
+    "rank": 45,
+    "title": "Rope The Moon",
+    "artist": "John Michael Montgomery"
+  },
+  {
+    "rank": 46,
+    "title": "Hangin' In",
+    "artist": "Tanya Tucker"
+  },
+  {
+    "rank": 47,
+    "title": "John Deere Green",
+    "artist": "Joe Diffie"
+  },
+  {
+    "rank": 48,
+    "title": "How Can I Help You Say Goodbye",
+    "artist": "Patty Loveless"
+  },
+  {
+    "rank": 49,
+    "title": "The Man In Love With You",
+    "artist": "George Strait"
+  },
+  {
+    "rank": 50,
+    "title": "I Can't Reach Her Anymore",
+    "artist": "Sammy Kershaw"
+  },
+  {
+    "rank": 51,
+    "title": "When You Walk In The Room",
+    "artist": "Pam Tillis"
+  },
+  {
+    "rank": 52,
+    "title": "Lifestyles Of The Not So Rich & Famous",
+    "artist": "Tracy Byrd"
+  },
+  {
+    "rank": 53,
+    "title": "The City Put The Country Back In Me",
+    "artist": "Neal McCoy"
+  },
+  {
+    "rank": 54,
+    "title": "She Dreams",
+    "artist": "Mark Chesnutt"
+  },
+  {
+    "rank": 55,
+    "title": "Addicted To A Dollar",
+    "artist": "Doug Stone"
+  },
+  {
+    "rank": 56,
+    "title": "Half The Man",
+    "artist": "Clint Black"
+  },
+  {
+    "rank": 57,
+    "title": "I'd Like To Have That One Back",
+    "artist": "George Strait"
+  },
+  {
+    "rank": 58,
+    "title": "Callin' Baton Rouge",
+    "artist": "Garth Brooks"
+  },
+  {
+    "rank": 59,
+    "title": "She Can't Say I Didn't Cry",
+    "artist": "Rick Trevino"
+  },
+  {
+    "rank": 60,
+    "title": "She'd Give Anything",
+    "artist": "Boy Howdy"
+  },
+  {
+    "rank": 62,
+    "title": "That's My Story",
+    "artist": "Collin Raye"
+  },
+  {
+    "rank": 63,
+    "title": "Standing Outside The Fire",
+    "artist": "Garth Brooks"
+  },
+  {
+    "rank": 64,
+    "title": "I Wish I Could Have Been There",
+    "artist": "John Anderson"
+  },
+  {
+    "rank": 65,
+    "title": "What's In It For Me",
+    "artist": "John Berry"
+  },
+  {
+    "rank": 66,
+    "title": "Hey Cinderella",
+    "artist": "Suzy Bogguss"
+  },
+  {
+    "rank": 67,
+    "title": "Hard To Say",
+    "artist": "Sawyer Brown"
+  },
+  {
+    "rank": 68,
+    "title": "(Who Says) You Can't Have It All",
+    "artist": "Alan Jackson"
+  },
+  {
+    "rank": 69,
+    "title": "Life #9",
+    "artist": "Martina McBride"
+  },
+  {
+    "rank": 70,
+    "title": "You Will",
+    "artist": "Patty Loveless"
+  },
+  {
+    "rank": 71,
+    "title": "Thinkin' Problem",
+    "artist": "David Ball"
+  },
+  {
+    "rank": 72,
+    "title": "T.L.C. A.S.A.P.",
+    "artist": "Alabama"
+  },
+  {
+    "rank": 73,
+    "title": "More Love",
+    "artist": "Doug Stone"
+  },
+  {
+    "rank": 74,
+    "title": "Wild One",
+    "artist": "Faith Hill"
+  },
+  {
+    "rank": 75,
+    "title": "Watermelon Crawl",
+    "artist": "Tracy Byrd"
+  }
+]

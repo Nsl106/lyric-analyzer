@@ -1,0 +1,512 @@
+{
+  "year": 2001,
+  "chart": "year-end-country",
+  "total_songs": 56,
+  "fetched": 56,
+  "songs": [
+    {
+      "rank": 2,
+      "searched_artist": "Travis Tritt",
+      "searched_title": "It's A Great Day To Be Alive",
+      "missing": false,
+      "actual_artist": "Travis Tritt",
+      "actual_title": "It\u2019s A Great Day To Be Alive",
+      "lyrics_path": "travis-tritt\\_singles\\its-a-great-day-to-be-alive.txt"
+    },
+    {
+      "rank": 3,
+      "searched_artist": "Kenny Chesney",
+      "searched_title": "Don't Happen Twice",
+      "missing": false,
+      "actual_artist": "Kenny Chesney",
+      "actual_title": "Don\u2019t Happen Twice",
+      "lyrics_path": "kenny-chesney\\_singles\\dont-happen-twice.txt"
+    },
+    {
+      "rank": 4,
+      "searched_artist": "Toby Keith",
+      "searched_title": "You Shouldn't Kiss Me Like This",
+      "missing": false,
+      "actual_artist": "Toby Keith",
+      "actual_title": "You Shouldn\u2019t Kiss Me Like This",
+      "lyrics_path": "toby-keith\\_singles\\you-shouldnt-kiss-me-like-this.txt"
+    },
+    {
+      "rank": 5,
+      "searched_artist": "Lonestar",
+      "searched_title": "I'm Already There",
+      "missing": false,
+      "actual_artist": "Lonestar",
+      "actual_title": "I\u2019m Already There",
+      "lyrics_path": "lonestar\\_singles\\im-already-there.txt"
+    },
+    {
+      "rank": 6,
+      "searched_artist": "Diamond Rio",
+      "searched_title": "One More Day",
+      "missing": false,
+      "actual_artist": "Diamond Rio",
+      "actual_title": "One More Day",
+      "lyrics_path": "diamond-rio\\_singles\\one-more-day.txt"
+    },
+    {
+      "rank": 7,
+      "searched_artist": "Montgomery Gentry",
+      "searched_title": "She Couldn't Change Me",
+      "missing": false,
+      "actual_artist": "Montgomery Gentry",
+      "actual_title": "She Couldn\u2019t Change Me",
+      "lyrics_path": "montgomery-gentry\\_singles\\she-couldnt-change-me.txt"
+    },
+    {
+      "rank": 8,
+      "searched_artist": "Jessica Andrews",
+      "searched_title": "Who I Am",
+      "missing": false,
+      "actual_artist": "Jessica Andrews",
+      "actual_title": "Who I Am",
+      "lyrics_path": "jessica-andrews\\_singles\\who-i-am.txt"
+    },
+    {
+      "rank": 9,
+      "searched_artist": "Blake Shelton",
+      "searched_title": "Austin",
+      "missing": false,
+      "actual_artist": "Blake Shelton",
+      "actual_title": "Austin",
+      "lyrics_path": "blake-shelton\\_singles\\austin.txt"
+    },
+    {
+      "rank": 11,
+      "searched_artist": "Jamie O'Neal",
+      "searched_title": "When I Think About Angels",
+      "missing": false,
+      "actual_artist": "Jamie O\u2019Neal",
+      "actual_title": "When I Think About Angels",
+      "lyrics_path": "jamie-oneal\\_singles\\when-i-think-about-angels.txt"
+    },
+    {
+      "rank": 12,
+      "searched_artist": "Tim McGraw",
+      "searched_title": "Grown Men Don't Cry",
+      "missing": false,
+      "actual_artist": "Tim McGraw",
+      "actual_title": "Grown Men Don\u2019t Cry",
+      "lyrics_path": "tim-mcgraw\\_singles\\grown-men-dont-cry.txt"
+    },
+    {
+      "rank": 13,
+      "searched_artist": "Toby Keith",
+      "searched_title": "I'm Just Talkin' About Tonight",
+      "missing": false,
+      "actual_artist": "Toby Keith",
+      "actual_title": "I\u2019m Just Talkin\u2019 About Tonight",
+      "lyrics_path": "toby-keith\\_singles\\im-just-talkin-about-tonight.txt"
+    },
+    {
+      "rank": 15,
+      "searched_artist": "Keith Urban",
+      "searched_title": "Where The Blacktop Ends",
+      "missing": false,
+      "actual_artist": "Keith Urban",
+      "actual_title": "Where the Blacktop Ends",
+      "lyrics_path": "keith-urban\\_singles\\where-the-blacktop-ends.txt"
+    },
+    {
+      "rank": 16,
+      "searched_artist": "Keith Urban",
+      "searched_title": "But For The Grace Of God",
+      "missing": false,
+      "actual_artist": "Keith Urban",
+      "actual_title": "But for the Grace of God",
+      "lyrics_path": "keith-urban\\_singles\\but-for-the-grace-of-god.txt"
+    },
+    {
+      "rank": 17,
+      "searched_artist": "Trisha Yearwood",
+      "searched_title": "I Would've Loved You Anyway",
+      "missing": false,
+      "actual_artist": "Trisha Yearwood",
+      "actual_title": "I Would\u2019ve Loved You Anyway",
+      "lyrics_path": "trisha-yearwood\\_singles\\i-wouldve-loved-you-anyway.txt"
+    },
+    {
+      "rank": 18,
+      "searched_artist": "Sara Evans",
+      "searched_title": "I Could Not Ask For More",
+      "missing": false,
+      "actual_artist": "Sara Evans",
+      "actual_title": "I Could Not Ask for More",
+      "lyrics_path": "sara-evans\\_singles\\i-could-not-ask-for-more.txt"
+    },
+    {
+      "rank": 19,
+      "searched_artist": "Tim McGraw",
+      "searched_title": "My Next Thirty Years",
+      "missing": false,
+      "actual_artist": "Tim McGraw",
+      "actual_title": "My Next Thirty Years",
+      "lyrics_path": "tim-mcgraw\\_singles\\my-next-thirty-years.txt"
+    },
+    {
+      "rank": 20,
+      "searched_artist": "Dixie Chicks",
+      "searched_title": "If I Fall You're Going Down With Me",
+      "missing": false,
+      "actual_artist": "The Chicks",
+      "actual_title": "If I Fall You\u2019re Going Down with Me",
+      "lyrics_path": "the-chicks\\_singles\\if-i-fall-youre-going-down-with-me.txt"
+    },
+    {
+      "rank": 21,
+      "searched_artist": "Jo Dee Messina",
+      "searched_title": "Burn",
+      "missing": false,
+      "actual_artist": "Jo Dee Messina",
+      "actual_title": "Burn",
+      "lyrics_path": "jo-dee-messina\\_singles\\burn.txt"
+    },
+    {
+      "rank": 22,
+      "searched_artist": "Carolyn Dawn Johnson",
+      "searched_title": "Complicated",
+      "missing": false,
+      "actual_artist": "Carolyn Dawn Johnson",
+      "actual_title": "Complicated",
+      "lyrics_path": "carolyn-dawn-johnson\\_singles\\complicated.txt"
+    },
+    {
+      "rank": 23,
+      "searched_artist": "Lee Ann Womack",
+      "searched_title": "Ashes By Now",
+      "missing": false,
+      "actual_artist": "Lee Ann Womack",
+      "actual_title": "Ashes By Now",
+      "lyrics_path": "lee-ann-womack\\_singles\\ashes-by-now.txt"
+    },
+    {
+      "rank": 24,
+      "searched_artist": "Alan Jackson",
+      "searched_title": "Where I Come From",
+      "missing": false,
+      "actual_artist": "Alan Jackson",
+      "actual_title": "Where I Come From",
+      "lyrics_path": "alan-jackson\\_singles\\where-i-come-from.txt"
+    },
+    {
+      "rank": 25,
+      "searched_artist": "Trick Pony",
+      "searched_title": "On A Night Like This",
+      "missing": false,
+      "actual_artist": "Trick Pony",
+      "actual_title": "On a Night Like This",
+      "lyrics_path": "trick-pony\\_singles\\on-a-night-like-this.txt"
+    },
+    {
+      "rank": 26,
+      "searched_artist": "Brad Paisley",
+      "searched_title": "Two People Fell In Love",
+      "missing": false,
+      "actual_artist": "Brad Paisley",
+      "actual_title": "Two People Fell In Love",
+      "lyrics_path": "brad-paisley\\_singles\\two-people-fell-in-love.txt"
+    },
+    {
+      "rank": 27,
+      "searched_artist": "Tim McGraw",
+      "searched_title": "Angry All The Time",
+      "missing": false,
+      "actual_artist": "Tim McGraw",
+      "actual_title": "Angry All The Time",
+      "lyrics_path": "tim-mcgraw\\_singles\\angry-all-the-time.txt"
+    },
+    {
+      "rank": 28,
+      "searched_artist": "Gary Allan",
+      "searched_title": "Right Where I Need To Be",
+      "missing": false,
+      "actual_artist": "Gary Allan",
+      "actual_title": "Right Where I Need to Be",
+      "lyrics_path": "gary-allan\\_singles\\right-where-i-need-to-be.txt"
+    },
+    {
+      "rank": 29,
+      "searched_artist": "Jamie O'Neal",
+      "searched_title": "There Is No Arizona",
+      "missing": false,
+      "actual_artist": "Jamie O\u2019Neal",
+      "actual_title": "There Is No Arizona",
+      "lyrics_path": "jamie-oneal\\_singles\\there-is-no-arizona.txt"
+    },
+    {
+      "rank": 30,
+      "searched_artist": "Faith Hill",
+      "searched_title": "If My Heart Had Wings",
+      "missing": false,
+      "actual_artist": "Faith Hill",
+      "actual_title": "If My Heart Had Wings",
+      "lyrics_path": "faith-hill\\_singles\\if-my-heart-had-wings.txt"
+    },
+    {
+      "rank": 31,
+      "searched_artist": "Jo Dee Messina",
+      "searched_title": "Downtime",
+      "missing": false,
+      "actual_artist": "Jo Dee Messina",
+      "actual_title": "Downtime",
+      "lyrics_path": "jo-dee-messina\\_singles\\downtime.txt"
+    },
+    {
+      "rank": 32,
+      "searched_artist": "George Strait",
+      "searched_title": "If You Can Do Anything Else",
+      "missing": false,
+      "actual_artist": "George Strait",
+      "actual_title": "If You Can Do Anything Else",
+      "lyrics_path": "george-strait\\_singles\\if-you-can-do-anything-else.txt"
+    },
+    {
+      "rank": 33,
+      "searched_artist": "Alan Jackson",
+      "searched_title": "When Somebody Loves You",
+      "missing": false,
+      "actual_artist": "Alan Jackson",
+      "actual_title": "When Somebody Loves You",
+      "lyrics_path": "alan-jackson\\_singles\\when-somebody-loves-you.txt"
+    },
+    {
+      "rank": 34,
+      "searched_artist": "Dixie Chicks",
+      "searched_title": "Without You",
+      "missing": false,
+      "actual_artist": "The Chicks",
+      "actual_title": "Without You",
+      "lyrics_path": "the-chicks\\_singles\\without-you.txt"
+    },
+    {
+      "rank": 35,
+      "searched_artist": "Chris Cagle",
+      "searched_title": "Laredo",
+      "missing": false,
+      "actual_artist": "Chris Cagle",
+      "actual_title": "Laredo",
+      "lyrics_path": "chris-cagle\\_singles\\laredo.txt"
+    },
+    {
+      "rank": 36,
+      "searched_artist": "Lonestar",
+      "searched_title": "Tell Her",
+      "missing": false,
+      "actual_artist": "Lonestar",
+      "actual_title": "Tell Her",
+      "lyrics_path": "lonestar\\_singles\\tell-her.txt"
+    },
+    {
+      "rank": 37,
+      "searched_artist": "Travis Tritt",
+      "searched_title": "Love Of A Woman",
+      "missing": false,
+      "actual_artist": "Travis Tritt",
+      "actual_title": "Love of a Woman",
+      "lyrics_path": "travis-tritt\\_singles\\love-of-a-woman.txt"
+    },
+    {
+      "rank": 38,
+      "searched_artist": "Rascal Flatts",
+      "searched_title": "While You Loved Me",
+      "missing": false,
+      "actual_artist": "Rascal Flatts",
+      "actual_title": "While You Loved Me",
+      "lyrics_path": "rascal-flatts\\_singles\\while-you-loved-me.txt"
+    },
+    {
+      "rank": 39,
+      "searched_artist": "Sara Evans",
+      "searched_title": "Born To Fly",
+      "missing": false,
+      "actual_artist": "Sara Evans",
+      "actual_title": "Born to Fly",
+      "lyrics_path": "sara-evans\\_singles\\born-to-fly.txt"
+    },
+    {
+      "rank": 40,
+      "searched_artist": "Garth Brooks",
+      "searched_title": "Wild Horses",
+      "missing": false,
+      "actual_artist": "Garth Brooks",
+      "actual_title": "Wild Horses",
+      "lyrics_path": "garth-brooks\\_singles\\wild-horses.txt"
+    },
+    {
+      "rank": 41,
+      "searched_artist": "Tammy Cochran",
+      "searched_title": "Angels In Waiting",
+      "missing": false,
+      "actual_artist": "Tammy Cochran",
+      "actual_title": "Angels In Waiting",
+      "lyrics_path": "tammy-cochran\\_singles\\angels-in-waiting.txt"
+    },
+    {
+      "rank": 42,
+      "searched_artist": "Tim Rushlow",
+      "searched_title": "She Misses Him",
+      "missing": false,
+      "actual_artist": "Tim Rushlow",
+      "actual_title": "She Misses Him",
+      "lyrics_path": "tim-rushlow\\_singles\\she-misses-him.txt"
+    },
+    {
+      "rank": 43,
+      "searched_artist": "Reba",
+      "searched_title": "I'm A Survivor",
+      "missing": false,
+      "actual_artist": "Reba McEntire",
+      "actual_title": "I\u2019m a Survivor",
+      "lyrics_path": "reba-mcentire\\_singles\\im-a-survivor.txt"
+    },
+    {
+      "rank": 44,
+      "searched_artist": "Martina McBride",
+      "searched_title": "When God-Fearin' Women Get The Blues",
+      "missing": false,
+      "actual_artist": "Martina McBride",
+      "actual_title": "When God Fearing Women Get The Blues",
+      "lyrics_path": "martina-mcbride\\_singles\\when-god-fearing-women-get-the-blues.txt"
+    },
+    {
+      "rank": 45,
+      "searched_artist": "Mark McGuinn",
+      "searched_title": "MRS. STEVEN RUDY",
+      "missing": false,
+      "actual_artist": "Mark McGuinn",
+      "actual_title": "Mrs. Steven Rudy",
+      "lyrics_path": "mark-mcguinn\\_singles\\mrs-steven-rudy.txt"
+    },
+    {
+      "rank": 46,
+      "searched_artist": "Rascal Flatts",
+      "searched_title": "This Everyday Love",
+      "missing": false,
+      "actual_artist": "Rascal Flatts",
+      "actual_title": "This Everyday Love",
+      "lyrics_path": "rascal-flatts\\_singles\\this-everyday-love.txt"
+    },
+    {
+      "rank": 47,
+      "searched_artist": "Jeff Carson",
+      "searched_title": "Real Life (I Never Was The Same Again)",
+      "missing": false,
+      "actual_artist": "Jeff Carson",
+      "actual_title": "Real Life (I Never Was The Same Again)",
+      "lyrics_path": "jeff-carson\\_singles\\real-life-i-never-was-the-same-again.txt"
+    },
+    {
+      "rank": 48,
+      "searched_artist": "Travis Tritt",
+      "searched_title": "Best Of Intentions",
+      "missing": false,
+      "actual_artist": "Travis Tritt",
+      "actual_title": "Best of Intentions",
+      "lyrics_path": "travis-tritt\\_singles\\best-of-intentions.txt"
+    },
+    {
+      "rank": 49,
+      "searched_artist": "Kenny Chesney",
+      "searched_title": "I Lost It",
+      "missing": false,
+      "actual_artist": "Kenny Chesney",
+      "actual_title": "I Lost It",
+      "lyrics_path": "kenny-chesney\\_singles\\i-lost-it.txt"
+    },
+    {
+      "rank": 50,
+      "searched_artist": "Darryl Worley",
+      "searched_title": "A Good Day To Run",
+      "missing": false,
+      "actual_artist": "Darryl Worley",
+      "actual_title": "A Good Day to Run",
+      "lyrics_path": "darryl-worley\\_singles\\a-good-day-to-run.txt"
+    },
+    {
+      "rank": 51,
+      "searched_artist": "Alan Jackson",
+      "searched_title": "Www.Memory",
+      "missing": false,
+      "actual_artist": "Alan Jackson",
+      "actual_title": "\u200e\u200e www.memory",
+      "lyrics_path": "alan-jackson\\_singles\\wwwmemory.txt"
+    },
+    {
+      "rank": 52,
+      "searched_artist": "Phil Vassar",
+      "searched_title": "Six-Pack Summer",
+      "missing": false,
+      "actual_artist": "Phil Vassar",
+      "actual_title": "Six-Pack Summer",
+      "lyrics_path": "phil-vassar\\_singles\\six-pack-summer.txt"
+    },
+    {
+      "rank": 53,
+      "searched_artist": "Trace Adkins",
+      "searched_title": "I'm Tryin'",
+      "missing": false,
+      "actual_artist": "Trace Adkins",
+      "actual_title": "I\u2019m Tryin\u2019",
+      "lyrics_path": "trace-adkins\\_singles\\im-tryin.txt"
+    },
+    {
+      "rank": 54,
+      "searched_artist": "Brad Paisley",
+      "searched_title": "We Danced",
+      "missing": false,
+      "actual_artist": "Brad Paisley",
+      "actual_title": "We Danced",
+      "lyrics_path": "brad-paisley\\_singles\\we-danced.txt"
+    },
+    {
+      "rank": 55,
+      "searched_artist": "SHeDAISY",
+      "searched_title": "Lucky 4 You (Tonight I'm Just Me)",
+      "missing": false,
+      "actual_artist": "SHeDAISY",
+      "actual_title": "Lucky 4 You (Tonight I\u2019m Just Me)",
+      "lyrics_path": "shedaisy\\_singles\\lucky-4-you-tonight-im-just-me.txt"
+    },
+    {
+      "rank": 56,
+      "searched_artist": "Trick Pony",
+      "searched_title": "Pour Me",
+      "missing": false,
+      "actual_artist": "Trick Pony",
+      "actual_title": "Pour Me",
+      "lyrics_path": "trick-pony\\_singles\\pour-me.txt"
+    },
+    {
+      "rank": 57,
+      "searched_artist": "Alabama",
+      "searched_title": "When It All Goes South",
+      "missing": false,
+      "actual_artist": "Alabama",
+      "actual_title": "When It All Goes South",
+      "lyrics_path": "alabama\\_singles\\when-it-all-goes-south.txt"
+    },
+    {
+      "rank": 59,
+      "searched_artist": "Phil Vassar",
+      "searched_title": "Just Another Day In Paradise",
+      "missing": false,
+      "actual_artist": "Phil Vassar",
+      "actual_title": "Just Another Day in Paradise",
+      "lyrics_path": "phil-vassar\\_singles\\just-another-day-in-paradise.txt"
+    },
+    {
+      "rank": 60,
+      "searched_artist": "Toby Keith",
+      "searched_title": "I Wanna Talk About Me",
+      "missing": false,
+      "actual_artist": "Toby Keith",
+      "actual_title": "I Wanna Talk About Me",
+      "lyrics_path": "toby-keith\\_singles\\i-wanna-talk-about-me.txt"
+    }
+  ]
+}

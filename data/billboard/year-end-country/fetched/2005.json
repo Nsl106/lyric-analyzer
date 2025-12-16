@@ -1,0 +1,546 @@
+{
+  "year": 2005,
+  "chart": "year-end-country",
+  "total_songs": 60,
+  "fetched": 59,
+  "songs": [
+    {
+      "rank": 1,
+      "searched_artist": "Craig Morgan",
+      "searched_title": "That's What I Love About Sunday",
+      "missing": false,
+      "actual_artist": "Craig Morgan",
+      "actual_title": "That\u2019s What I Love About Sunday",
+      "lyrics_path": "craig-morgan\\_singles\\thats-what-i-love-about-sunday.txt"
+    },
+    {
+      "rank": 2,
+      "searched_artist": "Toby Keith",
+      "searched_title": "As Good As I Once Was",
+      "missing": false,
+      "actual_artist": "Toby Keith",
+      "actual_title": "As Good As I Once Was",
+      "lyrics_path": "toby-keith\\_singles\\as-good-as-i-once-was.txt"
+    },
+    {
+      "rank": 3,
+      "searched_artist": "Rascal Flatts",
+      "searched_title": "Bless The Broken Road",
+      "missing": false,
+      "actual_artist": "Rascal Flatts",
+      "actual_title": "Bless The Broken Road",
+      "lyrics_path": "rascal-flatts\\_singles\\bless-the-broken-road.txt"
+    },
+    {
+      "rank": 4,
+      "searched_artist": "Sugarland",
+      "searched_title": "Something More",
+      "missing": false,
+      "actual_artist": "Sugarland",
+      "actual_title": "Something More",
+      "lyrics_path": "sugarland\\_singles\\something-more.txt"
+    },
+    {
+      "rank": 5,
+      "searched_artist": "Rascal Flatts",
+      "searched_title": "Fast Cars And Freedom",
+      "missing": false,
+      "actual_artist": "Rascal Flatts",
+      "actual_title": "Fast Cars And Freedom",
+      "lyrics_path": "rascal-flatts\\_singles\\fast-cars-and-freedom.txt"
+    },
+    {
+      "rank": 6,
+      "searched_artist": "Josh Gracin",
+      "searched_title": "Nothin' To Lose",
+      "missing": false,
+      "actual_artist": "Josh Gracin",
+      "actual_title": "Nothin\u2019 to Lose",
+      "lyrics_path": "josh-gracin\\_singles\\nothin-to-lose.txt"
+    },
+    {
+      "rank": 7,
+      "searched_artist": "Sugarland",
+      "searched_title": "Baby Girl",
+      "missing": false,
+      "actual_artist": "Sugarland",
+      "actual_title": "Baby Girl",
+      "lyrics_path": "sugarland\\_singles\\baby-girl.txt"
+    },
+    {
+      "rank": 8,
+      "searched_artist": "Keith Urban",
+      "searched_title": "Making Memories Of Us",
+      "missing": false,
+      "actual_artist": "Keith Urban",
+      "actual_title": "Making Memories of Us",
+      "lyrics_path": "keith-urban\\_singles\\making-memories-of-us.txt"
+    },
+    {
+      "rank": 9,
+      "searched_artist": "Faith Hill",
+      "searched_title": "Mississippi Girl",
+      "missing": false,
+      "actual_artist": "Faith Hill",
+      "actual_title": "Mississippi Girl",
+      "lyrics_path": "faith-hill\\_singles\\mississippi-girl.txt"
+    },
+    {
+      "rank": 10,
+      "searched_artist": "Montgomery Gentry",
+      "searched_title": "Gone",
+      "missing": false,
+      "actual_artist": "Montgomery Gentry",
+      "actual_title": "Gone",
+      "lyrics_path": "montgomery-gentry\\_singles\\gone.txt"
+    },
+    {
+      "rank": 11,
+      "searched_artist": "Brad Paisley",
+      "searched_title": "Mud On The Tires",
+      "missing": false,
+      "actual_artist": "Brad Paisley",
+      "actual_title": "Mud On the Tires",
+      "lyrics_path": "brad-paisley\\_singles\\mud-on-the-tires.txt"
+    },
+    {
+      "rank": 12,
+      "searched_artist": "Brooks & Dunn",
+      "searched_title": "It's Getting Better All The Time",
+      "missing": false,
+      "actual_artist": "Brooks & Dunn",
+      "actual_title": "It\u2019s Getting Better All the Time",
+      "lyrics_path": "brooks--dunn\\_singles\\its-getting-better-all-the-time.txt"
+    },
+    {
+      "rank": 13,
+      "searched_artist": "Kenny Chesney",
+      "searched_title": "Anything But Mine",
+      "missing": false,
+      "actual_artist": "Kenny Chesney",
+      "actual_title": "Anything But Mine",
+      "lyrics_path": "kenny-chesney\\_singles\\anything-but-mine.txt"
+    },
+    {
+      "rank": 14,
+      "searched_artist": "Jo Dee Messina",
+      "searched_title": "My Give A Damn's Busted",
+      "missing": false,
+      "actual_artist": "Jo Dee Messina",
+      "actual_title": "My Give a Damn\u2019s Busted",
+      "lyrics_path": "jo-dee-messina\\_singles\\my-give-a-damns-busted.txt"
+    },
+    {
+      "rank": 15,
+      "searched_artist": "Keith Urban",
+      "searched_title": "You're My Better Half",
+      "missing": false,
+      "actual_artist": "Keith Urban",
+      "actual_title": "You\u2019re My Better Half",
+      "lyrics_path": "keith-urban\\_singles\\youre-my-better-half.txt"
+    },
+    {
+      "rank": 16,
+      "searched_artist": "Dierks Bentley",
+      "searched_title": "Lot Of Leavin' Left To Do",
+      "missing": false,
+      "actual_artist": "Dierks Bentley",
+      "actual_title": "Lot of Leavin\u2019 Left to Do",
+      "lyrics_path": "dierks-bentley\\_singles\\lot-of-leavin-left-to-do.txt"
+    },
+    {
+      "rank": 17,
+      "searched_artist": "Montgomery Gentry",
+      "searched_title": "Something To Be Proud Of",
+      "missing": false,
+      "actual_artist": "Montgomery Gentry",
+      "actual_title": "Something to Be Proud of",
+      "lyrics_path": "montgomery-gentry\\_singles\\something-to-be-proud-of.txt"
+    },
+    {
+      "rank": 18,
+      "searched_artist": "Andy Griggs",
+      "searched_title": "If Heaven",
+      "missing": false,
+      "actual_artist": "Andy Griggs",
+      "actual_title": "If Heaven",
+      "lyrics_path": "andy-griggs\\_singles\\if-heaven.txt"
+    },
+    {
+      "rank": 19,
+      "searched_artist": "Sara Evans",
+      "searched_title": "A Real Fine Place To Start",
+      "missing": false,
+      "actual_artist": "Sara Evans",
+      "actual_title": "A Real Fine Place To Start",
+      "lyrics_path": "sara-evans\\_singles\\a-real-fine-place-to-start.txt"
+    },
+    {
+      "rank": 20,
+      "searched_artist": "George Strait",
+      "searched_title": "You'll Be There",
+      "missing": false,
+      "actual_artist": "George Strait",
+      "actual_title": "You\u2019ll Be There",
+      "lyrics_path": "george-strait\\_singles\\youll-be-there.txt"
+    },
+    {
+      "rank": 21,
+      "searched_artist": "Joe Nichols",
+      "searched_title": "What's A Guy Gotta Do",
+      "missing": false,
+      "actual_artist": "Joe Nichols",
+      "actual_title": "What\u2019s a Guy Gotta Do",
+      "lyrics_path": "joe-nichols\\_singles\\whats-a-guy-gotta-do.txt"
+    },
+    {
+      "rank": 22,
+      "searched_artist": "Brooks & Dunn",
+      "searched_title": "Play Something Country",
+      "missing": false,
+      "actual_artist": "Brooks & Dunn",
+      "actual_title": "Play Something Country",
+      "lyrics_path": "brooks--dunn\\_singles\\play-something-country.txt"
+    },
+    {
+      "rank": 23,
+      "searched_artist": "Jamie O'Neal",
+      "searched_title": "Somebody's Hero",
+      "missing": false,
+      "actual_artist": "Jamie O\u2019Neal",
+      "actual_title": "Somebody\u2019s Hero",
+      "lyrics_path": "jamie-oneal\\_singles\\somebodys-hero.txt"
+    },
+    {
+      "rank": 24,
+      "searched_artist": "Brad Paisley",
+      "searched_title": "Alcohol",
+      "missing": false,
+      "actual_artist": "Brad Paisley",
+      "actual_title": "Alcohol",
+      "lyrics_path": "brad-paisley\\_singles\\alcohol.txt"
+    },
+    {
+      "rank": 25,
+      "searched_artist": "Craig Morgan",
+      "searched_title": "Redneck Yacht Club",
+      "missing": false,
+      "actual_artist": "Craig Morgan",
+      "actual_title": "Redneck Yacht Club",
+      "lyrics_path": "craig-morgan\\_singles\\redneck-yacht-club.txt"
+    },
+    {
+      "rank": 26,
+      "searched_artist": "LeAnn Rimes",
+      "searched_title": "Probably Wouldn't Be This Way",
+      "missing": false,
+      "actual_artist": "LeAnn Rimes",
+      "actual_title": "Probably Wouldn\u2019t Be This Way",
+      "lyrics_path": "leann-rimes\\_singles\\probably-wouldnt-be-this-way.txt"
+    },
+    {
+      "rank": 27,
+      "searched_artist": "Trace Adkins",
+      "searched_title": "Songs About Me",
+      "missing": false,
+      "actual_artist": "Trace Adkins",
+      "actual_title": "Songs About Me",
+      "lyrics_path": "trace-adkins\\_singles\\songs-about-me.txt"
+    },
+    {
+      "rank": 28,
+      "searched_artist": "Blake Shelton",
+      "searched_title": "Some Beach",
+      "missing": false,
+      "actual_artist": "Blake Shelton",
+      "actual_title": "Some Beach",
+      "lyrics_path": "blake-shelton\\_singles\\some-beach.txt"
+    },
+    {
+      "rank": 29,
+      "searched_artist": "Keith Urban",
+      "searched_title": "Better Life",
+      "missing": false,
+      "actual_artist": "Keith Urban",
+      "actual_title": "Better Life",
+      "lyrics_path": "keith-urban\\_singles\\better-life.txt"
+    },
+    {
+      "rank": 30,
+      "searched_artist": "Josh Gracin",
+      "searched_title": "Stay With Me (Brass Bed)",
+      "missing": true,
+      "error": "Song not found or has no lyrics"
+    },
+    {
+      "rank": 31,
+      "searched_artist": "LeAnn Rimes",
+      "searched_title": "Nothin 'Bout Love Makes Sense",
+      "missing": false,
+      "actual_artist": "LeAnn Rimes",
+      "actual_title": "Nothin\u2019 \u2019Bout Love Makes Sense",
+      "lyrics_path": "leann-rimes\\_singles\\nothin-bout-love-makes-sense.txt"
+    },
+    {
+      "rank": 32,
+      "searched_artist": "Tim McGraw",
+      "searched_title": "Do You Want Fries With That",
+      "missing": false,
+      "actual_artist": "Tim McGraw",
+      "actual_title": "Do You Want Fries With That?",
+      "lyrics_path": "tim-mcgraw\\_singles\\do-you-want-fries-with-that.txt"
+    },
+    {
+      "rank": 33,
+      "searched_artist": "Gretchen Wilson",
+      "searched_title": "Homewrecker",
+      "missing": false,
+      "actual_artist": "Gretchen Wilson",
+      "actual_title": "Homewrecker",
+      "lyrics_path": "gretchen-wilson\\_singles\\homewrecker.txt"
+    },
+    {
+      "rank": 34,
+      "searched_artist": "Alan Jackson",
+      "searched_title": "Monday Morning Church",
+      "missing": false,
+      "actual_artist": "Alan Jackson",
+      "actual_title": "Monday Morning Church",
+      "lyrics_path": "alan-jackson\\_singles\\monday-morning-church.txt"
+    },
+    {
+      "rank": 35,
+      "searched_artist": "Lee Ann Womack",
+      "searched_title": "I May Hate Myself In The Morning",
+      "missing": false,
+      "actual_artist": "Lee Ann Womack",
+      "actual_title": "I May Hate Myself in the Morning",
+      "lyrics_path": "lee-ann-womack\\_singles\\i-may-hate-myself-in-the-morning.txt"
+    },
+    {
+      "rank": 36,
+      "searched_artist": "Darryl Worley",
+      "searched_title": "Awful, Beautiful Life",
+      "missing": false,
+      "actual_artist": "Darryl Worley",
+      "actual_title": "Awful, Beautiful Life",
+      "lyrics_path": "darryl-worley\\_singles\\awful-beautiful-life.txt"
+    },
+    {
+      "rank": 37,
+      "searched_artist": "Billy Dean",
+      "searched_title": "Let Them Be Little",
+      "missing": false,
+      "actual_artist": "Billy Dean",
+      "actual_title": "Let Them Be Little",
+      "lyrics_path": "billy-dean\\_singles\\let-them-be-little.txt"
+    },
+    {
+      "rank": 38,
+      "searched_artist": "Tim McGraw",
+      "searched_title": "Back When",
+      "missing": false,
+      "actual_artist": "Tim McGraw",
+      "actual_title": "Back When",
+      "lyrics_path": "tim-mcgraw\\_singles\\back-when.txt"
+    },
+    {
+      "rank": 39,
+      "searched_artist": "SHeDAISY",
+      "searched_title": "Don't Worry 'Bout A Thing",
+      "missing": false,
+      "actual_artist": "SHeDAISY",
+      "actual_title": "Don\u2019t Worry \u2019Bout A Thing",
+      "lyrics_path": "shedaisy\\_singles\\dont-worry-bout-a-thing.txt"
+    },
+    {
+      "rank": 40,
+      "searched_artist": "Lonestar",
+      "searched_title": "You're Like Comin' Home",
+      "missing": false,
+      "actual_artist": "Lonestar",
+      "actual_title": "You\u2019re Like Comin\u2019 Home",
+      "lyrics_path": "lonestar\\_singles\\youre-like-comin-home.txt"
+    },
+    {
+      "rank": 41,
+      "searched_artist": "Gretchen Wilson",
+      "searched_title": "When I Think About Cheatin'",
+      "missing": false,
+      "actual_artist": "Gretchen Wilson",
+      "actual_title": "When I Think About Cheatin\u2019",
+      "lyrics_path": "gretchen-wilson\\_singles\\when-i-think-about-cheatin.txt"
+    },
+    {
+      "rank": 42,
+      "searched_artist": "Van Zant",
+      "searched_title": "Help Somebody",
+      "missing": false,
+      "actual_artist": "Van Zant",
+      "actual_title": "Help Somebody",
+      "lyrics_path": "van-zant\\_singles\\help-somebody.txt"
+    },
+    {
+      "rank": 43,
+      "searched_artist": "Kenny Chesney",
+      "searched_title": "Keg In The Closet",
+      "missing": false,
+      "actual_artist": "Kenny Chesney",
+      "actual_title": "Keg In The Closet",
+      "lyrics_path": "kenny-chesney\\_singles\\keg-in-the-closet.txt"
+    },
+    {
+      "rank": 44,
+      "searched_artist": "Rascal Flatts",
+      "searched_title": "Skin (Sarabeth)",
+      "missing": false,
+      "actual_artist": "Rascal Flatts",
+      "actual_title": "Skin (Sarabeth)",
+      "lyrics_path": "rascal-flatts\\_singles\\skin-sarabeth.txt"
+    },
+    {
+      "rank": 45,
+      "searched_artist": "Gary Allan",
+      "searched_title": "Best I Ever Had",
+      "missing": false,
+      "actual_artist": "Gary Allan",
+      "actual_title": "Best I Ever Had",
+      "lyrics_path": "gary-allan\\_singles\\best-i-ever-had.txt"
+    },
+    {
+      "rank": 46,
+      "searched_artist": "Toby Keith",
+      "searched_title": "Honkytonk U",
+      "missing": false,
+      "actual_artist": "Toby Keith",
+      "actual_title": "Honkytonk U",
+      "lyrics_path": "toby-keith\\_singles\\honkytonk-u.txt"
+    },
+    {
+      "rank": 47,
+      "searched_artist": "Blake Shelton",
+      "searched_title": "Goodbye Time",
+      "missing": false,
+      "actual_artist": "Blake Shelton",
+      "actual_title": "Goodbye Time",
+      "lyrics_path": "blake-shelton\\_singles\\goodbye-time.txt"
+    },
+    {
+      "rank": 48,
+      "searched_artist": "Jason Aldean",
+      "searched_title": "Hicktown",
+      "missing": false,
+      "actual_artist": "Jason Aldean",
+      "actual_title": "Hicktown",
+      "lyrics_path": "jason-aldean\\_singles\\hicktown.txt"
+    },
+    {
+      "rank": 49,
+      "searched_artist": "Reba McEntire",
+      "searched_title": "He Gets That From Me",
+      "missing": false,
+      "actual_artist": "Reba McEntire",
+      "actual_title": "He Gets That From Me",
+      "lyrics_path": "reba-mcentire\\_singles\\he-gets-that-from-me.txt"
+    },
+    {
+      "rank": 50,
+      "searched_artist": "Neal McCoy",
+      "searched_title": "Billy's Got His Beer Goggles On",
+      "missing": false,
+      "actual_artist": "Neal McCoy",
+      "actual_title": "Billy\u2019s Got His Beer Goggles On",
+      "lyrics_path": "neal-mccoy\\_singles\\billys-got-his-beer-goggles-on.txt"
+    },
+    {
+      "rank": 51,
+      "searched_artist": "Keith Anderson",
+      "searched_title": "Pickin' Wildflowers",
+      "missing": false,
+      "actual_artist": "Keith Anderson",
+      "actual_title": "Pickin\u2019 Wildflowers",
+      "lyrics_path": "keith-anderson\\_singles\\pickin-wildflowers.txt"
+    },
+    {
+      "rank": 52,
+      "searched_artist": "Gary Allan",
+      "searched_title": "Nothing On But The Radio",
+      "missing": false,
+      "actual_artist": "Gary Allan",
+      "actual_title": "Nothing On But The Radio",
+      "lyrics_path": "gary-allan\\_singles\\nothing-on-but-the-radio.txt"
+    },
+    {
+      "rank": 53,
+      "searched_artist": "Dierks Bentley",
+      "searched_title": "Come A Little Closer",
+      "missing": false,
+      "actual_artist": "Dierks Bentley",
+      "actual_title": "Come a Little Closer",
+      "lyrics_path": "dierks-bentley\\_singles\\come-a-little-closer.txt"
+    },
+    {
+      "rank": 54,
+      "searched_artist": "Darryl Worley",
+      "searched_title": "If Something Should Happen",
+      "missing": false,
+      "actual_artist": "Darryl Worley",
+      "actual_title": "If Something Should Happen",
+      "lyrics_path": "darryl-worley\\_singles\\if-something-should-happen.txt"
+    },
+    {
+      "rank": 55,
+      "searched_artist": "Tim McGraw",
+      "searched_title": "Drugs Or Jesus",
+      "missing": false,
+      "actual_artist": "Tim McGraw",
+      "actual_title": "Drugs Or Jesus",
+      "lyrics_path": "tim-mcgraw\\_singles\\drugs-or-jesus.txt"
+    },
+    {
+      "rank": 56,
+      "searched_artist": "Trisha Yearwood",
+      "searched_title": "Georgia Rain",
+      "missing": false,
+      "actual_artist": "Trisha Yearwood",
+      "actual_title": "Georgia Rain",
+      "lyrics_path": "trisha-yearwood\\_singles\\georgia-rain.txt"
+    },
+    {
+      "rank": 57,
+      "searched_artist": "Jeff Bates",
+      "searched_title": "Long, Slow Kisses",
+      "missing": false,
+      "actual_artist": "Jeff Bates",
+      "actual_title": "Long, Slow Kisses",
+      "lyrics_path": "jeff-bates\\_singles\\long-slow-kisses.txt"
+    },
+    {
+      "rank": 58,
+      "searched_artist": "Gretchen Wilson",
+      "searched_title": "All Jacked Up",
+      "missing": false,
+      "actual_artist": "Gretchen Wilson",
+      "actual_title": "All Jacked Up",
+      "lyrics_path": "gretchen-wilson\\_singles\\all-jacked-up.txt"
+    },
+    {
+      "rank": 59,
+      "searched_artist": "Joe Nichols",
+      "searched_title": "Tequila Makes Her Clothes Fall Off",
+      "missing": false,
+      "actual_artist": "Joe Nichols",
+      "actual_title": "Tequila Makes Her Clothes Fall Off",
+      "lyrics_path": "joe-nichols\\_singles\\tequila-makes-her-clothes-fall-off.txt"
+    },
+    {
+      "rank": 60,
+      "searched_artist": "Lonestar",
+      "searched_title": "Mr. Mom",
+      "missing": false,
+      "actual_artist": "Lonestar",
+      "actual_title": "Mr. Mom",
+      "lyrics_path": "lonestar\\_singles\\mr-mom.txt"
+    }
+  ]
+}
