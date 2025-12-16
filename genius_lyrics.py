@@ -12,7 +12,7 @@ GENIUS_TOKEN = os.getenv("GENIUS_TOKEN")
 if not GENIUS_TOKEN:
     raise RuntimeError("GENIUS_TOKEN not found in environment")
 
-def sanitize(name: str) -> str:
+def sanitize_filename(name: str) -> str:
     """Filesystem-safe name"""
     return re.sub(r"[^\w\- ]", "", name).strip().replace(" ", "-").lower()
 
@@ -32,8 +32,8 @@ def fetch_album(search_artist_name: str, search_album_name: str):
     actual_artist_name = album.artist["name"]
     actual_album_name = album.name
 
-    artist_dir = sanitize(actual_artist_name)
-    album_dir = sanitize(actual_album_name)
+    artist_dir = sanitize_filename(actual_artist_name)
+    album_dir = sanitize_filename(actual_album_name)
 
     base_path = Path("data/lyrics") / artist_dir / album_dir
     base_path.mkdir(parents=True, exist_ok=True)
@@ -49,7 +49,7 @@ def fetch_album(search_artist_name: str, search_album_name: str):
         if not song or not song.lyrics:
             continue
 
-        filename = f"{num:02d}_{sanitize(song.title)}.txt"
+        filename = f"{num:02d}_{sanitize_filename(song.title)}.txt"
         file_path = base_path / filename
 
         if file_path.exists():
@@ -86,10 +86,10 @@ def fetch_song(search_artist_name: str, search_song_title: str):
     actual_artist_name = song.artist
     actual_song_title = song.title
 
-    artist_dir = sanitize(actual_artist_name)
-    song_dir = sanitize(actual_song_title)
+    artist_dir = sanitize_filename(actual_artist_name)
+    song_dir = sanitize_filename(actual_song_title)
 
-    base_path = Path("data/lyrics") / artist_dir / "_singles"
+    base_path = Path("data2/lyrics") / artist_dir / "_singles"
     base_path.mkdir(parents=True, exist_ok=True)
 
     lyrics_filename = f"{song_dir}.txt"
@@ -100,3 +100,10 @@ def fetch_song(search_artist_name: str, search_song_title: str):
     else:
         lyrics_path.write_text(song.lyrics, encoding="utf-8")
         # print(f"Saved: {lyrics_filename}")
+
+    return {
+        "missing": False,
+        "actual_artist": actual_artist_name,
+        "actual_title": actual_song_title,
+        "lyrics_path": str(Path(artist_dir) / "_singles" / lyrics_filename),
+    }

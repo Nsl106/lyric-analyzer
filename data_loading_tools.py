@@ -22,21 +22,14 @@ def load_album(artist: str, album: str) -> tuple[list[str], dict]:
 
     return text, metadata
 
-def load_song(artist: str, song: str) -> list[str]:
-    artist = artist.replace(" ", "_")
-    song = song.replace(" ", "_")
-
+def load_song(artist: str, song: str) -> str:
     base_path = Path("data/lyrics") / artist / "_singles"
 
     if not base_path.exists():
         raise FileNotFoundError(f"No singles found for artist {artist}")
 
-    text = []
-
-    file_path = base_path / song
-    text.append(file_path.read_text(encoding="utf-8"))
-
-    return text
+    file_path = base_path / (song + ".txt")
+    return file_path.read_text(encoding="utf-8")
 
 def load_metadata(artist: str, album: str) -> dict:
     artist = artist.replace(" ", "_")
@@ -76,3 +69,13 @@ def load_billboard_year_end(chart: str) -> dict[int, list[dict]]:
 
     return data
 
+def load_billboard_year_metadata(
+        year: int,
+        chart: str,
+) -> dict | None:
+    path = Path(f"data/billboard/{chart}/fetched/{year}.json")
+    if not path.exists():
+        return None
+
+    with open(path, "r", encoding="utf-8") as f:
+        return json.load(f)
