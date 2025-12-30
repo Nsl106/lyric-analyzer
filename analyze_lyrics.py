@@ -40,7 +40,7 @@ def main2():
     billboard_songs = load_billboard_year_end("year-end-country")
 
     # keywords = ["alabama", "tennessee", "texas", "oklahoma", "georgia", "kentucky", "mississippi", "carolina"]
-    keywords = ["whiskey"]
+    keywords = ["whiskey", "beer", "bar"]
     data = count_word_frequency(billboard_songs, keywords)
 
     plt.figure(figsize=(12, 6))
@@ -48,7 +48,7 @@ def main2():
     for i, word in enumerate(keywords):
         plot_data(data, i, word)
 
-    plt.title(f"Mentions of words in billboard top country songs from 1970 to 2025")
+    plt.title(f"Frequency of various word in billboard top country songs from 1970 to 2025")
     plt.ylabel("Count/Song")
     plt.xlabel("Year")
     plt.xticks(np.arange(1970, 2026, 5), rotation=45, ha="right")
